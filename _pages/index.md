@@ -14,3 +14,5 @@ Wondering what division to sign up for? After you log in to the registration sit
 and fill out your child's basic information, you'll be offered appropriate divisions
 for them. You can also find out your player's [league age
 here](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}.
+
+![image-right]({{ site.url }}{{ site.baseurl }}/files/logo.png){: .align-right}
