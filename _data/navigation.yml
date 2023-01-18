@@ -1,0 +1,53 @@
+---
+main:
+- title: Home
+  url: /
+- title: News
+  url: /news/
+- title: Calendar
+  url: /calendar/
+- title: Resources
+  url: /resources/
+#- title: Contact
+#  url: /contact/
+#- title: About
+#  url: /about/
+- title: Team Central
+  url: /teamcentral/
+- title: Login
+  url: https://www.sierramountainll.com/Default.aspx?tabid=716497&isLogin=True
+  description: League registration account
+
+sidebar:
+- title: News
+  url: /news/
+- title: Parents
+  url: /parents/
+- title: Coaches
+  url: /coaches/
+- title: Rules
+  url: /rules/
+- title: Contact
+  url: /contact/
+- title: About
+  url: /about/
+- title: Login
+  url: https://www.sierramountainll.com/Default.aspx?tabid=716497&isLogin=True
+  description: League registration account
+
+news:
+- title: Recent
+  url: /news/
+- title: Tags
+  url: /tags/
+
+resources:
+- title: Registration
+  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+  icon: fas fa-baseball-ball
+- title: Schedules
+  url: https://www.sierramountainll.com/Default.aspx?tabid=716491
+- title: Challenger Division
+  url: https://www.littleleague.org/play-little-league/challenger/
+- title: Store
+  url: https://shop.bluesombrero.com/store/p/7479
