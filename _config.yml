@@ -99,7 +99,7 @@ logo: files/logo.png
 # # The RSS link of your blog.
 # rss: "/feed.xml"
 
-#minimal_mistakes_skin: maysl
+minimal_mistakes_skin: smll
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
 #analytics:

@@ -6,12 +6,10 @@ main:
   url: /news/
 - title: Calendar
   url: /calendar/
+- title: Parents
+  url: /parents/
 - title: Resources
   url: /resources/
-#- title: Contact
-#  url: /contact/
-#- title: About
-#  url: /about/
 - title: Team Central
   url: /teamcentral/
 - title: Sports Connect
