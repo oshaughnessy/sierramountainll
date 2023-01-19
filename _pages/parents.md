@@ -10,8 +10,9 @@ many common questions.
 
 ## Eligibility
 
-Kids ages 4-13 can play baseball with the Sierra Mountain Little League.
-Girls ages 9-12 can play softball here.
+Boys and girls ages 4-13 can play baseball with the Sierra Mountain Little
+League.  Girls ages 9-12 can play softball here.
+
 You can find out your player's age for league placement at the
 [Little League Age Finder](https://www.littleleague.org/play-little-league/determine-league-age/).
 Note that the formulas for baseball and softball league ages are different.
@@ -19,10 +20,11 @@ Note that the formulas for baseball and softball league ages are different.
 
 ## Register
 
-SMLL's primary season is in the spring, typically from March through June.
-We keep registration open from December through February and expect to
-start our practices immediately after the Bass Lake School District's
-spring break.
+SMLL's primary season is in the spring.  We open registration from
+December through February and expect to start our practices immediately
+after the Bass Lake School District's spring break. Our game season
+is typically from late March through early June, with playoffs and
+All Stars continuing for a few weeks afterward.
 
 If you'd like to sign up your kids:
 
@@ -40,7 +42,8 @@ If you'd like to sign up your kids:
 3. The **first games** are generally 2 weeks after practices begin,
    sometime in the 2nd half of March.
 
-4. The **last games** of the season will be at the end of May.
+4. The **last games** of the season will usually be at the end of May
+   or the beginning of June.
 
 **See the [News]({{ site.baseurl }}/news/) section for specific dates.**
 
@@ -52,7 +55,7 @@ post for an overview of how player ages work with our game divisions.
 
 ## Player Safety
 
-US Soccer places a lot of value on player safety. If your child has any special
+SMLL places a lot of value on player safety. If your child has any special
 health conditions, like the need for an EpiPen or an inhaler, please talk to your
 coaches about it. Make sure they know how to recognize signs of problems and how
 to deal with them. They'll want to be prepared in case there's an emergency,
