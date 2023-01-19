@@ -73,8 +73,8 @@ What do your kids need to play baseball or softball with SMLL?[^1]
 * uniform socks
 * cup (recommended for boys; required for male catchers)
 * batting helmet (encouraged to purchase your own)
-* bat (optional)
-* batting gloves (optional)
+* bat (optional but recommended)
+* batting gloves (optional but recommended)
 
 What does the league provide?[^2]
 
