@@ -34,10 +34,19 @@ sidebar:
   description: League registration account
 
 news:
+- title: Registration
+  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+  icon: fas fa-baseball-ball
+- title: Schedules
+  url: https://www.sierramountainll.com/Default.aspx?tabid=716491
+- title: Challenger Division
+  url: https://www.littleleague.org/play-little-league/challenger/
+- title: Store
+  url: https://shop.bluesombrero.com/store/p/7479
 - title: Recent
-  url: /news/
+  url: "{{ site.baseurl }}/news/"
 - title: Tags
-  url: /tags/
+  url: "{{ site.baseurl }}/tags/"
 
 resources:
 - title: Registration

@@ -5,6 +5,8 @@ permalink: /about/
 toc: true
 ---
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/logo-med.png){: .align-left}
+
 Sierra Mountain Little League (SMLL) is part of [Little League
 District 10](https://www.cadistrict10.com){:target="_blank"}
 in central California.
@@ -17,15 +19,13 @@ Ahwahnee, Bass Lake, Fish Camp, North Fork, and Oakhurst.
 Our purpose is to implant the ideas of sportsmanship, honesty, loyalty,
 courage, and respect for leadership into our youth.
 
-Sierra Mountain Little League takes pride in their coaches, players,
-parents, and umpires volunteering dozens of hours to our youth.
-We also thank each and every one of the sponsors that we support us
+Sierra Mountain Little League takes pride in our coaches, players,
+parents, and umpires, who volunteer dozens of hours for our local kids.
+We thank each and every one of them and the sponsors that support us
 each year. We cannot survive without you all!
 
 If you would to become a volunteer or would like to donate to our
 league, please [email us]({{ site.baseurl }}/contact/)!
-
-![image-right]({{ site.url }}{{ site.baseurl }}/files/logo.png){: .align-right}
 
 
 ## Directions to Fields
@@ -69,4 +69,4 @@ Our official boundary map is below. Check if your player's address
 or school falls within our area using the official
 [LL League Finder](https://www.littleleague.org/play-little-league/league-finder/){:target="_blank"}.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/files/smll-boundary-map-official.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/smll-boundary-map-official.jpg){: .align-center}

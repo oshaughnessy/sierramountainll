@@ -6,13 +6,13 @@ permalink: /resources/
 
 ## SMLL Forms
 
-* [COVID-19 Safety Plan]({{ site.url }}{{ site.baseurl }}/files/2021-covid-protocol.pdf){:target="_blank"}
-* [Medical Waiver]({{ site.url }}{{ site.baseurl }}/files/smll-medical-release-form.pdf){:target="_blank"}
-* [Parent Code of Conduct]({{ site.url }}{{ site.baseurl }}/files/smll-parent-code-of-conduct.pdf){:target="_blank"}
-* [Player Code of Conduct]({{ site.url }}{{ site.baseurl }}/files/smll-player-code-of-conduct.pdf){:target="_blank"}
-* [SMLL Constitution]({{ site.url }}{{ site.baseurl }}/files/smll-constitution-2022.docx){:target="_blank"}
-* [SMLL Bylaws]({{ site.url }}{{ site.baseurl }}/files/smll-bylaws-2022.docx){:target="_blank"}
-* [2020-21 Profit and Loss Report]({{ site.url }}{{ site.baseurl }}/files/smll-profit-loss-2020-2021.pdf){:target="_blank"}
+* [COVID-19 Safety Plan]({{ site.url }}{{ site.baseurl }}/assets/files/2021-covid-protocol.pdf){:target="_blank"}
+* [Medical Waiver]({{ site.url }}{{ site.baseurl }}/assets/files/smll-medical-release-form.pdf){:target="_blank"}
+* [Parent Code of Conduct]({{ site.url }}{{ site.baseurl }}/assets/files/smll-parent-code-of-conduct.pdf){:target="_blank"}
+* [Player Code of Conduct]({{ site.url }}{{ site.baseurl }}/assets/files/smll-player-code-of-conduct.pdf){:target="_blank"}
+* [SMLL Constitution]({{ site.url }}{{ site.baseurl }}/assets/files/smll-constitution-2022.docx){:target="_blank"}
+* [SMLL Bylaws]({{ site.url }}{{ site.baseurl }}/assets/files/smll-bylaws-2022.docx){:target="_blank"}
+* [2020-21 Profit and Loss Report]({{ site.url }}{{ site.baseurl }}/assets/files/smll-profit-loss-2020-2021.pdf){:target="_blank"}
 
 ## Little League Forms and References
 

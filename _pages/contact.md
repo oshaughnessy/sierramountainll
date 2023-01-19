@@ -25,4 +25,4 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 * Tami Michel, Snack Bar Coordinator
 * O'Shaughnessy Evans, Softball Coordinator, IT
 
-![image-right]({{ site.url }}{{ site.baseurl }}/files/logo.png){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/logo.png){: .align-right}

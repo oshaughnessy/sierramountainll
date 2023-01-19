@@ -25,13 +25,14 @@ $background-color: #eeeeee !default;
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
 $primary-color: #ff0000 !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
 /* $footer-background-color: #000 !default; */
 $footer-background-color: #3939BF !default;
 $link-color: #0000ff !default;
-$masthead-link-color: $text-color !default;
+$masthead-link-color: $footer-background-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$border-color: mix(#fff, $footer-background-color, 75%) !default;
+/* .toc .nav__title { color: #fff; font-size: 0.75em; background: #ff0000; border-top-left-radius: 4px; border-top-right-radius: 4px; } */
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
@@ -51,6 +52,21 @@ $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
 
+/* table of contents */
+$toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
+.toc li.active a { background-color: #ffffff; }
+.toc ul.toc__menu { background-color: $toc-active-color; }
+
+.page__title {
+    color: $footer-background-color;
+    text-decoration: underline;
+    text-decoration-color: $primary-color;
+    text-decoration-style: single;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 0.12em;
+    text-underline-offset: 0.2em;
+}
+
 .page__content {
   .notice,
   .notice--primary,
@@ -67,16 +83,15 @@ $base0f: #b18a3d !default;
 }
 
 .page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
+.page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
-
 
 /* MAYSL */
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
+.page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
 

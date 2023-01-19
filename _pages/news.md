@@ -1,4 +1,5 @@
 ---
+title: News
 layout: home
 classes: wide
 permalink: /news/
