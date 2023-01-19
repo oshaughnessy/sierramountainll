@@ -64,19 +64,19 @@ and they should be able to recognize changes in your childrens' normal behavior.
 
 ## Equipment
 
-What do your kids need to play baseball or softball with SMLL?
+What do your kids need to play baseball or softball with SMLL?[^1]
 
 * ball glove
 * cleats
 * uniform pants
 * uniform belt
 * uniform socks
-* cup (all boys)
+* cup (recommended for boys; required for male catchers)
 * batting helmet (encouraged to purchase your own)
 * bat (optional)
 * batting gloves (optional)
 
-What does the league provide?
+What does the league provide?[^2]
 
 * game-day jersey
 * baseball cap
@@ -87,38 +87,38 @@ What does the league provide?
 Bringing your own bat and helmet is optional. The league or coach
 can provide both, and many players are happy to share their bats.
 
-What can't your kids wear? TBD
+What can't your kids wear?
 
-* jewelry (any kind)
+* jewelry, rings, pins, hard cosmetics, hard decorative items
 * watches
-* hard medical devices (e.g. casts, plastic knee braces)
-* hats (goalkeepers may wear baseball-style caps, though)
 
-See TBD for the exact rules.
+See the Little League Rulebook's [Appendix B - Safety Code for Little
+League](https://www.littleleague.org/playing-rules/appendices/appendix-b/)
+for the exact rules.
 
-More guidance for how we approach equiment at SMLL is given below.
+More guidance for how we approach equipment at SMLL is given below.
 
 ### Baseball cleats
 
-_Can you use cleats from another sport?_ TBD
+_Can you use cleats from another sport?_
+Yes! Cleats with plastic or rubber studs can be used up through Majors.
+In 50/70, Junior, and Senior leagues, [metal-spiked cleats may also be
+used](https://www.littleleague.org/help-center/are-cleats-with-metal-spikes-permitted/).
 
 _Can you use shoes that aren't cleats?_ TBD
-
-### Jewelry
-
-TBD
 
 ## Pictures
 
 Near the end of every season, the league has a picture day. Team and individual
 photos are included as part of registration, and the photographer typically
 offers additional packages that players and their families may purchase.
-See [Picture Day](/pictures/) for more details.
 
 
 ## Further Reading
 
-For more information, see the [CYSA District VII Parents Page](
-https://cysadistrict7.org/for-parents/).
+We have various [resources](/resources/) available on our site.
 
-We also have various [resources](/resources/) available on our site.
+
+[^1]: See Little League's [Get the Gear and What to Wear for Little League® Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) and [What Parents, Local Leagues Need to Know About Equipping a Little Leaguer®](https://www.littleleague.org/university/articles/parents-local-leagues-need-know-equipping-little-leaguer/)
+
+[^2]: See Little League's [What Equipment does our league need to provide for regular season?](https://www.littleleague.org/help-center/what-equipment-does-our-league-need-to-provide-for-regular-season/)
