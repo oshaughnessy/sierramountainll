@@ -21,6 +21,14 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 */
 
+/* fonts */
+$main-font: "Robot Slab";
+/* $hero-font: "DM Serif Text"; */
+/* $hero-font: "Volkhov"; */
+$hero-font: "DM Serif Text";
+$sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
 $background-color: #eeeeee !default;
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
@@ -96,11 +104,13 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
   color: inherit;
 }
 
+.page__hero--overlay h1 {
+  font-family: $hero-font, $main-font, sans-serif;
+  text-transform: uppercase;
+}
+
 /*
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
 */
-
-$sans-serif: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;

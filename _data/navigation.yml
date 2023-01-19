@@ -1,8 +1,5 @@
 ---
 main:
-- title: Home
-  url: /
-  description: Sierra Mountain Little League home page
 - title: News
   url: /news/
   description: Latest announcements
