@@ -59,6 +59,7 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 
 .page__title {
     color: $footer-background-color;
+    /* font-variant: small-caps; */
     text-decoration: underline;
     text-decoration-color: $primary-color;
     text-decoration-style: single;
@@ -100,3 +101,6 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
   background-color: $form-background-color;
 }
 */
+
+$sans-serif: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;

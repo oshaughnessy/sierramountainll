@@ -6,6 +6,9 @@ nav_title: Home
 title: Sierra Mountain Little League
 permalink: /
 layout: home
+header:
+  overlay_image: /assets/images/ll-lineup.jpg
+  overlay_filter: rgba(0, 0, 64, 0.5)
 ---
 
 Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}. Any early bird discount of $25 is available through Jan 31.
