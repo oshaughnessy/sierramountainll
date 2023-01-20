@@ -114,3 +114,30 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
   background-color: $form-background-color;
 }
 */
+
+/* external links in masthead navbar */
+.greedy-nav a[href^="https"]::after {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+    font-size: xx-small;
+    content: "\00a0\f35d";
+    vertical-align: super;
+}
+
+/* external links in nav sidebar */
+.nav__list a[href^="https"] ::after {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+    font-size: xx-small;
+    content: "\00a0\f35d";
+    vertical-align: super;
+}
+
+/* external links in pages */
+a[href^="https"]:not(.nav__list a):not(.greedy-nav)::after {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+    font-size: xx-small;
+    content: "\00a0\f35d";
+    vertical-align: super;
+}
