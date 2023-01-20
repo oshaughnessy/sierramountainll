@@ -28,7 +28,7 @@ All Stars continuing for a few weeks afterward.
 
 If you'd like to sign up your kids:
 
-1. **Register** players at [Sports Connect](https://www.sierramountainll.com/Default.aspx?tabid=716497){:target="_blank"}
+1. **Register** players at [Sports Connect](https://www.sierramountainll.com/Default.aspx?tabid=716497){:target="_blank"}.
 
 2. Players in AAA and above will need to attend a player assessment
    sometime in February.
