@@ -52,6 +52,12 @@ If you'd like to sign up your kids:
 Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
 post for an overview of how player ages work with our game divisions.
 
+## Volunteer
+
+_TBD: call to action; what do we require?_
+
+See Little League's [Background Checks for Little League®
+Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/)
 
 ## Player Safety
 

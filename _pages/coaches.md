@@ -14,63 +14,6 @@ If you're interested, please [reach out]({{ site.baseurl }}/contact/), then see 
 [Registration](#registration) section below.
 
 
-## Coaching
-
-### Player Age
-
-You may get questions from parents when they're signing up their kids, wanting to know
-what they should register for. We accommodate boys and girls 4-13 in baseball,
-girls 9-12 in softball, and 4-18 in our Challenger baseball division.
-
-Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
-post for an overview of how divisions and ages work.
-
-### Player Safety
-
-Learn about **concussion** symptoms and how to deal with potential head injuries.
-Print out a copy of this [Concussion Recognition
-Tool]({{ site.urls.files }}/concussion-field-guide.pdf){:target="_blank"}.
-Familiarize yourself with it and keep it with your field bag or clipboard.
-You'll have it available if one of your players has any sign of a head injury.
-For more information, including references for California's state laws regarding
-concussion awareness in youth sports, see Little League's [Concussions in Youth
-Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}.
-
-Heat-related ilness is a real risk here in central California. Take a look at the
-Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
-Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/){:target="_blank"}
-and US Soccer's [Recognize to Recover Heat
-Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf){:target="_blank"}
-
-
-### Rule Highlights
-
-_TBD_
-
-#### SMLL Field Rules
-
-#### Stealing Bases
-
-#### Game Times, Lead Limits, Mercy Rules
-
-#### Pitching Limits
-
-#### Substitutions
-
-
-## Coaching Responsibilities
-
-- player evalutation days
-- practices
-- parent communication
-- team management
-- field prep
-- dugout cleanup
-- batting lineup
-- substitutions
-- player time
-- make-up games
-
 ## Registration
 
 If you'd like to coach a team, please register for the Manager or Assistant Coach
@@ -90,6 +33,9 @@ position after signing up your player(s).
 
    _TBD: required?_
 
+   See https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/.
+   _TBD: describe JDP/Sports Connect Integration_
+
 4. [Register a **Live Scan**](#live-scan). This only needs to be done once by each league
    coach and does not need to be done annuarlly. A Live Scan for another organization
    cannot be used by SMLL.
@@ -101,6 +47,70 @@ to our registration system if they all have the same name. The Live Scan applica
 runs through the California Department of Justice, where it will need to match your
 registered legal name.
 
+### Coaching Requirements
+
+See Little League's [Appointing Managers, Coaches, and Umpires
+](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/){:target="_blank"}.
+
+
+## Coaching
+
+### Player Safety
+
+Learn about **concussion** symptoms and how to deal with potential head injuries.
+Print out a copy of this [Concussion Recognition
+Tool]({{ site.urls.files }}/concussion-field-guide.pdf){:target="_blank"}.
+Familiarize yourself with it and keep it with your field bag or clipboard.
+You'll have it available if one of your players has any sign of a head injury.
+For more information, including references for California's state laws regarding
+concussion awareness in youth sports, see Little League's [Concussions in Youth
+Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}.
+
+Heat-related ilness is a real risk here in central California. Take a look at the
+Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
+Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/){:target="_blank"}
+and US Soccer's [Recognize to Recover Heat
+Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf){:target="_blank"}
+
+### Player Age
+
+You may get questions from parents when they're signing up their kids, wanting to know
+what they should register for. We accommodate boys and girls 4-13 in baseball,
+girls 9-12 in softball, and 4-18 in our Challenger baseball division.
+
+Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
+post for an overview of how divisions and ages work.
+
+
+
+### Rule Highlights
+
+_TBD_
+
+#### SMLL Field Rules
+
+#### Stealing Bases
+
+#### Game Times, Lead Limits, Mercy Rules
+
+#### Pitching Limits
+
+#### Substitutions
+
+
+## Coaching Responsibilities
+
+- player assessment/tryout days
+  See [Tips for Managers Prepping for Player Tryouts](https://www.littleleague.org/university/articles/tips-for-managers-prepping-for-player-tryouts/)
+- practices
+- parent communication
+- team management
+- field prep
+- dugout cleanup
+- batting lineup
+- substitutions
+- player time
+- make-up games
 
 ## FAQ
 
