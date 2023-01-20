@@ -35,6 +35,9 @@ url: https://oshaughnessy.github.io
 #baseurl: ""
 baseurl: /sierramountainll/
 #source_url: https://github.com/oshaughnessy/maysl.soccer/
+urls:
+  files: /sierramountainll/assets/files
+  images: /sierramountainll/assets/images
 
 # Build settings
 # theme: minima

@@ -107,6 +107,10 @@ used](https://www.littleleague.org/help-center/are-cleats-with-metal-spikes-perm
 
 _Can you use shoes that aren't cleats?_ TBD
 
+### Bats
+
+_TBD_
+
 ## Pictures
 
 Near the end of every season, the league has a picture day. Team and individual
@@ -116,7 +120,7 @@ offers additional packages that players and their families may purchase.
 
 ## Further Reading
 
-We have various [resources](/resources/) available on our site.
+We have various [resources]({{ site.baseurl }}/resources/) available on our site.
 
 
 [^1]: See Little League's [Get the Gear and What to Wear for Little League® Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) and [What Parents, Local Leagues Need to Know About Equipping a Little Leaguer®](https://www.littleleague.org/university/articles/parents-local-leagues-need-know-equipping-little-leaguer/)

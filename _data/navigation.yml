@@ -9,6 +9,9 @@ main:
 - title: Parents
   url: /parents/
   description: Information for the adults who register players
+- title: Coaches
+  url: /coaches/
+  description: Information for team coaches
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
