@@ -102,11 +102,11 @@ logo: assets/images/logo-med.png
 minimal_mistakes_skin: smll
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
-#analytics:
-#  provider: google-gtag
-#  google:
-#    tracking_id: G-N9D4CGXXCH
-#    anonymize_ip: false
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-GEN890B9SG
+    anonymize_ip: false
 
 twitter:
   username: ohshaughnessy
