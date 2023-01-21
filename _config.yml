@@ -124,12 +124,12 @@ social:
 footer:
   links:
     - label: About
-      url: /sierramountainll/about/
+      url: /about/
       icon: fas fa-baseball-ball
       #icon: fa-solid fa-baseball
       #icon: fa-solid fa-baseball-bat-ball
     - label: Contact
-      url: /sierramountainll/contact/
+      url: /contact/
       icon: fas fa-comments
     #- label: Twitter
     #  icon: fab fa-fw fa-twitter-square
