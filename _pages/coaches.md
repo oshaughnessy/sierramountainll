@@ -111,6 +111,31 @@ _TBD_
 - substitutions
 - player time
 - make-up games
+- protecting players from injury
+- track pitch count
+
+### Pitch Counts
+
+Players of all ages may only throw a limited number of pitches per day and keeping track
+of this is an essential part of keeping your players healthy. The scorekeepers usually
+track it during games, but it's helpful, as a coach, to keep track of your players' limits
+so that you can manage your pitching roster and substitutions effectively.
+
+| Age Range | Pitch Limit Per Day |
+|-----------|---------------------|
+| 7-8 	    | 50                  |
+| 9-10 	    | 75                  |
+| 11-12     | 85                  |
+| 13-16     | 95                  |
+
+See:
+* Little League's [What are the league age pitch counts for Little League
+  Baseball®?](https://www.littleleague.org/help-center/little-league-baseball-pitch-counts/)
+* Little League's [Pitch Counts, Days Rest, and Why They
+  Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
+* SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
+  For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
+
 
 ## FAQ
 
