@@ -136,6 +136,23 @@ See:
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
 
+### Protecting Players from Injury
+
+Ways to keep your team safe include:
+* following league safety rules
+* keeping a first aid kit handy
+* tracking pitch counts
+* correct use and maintenance of catching gear
+* knowing local field safety guidance
+
+As a general overview, see Little League's [The Safest Little League® Experience Comes
+from Doing Common Tasks](https://www.littleleague.org/university/articles/the-safest-little-league-experience-comes-from-doing-common-tasks/).
+
+See Little League's [first aid kit
+guide](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/).
+
+In addition, [tracking pitch counts](#pitch-counts) is a critical part of protecting your
+pitchers.
 
 ## FAQ
 
