@@ -52,25 +52,12 @@ registered legal name.
 See Little League's [Appointing Managers, Coaches, and Umpires
 ](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/){:target="_blank"}.
 
+Skills and health training is covered at Little League's [Incorporating
+Effective Local Training Can Prep Volunteers for a Safer, More Successful
+Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/)
+
 
 ## Coaching
-
-### Player Safety
-
-Learn about **concussion** symptoms and how to deal with potential head injuries.
-Print out a copy of this [Concussion Recognition
-Tool]({{ site.urls.files }}/concussion-field-guide.pdf){:target="_blank"}.
-Familiarize yourself with it and keep it with your field bag or clipboard.
-You'll have it available if one of your players has any sign of a head injury.
-For more information, including references for California's state laws regarding
-concussion awareness in youth sports, see Little League's [Concussions in Youth
-Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}.
-
-Heat-related ilness is a real risk here in central California. Take a look at the
-Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
-Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/){:target="_blank"}
-and US Soccer's [Recognize to Recover Heat
-Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf){:target="_blank"}
 
 ### Player Age
 
@@ -80,7 +67,6 @@ girls 9-12 in softball, and 4-18 in our Challenger baseball division.
 
 Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
 post for an overview of how divisions and ages work.
-
 
 
 ### Rule Highlights
@@ -114,6 +100,39 @@ _TBD_
 - protecting players from injury
 - track pitch count
 
+### Player Safety
+
+Ways to keep your team safe include:
+* following league safety rules
+* keeping a first aid kit handy
+* tracking pitch counts
+* correct use and maintenance of catching gear
+* knowing local field safety guidance
+
+For an overview guide, see Little League's [The Safest Little League® Experience Comes
+from Doing Common Tasks](https://www.littleleague.org/university/articles/the-safest-little-league-experience-comes-from-doing-common-tasks/).
+
+See Little League's [first aid kit
+guide](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/).
+
+In addition, [tracking pitch counts](#pitch-counts) is a critical part of protecting your
+pitchers.
+
+Learn about **concussion** symptoms and how to deal with potential head injuries.
+Print out a copy of this [Concussion Recognition
+Tool]({{ site.urls.files }}/concussion-field-guide.pdf){:target="_blank"}.
+Familiarize yourself with it and keep it with your field bag or clipboard.
+You'll have it available if one of your players has any sign of a head injury.
+For more information, including references for California's state laws regarding
+concussion awareness in youth sports, see Little League's [Concussions in Youth
+Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}.
+
+Heat-related ilness is a real risk here in central California. Take a look at the
+Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
+Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/){:target="_blank"}
+and US Soccer's [Recognize to Recover Heat
+Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf){:target="_blank"}
+
 ### Pitch Counts
 
 Players of all ages may only throw a limited number of pitches per day and keeping track
@@ -136,23 +155,6 @@ See:
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
 
-### Protecting Players from Injury
-
-Ways to keep your team safe include:
-* following league safety rules
-* keeping a first aid kit handy
-* tracking pitch counts
-* correct use and maintenance of catching gear
-* knowing local field safety guidance
-
-As a general overview, see Little League's [The Safest Little League® Experience Comes
-from Doing Common Tasks](https://www.littleleague.org/university/articles/the-safest-little-league-experience-comes-from-doing-common-tasks/).
-
-See Little League's [first aid kit
-guide](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/).
-
-In addition, [tracking pitch counts](#pitch-counts) is a critical part of protecting your
-pitchers.
 
 ## FAQ
 
@@ -186,12 +188,12 @@ Majors field:
 * Majors
 * 50/70
 
-
 ### _Can I borrow players for a game?_
 
 _TBD_
 
 ### Can youth play on more than one team or in more multiple divisions?
+
 
 ## Further Reading
 
