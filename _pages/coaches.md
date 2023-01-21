@@ -50,11 +50,11 @@ registered legal name.
 ### Coaching Requirements
 
 See Little League's [Appointing Managers, Coaches, and Umpires
-](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/){:target="_blank"}.
+](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
 
 Skills and health training is covered at Little League's [Incorporating
 Effective Local Training Can Prep Volunteers for a Safer, More Successful
-Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/)
+Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
 
 
 ## Coaching
@@ -120,18 +120,21 @@ pitchers.
 
 Learn about **concussion** symptoms and how to deal with potential head injuries.
 Print out a copy of this [Concussion Recognition
-Tool]({{ site.urls.files }}/concussion-field-guide.pdf){:target="_blank"}.
+Tool]({{ site.urls.files }}/concussion-field-guide.pdf).
 Familiarize yourself with it and keep it with your field bag or clipboard.
 You'll have it available if one of your players has any sign of a head injury.
+
 For more information, including references for California's state laws regarding
 concussion awareness in youth sports, see Little League's [Concussions in Youth
-Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}.
+Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/).
+A [free concussion training course is available](https://nfhslearn.com/courses/concussion-in-sports-2)
+from the NFHS.
 
 Heat-related ilness is a real risk here in central California. Take a look at the
 Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
-Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/){:target="_blank"}
+Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/)
 and US Soccer's [Recognize to Recover Heat
-Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf){:target="_blank"}
+Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf).
 
 ### Pitch Counts
 
