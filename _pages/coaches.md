@@ -23,7 +23,10 @@ position after signing up your player(s).
 
     After you've registered your players for the season, you'll be offered
 	options for volunteer. Team Manager and Assistant Coach are both ways
-	you can contribute to the running of a team.
+	you can contribute to the running of a team. If you're curious about
+    the differences, see Little League's [Making the Move from Coach to
+    Manager)(https://www.littleleague.org/university/articles/making-the-move-from-coach-to-manager/]
+    gives a quick discussion.
 
 2. [Complete **coaching courses**](#coaching-requirements). 
 
@@ -57,7 +60,7 @@ Effective Local Training Can Prep Volunteers for a Safer, More Successful
 Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
 
 
-## Coaching
+## Coaching Info
 
 ### Player Age
 
@@ -67,7 +70,6 @@ girls 9-12 in softball, and 4-18 in our Challenger baseball division.
 
 Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
 post for an overview of how divisions and ages work.
-
 
 ### Rule Highlights
 
