@@ -134,7 +134,7 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 }
 
 /* external links in pages */
-a[href^="https"]:not(.nav__list a):not(.greedy-nav a):not(.social-icons a)::after {
+.page a[href^="https"]:not(.nav__list a):not(.greedy-nav a):not(.social-icons a)::after {
     font-family: "Font Awesome 5 Free"; 
     font-weight: 900;
     font-size: xx-small;
