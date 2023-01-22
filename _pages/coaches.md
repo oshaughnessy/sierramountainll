@@ -71,7 +71,11 @@ post for an overview of how divisions and ages work.
 
 ### Rule Highlights
 
-_TBD_
+Little League highlights common misconceptions:
+* for coaches: [10 Commonly Misinterpreted Little League®
+  Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpreted-little-league-rules/).
+* for parents: [Common Little League® Rule Misconceptions: What Parents Need to
+Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/)
 
 #### SMLL Field Rules
 
@@ -82,7 +86,6 @@ _TBD_
 #### Pitching Limits
 
 #### Substitutions
-
 
 ## Coaching Responsibilities
 
@@ -114,6 +117,9 @@ from Doing Common Tasks](https://www.littleleague.org/university/articles/the-sa
 
 See Little League's [first aid kit
 guide](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/).
+
+The American Heart Association offers [clear, printable guides on hands-only
+CPR](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr/hands-only-cpr-resources).
 
 In addition, [tracking pitch counts](#pitch-counts) is a critical part of protecting your
 pitchers.

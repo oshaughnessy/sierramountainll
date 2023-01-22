@@ -77,7 +77,7 @@ What do your kids need to play baseball or softball with SMLL?[^1]
 * uniform pants
 * uniform belt
 * uniform socks
-* cup (recommended for boys; required for male catchers)
+* athletic supporter (required for all boys; catchers must wear a cup)
 * batting helmet (encouraged to purchase your own)
 * bat (optional but recommended)
 * batting gloves (optional but recommended)
@@ -123,6 +123,13 @@ Near the end of every season, the league has a picture day. Team and individual
 photos are included as part of registration, and the photographer typically
 offers additional packages that players and their families may purchase.
 
+## Rule Highlights
+
+Little League has highlighted a number of things that are often
+misunderstood at Little League baseball. Please see [Common Little
+League® Rule Misconceptions: What Parents Need to
+Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/) and [10 Commonly Misinterpreted Little League®
+Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpreted-little-league-rules/).
 
 ## Further Reading
 
