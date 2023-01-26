@@ -54,10 +54,30 @@ post for an overview of how player ages work with our game divisions.
 
 ## Volunteer
 
-_TBD: call to action; what do we require?_
+Sierra Mountain Little League is run entirely by volunteers -- working parents
+just like you who want to invest in their kids and their community. The whole
+system takes a lot of time and effort and many hands working together to make
+it happen. After you register your players in Sports Connect, you're given a
+chance to sign up for various ways we need help. Please consider registering
+your interest through one of the available options there, or reach out to
+your coach as soon as teams are assigned.
 
-See Little League's [Background Checks for Little League®
-Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/)
+Volunteer opportunities include:
+* Being a [team manager or coach]({{ site.baseurl }}/coaches)
+* Helping your coach with practices and games
+* Keeping score during games
+* Serving in the snack bar during games
+* Being a team parent, helping with organization and communicating with the other parents
+* Helping prep fields before games -- raking, chalking, putting out bases,
+  sweeping the dugouts, putting the pitching mound on the Minors field, cleaning up
+  the seating areas, returning the trash cans to their space by the snack bar.
+
+Any volunteer who provides "regular service to the league or repetitive access
+to children," must go through the background check process. That includes helping
+with hitting and catching during practice, coaching a base or coordinating
+the batting lineup during games, even working in the snack bar or being a team
+parent.  Please see Little League's [Background Checks for Little League®
+Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
 
 ## Player Safety
 
@@ -92,6 +112,10 @@ What does the league provide?[^2]
 
 Bringing your own bat and helmet is optional. The league or coach
 can provide both, and many players are happy to share their bats.
+Don't be afraid to ask your coach or someone else in the league
+for hand-me down gear, too. Kids are always growing out of their
+equipment and parents are often pleased to have the opportunity to
+pass it on.
 
 What can't your kids wear?
 
