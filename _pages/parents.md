@@ -97,7 +97,8 @@ What do your kids need to play baseball or softball with SMLL?[^1]
 * uniform pants
 * uniform belt
 * uniform socks
-* athletic supporter (required for all boys; catchers must wear a cup)
+* athletic supporter or compression shorts (required for all boys;
+  catchers must wear a cup)
 * batting helmet (encouraged to purchase your own)
 * bat (optional but recommended)
 * batting gloves (optional but recommended)
@@ -124,22 +125,77 @@ What can't your kids wear?
 
 See the Little League Rulebook's [Appendix B - Safety Code for Little
 League](https://www.littleleague.org/playing-rules/appendices/appendix-b/)
-for the exact rules.
+for the exact rules, and [Get the Gear and What to Wear for Little League®
+Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) for more tips on what's needed and useful.
 
 More guidance for how we approach equipment at SMLL is given below.
 
-### Baseball cleats
+### Bats
+
+Little League offers a [Bat Information](https://www.littleleague.org/university/articles/playing-equipment-inspection-baseball-softball-bats/)
+page that collects their rules and guidelines.
+
+Curious what umpires are looking for when they do a bat inspection
+before every game? See [Playing Equipment Inspection: Baseball and Softball
+Bats](https://www.littleleague.org/university/articles/playing-equipment-inspection-baseball-softball-bats/)
+
+Bats must be in good repair and not be altered ([see LL Rulebook
+Appendix D](https://www.littleleague.org/playing-rules/appendices/appendix-d/)).
+
+Please note that bat warm-up donuts are not allowed.
+
+Pine tar and other adhesives are strictly prohibited.
+
+#### Baseball
+
+| Division             | Standard | Dimensions         | Notes |
+|----------------------|----------|--------------------|-------|
+| Tee Ball             | USA Bat  | Length <= 26"      | Only for use with approved Tee Balls |
+| AAA, Minors, Majors  | USA Bat  | Length <= 33"<br />Diameter <= 2 5/8" | For wood, USA Bat not required |
+| Intermediate (50-70) | USA Bat, BBCOR | Length <= 34"<br />Diameter <= 2 5/8" | For wood, USA Bat not required |
+
+For all baseball players from Tee Ball to Majors, non-wood bats must
+be certified by USA Baseball and marked with the USA Bat standard
+(they will say "USA Baseball"). For 50-70, non-wood bats may also
+be certified by BBCOR.
+
+Aluminum, composite, hybrid, and wood bats are allowed. See
+[Rule 1.10](https://www.littleleague.org/playing-rules/bat-rules/) for details.
+
+#### Softball
+
+| Division             | Standard | Dimensions         | Notes |
+|----------------------|----------|--------------------|-------|
+| AAA - Majors         | None     | Length <= 33"<br />Diameter <= 2 1/4" | Non-wood -- BPF 1.20 |
+
+For all divisions, a softball bat must meet those limits. It may be wood
+or another common bat material. It may be colored. It _must_ have
+a grip.
+
+### Hats
+
+Baseball players must wear their cap during a game. It's an important part 
+of their uniform toolkit for maintaining good vision and protecting their
+eyes and face from the sunlight.
+
+Softball players may wear a cap or visor, but it's not a requirement.
+Nevertheless, it is still a valuable shield against strong light and UV.
+
+### Shoes
 
 _Can you use cleats from another sport?_
 Yes! Cleats with plastic or rubber studs can be used up through Majors.
-In 50/70, Junior, and Senior leagues, [metal-spiked cleats may also be
+In 50-70, Junior, and Senior leagues, [metal-spiked cleats may also be
 used](https://www.littleleague.org/help-center/are-cleats-with-metal-spikes-permitted/).
 
-_Can you use shoes that aren't cleats?_ TBD
-
-### Bats
-
-_TBD_
+_Can you use shoes that aren't cleats?_
+Yes. Cleats are not _required_, but they are wise. A player should
+always wear shoes that will give them good traction in dirt and grass,
+fit snugly, and stay on during running and sliding. Laces should be
+in good repair and the shoes should be able to stay laced a reasonable
+amount of time. Don't get your coach in trouble because your player's
+shoes come untied during a game! Your team could be penalized because
+a player wasn't ready or safe and delayed the game.
 
 ## Pictures
 
