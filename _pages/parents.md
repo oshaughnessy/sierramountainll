@@ -15,7 +15,9 @@ League.  Girls ages 9-12 can play softball here.
 
 You can find out your player's age for league placement at the
 [Little League Age Finder](https://www.littleleague.org/play-little-league/determine-league-age/).
-Note that the formulas for baseball and softball league ages are different.
+Note that the formulas for baseball and softball league ages are different:
+a baseball player's is how old they are on Aug 31, a softball player's is
+how old they were at the end of the year prior.
 
 
 ## Register
