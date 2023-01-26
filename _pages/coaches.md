@@ -7,11 +7,12 @@ toc_icon: trophy
 
 All of our coaches are volunteers. We have many that come back year
 after year to lead our kids, but we will always welcome new coaches
-as well. First-time parent volunters and leaders with experience at
-other organizations will all have something valuable to contribute.
+and we need many to volunteer each year. First-time parent volunters
+and leaders with experience at other organizations will all have something
+valuable to contribute.
 
-If you're interested, please [reach out]({{ site.baseurl }}/contact/), then see the
-[Registration](#registration) section below.
+If you're interested, please [reach out]({{ site.baseurl }}/contact/),
+then see the [Registration](#registration) section below.
 
 
 ## Registration
@@ -22,22 +23,19 @@ position after signing up your player(s).
 1. **Register** as a coach at [Sports Connect](https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports)
 
     After you've registered your players for the season, you'll be offered
-	options for volunteer. Team Manager and Assistant Coach are both ways
+	options to volunteer. Team Manager and Assistant Coach are both ways
 	you can contribute to the running of a team. If you're curious about
     the differences, see Little League's [Making the Move from Coach to
-    Manager)(https://www.littleleague.org/university/articles/making-the-move-from-coach-to-manager/]
-    gives a quick discussion.
+    Manager](https://www.littleleague.org/university/articles/making-the-move-from-coach-to-manager/)
+    for a quick discussion.
 
-2. [Complete **coaching courses**](#coaching-requirements). 
+2. [Complete **coaching courses**](#coaching-requirements). First aid and
+   fundamental baseball training is a Little League requirement. This is a
+   great opportunity for new coaches to get ready to lead their young players.
 
-   _TBD: required?_
-
-3. You'll also need to submit a form for a [**background check**](#background-checks).
-
-   _TBD: required?_
-
-   See https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/.
-   _TBD: describe JDP/Sports Connect Integration_
+3. Be aware that all volunteers must go through a **background check**.
+   The league will submit this for you using your registration info.  See Little
+   League's [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/) page for more.
 
 4. [Register a **Live Scan**](#live-scan). This only needs to be done once by each league
    coach and does not need to be done annuarlly. A Live Scan for another organization
@@ -52,13 +50,18 @@ registered legal name.
 
 ### Coaching Requirements
 
+At least one coach or manager from each team must attend a first aid class and
+a baseball training session, both provided by the league at the beginning of the
+season. The training will cover coaching fundamentals, including pitching,
+hitting, sliding, and fielding, at levels appropriate for the ages you'll
+be coaching.
+
 See Little League's [Appointing Managers, Coaches, and Umpires
 ](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
 
 Skills and health training is covered at Little League's [Incorporating
 Effective Local Training Can Prep Volunteers for a Safer, More Successful
 Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
-
 
 ## Coaching Info
 
@@ -201,10 +204,43 @@ Majors field:
 
 ### _Can I borrow players for a game?_
 
-_TBD_
+Yes and no. Players cannot be loaned and borrowed directly between
+coaches. The process must be coordinated through the league's
+[Player Agent]({{ site.baseurl }}/contact/), where available players
+are part of a pool and assigned as needed by the agent.
+See Little League's [What is a Player
+Pool](https://www.littleleague.org/help-center/what-is-a-player-pool/).
 
-### Can youth play on more than one team or in more multiple divisions?
+Please note that pool players may not pitch in games with their
+temporary teams. They must be used to play for 9 consecutive defensive
+outs and bat once.
 
+See [Little League® Significant Rule and Regulation Updates for
+2021]({{ site.baseurl }}/assets/files/2021-rulebook-significant-changes.pdf),
+under "Regulation V(c)" for more information.
+
+### _Can a coach warm up pitchers or catchers?_
+
+You sure can! This was prohibited until recently, but changes for 2023
+include this update:
+
+> **Rule 3.09:**
+>
+> _This would aid in efforts to improve the pace of play by allowing
+> adult coaches to warm up pitchers for regular season only._
+> 
+> Managers or coaches ~~must not~~ **are permitted** to warm up a pitcher
+> at home plate or in the bullpen or elsewhere at any time including
+> in-game warm-up, pre-game warm-up, and in other instances. They may
+> also stand by to observe a pitcher during warm-up in the bullpen.
+
+See [Little League® Significant Rule and Regulation Updates for
+2023]({{ site.baseurl }}/assets/files/2023-rulebook-significant-changes.pdf).
+
+### _Can youth play on more than one team or in more multiple divisions?_
+
+Yes. Please [reach out]({{ site.baseurl }}/contact/) to the league Player Agent
+with questions about this.
 
 ## Further Reading
 

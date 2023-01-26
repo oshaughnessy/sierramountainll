@@ -89,6 +89,33 @@ coaches about it. Make sure they know how to recognize signs of problems and how
 to deal with them. They'll want to be prepared in case there's an emergency,
 and they should be able to recognize changes in your childrens' normal behavior.
 
+Note that every season, one coach on every team must get training for first aid
+and basic baseball fundamentals.
+
+All clothing and equipment should be in good repair. Bats may not be damaged.
+Boys need to wear an athletic supporter. Male catchers must wear a cup.  Aside
+from some exceptions, jewelry is not allowed ([see below](#wearing-jewelry)).
+
+
+### Wearing Jewelry
+
+Little League Rule 1.11(j) states:
+
+> Players must not wear jewelry such as, but not limited to,
+> rings, watches, earrings, bracelets, necklaces, nor any
+> hard cosmetic/decorative items. This rule applies regardless
+> of the composition of such jewelry, hard cosmetic item, or
+> hard decorative item. Hard items to control the hair, such
+> as beads, are permitted.
+>
+> EXCEPTION: Jewelry that alerts medical personnel to a specific condition
+> is permissible.
+
+See this [Little League summary](https://www.littleleague.org/help-center/can-a-player-wear-jewelry-such-as-rings-or-earrings-while-playing/)
+and the [Little League® Significant Rule and Regulation Updates for
+2023]({{ site.baseurl }}/assets/files/2023-rulebook-significant-changes.pdf) section
+covering 1.11(j) for more.
+
 
 ## Equipment
 
@@ -198,6 +225,16 @@ in good repair and the shoes should be able to stay laced a reasonable
 amount of time. Don't get your coach in trouble because your player's
 shoes come untied during a game! Your team could be penalized because
 a player wasn't ready or safe and delayed the game.
+
+### Pitcher Arm Coverings
+
+If a pitcher wears an undershirt, the sleeves may _not_ be white or gray
+if they're visible.
+
+Pitchers may wear a play-calling band on their glove arm. It must be
+a solid color and not white, gray, or optic yellow.
+
+Pitchers may not wear sweat bands on their hands, wrists, or arms.
 
 ## Pictures
 
