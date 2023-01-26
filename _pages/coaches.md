@@ -149,25 +149,53 @@ Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf).
 
 ### Pitch Counts
 
-Players of all ages may only throw a limited number of pitches per day and keeping track
-of this is an essential part of keeping your players healthy. The scorekeepers usually
-track it during games, but it's helpful, as a coach, to keep track of your players' limits
-so that you can manage your pitching roster and substitutions effectively.
-
-| Age Range | Pitch Limit Per Day |
-|-----------|---------------------|
-| 7-8 	    | 50                  |
-| 9-10 	    | 75                  |
-| 11-12     | 85                  |
-| 13-16     | 95                  |
+Players of all ages may only throw a limited number of pitches per
+day and keeping track of this is an essential part of keeping your
+players healthy. The scorekeepers usually track it during games,
+but it's helpful, as a coach, to keep track of your players' limits
+so that you can manage your pitching roster and substitutions
+effectively.
 
 See:
+* Little League's [Regular Season Pitching
+  Rules](https://www.littleleague.org/playing-rules/pitch-count/)
 * Little League's [What are the league age pitch counts for Little League
   Baseball®?](https://www.littleleague.org/help-center/little-league-baseball-pitch-counts/)
 * Little League's [Pitch Counts, Days Rest, and Why They
   Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
+
+### Baseball Pitching Limits
+
+| **Age Range** | 6-8  | 9-10  | 11-12 | 13-16 |
+|---------------|------|-------|-------|-------|
+| **Pitch Limit Per Day** | 50 | 75 | 85 | 95 |
+
+All pitchers must have days to rest after pitching in a game:
+
+| **Pitches**   | 1-20 | 21-35 | 36-50 | 51-65 | 66+ |
+|---------------|------|-------|-------|-------|-----|
+| **Rest Days** | 0    | 1     | 2     | 3     | 4   |
+
+Notes:
+* Once a pitcher has been removed from the mound, they cannot return
+  as a pitcher in the same game.
+* A pitcher may finish their current batter once reaching their limit.
+* A catcher who has caught for 3 or fewer innings, then throws 21 or more
+  pitches in the same day (31 for 15- & 16-year-olds), may not play catcher again
+  on that day.
+* A catcher who has caught for 4 or more innings in a game may not pitch
+  at all on that day.
+
+### Softball Pitching Limits
+
+| **Age Range** | Minors & Majors    | Junior & Senior |
+|---------------|--------------------|-----------------|
+| **Pitch Innings Per Day**     | 12 | No limit        |
+| **Rest Days After 7 Innings** | 1  | No requirement  |
+
+Note that no more than 5 pitchers may be used in a single game.
 
 
 ## FAQ
