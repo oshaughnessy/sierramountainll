@@ -29,7 +29,6 @@ league, please [email us]({{ site.baseurl }}/contact/)!
 <a href="https://www.cadistrict10.com/Default.aspx?tabid=1003220">
 ![CA District 10]({{ site.url }}{{ site.baseurl }}/assets/images/ca-district10.png){: .align-left .third-width .gimme-space }
 </a>
-
 <a href="https://www.littleleague.org/play-little-league/">
 ![Little League]({{ site.url }}{{ site.baseurl }}/assets/images/ll-program-logo.png){: .align-right .third-width .gimme-space }
 </a>
