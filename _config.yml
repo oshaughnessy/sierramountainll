@@ -112,6 +112,9 @@ twitter:
   username: ohshaughnessy
 facebook:
   username: sierramountainll
+  publisher: sierramountainll
+header:
+  image: assets/images/smll-logo-trans.png
 og_image: assets/images/smll-logo-trans.png
 social:
   type: Organization # Person or Organization (defaults to Person)
@@ -153,6 +156,11 @@ defaults:
       layout: single
       sidebar:
         nav: resources
+        footer:
+          image: assets/images/ll-program-logo.png
+          image_alt: "Official Little League Program"
+          text: "Official Little League Program"
+          url: https://www.littleleague.org/university/parents/
       toc_sticky: true
   # _posts
   - scope:

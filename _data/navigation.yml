@@ -48,22 +48,20 @@ news:
 - title: Schedules
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
   icon: fas fa-comments
-- title: Challenger Division
-  url: https://www.littleleague.org/play-little-league/challenger/
 - title: Store
   url: https://shop.bluesombrero.com/store/p/7479
 - title: News Posts by Date
   url: /news/
-- title: News Posts by Tag
+- title: "News Posts by Tag"
   url: /tags/
 
 resources:
-- title: Registration
+- title: "Registration"
   url: https://www.sierramountainll.com/Default.aspx?tabid=890579
   icon: fas fa-baseball-ball
-- title: Schedules
+- title: "Schedules"
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
-- title: Challenger Division
-  url: https://www.littleleague.org/play-little-league/challenger/
-- title: Store
+- title: "Store"
   url: https://shop.bluesombrero.com/store/p/7479
+- title: "Little League"
+  url: https://www.littleleague.org/university/parents/

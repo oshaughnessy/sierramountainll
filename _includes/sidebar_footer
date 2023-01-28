@@ -1,0 +1,5 @@
+{% assign footer = include.footer %}
+<nav class="nav__footer">
+<img src="{{ footer.image | relative_url }}"
+     alt="{% if footer.image_alt %}{{ footer.image_alt }}{% endif %}">
+</nav>
