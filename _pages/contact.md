@@ -16,7 +16,7 @@ toc_icon: fas fa-address-card
 
 <br />
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right .half-width }
+![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right .half-width }
 
 ## Board
 

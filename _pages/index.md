@@ -25,4 +25,4 @@ and fill out your child's basic information, you'll be offered appropriate choic
 for them. You can also find out your player's [league age
 here](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
+![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}

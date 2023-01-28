@@ -8,7 +8,7 @@ Sierra Mountain Little League (SMLL) is part of [Little League
 District 10](https://www.cadistrict10.com){:target="_blank"}
 in central California.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-left .full-width .gimme-space }
+![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-left .full-width .gimme-space }
 
 We have been serving the mountain communities of the Sierra foothills
 for over 30 years, providing baseball and softball activities for coed
@@ -27,9 +27,9 @@ If you would to become a volunteer or would like to donate to our
 league, please [email us]({{ site.baseurl }}/contact/)!
 
 <a href="https://www.cadistrict10.com/Default.aspx?tabid=1003220">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ca-district10.png){: .align-left .third-width .gimme-space }
+![CA District 10]({{ site.url }}{{ site.baseurl }}/assets/images/ca-district10.png){: .align-left .third-width .gimme-space }
 </a>
 
 <a href="https://www.littleleague.org/play-little-league/">
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ll-program-logo.png){: .align-right .third-width .gimme-space }
+![Little League]({{ site.url }}{{ site.baseurl }}/assets/images/ll-program-logo.png){: .align-right .third-width .gimme-space }
 </a>
