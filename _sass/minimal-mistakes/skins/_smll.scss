@@ -26,7 +26,7 @@ $main-font: "Robot Slab";
 /* $hero-font: "DM Serif Text"; */
 /* $hero-font: "Volkhov"; */
 $hero-font: "DM Serif Text";
-$sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: Roboto, $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 
 $background-color: #eeeeee !default;
@@ -86,6 +86,9 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
     color: $text-color;
   }
 }
+.page__content section {
+    font-weight: lighter;
+}
 
 .page__footer {
   color: #fff !important; // override
@@ -142,14 +145,26 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
     vertical-align: super;
 }
 
+.full-width {
+    width: 100%;
+}
+
+.gimme-space {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
 .half-width {
     width: 50%;
 }
 
-.full-width {
-    width: 100%;
-    padding-top: 1em;
-    padding-bottom: 1em;
+.third-width {
+    width: 33%;
+}
+
+.quarter-width {
+    width: 25%;
 }
 
 .masthead a {
