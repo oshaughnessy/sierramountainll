@@ -11,9 +11,9 @@ in central California.
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-left .full-width .gimme-space }
 
 We have been serving the mountain communities of the Sierra foothills
-for over 30 years, providing baseball and softball activities for coed
-players from 4-13. Our areas of coverage include the towns of
-Ahwahnee, Bass Lake, Fish Camp, North Fork, and Oakhurst.
+since 1972, providing baseball and softball activities for coed players
+from 4-13. Our areas of coverage include the towns of Ahwahnee, Bass Lake,
+Fish Camp, North Fork, and Oakhurst.
 
 Our purpose is to implant the ideas of sportsmanship, honesty, loyalty,
 courage, and respect for leadership into our youth.
