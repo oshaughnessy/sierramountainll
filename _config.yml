@@ -92,7 +92,7 @@ exclude:
 # See also: https://mmistakes.github.io/minimal-mistakes/docs/configuration
 
 # Your site's logo. Will be shown on the left top of your page.
-logo: assets/images/logo-med.png
+logo: assets/images/smll-logo-trans.png
 # If the images of our blog are stored in an external cloud,
 # you can use the jekyll-img-prefix plugin and set your image's base URL here.
 # img_prefix: https://your-img-cdn.com
@@ -112,7 +112,7 @@ twitter:
   username: ohshaughnessy
 facebook:
   username: sierramountainll
-og_image: assets/images/logo-small.png
+og_image: assets/images/smll-logo-trans.png
 social:
   type: Organization # Person or Organization (defaults to Person)
   name: Sierra Mountain Little League # If the user or org name differs from the site name

@@ -141,3 +141,13 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
     content: "\00a0\f35d";
     vertical-align: super;
 }
+
+.half-width {
+    width: 50%;
+}
+
+.full-width {
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}

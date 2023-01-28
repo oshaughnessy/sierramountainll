@@ -14,6 +14,10 @@ toc_icon: fas fa-address-card
      PO Box 824 
      Oakhurst, California  93644
 
+<br />
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right .half-width }
+
 ## Board
 
 The Sierra Mountain Little League Board of Directors includes the following volunteers:
@@ -26,8 +30,6 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 * Mayra Reeve, Fundraising
 * Tami Michel, Snack Bar Coordinator
 * O'Shaughnessy Evans, Softball Coordinator, IT
-
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/logo.png){: .align-right}
 
 
 ## Fields
