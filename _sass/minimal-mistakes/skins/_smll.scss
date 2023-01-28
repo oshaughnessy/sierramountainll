@@ -93,6 +93,12 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
     font-weight: lighter;
 }
 
+/*
+.page__inner-wrap::after {
+    content: "<img src=\"/assets/images/ll-program-logo.png\">";
+}
+*/
+
 .page__footer {
   color: #fff !important; // override
 }

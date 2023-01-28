@@ -58,7 +58,7 @@ news:
 resources:
 - title: "Registration"
   url: https://www.sierramountainll.com/Default.aspx?tabid=890579
-  icon: fas fa-baseball-ball
+  #icon: fas fa-baseball-ball
 - title: "Schedules"
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
 - title: "Store"
