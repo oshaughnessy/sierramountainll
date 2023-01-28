@@ -26,4 +26,10 @@ each year. We cannot survive without you all!
 If you would to become a volunteer or would like to donate to our
 league, please [email us]({{ site.baseurl }}/contact/)!
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ll-program-logo.png){: .align-center .third-width .gimme-space }
+<a href="https://www.cadistrict10.com/Default.aspx?tabid=1003220">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ca-district10.png){: .align-left .third-width .gimme-space }
+</a>
+
+<a href="https://www.littleleague.org/play-little-league/">
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ll-program-logo.png){: .align-right .third-width .gimme-space }
+</a>
