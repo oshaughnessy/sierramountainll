@@ -9,6 +9,7 @@ layout: home
 classes: wide
 header:
   overlay_image: /assets/images/game-lineup.jpg
+  #overlay_image: /assets/images/smll-majors-at-night.jpg
   overlay_filter: rgba(0, 0, 64, 0.5)
 ---
 
