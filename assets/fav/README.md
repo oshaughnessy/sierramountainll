@@ -18,7 +18,7 @@ Insert the following code in the `head` section of your pages:
     <link rel="shortcut icon" href="/assets/fav/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="SMLL">
     <meta name="application-name" content="SMLL">
-    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-config" content="/assets/fav/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
