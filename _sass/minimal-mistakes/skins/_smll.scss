@@ -35,7 +35,7 @@ $sans-serif: proxima-nova, Corbel, "Helvetica Neue", Helvetica, Arial, sans-seri
 $background-color: #eeeeee !default;
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
+$primary-color: #ff0000 !default; /* red */
 /* $footer-background-color: #000 !default; */
 $footer-background-color: #3939BF !default;
 $link-color: #0000ff !default;
@@ -63,7 +63,18 @@ $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
 
+$ll-baseball-color: #019cde;
+$ll-softball-color: #ff6900;
+.page__content .baseball h2 {
+    background-color: $ll-baseball-color;
+}
+.page__content .softball h2 {
+    background-color: $ll-softball-color;
+}
+
 /* table of contents */
+/* SMLL color: #40A4FF */
+/* light blue */
 $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 .toc li.active a { background-color: #ffffff; }
 .toc ul.toc__menu { background-color: $toc-active-color; }
@@ -91,6 +102,32 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 }
 .page__content section {
     font-weight: lighter;
+}
+
+.page * table,
+.archive table {
+    border-radius: 4px;
+}
+
+.page * thead,
+.archive thead {
+    background-color: $toc-active-color;
+    border-bottom: 2px solid $primary-color;
+}
+
+.page * thead,
+.archive thead,
+.page * tbody,
+.archive tbody {
+    /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) */
+    border-top: 1px solid $link-color;
+    border-left: 1px solid $link-color;
+    border-right: 1px solid $link-color;
+}
+
+.page * tbody,
+.archive tbody {
+    border-bottom: 1px solid $link-color;
 }
 
 /*

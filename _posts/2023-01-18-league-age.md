@@ -16,6 +16,7 @@ One or more are offered before every season begins.
 SMLL has established the following age groups:
 
 ## Baseball Divisions
+{: .baseball }
 
 A player's "league age" for baseball is the age they will be by the end of August 31
 in the current season's year.
@@ -31,6 +32,7 @@ in the current season's year.
 | Challenger              | 4-18
 
 ## Softball Divisions
+{: .softball}
 
 A player's "league age" for softball is the age they were at the end of the 
 year preceding the season.
