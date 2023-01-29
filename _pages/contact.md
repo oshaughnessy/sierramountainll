@@ -29,7 +29,7 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 * Tom Burdette, Umpire in Chief
 * Mayra Reeve, Fundraising
 * Tami Michel, Snack Bar Coordinator
-* O'Shaughnessy Evans, Softball Coordinator, IT
+* O'Shaughnessy Evans, Softball Coordinator, Information Coordinator
 
 
 ## Fields
