@@ -6,13 +6,15 @@ toc: true
 toc_icon: fas fa-address-card
 ---
 
-Email us at [sierramountainll@gmail.com](mailto:sierramountainll@gmail.com)
+Please email us at [sierramountainll@gmail.com](mailto:sierramountainll@gmail.com)
+or [message us at Facebook](https://m.me/sierramountainll){:target="_blank"}.
 
 ## Mailing Address
 
-     Sierra Mountain Little League
-     PO Box 824 
-     Oakhurst, California  93644
+Sierra Mountain Little League<br />
+PO Box 824 <br />
+Oakhurst, California  93644<br />
+{: .notice--info }
 
 <br />
 
