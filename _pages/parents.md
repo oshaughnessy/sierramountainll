@@ -8,19 +8,20 @@ toc_icon: users
 Welcome, parents! Please see the information below, where we've tried to answer
 many common questions.
 
-## Eligibility
+
+## Who can play?
 
 Boys and girls ages 4-13 can play baseball with the Sierra Mountain Little
-League.  Girls ages 9-12 can play softball here.
+League. Girls ages 9-12 can play softball here.
 
-You can find out your player's age for league placement at the
+You can find out your player's age for division placement at the
 [Little League Age Finder](https://www.littleleague.org/play-little-league/determine-league-age/).
 Note that the formulas for baseball and softball league ages are different:
 a baseball player's is how old they are on Aug 31, a softball player's is
 how old they were at the end of the year prior.
 
 
-## Register
+## Sign Up
 
 SMLL's primary season is in the spring.  We open registration from
 December through February and expect to start our practices immediately
