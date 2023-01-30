@@ -11,42 +11,10 @@ and we need many to volunteer each year. First-time parent volunters
 and leaders with experience at other organizations will all have something
 valuable to contribute.
 
-If you're interested, please [reach out]({{ site.baseurl }}/contact/),
-then see the [Registration](#registration) section below.
+If you're interested, please [reach out]({{ site.baseurl }}/contact/)
+to our Coaching Coordinator and see the [Volunteer]({{ site.baseurl }}/volunteers)
+page for registration info.
 
-
-## Registration
-
-If you'd like to coach a team, please register for the Manager or Assistant Coach
-position after signing up your player(s).
-
-1. **Register** as a coach at [Sports Connect](https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports)
-
-    After you've registered your players for the season, you'll be offered
-	options to volunteer. Team Manager and Assistant Coach are both ways
-	you can contribute to the running of a team. If you're curious about
-    the differences, see Little League's [Making the Move from Coach to
-    Manager](https://www.littleleague.org/university/articles/making-the-move-from-coach-to-manager/)
-    for a quick discussion.
-
-2. [Complete **coaching courses**](#coaching-requirements). First aid and
-   fundamental baseball training is a Little League requirement. This is a
-   great opportunity for new coaches to get ready to lead their young players.
-
-3. Be aware that all volunteers must go through a **background check**.
-   The league will submit this for you using your registration info.  See Little
-   League's [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/) page for more.
-
-4. [Register a **Live Scan**](#live-scan). This only needs to be done once by each league
-   coach and does not need to be done annuarlly. A Live Scan for another organization
-   cannot be used by SMLL.
-
-**Please Note**:
-For registrations, it is essential that you use your full legal name. The system that
-processes your Live Scan application will only be able to connect your information
-to our registration system if they all have the same name. The Live Scan application
-runs through the California Department of Justice, where it will need to match your
-registered legal name.
 
 ### Coaching Requirements
 
@@ -166,7 +134,7 @@ See:
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
 
-### Baseball Pitching Limits
+#### Baseball Pitching Limits
 
 | **Age Range** | 6-8  | 9-10  | 11-12 | 13-16 |
 |---------------|------|-------|-------|-------|
@@ -188,7 +156,7 @@ Notes:
 * A catcher who has caught for 4 or more innings in a game may not pitch
   at all on that day.
 
-### Softball Pitching Limits
+#### Softball Pitching Limits
 
 | **Age Range** | Minors & Majors    | Junior & Senior |
 |---------------|--------------------|-----------------|
@@ -196,6 +164,13 @@ Notes:
 | **Rest Days After 7 Innings** | 1  | No requirement  |
 
 Note that no more than 5 pitchers may be used in a single game.
+
+### Coaching Bases
+
+At every game, your team will need coaches on 1st and 3rd base.
+Little League has a great article on [Coaching
+Bases](https://www.littleleague.org/university/articles/coaching-the-bases-101/)
+that gives some introductory tips.
 
 
 ## FAQ

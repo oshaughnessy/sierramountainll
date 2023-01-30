@@ -3,18 +3,21 @@ main:
 - title: News
   url: /news/
   description: Latest announcements
-- title: Calendar
-  url: /calendar/
-  description: Key league dates and events
+- title: Volunteers
+  url: /volunteers/
+  description: Every child plays and every parent contributes!
 - title: Parents
   url: /parents/
-  description: Information for the adults who register players
+  description: What you need to know for sign-up and through the season
 - title: Coaches
   url: /coaches/
-  description: Information for team coaches
+  description: Info on managing and coaching teams
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
+- title: Calendar
+  url: /calendar/
+  description: Key league dates and events
 - title: Team Central
   url: /teamcentral/
   description: Game schedules and more
