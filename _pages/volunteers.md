@@ -98,19 +98,24 @@ are playing so they can see their games, too.
 
 ## Registration
 
-If you'd like to volunteer to help out during the season, please take
-the steps outlined here.
+If you'd like to volunteer to help out during the season, please register
+as a volunteeer in Sports Connect.
 
 1. First, see the [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
     section in Sports Connect and **sign up for a position** there.
 
-2. Be aware that all volunteers must go through a **background check**.
-   The league will submit this for you using your registration info.  See Little
-   League's [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/) page for more.
+### If you're on the field...
+
+{:start="2"}
+2. Be aware that all volunteers who spend significant time with kids
+   must go through a **background check**. The league will submit this
+   for you using your registration info. See Little League's
+   [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/){:target="_blank"} page for more.
 
 ### If you're a manager or coach...
 
-2. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
+{:start="3"}
+3. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
    First aid and fundamental baseball training is a Little League requirement.
 
 4. Register a **Live Scan**. This only needs to be done once by each league
