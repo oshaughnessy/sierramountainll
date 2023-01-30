@@ -75,12 +75,8 @@ Volunteer opportunities include:
   sweeping the dugouts, putting the pitching mound on the Minors field, cleaning up
   the seating areas, returning the trash cans to their space by the snack bar.
 
-Any volunteer who provides "regular service to the league or repetitive access
-to children," must go through the background check process. That includes helping
-with hitting and catching during practice, coaching a base or coordinating
-the batting lineup during games, even working in the snack bar or being a team
-parent.  Please see Little League's [Background Checks for Little League®
-Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
+Please see our [Volunteers]({{ site.baseurl }}/volunteers) page for more info.
+
 
 ## Player Safety
 

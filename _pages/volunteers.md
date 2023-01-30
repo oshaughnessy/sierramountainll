@@ -98,13 +98,15 @@ are playing so they can see their games, too.
 
 ## Registration
 
-If you'd like to volunteer to help out during the season, please register
-as a volunteeer in Sports Connect.
+Any volunteer who provides "regular service to the league or repetitive access
+to children," must go through the background check process. That includes helping
+with hitting and catching during practice, coaching a base or coordinating
+the batting lineup during games, even working in the snack bar or being a team
+parent. Please see Little League's [Background Checks for Little League®
+Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
 
 1. First, see the [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
     section in Sports Connect and **sign up for a position** there.
-
-### If you're on the field...
 
 {:start="2"}
 2. Be aware that all volunteers who spend significant time with kids
