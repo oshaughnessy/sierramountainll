@@ -79,6 +79,9 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 .toc li.active a { background-color: #ffffff; }
 .toc ul.toc__menu { background-color: $toc-active-color; }
 
+/* notices */
+p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
+
 .page__title {
     color: $footer-background-color;
     /* font-variant: small-caps; */
