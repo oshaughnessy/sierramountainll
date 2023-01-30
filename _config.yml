@@ -187,3 +187,14 @@ lunr:
 
 # what's the date in the current year of our first game?
 first_game: 9/17
+
+# sponsors
+sponsors_gallery:
+  - image_path: /assets/sponsors/river-creek.png
+    alt: "Eagle Quick Lube"
+    title: "Eagle Quick Lube"
+    #url:
+  - image_path: /assets/sponsors/eagle-quick-lube.png
+    alt: "Eagle Quick Lube"
+    title: "Eagle Quick Lube"
+    #url:
