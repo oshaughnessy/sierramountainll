@@ -6,7 +6,7 @@ toc: true
 toc_icon: fas fa-address-card
 ---
 
-[sierramountainll@gmail.com](mailto:sierramountainll@gmail.com)
+Email us at [sierramountainll@gmail.com](mailto:sierramountainll@gmail.com)
 
 ## Mailing Address
 
@@ -24,11 +24,11 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 
 * Scott Michel, President
 * Mike DePastene, Treasurer, Player Agent
-* Jennifer Stanley, Challenger League Coordinator
 * Matt Troutner, Safety and Coaching Coordinator
 * Tom Burdette, Umpire in Chief
 * Mayra Reeve, Fundraising
 * Tami Michel, Snack Bar Coordinator
+* Jennifer Stanley, Challenger League Coordinator
 * O'Shaughnessy Evans, Softball Coordinator, Information Coordinator
 
 
