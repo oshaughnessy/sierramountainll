@@ -99,7 +99,7 @@ are playing so they can see their games, too.
 ## Registration
 
 Any volunteer who provides "regular service to the league or repetitive access
-to children," must go through the background check process. That includes helping
+to children" must go through the background check process. That includes helping
 with hitting and catching during practice, coaching a base or coordinating
 the batting lineup during games, even working in the snack bar or being a team
 parent. Please see Little League's [Background Checks for Little League®
@@ -108,7 +108,6 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 1. First, see the [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
     section in Sports Connect and **sign up for a position** there.
 
-{:start="2"}
 2. Be aware that all volunteers who spend significant time with kids
    must go through a **background check**. The league will submit this
    for you using your registration info. See Little League's
