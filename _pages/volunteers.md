@@ -138,6 +138,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 3. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
    First aid and fundamental baseball training is a Little League requirement.
 
+<!--
 4. Register a **Live Scan**. This only needs to be done once by each league
    manager and coach and does not need to be done annually. A Live Scan for
    another organization cannot be used by SMLL.
@@ -149,3 +150,4 @@ to our registration system if they all have the same name. The Live Scan applica
 runs through the California Department of Justice, where it will need to match your
 registered legal name.
 {: .notice--warning }
+-->
