@@ -82,6 +82,11 @@ gallery:
     title: Suburban Propane
     url: https://suburbanpropane.com
 
+  - image_path: /assets/sponsors/yosemite-dental-care.png
+    alt: Yosemite Dental Care
+    title: Yosemite Dental Care
+    url: https://www.yosemite.dental/copy-of-mariposa-office
+
 ---
 
 Many, many thanks to our Sierra Mountain Little Leagues sponsors!
