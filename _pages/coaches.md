@@ -3,7 +3,8 @@ title: Coaches
 permalink: /coaches/
 toc: true
 toc_icon: trophy
-toc_h_max: 2
+toc_h_min: 2
+toc_h_max: 3
 ---
 
 All of our coaches are volunteers. We have many that come back year
@@ -17,7 +18,7 @@ to our Coaching Coordinator and see the [Volunteer]({{ site.baseurl }}/volunteer
 page for registration info.
 
 
-### Coaching Requirements
+## Coaching Requirements
 
 At least one coach or manager from each team must attend a first aid class and
 a baseball training session, both provided by the league at the beginning of the
@@ -83,8 +84,8 @@ dehydrated, or to re-supply your hungry players from the snack shed.
 
 ## Coaching Responsibilities
 
-- player assessment/tryout days
-  See [Tips for Managers Prepping for Player Tryouts](https://www.littleleague.org/university/articles/tips-for-managers-prepping-for-player-tryouts/)
+- player assessment/tryout days (see [Tips for Managers Prepping for Player
+  Tryouts](https://www.littleleague.org/university/articles/tips-for-managers-prepping-for-player-tryouts/))
 - practices
 - parent communication
 - team management
@@ -95,28 +96,24 @@ dehydrated, or to re-supply your hungry players from the snack shed.
 - player time
 - make-up games
 - protecting players from injury
-- track pitch count
+* [track pitch counts](#pitch-counts) 
 
 ### Player Safety
 
 Ways to keep your team safe include:
-* following league safety rules
-* keeping a first aid kit handy
-* tracking pitch counts
+* keeping a [first aid kit](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/){:target="_blank"} handy
+* knowing health essentials (see below)
+* [tracking pitch counts](#pitch-counts) 
 * correct use and maintenance of catching gear
 * knowing local field safety guidance
+* following league safety rules
 
-For an overview guide, see Little League's [The Safest Little League® Experience Comes
+A variety of health and safety fundamentals are available online.  For an
+overview, see Little League's [The Safest Little League® Experience Comes
 from Doing Common Tasks](https://www.littleleague.org/university/articles/the-safest-little-league-experience-comes-from-doing-common-tasks/).
-
-See Little League's [first aid kit
-guide](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/).
 
 The American Heart Association offers [clear, printable guides on hands-only
 CPR](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr/hands-only-cpr-resources).
-
-In addition, [tracking pitch counts](#pitch-counts) is a critical part of protecting your
-pitchers.
 
 Learn about **concussion** symptoms and how to deal with potential head injuries.
 Print out a copy of this [Concussion Recognition
