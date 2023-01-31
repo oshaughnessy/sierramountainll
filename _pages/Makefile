@@ -8,3 +8,7 @@ c commit:
 .PHONY: p push
 p push:
 	git push
+
+.PHONY: edit
+edit:
+	vim *.md

@@ -50,7 +50,27 @@ Little League highlights common misconceptions:
 * for parents: [Common Little League® Rule Misconceptions: What Parents Need to
 Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/)
 
+The sections below highlight our local "ground rules", where we call out
+the special circumstances related to our facilities and describe the
+approved divergences and intepretations of Little League's official rules.
+
 #### SMLL Field Rules
+
+_Forthcoming_
+
+#### Coaches During Games
+
+Only 3 coaches per team are allowed on the field during games, which includes 2
+base coaches and 1 adult who must supervise the dugout while the team is at bat.
+
+People can't just freely exchange roles during a game. A person outside the
+field must stay outside the field, and a person on the field must fulfill all
+the roles of a team coach throughout.
+
+Coaches, consider arranging with a team parent to assist with off-field needs
+during the game. It can be _very_ helpful to have someone to find that player
+who took too long on a bathroom break, to fetch a drink for the player getting
+dehydrated, or to re-supply your hungry players from the snack shed.
 
 #### Stealing Bases
 
@@ -168,6 +188,7 @@ Note that no more than 5 pitchers may be used in a single game.
 ### Coaching Bases
 
 At every game, your team will need coaches on 1st and 3rd base.
+
 Little League has a great article on [Coaching
 Bases](https://www.littleleague.org/university/articles/coaching-the-bases-101/)
 that gives some introductory tips.
