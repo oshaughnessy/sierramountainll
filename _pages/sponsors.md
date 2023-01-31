@@ -65,9 +65,9 @@ gallery:
     title: Matthews Furniture
     url: http://www.matthewsfurniture.net
   - image_path: /assets/sponsors/yosemite-mortgage.png
-    alt: Yosemite Mortgate
-    title: Yosemite Mortgate
-    url: http://sierrapacificmortgage.com/loanofficer/Nicholas.Schneider/profile
+    alt: Yosemite Mortgage
+    title: Yosemite Mortgage
+    url: https://lo.sierrapacificmortgage.com/nick-schneider
 
   - image_path: /assets/sponsors/grocery-outlet.png
     alt: Grocery Outlet
