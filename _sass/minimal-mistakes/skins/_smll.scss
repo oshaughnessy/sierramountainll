@@ -212,8 +212,20 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
     vertical-align: super;
 }
 
-.full-width {
-    width: 100%;
+/* jekyll image gallery */
+div.gallery {
+    background-color: #fff;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 4px;
+    border-color: $border-color;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125)
+}
+
+figure > img {
+    vertical-align: center;
 }
 
 .gimme-space {
@@ -221,6 +233,10 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
     padding-bottom: 1em;
 }
 
+
+.full-width {
+    width: 100%;
+}
 
 .half-width {
     width: 50%;

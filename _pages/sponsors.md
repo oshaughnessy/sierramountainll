@@ -1,4 +1,5 @@
 ---
+# vim: set et:
 layout: single
 title: Sponsors
 permalink: /sponsors/
@@ -6,11 +7,81 @@ gallery:
   - image_path: /assets/sponsors/river-creek.png
     alt: "River Creek Golf Course"
     title: "River Creek Golf Course"
-    url: https://www.rivercreekgolfcourse.com/
+    url: https://www.rivercreekgolfcourse.com
   - image_path: /assets/sponsors/eagle-quick-lube.png
     alt: "Eagle Quick Lube"
     title: "Eagle Quick Lube"
     url: https://www.facebook.com/EagleQuickLube/
+  - image_path: /assets/sponsors/oakhurst-pt.jpg
+    alt: Oakhurst Physical Therapy
+    title: Oakhurst Physical Therapy
+    url: http://oakhurstpt.com
+
+  - image_path: /assets/sponsors/rotary.png
+    alt: Rotary Club of Oakhurst Sierra
+    title: Oakhurst Rotary Club of Oakhurst Sierra
+    url: http://www.oakhurstrotary.org
+  - image_path: /assets/sponsors/campora.png
+    alt: Campora
+    title: Campora
+    url: http://www.campora.com
+  - image_path: /assets/sponsors/sierratel.png
+    alt: SierraTel
+    title: SierraTel
+    url: https://www.sierratel.com
+
+  - image_path: /assets/sponsors/camarena.png
+    alt: Camarena Health
+    title: Camarena Health
+    url: http://www.camarenahealth.org
+  - image_path: /assets/sponsors/bass-lake-boat-rentals.png
+    alt: Base Lake Boat Rentals
+    title: Base Lake Boat Rentals
+    url: https://basslakeboatrentals.com
+  - image_path: /assets/sponsors/walt-bannon.png
+    alt: Walt Bannon Drilling
+    title: Walt Bannon Drilling
+    url: http://waltbannondrilling.com
+
+  - image_path: /assets/sponsors/mcgoldrick.png
+    alt: "McGoldrick & McGoldrick"
+    title: "McGoldrick & McGoldrick"
+    url: http://mcgoldricklaw.com
+  - image_path: /assets/sponsors/round-table.png
+    alt: Round Table Pizza, Oakhurst
+    title: Round Table Pizza, Oakhurst
+    url: http://www.roundtablepizza.com/rtp/store.asp?store_Num=785
+  - image_path: /assets/sponsors/donna-pride.png
+    alt: Donna Pride Real Estate
+    title: Donna Pride Real Estate
+    url: https://www.donnapride.com/agent/207/donna-pride/page/2399/welcome
+
+  - image_path: /assets/sponsors/andrews-electric.png
+    alt: Andrew's Electric
+    title: Andrew's Electric
+    url: http://www.andrewselectric.net
+  - image_path: /assets/sponsors/matthews-furniture.png
+    alt: Matthews Furniture
+    title: Matthews Furniture
+    url: http://www.matthewsfurniture.net
+  - image_path: /assets/sponsors/yosemite-mortgage.png
+    alt: Yosemite Mortgate
+    title: Yosemite Mortgate
+    url: http://sierrapacificmortgage.com/loanofficer/Nicholas.Schneider/profile
+
+  - image_path: /assets/sponsors/grocery-outlet.png
+    alt: Grocery Outlet
+    title: Grocery Outlet
+    url: https://groceryoutlet.com/circulars/storeid/249
+  - image_path: /assets/sponsors/ace-hardware.svg
+    alt: Bryant's Ace Hardware
+    title: Bryant's Ace Hardware
+    url: https://www.acehardware.com/store-details/17901
+  - image_path: /assets/sponsors/suburban.png
+    alt: Suburban Propane
+    title: Suburban Propane
+    url: https://suburbanpropane.com
+
 ---
 
 Many, many thanks to our Sierra Mountain Little Leagues sponsors!
@@ -38,4 +109,6 @@ Up](https://squareup.com/store/sierra-mountain-little-league){:target="_blank"}.
 
 ----
 
+<div class="gallery full">
 {% include gallery %}
+</div>
