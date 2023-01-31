@@ -224,15 +224,15 @@ div.gallery {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125)
 }
 
-figure img {
-    vertical-align: middle;
+.gallery figure {
+	align-items: center;
 }
+
 
 .gimme-space {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
 
 .full-width {
     width: 100%;
