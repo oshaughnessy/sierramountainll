@@ -52,7 +52,7 @@ the team, and it's often the same person leading both. SMLL's
 Sports Connect system has an "Assistant Coach" volunteer position
 available during registration, and they can help out in many ways.
 
-Every team will need 2 coaches in addition to the team manager. 
+Every team should have 2 coaches in addition to the team manager. 
 During games, a team will always need 1 registered adult in the
 dugout and 2 to serve as 1st and 3rd base coaches. If enough adults
 are not available, players can serve as base coaches, but they
