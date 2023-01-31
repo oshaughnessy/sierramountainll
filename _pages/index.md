@@ -30,8 +30,4 @@ here](https://www.littleleague.org/play-little-league/determine-league-age/){:ta
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
 
 
-<!--
-## Sponsors
-
-{% include gallery id=sponsors_gallery caption="Many thanks to Sierra Mountain Little League's sponsors." %}
--->
+----

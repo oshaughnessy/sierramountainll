@@ -53,6 +53,8 @@ news:
   icon: fas fa-comments
 - title: Store
   url: https://shop.bluesombrero.com/store/p/7479
+- title: "Sponsors"
+  url: /sponsors/
 - title: News Posts by Date
   url: /news/
 - title: "News Posts by Tag"
@@ -66,5 +68,7 @@ resources:
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
 - title: "Store"
   url: https://shop.bluesombrero.com/store/p/7479
+- title: "Sponsors"
+  url: /sponsors/
 - title: "Little League"
   url: https://www.littleleague.org/university/parents/
