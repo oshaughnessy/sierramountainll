@@ -75,7 +75,9 @@ span.baseball {
     border-radius: 4px;
     text-transform: uppercase;
     font-weight: 700;
-    padding: 5px;
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 span.softball {
     background-color: $ll-softball-color;
@@ -84,7 +86,9 @@ span.softball {
     border-radius: 4px;
     text-transform: uppercase;
     font-weight: 700;
-    padding: 5px;
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 /* table of contents */

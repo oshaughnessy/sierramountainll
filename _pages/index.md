@@ -20,7 +20,7 @@ Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.as
 
 | Early Bird Registration | Regular Registration | **Asessment Day** | **Opening Day** |
 |---
-| Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 25            | March 18 |
+| Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 25<br/>(make-up Feb 27) | March 18 |
 
 Wondering what division to sign up for? After you log in to the registration site
 and fill out your child's basic information, you'll be offered appropriate choices
