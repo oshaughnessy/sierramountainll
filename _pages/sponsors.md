@@ -67,7 +67,7 @@ gallery:
   - image_path: /assets/sponsors/yosemite-mortgage.png
     alt: Yosemite Mortgage
     title: Yosemite Mortgage
-    url: https://lo.sierrapacificmortgage.com/nick-schneider
+    url: https://ymloans.com
 
   - image_path: /assets/sponsors/grocery-outlet.png
     alt: Grocery Outlet
