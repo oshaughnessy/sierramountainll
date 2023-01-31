@@ -18,12 +18,6 @@ main:
 - title: Calendar
   url: /calendar/
   description: Key league dates and events
-- title: Team Central
-  url: /teamcentral/
-  description: Game schedules and more
-- title: Sports Connect
-  url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
-  description: League registration account
 
 sidebar:
 - title: News
@@ -45,17 +39,20 @@ sidebar:
   description: League registration account
 
 news:
-- title: Registration
+- title: "Registration"
   url: https://www.sierramountainll.com/Default.aspx?tabid=890579
   icon: fas fa-baseball-ball
-- title: Schedules
+- title: "Sports Connect"
+  url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
+  description: "League registration account"
+- title: "Schedules"
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
   icon: fas fa-comments
-- title: Store
+- title: "Store"
   url: https://shop.bluesombrero.com/store/p/7479
 - title: "Sponsors"
   url: /sponsors/
-- title: News Posts by Date
+- title: "News Posts by Date"
   url: /news/
 - title: "News Posts by Tag"
   url: /tags/
@@ -64,6 +61,9 @@ resources:
 - title: "Registration"
   url: https://www.sierramountainll.com/Default.aspx?tabid=890579
   #icon: fas fa-baseball-ball
+- title: "Sports Connect"
+  url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
+  description: League registration account
 - title: "Schedules"
   url: https://www.sierramountainll.com/Default.aspx?tabid=716491
 - title: "Store"
