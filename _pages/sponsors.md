@@ -30,10 +30,10 @@ gallery:
     title: SierraTel
     url: https://www.sierratel.com
 
-  - image_path: /assets/sponsors/camarena.png
+  - image_path: /assets/sponsors/camarena.svg
     alt: Camarena Health
     title: Camarena Health
-    url: http://www.camarenahealth.org
+    url: https://www.camarenahealth.org/location/oakhurst-health-center/
   - image_path: /assets/sponsors/bass-lake-boat-rentals.png
     alt: Base Lake Boat Rentals
     title: Base Lake Boat Rentals
