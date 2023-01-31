@@ -98,7 +98,7 @@ share the moment and the photo ops with our players' biggest hits.
 
 {% include figure image_path="/assets/sponsors/sponsor-shots-sgb.jpg"
    alt="South Gate Brewing, a local business, sponsors Sierra Mountain Little League"
-   caption="Here's the field banner for one of our local sponsors, South Gate Brewing."
+   caption="Field banner for one of our local sponsors, South Gate Brewing."
 %}
 
 If you're interested in supporting the league, please reach out to
