@@ -52,9 +52,16 @@ the team, and it's often the same person leading both. SMLL's
 Sports Connect system has an "Assistant Coach" volunteer position
 available during registration, and they can help out in many ways.
 
+Every team will need 2 coaches in addition to the team manager. 
+During games, a team will always need 1 registered adult in the
+dugout and 2 to serve as 1st and 3rd base coaches. If enough adults
+are not available, players can serve as base coaches, but they
+cannot oversee the dugout.
+
 - **deciding on batting order** before games
   (note that we adopted a continuous batting order in 2023)
 - **coordinating batting lineup** in the dugout during games
+- **base coach** for 1st and 3rd base
 - handling **field substitutions** during games
 - ensuring all players get **adequate game time**
 - [**track pitch count** and rest days]({{ site.baseurl }}/coaches/#pitch-counts)
@@ -77,12 +84,6 @@ and scorekeeper volunteers. Make sure the players have snacks and sports
 drinks during and after the games. (Even the older kids like snacks,
 especially when it's hot out!) Help arrange an end-of-season party or
 trophy orders, if the coach wants to hand them out.
-
-### Base Coaches
-
-At every game, your team will need a coach on 1st and 3rd base.
-If adults fill those roles, they need to be registered volunteers
-cleared by the league.
 
 ### Scorekeeper
 
