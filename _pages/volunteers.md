@@ -95,6 +95,24 @@ SMLL's primary fundraiser is the snack bar that we open on game days.
 Many parents like to help there at a time before or after their kids
 are playing so they can see their games, too.
 
+### Umpires
+
+_We need umpires!_ Umpires oversee all of our games from the player
+pitch division and above, and we can't play without them.
+
+Our [Umpire in Chief]({{ site.baseurl }}/contact/), Tom Burdette, is
+always looking for new people, 13-90, to help keep our players safe
+and enforce the rules. He will host training sessions each season,
+and every game will have experienced umpires to speak as the ultimate
+authority so new ones have time to grow into the role.
+
+Any youth who are interested,
+especially, would be welcome to reach out. It's a great way to
+learn confidence, responsibility, and acting in authority around
+other kids and adults.
+
+If you're interested, please text Tom at `831-818-6859`.
+
 
 ## Registration
 
