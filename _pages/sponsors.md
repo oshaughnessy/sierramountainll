@@ -10,7 +10,7 @@ gallery:
   - image_path: /assets/sponsors/eagle-quick-lube.png
     alt: "Eagle Quick Lube"
     title: "Eagle Quick Lube"
-    #url:
+    url: https://www.facebook.com/EagleQuickLube/
 ---
 
 Many, many thanks to our Sierra Mountain Little Leagues sponsors!
