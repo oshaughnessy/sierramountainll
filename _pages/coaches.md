@@ -3,6 +3,7 @@ title: Coaches
 permalink: /coaches/
 toc: true
 toc_icon: trophy
+toc_h_max: 2
 ---
 
 All of our coaches are volunteers. We have many that come back year
