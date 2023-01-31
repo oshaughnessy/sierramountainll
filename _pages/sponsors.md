@@ -6,7 +6,7 @@ gallery:
   - image_path: /assets/sponsors/river-creek.png
     alt: "River Creek Golf Course"
     title: "River Creek Golf Course"
-    #url:
+    url: https://www.rivercreekgolfcourse.com/
   - image_path: /assets/sponsors/eagle-quick-lube.png
     alt: "Eagle Quick Lube"
     title: "Eagle Quick Lube"
