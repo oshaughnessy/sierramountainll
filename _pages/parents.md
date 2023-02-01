@@ -118,7 +118,7 @@ covering 1.11(j) for more.
 
 ## Equipment
 
-What do your kids need to play baseball or softball with SMLL?[^1]
+What do your kids need to play baseball or softball with SMLL?
 
 * ball glove
 * cleats
@@ -131,13 +131,21 @@ What do your kids need to play baseball or softball with SMLL?[^1]
 * bat (optional but recommended)
 * batting gloves (optional but recommended)
 
-What does the league provide?[^2]
+See [Get the Gear and What to Wear for Little League®
+Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/){:target="_blank"} for more tips on what's needed and useful.
+{: .notice }
+
+What does the league provide?[^1]
 
 * game-day jersey
 * baseball cap
 * catcher's gear for the team
 * batting helmets as needed
 * bats as needed
+
+See [What Parents, Local Leagues Need to Know About Equipping a Little
+Leaguer®](https://www.littleleague.org/university/articles/parents-local-leagues-need-know-equipping-little-leaguer/){:target="_blank"}
+{: .notice }
 
 Bringing your own bat and helmet is optional. The league or coach
 can provide both, and many players are happy to share their bats.
@@ -147,9 +155,8 @@ equipment and parents are often pleased to have the opportunity to
 pass it on.
 
 See the Little League Rulebook's [Appendix B - Safety Code for Little
-League](https://www.littleleague.org/playing-rules/appendices/appendix-b/)
-for the exact rules, and [Get the Gear and What to Wear for Little League®
-Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) for more tips on what's needed and useful.
+League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
+for the exact rules.
 {: .notice }
 
 _What can't your kids wear?_ See Player Safety [above](#wearing-jewelry).
@@ -204,12 +211,13 @@ a grip.
 
 ### Hats
 
-Baseball players must wear their cap during a game. It's an important part 
-of their uniform toolkit for maintaining good vision and protecting their
-eyes and face from the sunlight.
+<span class=baseball>Baseball players</span> must wear their cap during a game.
+It's an important part of their uniform toolkit for maintaining good vision and
+protecting their eyes and face from the sunlight.
 
-Softball players may wear a cap or visor, but it's not a requirement.
-Nevertheless, it is still a valuable shield against strong light and UV.
+<span class=softball>Softball players</span> may wear a cap or visor, but it's
+not a requirement.  Nevertheless, it is still a valuable shield against strong
+light and UV.
 
 ### Shoes
 
@@ -253,9 +261,6 @@ Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpret
 
 ## Further Reading
 
-We have various [resources]({{ site.baseurl }}/resources/) available on our site.
+We have various [resources]({% link _pages/resources.md %}) available on our site.
 
-
-[^1]: See Little League's [Get the Gear and What to Wear for Little League® Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) and [What Parents, Local Leagues Need to Know About Equipping a Little Leaguer®](https://www.littleleague.org/university/articles/parents-local-leagues-need-know-equipping-little-leaguer/)
-
-[^2]: See Little League's [What Equipment does our league need to provide for regular season?](https://www.littleleague.org/help-center/what-equipment-does-our-league-need-to-provide-for-regular-season/)
+[^1]: See Little League's [What Equipment does our league need to provide for regular season?](https://www.littleleague.org/help-center/what-equipment-does-our-league-need-to-provide-for-regular-season/)
