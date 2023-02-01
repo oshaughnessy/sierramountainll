@@ -131,3 +131,5 @@ runner may attempt to steal.
 ## Substitutions
 
 _(Forthcoming)_
+
+See https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/
