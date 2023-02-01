@@ -36,6 +36,19 @@ during the game. It can be _very_ helpful to have someone to find that player
 who took too long on a bathroom break, to fetch a drink for the player getting
 dehydrated, or to re-supply your hungry players from the snack shed.
 
+## On Deck
+
+Up through Majors, on-deck batters need to stay in the dugout and leave their bat
+on the rack until it's time to hit.
+
+> Regulations prohibit on-deck batters. This means no player should handle
+> a bat, even while in an enclosure, until it is his/her time at bat. This
+> applies only to Little League (Majors), Minor League, and Tee Ball.
+
+See [Appendix B - Safety Code for Little
+League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
+{: .notice }
+
 ## Game Times, Lead Limits, Mercy Rules
 
 _(Forthcoming)_
