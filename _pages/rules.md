@@ -40,12 +40,56 @@ dehydrated, or to re-supply your hungry players from the snack shed.
 
 _(Forthcoming)_
 
-## Pitching Limits
+
+## Pitch Counts
 
 Pitchers in every division have limits on the number of pitches they can
 throw in a game, how many days of rest they need afterward, and when they
-can switch between catcher and pitcher. See [our pitch counts](#pitch-counts)
-section for details.
+can switch between catcher and pitcher.
+
+#### <span class=baseball>Baseball</span> Pitching Limits
+
+| **Age Range** | 6-8  | 9-10  | 11-12 | 13-16 |
+|---------------|------|-------|-------|-------|
+| **Pitch Limit Per Day** | 50 | 75 | 85 | 95 |
+
+All pitchers must have days to rest after pitching in a game:
+
+| **Pitches**   | 1-20 | 21-35 | 36-50 | 51-65 | 66+ |
+|---------------|------|-------|-------|-------|-----|
+| **Rest Days** | 0    | 1     | 2     | 3     | 4   |
+
+Notes:
+* Once a pitcher has been removed from the mound, they cannot return
+  as a pitcher in the same game.
+* A pitcher may finish their current batter once reaching their limit.
+* A catcher who has caught for 3 or fewer innings, then throws 21 or more
+  pitches in the same day (31 for 15- & 16-year-olds), may not play catcher again
+  on that day.
+* A catcher who has caught for 4 or more innings in a game may not pitch
+  at all on that day.
+
+#### <span class=softball>Softball</span> Pitching Limits
+
+| **Age Range** | Minors & Majors    | Junior & Senior |
+|---------------|--------------------|-----------------|
+| **Pitch Innings Per Day**     | 12 | No limit        |
+| **Rest Days After 7 Innings** | 1  | No requirement  |
+
+Note that no more than 5 pitchers may be used in a single game.
+
+{% capture pitch-count-refs %}
+For more info:
+
+* Little League's [Regular Season Pitching
+  Rules](https://www.littleleague.org/playing-rules/pitch-count/)
+* Little League's [Pitch Counts, Days Rest, and Why They
+  Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
+* SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
+  For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
+{% endcapture %}
+<div class="notice">{{ pitch-count-refs | markdownify }}</div>
+
 
 ## Stealing Bases
 

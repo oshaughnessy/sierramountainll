@@ -61,7 +61,7 @@ page. A few key roles are outlined below.
 Ways to help keep your team safe include:
 * keeping a [first aid kit](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/){:target="_blank"} handy
 * knowing health essentials (see below)
-* [tracking in-game throws by your pitchers](#pitch-counts) 
+* [tracking in-game throws by your pitchers]({{ site.baseurl }}/rules/#pitch-counts) 
 * correct use and maintenance of catching gear
 * knowing local field safety guidance
 * following league safety rules
@@ -106,59 +106,20 @@ Little League has a great article on [Coaching
 Bases](https://www.littleleague.org/university/articles/coaching-the-bases-101/)
 that gives some introductory tips.
 
-### Pitch Counts
+## Pitching Limits
 
-Players of all ages may only throw a limited number of pitches per
-day and keeping track of this is an essential part of keeping your
-players healthy. The scorekeepers usually track it during games,
-but it's helpful, as a coach, to keep track of your players' limits
-so that you can manage your pitching roster and substitutions
-effectively.
+Players of all ages may only throw a limited number of pitches per day and
+keeping track of this is an essential part of keeping your players healthy.
+The scorekeepers usually track it during games, but it's helpful, as a coach,
+to keep track of your players' limits so that you can manage your pitching roster
+and substitutions effectively.
 
-{% capture pitch-count-refs %}
-For more info:
-
-* Little League's [Regular Season Pitching
-  Rules](https://www.littleleague.org/playing-rules/pitch-count/)
-* Little League's [What are the league age pitch counts for Little League
-  Baseball®?](https://www.littleleague.org/help-center/little-league-baseball-pitch-counts/)
-* Little League's [Pitch Counts, Days Rest, and Why They
-  Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
-* SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
-  For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
-{% endcapture %}
-<div class="notice">{{ pitch-count-refs | markdownify }}</div>
-
-#### <span class=baseball>Baseball</span> Pitching Limits
-
-| **Age Range** | 6-8  | 9-10  | 11-12 | 13-16 |
-|---------------|------|-------|-------|-------|
-| **Pitch Limit Per Day** | 50 | 75 | 85 | 95 |
-
-All pitchers must have days to rest after pitching in a game:
-
-| **Pitches**   | 1-20 | 21-35 | 36-50 | 51-65 | 66+ |
-|---------------|------|-------|-------|-------|-----|
-| **Rest Days** | 0    | 1     | 2     | 3     | 4   |
-
-Notes:
-* Once a pitcher has been removed from the mound, they cannot return
-  as a pitcher in the same game.
-* A pitcher may finish their current batter once reaching their limit.
-* A catcher who has caught for 3 or fewer innings, then throws 21 or more
-  pitches in the same day (31 for 15- & 16-year-olds), may not play catcher again
-  on that day.
-* A catcher who has caught for 4 or more innings in a game may not pitch
-  at all on that day.
-
-#### <span class=softball>Softball</span> Pitching Limits
-
-| **Age Range** | Minors & Majors    | Junior & Senior |
-|---------------|--------------------|-----------------|
-| **Pitch Innings Per Day**     | 12 | No limit        |
-| **Rest Days After 7 Innings** | 1  | No requirement  |
-
-Note that no more than 5 pitchers may be used in a single game.
+See [our pitch counts]({{ site.baseurl }}/rules#pitch-counts) Rules section for details.
+ 
+SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
+For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be){:target="_blank"}
+talks about a number of injuries players can get from overuse, and how to identify them.
+{: .notice }
 
 
 ## FAQ
