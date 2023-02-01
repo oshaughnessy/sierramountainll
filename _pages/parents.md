@@ -113,6 +113,7 @@ See this [Little League summary](https://www.littleleague.org/help-center/can-a-
 and the [Little League® Significant Rule and Regulation Updates for
 2023]({% link /assets/files/2023-rulebook-significant-changes.pdf %}) section
 covering 1.11(j) for more.
+{: .notice }
 
 
 ## Equipment
@@ -145,15 +146,14 @@ for hand-me down gear, too. Kids are always growing out of their
 equipment and parents are often pleased to have the opportunity to
 pass it on.
 
-What can't your kids wear?
-
-* jewelry, rings, pins, hard cosmetics, hard decorative items
-* watches
-
 See the Little League Rulebook's [Appendix B - Safety Code for Little
 League](https://www.littleleague.org/playing-rules/appendices/appendix-b/)
 for the exact rules, and [Get the Gear and What to Wear for Little League®
 Practices](https://www.littleleague.org/university/articles/get-the-gear-and-what-to-wear-for-little-league-practices/) for more tips on what's needed and useful.
+{: .notice }
+
+_What can't your kids wear?_ See Player Safety [above](#wearing-jewelry).
+{: .notice--danger }
 
 More guidance for how we approach equipment at SMLL is given below.
 
@@ -170,10 +170,12 @@ Bats must be in good repair and not be altered ([see LL Rulebook
 Appendix D](https://www.littleleague.org/playing-rules/appendices/appendix-d/)).
 
 Please note that bat warm-up donuts are not allowed.
+{: .notice--danger }
 
 Pine tar and other adhesives are strictly prohibited.
+{: .notice--danger }
 
-#### Baseball
+#### <span class=baseball>Baseball</span>
 
 | Division             | Standard | Dimensions         | Notes |
 |----------------------|----------|--------------------|-------|
@@ -188,8 +190,9 @@ be certified by BBCOR.
 
 Aluminum, composite, hybrid, and wood bats are allowed. See
 [Rule 1.10](https://www.littleleague.org/playing-rules/bat-rules/) for details.
+{: .notice--success }
 
-#### Softball
+#### <span class=softball>Softball</span>
 
 | Division             | Standard | Dimensions         | Notes |
 |----------------------|----------|--------------------|-------|
@@ -210,12 +213,12 @@ Nevertheless, it is still a valuable shield against strong light and UV.
 
 ### Shoes
 
-_Can you use cleats from another sport?_
+_"Can you use cleats from another sport?"_
 Yes! Cleats with plastic or rubber studs can be used up through Majors.
 In 50-70, Junior, and Senior leagues, [metal-spiked cleats may also be
 used](https://www.littleleague.org/help-center/are-cleats-with-metal-spikes-permitted/).
 
-_Can you use shoes that aren't cleats?_
+_"Can you use shoes that aren't cleats?"_
 Yes. Cleats are not _required_, but they are wise. A player should
 always wear shoes that will give them good traction in dirt and grass,
 fit snugly, and stay on during running and sliding. Laces should be
@@ -226,8 +229,8 @@ a player wasn't ready or safe and delayed the game.
 
 ### Pitcher Arm Coverings
 
-If a pitcher wears an undershirt, the sleeves may _not_ be white or gray
-if they're visible.
+Pitchers may wear an undershirt, but the sleeves must _not_ be white or
+gray if they're visible.
 
 Pitchers may wear a play-calling band on their glove arm. It must be
 a solid color and not white, gray, or optic yellow.
@@ -243,8 +246,8 @@ offers additional packages that players and their families may purchase.
 ## Rule Highlights
 
 Little League has highlighted a number of things that are often
-misunderstood at Little League baseball. Please see [Common Little
-League® Rule Misconceptions: What Parents Need to
+misunderstood. Please see [Common Little League® Rule Misconceptions:
+What Parents Need to
 Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/) and [10 Commonly Misinterpreted Little League®
 Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpreted-little-league-rules/).
 
