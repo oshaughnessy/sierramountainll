@@ -110,12 +110,13 @@ Ways to help keep your team safe include:
 * knowing local field safety guidance
 * following league safety rules
 
-A variety of health and safety fundamentals are available online.  For an
-overview, see Little League's [The Safest Little League® Experience Comes
+Little League has a great coach's field checklist at [The Safest Little League® Experience Comes
 from Doing Common Tasks](https://www.littleleague.org/university/articles/the-safest-little-league-experience-comes-from-doing-common-tasks/).
+{: .notice }
 
 The American Heart Association offers [clear, printable guides on hands-only
 CPR](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr/hands-only-cpr-resources).
+{: .notice }
 
 Learn about **concussion** symptoms and how to deal with potential head injuries.
 Print out a copy of this [Concussion Recognition
