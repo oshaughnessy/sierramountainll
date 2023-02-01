@@ -180,6 +180,8 @@ include: ["_pages"]
 #paginate: 5  # amount of posts to show
 #paginate_path: /updates/page:num
 
+breadcrumbs: false
+
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true
 search_provider: lunr
