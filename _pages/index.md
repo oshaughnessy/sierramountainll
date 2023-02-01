@@ -23,8 +23,8 @@ Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.as
 | Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 25<br/>(make-up Feb 27) | March 18 |
 
 Wondering what division to sign up for? After you log in to the registration site
-and fill out your child's basic information, you'll be offered appropriate choices
-for them. You can also find out your player's [league age
+and fill out your child's basic information, you'll be offered the right choices
+for them. If you need to pick between a few, you can find out your player's [league age
 here](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}.
 {: .notice}
 
