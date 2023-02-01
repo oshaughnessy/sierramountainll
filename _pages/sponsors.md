@@ -1,9 +1,16 @@
 ---
-# vim: set et:
+# vim: set expandtab ts=2 sw=2:
 layout: single
 title: Sponsors
 permalink: /sponsors/
-gallery:
+gallery_target: _blank
+gallery_key_sponsors:
+  - image_path: /assets/sponsors/yosemite-dental-care.png
+    alt: Yosemite Dental Care
+    title: Yosemite Dental Care
+    url: https://www.yosemite.dental/copy-of-mariposa-office
+
+gallery_sponsors:
   - image_path: /assets/sponsors/river-creek.png
     alt: "River Creek Golf Course"
     title: "River Creek Golf Course"
@@ -82,11 +89,6 @@ gallery:
     title: Suburban Propane
     url: https://suburbanpropane.com
 
-  - image_path: /assets/sponsors/yosemite-dental-care.png
-    alt: Yosemite Dental Care
-    title: Yosemite Dental Care
-    url: https://www.yosemite.dental/copy-of-mariposa-office
-
 ---
 
 Many, many thanks to our Sierra Mountain Little Leagues sponsors!
@@ -115,5 +117,9 @@ Up](https://squareup.com/store/sierra-mountain-little-league){:target="_blank"}.
 ----
 
 <div class="gallery full">
-{% include gallery %}
+{% include gallery id="gallery_key_sponsors" %}
+</div>
+
+<div class="gallery full">
+{% include gallery id="gallery_sponsors" %}
 </div>
