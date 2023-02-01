@@ -50,13 +50,7 @@ as a team, within a league, using shared fields:
 The coach role is more about building player skills than managing
 the team, and it's often the same person leading both. SMLL's
 Sports Connect system has an "Assistant Coach" volunteer position
-available during registration, and they can help out in many ways.
-
-Every team should have 2 coaches in addition to the team manager. 
-During games, a team will always need 1 registered adult in the
-dugout and 2 to serve as 1st and 3rd base coaches. If enough adults
-are not available, players can serve as base coaches, but they
-cannot oversee the dugout.
+available during registration, and they can help out in many ways:
 
 - **deciding on batting order** before games
   (note that we adopted a continuous batting order in 2023)
@@ -70,6 +64,12 @@ cannot oversee the dugout.
   or health problems (e.g. paying attention to field hazards, ensuring safe play
   at practice and games, adjusting practices for heat, cold, or dark, attending
   seasonal first aid training)
+
+Every team should have 2 coaches in addition to the team manager. 
+During games, a team will always need 1 registered adult in the
+dugout and 2 to serve as 1st and 3rd base coaches. If enough adults
+are not available, players can serve as base coaches, but they
+cannot oversee the dugout.
 
 ### Team Parent
 
