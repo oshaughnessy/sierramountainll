@@ -101,7 +101,7 @@ are playing so they can see their games, too.
 _We need umpires!_ Umpires oversee all of our games from the player
 pitch division and above, and we can't play without them.
 
-Our [Umpire in Chief]({{ site.baseurl }}/contact/), Tom Burdette, is
+Our [Umpire in Chief]({% link _pages/contact.md %}), Tom Burdette, is
 always looking for new people, 13-90, to help keep our players safe
 and enforce the rules. He will host training sessions each season,
 and every game will have experienced umpires to speak as the ultimate

@@ -12,8 +12,8 @@ and we need many to volunteer each year. First-time parent volunters
 and leaders with experience at other organizations will all have something
 valuable to contribute.
 
-If you're interested, please [reach out]({{ site.baseurl }}/contact/)
-to our Coaching Coordinator and see the [Volunteer]({{ site.baseurl }}/volunteers)
+If you're interested, please [reach out]({% link _pages/contact.md %})
+to our Coaching Coordinator and see the [Volunteer]({% link _pages/volunteers.md %})
 page for registration info.
 
 
@@ -40,7 +40,7 @@ You may get questions from parents when they're signing up their kids, wanting t
 what they should register for. We accommodate boys and girls 4-13 in baseball,
 girls 9-12 in softball, and 4-18 in our Challenger baseball division.
 
-Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
+Please see the [League Age &amp; Divisions]({% post_url 2023-01-18-league-age %})
 post for an overview of how divisions and ages work.
 
 ### Rule Highlights
@@ -213,7 +213,7 @@ signing up as a coach!
 
 The league provides team photos as part of the registration fee.
 They're typically taken near the end of the season, in April or May.
-Keep an eye on the [News]({{ site.baseurl }}/news/) page for an announcement.
+Keep an eye on the [News]({% link _pages/news.md %}) page for an announcement.
 
 ### _When and where can I practice?_
 
@@ -237,7 +237,7 @@ Majors field:
 
 Yes and no. Players cannot be loaned and borrowed directly between
 coaches. The process must be coordinated through the league's
-[Player Agent]({{ site.baseurl }}/contact/), where available players
+[Player Agent]({% link _pages/contact.md %}), where available players
 are part of a pool and assigned as needed by the agent.
 See Little League's [What is a Player
 Pool](https://www.littleleague.org/help-center/what-is-a-player-pool/).
@@ -247,7 +247,7 @@ temporary teams. They must be used to play for 9 consecutive defensive
 outs and bat once.
 
 See [Little League® Significant Rule and Regulation Updates for
-2021]({{ site.baseurl }}/assets/files/2021-rulebook-significant-changes.pdf),
+2021]({% link /assets/files/2021-rulebook-significant-updates.pdf %}),
 under "Regulation V(c)" for more information.
 
 ### _Can a coach warm up pitchers or catchers?_
@@ -266,14 +266,14 @@ include this update:
 > also stand by to observe a pitcher during warm-up in the bullpen.
 
 See [Little League® Significant Rule and Regulation Updates for
-2023]({{ site.baseurl }}/assets/files/2023-rulebook-significant-changes.pdf).
+2023]({% link /assets/files/2023-rulebook-significant-changes.pdf %}).
 
 ### _Can youth play on more than one team or in more multiple divisions?_
 
-Yes. Please [reach out]({{ site.baseurl }}/contact/) to the league Player Agent
+Yes. Please [reach out]({% link _pages/contact.md %}) to the league Player Agent
 with questions about this.
 
 ## Further Reading
 
-We have various [resources]({{ site.baseurl }}/resources/) available on our site
+We have various [resources]({% link _pages/resources.md %}) available on our site
 with more information about SMLL and Little League.
