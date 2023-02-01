@@ -18,7 +18,7 @@ to our Coaching Coordinator and see the [Volunteer]({{ site.baseurl }}/volunteer
 page for registration info.
 
 
-## Coaching Requirements
+## What do I need to be a coach?
 
 At least one coach or manager from each team must attend a first aid class and
 a baseball training session, both provided by the league at the beginning of the
@@ -33,7 +33,7 @@ Skills and health training is covered at Little League's [Incorporating
 Effective Local Training Can Prep Volunteers for a Safer, More Successful
 Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
 
-## Coaching Info
+## Things to Know
 
 ### Player Age
 
@@ -76,11 +76,22 @@ dehydrated, or to re-supply your hungry players from the snack shed.
 
 #### Stealing Bases
 
+_(Forthcoming)_
+
 #### Game Times, Lead Limits, Mercy Rules
+
+_(Forthcoming)_
 
 #### Pitching Limits
 
+Pitchers in every division have limits on the number of pitches they can
+throw in a game, how many days of rest they need afterward, and when they
+can switch between catcher and pitcher. See [our pitch counts](#pitch-counts)
+section for details.
+
 #### Substitutions
+
+_(Forthcoming)_
 
 ## Coaching Responsibilities
 
@@ -92,18 +103,17 @@ dehydrated, or to re-supply your hungry players from the snack shed.
 - field prep
 - dugout cleanup
 - batting lineup
-- substitutions
-- player time
+- substitutions and player time
 - make-up games
-- protecting players from injury
+- [protecting players from injury](#player-safety)
 * [track pitch counts](#pitch-counts) 
 
 ### Player Safety
 
-Ways to keep your team safe include:
+Ways to help keep your team safe include:
 * keeping a [first aid kit](https://www.littleleague.org/university/articles/first-aid-kits-an-items-list/){:target="_blank"} handy
 * knowing health essentials (see below)
-* [tracking pitch counts](#pitch-counts) 
+* [tracking in-game throws by your pitchers](#pitch-counts) 
 * correct use and maintenance of catching gear
 * knowing local field safety guidance
 * following league safety rules
