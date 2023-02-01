@@ -75,10 +75,6 @@ during the game. It can be _very_ helpful to have someone to find that player
 who took too long on a bathroom break, to fetch a drink for the player getting
 dehydrated, or to re-supply your hungry players from the snack shed.
 
-#### Stealing Bases
-
-_(Forthcoming)_
-
 #### Game Times, Lead Limits, Mercy Rules
 
 _(Forthcoming)_
@@ -89,6 +85,10 @@ Pitchers in every division have limits on the number of pitches they can
 throw in a game, how many days of rest they need afterward, and when they
 can switch between catcher and pitcher. See [our pitch counts](#pitch-counts)
 section for details.
+
+#### Stealing Bases
+
+_(Forthcoming)_
 
 #### Substitutions
 
