@@ -3,7 +3,6 @@ title: Coaches
 permalink: /coaches/
 toc: true
 toc_icon: trophy
-toc_h_min: 2
 toc_h_max: 3
 ---
 
