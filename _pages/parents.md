@@ -111,7 +111,7 @@ Little League Rule 1.11(j) states:
 
 See this [Little League summary](https://www.littleleague.org/help-center/can-a-player-wear-jewelry-such-as-rings-or-earrings-while-playing/)
 and the [Little League® Significant Rule and Regulation Updates for
-2023]({{ site.baseurl }}/assets/files/2023-rulebook-significant-changes.pdf) section
+2023]({% link /assets/files/2023-rulebook-significant-changes.pdf %}) section
 covering 1.11(j) for more.
 
 

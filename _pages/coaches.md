@@ -92,20 +92,11 @@ section for details.
 
 _(Forthcoming)_
 
-## Coaching Responsibilities
+## Responsibilities
 
-- player assessment/tryout days (see [Tips for Managers Prepping for Player
-  Tryouts](https://www.littleleague.org/university/articles/tips-for-managers-prepping-for-player-tryouts/))
-- practices
-- parent communication
-- team management
-- field prep
-- dugout cleanup
-- batting lineup
-- substitutions and player time
-- make-up games
-- [protecting players from injury](#player-safety)
-* [track pitch counts](#pitch-counts) 
+Coaches take on a handful of roles that are often shared by the team manager.
+We cover the list on our [volunteers]({{ site.baseurl }}/volunteers/#coach--assistant-coach)
+page. A few key roles are outlined below.
 
 ### Player Safety
 
@@ -126,7 +117,7 @@ CPR](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr/hands-only-cpr
 
 Learn about **concussion** symptoms and how to deal with potential head injuries.
 Print out a copy of this [Concussion Recognition
-Tool]({{ site.urls.files }}/concussion-field-guide.pdf).
+Tool]({% link /assets/files/concussion-field-guide.pdf %}).
 Familiarize yourself with it and keep it with your field bag or clipboard.
 You'll have it available if one of your players has any sign of a head injury.
 
@@ -140,7 +131,7 @@ Heat-related ilness is a real risk here in central California. Take a look at th
 Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
 Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/)
 and US Soccer's [Recognize to Recover Heat
-Guidelines]({{ site.urls.files }}/recognize-to-recover-heat-guidlines.pdf).
+Guidelines]({% link /assets/files/recognize-to-recover-heat-guidlines.pdf %}).
 
 ### Pitch Counts
 
@@ -161,7 +152,7 @@ See:
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
 
-#### Baseball Pitching Limits
+#### <span class=baseball>Baseball</span> Pitching Limits
 
 | **Age Range** | 6-8  | 9-10  | 11-12 | 13-16 |
 |---------------|------|-------|-------|-------|
@@ -183,7 +174,7 @@ Notes:
 * A catcher who has caught for 4 or more innings in a game may not pitch
   at all on that day.
 
-#### Softball Pitching Limits
+#### <span class=softball>Softball</span> Pitching Limits
 
 | **Age Range** | Minors & Majors    | Junior & Senior |
 |---------------|--------------------|-----------------|
