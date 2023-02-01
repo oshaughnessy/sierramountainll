@@ -27,10 +27,12 @@ be coaching.
 
 See Little League's [Appointing Managers, Coaches, and Umpires
 ](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
+{: .notice }
 
 Skills and health training is covered at Little League's [Incorporating
 Effective Local Training Can Prep Volunteers for a Safer, More Successful
 Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
+{: .notice }
 
 ## Things to Know
 
@@ -133,6 +135,20 @@ Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/)
 and US Soccer's [Recognize to Recover Heat
 Guidelines]({% link /assets/files/recognize-to-recover-heat-guidlines.pdf %}).
 
+### Coaching Bases
+
+Every team should have 2 coaches in addition to the team manager. 
+During games, a team will always need 1 registered adult in the
+dugout and 2 to serve as 1st and 3rd base coaches.
+
+If enough adults are not available, _players_ can serve as base
+coaches, but they cannot oversee the dugout.
+{: .notice--success }
+
+Little League has a great article on [Coaching
+Bases](https://www.littleleague.org/university/articles/coaching-the-bases-101/)
+that gives some introductory tips.
+
 ### Pitch Counts
 
 Players of all ages may only throw a limited number of pitches per
@@ -142,7 +158,9 @@ but it's helpful, as a coach, to keep track of your players' limits
 so that you can manage your pitching roster and substitutions
 effectively.
 
-See:
+{% capture pitch-count-refs %}
+For more info:
+
 * Little League's [Regular Season Pitching
   Rules](https://www.littleleague.org/playing-rules/pitch-count/)
 * Little League's [What are the league age pitch counts for Little League
@@ -151,6 +169,8 @@ See:
   Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
   For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
+{% endcapture %}
+<div class="notice">{{ pitch-count-refs | markdownify }}</div>
 
 #### <span class=baseball>Baseball</span> Pitching Limits
 
@@ -182,14 +202,6 @@ Notes:
 | **Rest Days After 7 Innings** | 1  | No requirement  |
 
 Note that no more than 5 pitchers may be used in a single game.
-
-### Coaching Bases
-
-At every game, your team will need coaches on 1st and 3rd base.
-
-Little League has a great article on [Coaching
-Bases](https://www.littleleague.org/university/articles/coaching-the-bases-101/)
-that gives some introductory tips.
 
 
 ## FAQ
@@ -230,8 +242,10 @@ Yes and no. Players cannot be loaned and borrowed directly between
 coaches. The process must be coordinated through the league's
 [Player Agent]({% link _pages/contact.md %}), where available players
 are part of a pool and assigned as needed by the agent.
+
 See Little League's [What is a Player
 Pool](https://www.littleleague.org/help-center/what-is-a-player-pool/).
+{: .notice }
 
 Please note that pool players may not pitch in games with their
 temporary teams. They must be used to play for 9 consecutive defensive
@@ -240,6 +254,7 @@ outs and bat once.
 See [Little League® Significant Rule and Regulation Updates for
 2021]({% link /assets/files/2021-rulebook-significant-updates.pdf %}),
 under "Regulation V(c)" for more information.
+{: .notice }
 
 ### _Can a coach warm up pitchers or catchers?_
 
@@ -258,6 +273,7 @@ include this update:
 
 See [Little League® Significant Rule and Regulation Updates for
 2023]({% link /assets/files/2023-rulebook-significant-changes.pdf %}).
+{: .notice }
 
 ### _Can youth play on more than one team or in more multiple divisions?_
 
