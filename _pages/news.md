@@ -8,5 +8,5 @@ sidebar:
   nav: news
 ---
 
-See [sierramountainll on Facebook](https://www.facebook.com/sierramountainll)
+See [sierramountainll on Facebook](https://www.facebook.com/sierramountainll){:target="_blank"}
 for more activity.
