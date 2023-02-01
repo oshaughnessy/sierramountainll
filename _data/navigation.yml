@@ -12,6 +12,9 @@ main:
 - title: Coaches
   url: /coaches/
   description: Info on managing and coaching teams
+- title: Rules
+  url: /rules/
+  description: Local rules and highlights
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
