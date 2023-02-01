@@ -49,9 +49,23 @@ See [Appendix B - Safety Code for Little
 League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
 {: .notice }
 
-## Game Times, Lead Limits, Mercy Rules
+## Lead Limits and Mercy Rules
 
-_(Forthcoming)_
+When a team has a strong lead over its oppenent, the team behind in runs should
+concede victory and the game can be terminated before a full 7 innings is played.
+
+| **Divisions**     | **Home has lead** | **Visitors have lead** | **Lead**   |
+|                   | **# Innings**     |                        | **# Runs** |
+|-------------------|------------------:|-----------------------:|-----------:|
+| Up through Majors | 2 1/2             | 3                      | 15 or more |
+| 50-70 and above   | 4 1/2             | 5                      | 8 or more  |
+
+(These numbers apply to regular-season games only.)
+{: .notice }
+
+See [The 8, 10, and 15-Run Rules: What Parents Need to
+Know](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/)
+{: .notice }
 
 
 ## Pitch Counts
@@ -132,4 +146,5 @@ runner may attempt to steal.
 
 _(Forthcoming)_
 
-See https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/
+See [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/)
+{: .notice }
