@@ -103,13 +103,13 @@ Little League Rule 1.11(j) states:
 > rings, watches, earrings, bracelets, necklaces, nor any
 > hard cosmetic/decorative items. This rule applies regardless
 > of the composition of such jewelry, hard cosmetic item, or
-> hard decorative item. Hard items to control the hair, such
-> as beads, are permitted.
+> hard decorative item. **Hard items to control the hair, such
+> as beads, are permitted.**
 >
 > EXCEPTION: Jewelry that alerts medical personnel to a specific condition
 > is permissible.
 
-See this [Little League summary](https://www.littleleague.org/help-center/can-a-player-wear-jewelry-such-as-rings-or-earrings-while-playing/)
+See this [Little League summary](https://www.littleleague.org/help-center/can-a-player-wear-jewelry-such-as-rings-or-earrings-while-playing/){:target="_blank"}
 and the [Little League® Significant Rule and Regulation Updates for
 2023]({% link /assets/files/2023-rulebook-significant-changes.pdf %}) section
 covering 1.11(j) for more.
