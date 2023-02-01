@@ -88,7 +88,18 @@ section for details.
 
 #### Stealing Bases
 
-_(Forthcoming)_
+In <span class=baseball>baseball</span>, the basic rule is this:
+
+> When a pitcher is in contact with the pitcher's plate and in possession
+> of the ball and the catcher is in the catcher's box ready for delivery
+> of the ball, base runners shall not leave their bases until the ball has
+> been delivered and has reached the batter.
+
+In other words, the ball has to reach the plate before a base runner
+can start to steal.
+
+SMLL has adopted a local rule that there will be no base stealing in T-ball.
+
 
 #### Substitutions
 
