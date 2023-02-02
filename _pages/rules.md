@@ -28,27 +28,28 @@ and the adoption of continuous batting orders in all divisions.
 2. Home dugout is always third base dugout.
 3. _No one_ is allowed to use tobacco or alcohol while at the Little League fields.
 4. Vulgar language and unsportsmanlike behavior _will not be tolerated_ -- this will lead to
-   an automatic ejection from the game; please refer to the Player and Parents Code of Conduct.
-5. Only approved Managers, Coaches, Players, and registered volunteers are allowed in the
-   dugout or on the playing field during games and practices
-6. The home team is responsible for turning the lights on and off, locking and unlocking the
-   restrooms, cleaning up trash, emptying the trash cans, prepping the field, and dragging the
-   field after the game.
+   an automatic ejection from the game; please refer to the [Player and Parents Codes of
+   Conduct]({{ site.baseurl }}/resources/#smll-forms).
+5. Only approved [Managers, Coaches, Players, and registered
+   volunteers]({% link _pages/volunteers.md %}) are allowed in the dugout or on the
+   playing field during games and practices
+6. The home team is responsible for turning the lights on and off, locking and unlocking
+   the restrooms, cleaning up trash, emptying the trash cans, prepping the field, and
+   dragging the field after the game.
 7. Children and Players are not allowed to play around the main buildings of the community center;
    they are especially not allowed to play on the big hills behind the field as this is a safety
    hazard. Players caught playing around these areas will be suspended from the next game.
-8. A batted fly ball in fair territory which hits the wires hanging
-   over the Major and Minor A left field will be ruled a ground rule double.
+8. A batted fly ball in fair territory which hits the wires hanging over the Major and Minor
+   A left field will be ruled a ground rule double.
 9. Makeup games will be scheduled during free blocks of time.
-10. Major teams will have preference on the major field. Thereafter, the
-    Field/Practice schedule will be determined at the coaches meeting. Major teams
-    will have preference over Minor teams for the major field. The order for picking
-    the schedule will be determined by the reverse order of the draft and the
-    practice schedule will be posted in the dugout.
-11. Home runs MUST clear the fence and the yellow tubing.
-12. If batted ball hits a wire, it cannot be caught for an out.
-13. Fair batted ball going through the fence will result in a ground rule double.
-14. Pitched ball trapped in the backstop will be a dead ball, no runner can advance.
+10. Major teams will have preference on the Major field. Thereafter, the field/practice
+    schedule will be determined at the coaches meeting. Major teams will have preference over
+    Minor teams for the major field. The order for picking the schedule will be determined by
+    the reverse order of the draft and the practice schedule will be posted in the dugout.
+11. Home runs _must_ clear the fence and the yellow tubing.
+12. If a batted ball hits a wire, it cannot be caught for an out.
+13. A fair batted ball going through the fence will result in a ground rule double.
+14. A pitched ball trapped in the backstop will be a dead ball; no runner can advance.
 
 ### Team Size and Substitutions
 
