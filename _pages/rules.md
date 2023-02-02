@@ -1,5 +1,6 @@
 ---
-title: Rules
+nav_title: Rules
+title: SMLL Rules Overview
 permalink: /rules/
 toc: true
 toc_icon: balance-scale
