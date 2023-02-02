@@ -50,12 +50,31 @@ and the adoption of continuous batting orders in all divisions.
 13. Fair batted ball going through the fence will result in a ground rule double.
 14. Pitched ball trapped in the backstop will be a dead ball, no runner can advance.
 
+### Team Size and Substitutions
+
+| Division        | Min Defensive Players on Field | Max Def. Players | Batting Plan |
+|-----------------|--------------------------------|------------------|--------------|
+| Tee Ball        | N/A     | 10 | All players hit in order | 
+| Minors          | 7\*     | 9  | All players hit in order |
+| AAA             | 7       | 9  | Continuous batting order |
+| Majors          | 9       | 9  | Continuous batting order |
+| 50-70 and above | 9       | 9  | Continuous batting order |
+
+<sup class="align-right">
+\* Minors: at managers' discretion, a team may play with fewer than 7 players
+</sup>
+
+Player sharing is possible between teams in various ways, depending on division:
+
+* *In T-Ball and Minors*: players may be shared at the team managers' discretion.
+* *In AAA and above*: players must be borrowed from the player pool. Speak to
+  [our Player Agent]({% link _pages/contact.md %}) if you need to request a player.
 
 ### Game Times
 
 For regular season games:
 
-| Divisions       | Max Time | Min Innings | Max Innings | Regulation Innings |
+| Division        | Max Time | Min Innings | Max Innings | Regulation Innings |
 |-----------------|:---------|:------------|:----------- |:-------------------|
 | Tee Ball        | 1:00     | 4           | 6           |                  6 |
 | Minors          | 1:30[^1] | 4           | 5[^1]       |                  6 |
@@ -170,6 +189,12 @@ League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:targ
 {: .notice }
 
 
+### Mandatory Play
+
+See [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/){:target="_blank"}
+{: .notice }
+
+
 ### Stealing Bases
 
 _According to Rule 7.13..._
@@ -193,12 +218,5 @@ In Minors, they may not leave until the ball reaches the batter.
 According to Rule 7.08(a)(5), runners are out for violating those rules.
 _But..._ if the softball slips from the pitcher's hand, it's in play and the
 runner may attempt to steal.
-
-### Substitutions
-
-_(Forthcoming)_
-
-See [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/)
-{: .notice }
 
 [^1]: League ground rule
