@@ -82,13 +82,13 @@ League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:targ
 
 For regular season games:
 
-| Divisions       | Max Time | Min Innings | Max Innings | Regulation Innings 
-|-----------------|---------:|------------:|------------:|-------------------:
-| Tee Ball        |     1:00 |           4 |           6 |                  6 
-| Minors          | 1:30[^1] |           4 |       5[^1] |                  6 
-| AAA             | 1:45[^1] |           4 |        None |                  6 
-| Majors          |     1:45 |           4 |        None |                  6 
-| 50-70 and above |     1:45 |           5 |        None |                  7 
+| Divisions       | Max Time | Min Innings | Max Innings | Regulation Innings |
+|-----------------|:---------|:------------|:----------- |:-------------------|
+| Tee Ball        | 1:00     | 4           | 6           |                  6 |
+| Minors          | 1:30[^1] | 4           | 5[^1]       |                  6 |
+| AAA             | 1:45[^1] | 4           | None        |                  6 |
+| Majors          | 1:45     | 4           | None        |                  6 |
+| 50-70 and above | 1:45     | 5           | None        |                  7 |
 
 ## Lead Limits and Mercy Rules
 
