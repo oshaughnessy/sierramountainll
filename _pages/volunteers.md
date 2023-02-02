@@ -85,6 +85,14 @@ drinks during and after the games. (Even the older kids like snacks,
 especially when it's hot out!) Help arrange an end-of-season party or
 trophy orders, if the coach wants to hand them out.
 
+### Grounds Maintenance
+
+Board members and coaches are often the people picking up trash, moving
+the cans around, checking on the bathrooms, etc. Fields need to be raked
+before games, dugouts need to be swept, trash needs to be collected and
+disposed of. People dedicated to helping with the general upkeep of the
+public areas, the dugouts, and the fields would be deeply appreciated.
+
 ### Scorekeeper
 
 Each team should supply a scorekeeper at every game. We teach new
