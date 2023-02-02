@@ -79,16 +79,19 @@ Player sharing is possible between teams in various ways, depending on division:
 
 ### Game Times
 
-For regular season games:
+For regular season games, these are the basic parameters:
 
 | Division        | Max Time | Min Innings | Max Innings | Regulation Innings |
 |-----------------|:---------|:------------|:----------- |:-------------------|
 | Tee Ball        | 1:00     | 4           | 6           |                  6 |
 | Minors          | 1:30[^1] | 4           | 5[^1]       |                  6 |
 | AAA             | 1:45[^1] | 4           | None        |                  6 |
-| Majors          | 1:45     | 4           | None        |                  6 |
+| Majors          | None     | 4           | 6           |                  6 |
 | 50-70 and above | 1:45     | 5           | None        |                  7 |
 
+There are various circumstances, like mercy rules (see below), curfew, and tied
+scores, that prompt earlier finishes, longer times, or more innings.
+{: .notice--warning }
 
 ### Lead Limits and Mercy Rules
 
@@ -136,15 +139,24 @@ All pitchers must have days to rest after pitching in a game:
 |---------------|------|-------|-------|-------|-----|
 | **Rest Days** | 0    | 1     | 2     | 3     | 4   |
 
+{% capture pitch-limit-notes %}
 Notes:
-* Once a pitcher has been removed from the mound, they cannot return
-  as a pitcher in the same game.
+* Once a pitcher has been removed from the mound, they cannot return as
+  a pitcher in the same game.
 * A pitcher may finish their current batter once reaching their limit.
 * A catcher who has caught for 3 or fewer innings, then throws 21 or more
   pitches in the same day (31 for 15- & 16-year-olds), may not play catcher again
   on that day.
 * A catcher who has caught for 4 or more innings in a game may not pitch
   at all on that day.
+{% endcapture %}
+<div class="notice--info">{{ pitch-limit-notes | markdownify }}</div>
+
+These describe the general conditions for most scenarios encountered by
+the coaches at SMLL. Please see [Little League's Regular Season Pitching
+Rules](https://www.littleleague.org/playing-rules/pitch-count/){:target="_blank"})
+for important details.
+{: .notice--warning }
 
 #### <span class=softball>Softball</span> Pitching Limits
 
@@ -159,11 +171,11 @@ Note that no more than 5 pitchers may be used in a single game.
 For more info:
 
 * Little League's [Regular Season Pitching
-  Rules](https://www.littleleague.org/playing-rules/pitch-count/)
+  Rules](https://www.littleleague.org/playing-rules/pitch-count/){:target="_blank"}
 * Little League's [Pitch Counts, Days Rest, and Why They
-  Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/)
+  Matter](https://www.littleleague.org/news/pitch-counts-days-rest-and-why-they-matter/){:target="_blank"}
 * SportsSafety.org's [Looking for Relief... Pitching, Pitch Counts, and What to Look
-  For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be)
+  For](https://sportssafety.org/articles/#1487006133811-63fc5540-61be){:target="_blank"}
 {% endcapture %}
 <div class="notice">{{ pitch-count-refs | markdownify }}</div>
 
