@@ -13,10 +13,10 @@ rules", where we call out the special circumstances related to our facilities an
 describe the approved divergences and intepretations of Little League's official rules.
 
 These describe the general conditions for most scenarios encountered by
-the coaches at SMLL. The [Little League
+the coaches at SMLL and are a best effort at summarizing the rules. The [official Little League
 rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"},
 subject to approved modifications as listed in [SMLL's Ground Rules](#smll-ground-rules),
- are the final word.
+ are the final word. At games, the umpires are the final word.
 
 In addition, Little League offers their own lists of rule highlights:
 * for coaches: [10 Commonly Misinterpreted Little League®
