@@ -100,9 +100,11 @@ is played, as long as all players have met their minimum play requirements.
 |                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
 |-------------------|--------------|---------------:|-----------------------:|
 | AAA[^1]           | _10 or more_ | _3 1/2_        | _4_                    |
-| Majors            | 8 or more    | 4 1/2          | 5                      |
+| Majors            |  15 or more  |  2 1/2         |  3                     |
+|                   | _10 or more_ | _3 1/2_        | _4_                    |
+|                   |  8 or more   |  4 1/2         |  5                     |
 | _50-70 and above_ | _15 or more_ | _3 1/2_        | _4_                    |
-|                   | 10 or more   |  4 1/2         |  5                     |
+|                   |  10 or more  |  4 1/2         |  5                     |
 |                   | _8 or more_  | _5 1/2_        | _6_                    |
 
 (These numbers apply to regular-season games only. Note that the 15-run rule
