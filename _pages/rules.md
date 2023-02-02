@@ -49,18 +49,36 @@ See [Appendix B - Safety Code for Little
 League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
 {: .notice }
 
+
+## Game Times
+
+For regular season games:
+
+| Divisions       | Max Time | Min Innings | Regulation Innings | Max Innings |
+|-----------------|---------:|------------:|-------------------:|------------:|
+| Tee Ball        |     1:30 |           4 |                  - |           6 |
+| Minors          | 1:30[^1] |       4[^1] |                  5 |       5[^1] |
+| AAA             |     1:45 |       4[^1] |                  6 |       4[^1] |
+| Majors          |     1:45 |           4 |                  6 |        None |
+| 50-70 and above |     1:45 |           5 |                  7 |        None |
+
 ## Lead Limits and Mercy Rules
 
 When a team has a strong lead over its oppenent, the team behind in runs should
-concede victory and the game can be terminated before a full 7 innings is played.
+concede victory and the game can be terminated before a "full" number of innings
+is played, as long as all players have met their minimum play requirements.
 
-| **Divisions**     | **Home has lead** | **Visitors have lead** | **Lead**   |
-|                   | **# Innings**     |                        | **# Runs** |
-|-------------------|------------------:|-----------------------:|-----------:|
-| Up through Majors | 2 1/2             | 3                      | 15 or more |
-| 50-70 and above   | 4 1/2             | 5                      | 8 or more  |
+| In Divisions      |   Lead       |  Home has lead |   Visitors have lead   |
+|                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
+|-------------------|--------------|---------------:|-----------------------:|
+| Up through Majors | _10 or more_ | _3 1/2_        | _4_                    |
+| Majors            | 8 or more    | 4 1/2          | 5                      |
+| _50-70 and above_ | _15 or more_ | _3 1/2_        | _4_                    |
+|                   | 10 or more   |  4 1/2         |  5                     |
+|                   | _8 or more_  | _5 1/2_        | _6_                    |
 
-(These numbers apply to regular-season games only.)
+(These numbers apply to regular-season games only. Note that the 15-run rule
+is ignored according to league ground rules.)
 {: .notice }
 
 See [The 8, 10, and 15-Run Rules: What Parents Need to
@@ -148,3 +166,5 @@ _(Forthcoming)_
 
 See [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/)
 {: .notice }
+
+[^1]: League ground rule
