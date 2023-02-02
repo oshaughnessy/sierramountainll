@@ -12,12 +12,12 @@ gallery_key_sponsors:
 
 gallery_sponsors:
   - image_path: /assets/sponsors/river-creek.png
-    alt: "River Creek Golf Course"
-    title: "River Creek Golf Course"
+    alt: River Creek Golf Course
+    title: River Creek Golf Course
     url: https://www.rivercreekgolfcourse.com
   - image_path: /assets/sponsors/eagle-quick-lube.png
-    alt: "Eagle Quick Lube"
-    title: "Eagle Quick Lube"
+    alt: Eagle Quick Lube
+    title: Eagle Quick Lube
     url: https://www.facebook.com/EagleQuickLube/
   - image_path: /assets/sponsors/oakhurst-pt.jpg
     alt: Oakhurst Physical Therapy
@@ -51,8 +51,8 @@ gallery_sponsors:
     url: http://waltbannondrilling.com
 
   - image_path: /assets/sponsors/mcgoldrick.png
-    alt: "McGoldrick & McGoldrick"
-    title: "McGoldrick & McGoldrick"
+    alt: McGoldrick & McGoldrick
+    title: McGoldrick & McGoldrick
     url: http://mcgoldricklaw.com
   - image_path: /assets/sponsors/round-table.png
     alt: Round Table Pizza, Oakhurst
@@ -95,13 +95,13 @@ Many, many thanks to our Sierra Mountain Little Leagues sponsors!
 
 We offer 2 types of sponsorships, for teams and fields.
 
-Team sponsors get their name on the back of jerseys for a group
-of kids in our AAA, Majors, or 50-70 division, where your name
+Team sponsors, at $250, get their name on the back of jerseys for a
+group of kids in our AAA, Majors, or 50-70 division, where your name
 will be seen close up by the parents in the stands and the sidelines
 at every game.
 
-Field sponsors get a banner out on our Majors field, where you can
-share the moment and the photo ops with our players' biggest hits.
+Field sponsors, at $500, get a banner out on our Majors field, where
+you can share the moment and the photo ops with our players' biggest hits.
 
 {% include figure image_path="/assets/sponsors/sponsor-shots-sgb.jpg"
    alt="South Gate Brewing, a local business, sponsors Sierra Mountain Little League"

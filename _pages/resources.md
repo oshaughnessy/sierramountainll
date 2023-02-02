@@ -1,4 +1,5 @@
 ---
+nav_title: Resource
 title: League Resources
 classes: wide
 permalink: /resources/

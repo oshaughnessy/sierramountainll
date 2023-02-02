@@ -2,7 +2,7 @@
 title: Volunteers
 permalink: /volunteers/
 toc: true
-toc_icon: trophy
+toc_icon: praying-hands
 ---
 
 For our kids to play and our league to function, we need volunteers
@@ -18,6 +18,11 @@ here. Thank you!
 
 There are many ways to serve. After you decide what to do, please
 see the [Registration](#registration) section farther down.
+
+_**Help!**_ We're looking for someone to coordinate our Little League [Challenger
+Division](https://www.littleleague.org/play-little-league/challenger/).
+If you're interested, please [reach out]({{ site.baseurl }}/contact/).
+{: .notice--success }
 
 
 ## Roles

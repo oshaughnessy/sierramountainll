@@ -2,7 +2,7 @@
 title: Rules
 permalink: /rules/
 toc: true
-toc_icon: trophy
+toc_icon: balance-scale
 toc_h_max: 3
 ---
 
