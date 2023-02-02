@@ -80,21 +80,28 @@ Player sharing is possible between teams in various ways, depending on division:
 
 ### Game Times
 
-For regular season games, these are the basic parameters:
+Game times are complicated to summarize. For regular season games, these are the
+basic parameters:
 
-| Division        | Max Time | Min Innings | Max Innings | Regulation Innings |
-|-----------------|:---------|:------------|:----------- |:-------------------|
-| Tee Ball        | 1:00     | 4           | 6           |                  6 |
-| Minors          | 1:30[^1] | 4           | 5[^1]       |                  6 |
-| AAA             | 1:45[^1] | 4           | None        |                  6 |
-| Majors          | None     | 4           | 6           |                  6 |
-| 50-70 and above | 2:00     | 5           | None        |                  7 |
+| Division        | Max Time | Min Innings    | Max Innings | Regulation Innings |
+|-----------------|:---------|:---------------|:----------- |:-------------------|
+| Tee Ball        | 1:00     | 3&frac12; or 4\* | 6     | 6 |
+| Minors          | 1:30[^1] | 3&frac12; or 4   | 5[^1] | 6 |
+| AAA             | 1:45[^1] | 3&frac12; or 4   | 6     | 6 |
+| Majors          | None     | 3&frac12; or 4   | 6     | 6 |
+| 50-70 and above | 2:00     | 4&frac12; or 5   | None  | 7 |
 
-There are various circumstances, like mercy rules (see below), curfew, and tied
-scores, that prompt earlier finishes, longer times, or more innings.
+\* Rule 4.10(c)(3): games will end half an inning earlier if the home team still has the lead
+after the visiting team has completed its first 4 (or 5) half-innings
+{: .small }
+
+There are various circumstances, like tied scores, run rules (see below), and curfew, that
+prompt earlier finishes, longer times, or more innings.  Please see section 4.10 of the
+[Little League rulebook](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
+for specifics.
 {: .notice--warning }
 
-### Lead Limits and Mercy Rules
+### Run Rules
 
 When a team has a strong lead over its oppenent, the team behind in runs should
 concede victory and the game can be terminated before a "full" number of innings
@@ -102,16 +109,16 @@ is played, as long as all players have met their minimum play requirements.
 
 For regular season games:
 
-| In Divisions      |   Lead       |  Home has lead |   Visitors have lead   |
-|                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
-|-------------------|--------------|---------------:|-----------------------:|
-| AAA\*[^1]           | _10 or more_ | _3 1/2_        | _4_                    |
-| Majors            |  15 or more  |  2 1/2         |  3                     |
-|                   | _10 or more_ | _3 1/2_        | _4_                    |
-|                   |  8 or more   |  4 1/2         |  5                     |
-| _50-70 and above_ | _15 or more_ | _3 1/2_        | _4_                    |
-|                   |  10 or more  |  4 1/2         |  5                     |
-|                   | _8 or more_  | _5 1/2_        | _6_                    |
+| In Divisions      |   Lead       |  Home has lead | Visitors have lead |
+|                   |   _Runs_     |  _at Inning_   | _at Inning_        |
+|-------------------|--------------|---------------:|-------------------:|
+| AAA\*[^1]         | _10 or more_ | _3&frac12;_    | _4_                |
+| Majors            |  15 or more  |  2&frac12;     |  3                 |
+|                   | _10 or more_ | _3&frac12;_    | _4_                |
+|                   |  8 or more   |  4&frac12;     |  5                 |
+| _50-70 and above_ | _15 or more_ | _3&frac12;_    | _4_                |
+|                   |  10 or more  |  4&frac12;     |  5                 |
+|                   | _8 or more_  | _5&frac12;_    | _6_                |
 
 \* AAA: Note that the 15-run rule is ignored according to [league ground rules](#smll-ground-rules).
 {: .small }
