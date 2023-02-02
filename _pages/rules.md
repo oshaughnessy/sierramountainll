@@ -18,8 +18,8 @@ Know](https://www.littleleague.org/university/articles/common-little-league-rule
 
 ## SMLL Ground Rules
 
-Please see [our ground rules for 2023]({% link /assets/files/smll-ground-rules-2023.pdf %}).
-Now for this year, they include the allowance of Game Changer for keeping score
+Please see [our latest ground rules]({% link /assets/files/smll-ground-rules-2023.pdf %}).
+New for 2023, they include the allowance of Game Changer for keeping score
 and the adoption of continuous batting orders in all divisions.
 
 ### SMLL Local Field Rules
@@ -50,35 +50,8 @@ and the adoption of continuous batting orders in all divisions.
 13. Fair batted ball going through the fence will result in a ground rule double.
 14. Pitched ball trapped in the backstop will be a dead ball, no runner can advance.
 
-## Coaches During Games
 
-Only 3 coaches per team are allowed on the field during games, which includes 2
-base coaches and 1 adult who must supervise the dugout while the team is at bat.
-
-People can't just freely exchange roles during a game. A person outside the
-field must stay outside the field, and a person on the field must fulfill all
-the roles of a team coach throughout.
-
-Coaches, consider arranging with a team parent to assist with off-field needs
-during the game. It can be _very_ helpful to have someone to find that player
-who took too long on a bathroom break, to fetch a drink for the player getting
-dehydrated, or to re-supply your hungry players from the snack shed.
-
-## On Deck
-
-Up through Majors, on-deck batters need to stay in the dugout and leave their bat
-on the rack until it's time to hit.
-
-> Regulations prohibit on-deck batters. This means no player should handle
-> a bat, even while in an enclosure, until it is his/her time at bat. This
-> applies only to Little League (Majors), Minor League, and Tee Ball.
-
-See [Appendix B - Safety Code for Little
-League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
-{: .notice }
-
-
-## Game Times
+### Game Times
 
 For regular season games:
 
@@ -90,7 +63,8 @@ For regular season games:
 | Majors          | 1:45     | 4           | None        |                  6 |
 | 50-70 and above | 1:45     | 5           | None        |                  7 |
 
-## Lead Limits and Mercy Rules
+
+### Lead Limits and Mercy Rules
 
 When a team has a strong lead over its oppenent, the team behind in runs should
 concede victory and the game can be terminated before a "full" number of innings
@@ -166,7 +140,37 @@ For more info:
 <div class="notice">{{ pitch-count-refs | markdownify }}</div>
 
 
-## Stealing Bases
+## Rule Highlights
+
+### Coaches During Games
+
+Only 3 coaches per team are allowed on the field during games, which includes 2
+base coaches and 1 adult who must supervise the dugout while the team is at bat.
+
+People can't just freely exchange roles during a game. A person outside the
+field must stay outside the field, and a person on the field must fulfill all
+the roles of a team coach throughout.
+
+Coaches, consider arranging with a team parent to assist with off-field needs
+during the game. It can be _very_ helpful to have someone to find that player
+who took too long on a bathroom break, to fetch a drink for the player getting
+dehydrated, or to re-supply your hungry players from the snack shed.
+
+### On Deck
+
+Up through Majors, on-deck batters need to stay in the dugout and leave their bat
+on the rack until it's time to hit.
+
+> Regulations prohibit on-deck batters. This means no player should handle
+> a bat, even while in an enclosure, until it is his/her time at bat. This
+> applies only to Little League (Majors), Minor League, and Tee Ball.
+
+See [Appendix B - Safety Code for Little
+League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:target="_blank"}
+{: .notice }
+
+
+### Stealing Bases
 
 _According to Rule 7.13..._
 
@@ -190,7 +194,7 @@ According to Rule 7.08(a)(5), runners are out for violating those rules.
 _But..._ if the softball slips from the pitcher's hand, it's in play and the
 runner may attempt to steal.
 
-## Substitutions
+### Substitutions
 
 _(Forthcoming)_
 
