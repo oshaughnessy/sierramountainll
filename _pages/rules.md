@@ -22,6 +22,29 @@ Please see [our ground rules for 2023]({% link /assets/files/smll-ground-rules-2
 Now for this year, they include the allowance of Game Changer for keeping score
 and the adoption of continuous batting orders in all divisions.
 
+### SMLL Local Field Rules
+
+1. Any kid warming up an outfielder MUST have a helmet on.
+2. Home dugout is always third base dugout
+3. NO ONE is allowed to use tobacco or alcohol while at the Little League fields
+4. Vulgar language and unsportsmanlike behavior WILL NOT BE TOLERATED- this will lead to
+an automatic ejection from the game; please refer to the Player and Parents Code of Conduct
+5. Only approved Managers, Coaches, Players, and registered volunteers are allowed in the
+dugout or on the playing field during games and practices
+6. The home team is responsible for turning the lights on and off, locking and unlocking the
+restrooms, cleaning up trash, emptying the trash cans, prepping the field, and dragging the
+field after the game.
+7. Children and Players are not allowed to play around the main buildings of the community
+center; they are especially not allowed to play on the big hills behind the field as this is a safety hazard. Players caught playing around these areas will be suspended from the next game.
+8. A batted fly ball in fair territory which hits the wires hanging over the Major and Minor A left field will be ruled a ground rule double.
+9. Makeup games will be scheduled during free blocks of time.
+10. Major teams will have preference on the major field. Thereafter, the Field/Practice schedule
+will be determined at the coaches meeting. Major teams will have preference over Minor teams for the major field. The order for picking the schedule will be determined by the reverse order of the draft and the practice schedule will be posted in the dugout.
+11. Home runs MUST clear the fence and the yellow tubing.
+12. If batted ball hits a wire, it cannot be caught for an out.
+13. Fair batted ball going through the fence will result in a ground rule double.
+14. Pitched ball trapped in the backstop will be a dead ball, no runner can advance.
+
 ## Coaches During Games
 
 Only 3 coaches per team are allowed on the field during games, which includes 2
