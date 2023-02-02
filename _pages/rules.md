@@ -96,6 +96,8 @@ When a team has a strong lead over its oppenent, the team behind in runs should
 concede victory and the game can be terminated before a "full" number of innings
 is played, as long as all players have met their minimum play requirements.
 
+For regular season games:
+
 | In Divisions      |   Lead       |  Home has lead |   Visitors have lead   |
 |                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
 |-------------------|--------------|---------------:|-----------------------:|
