@@ -49,7 +49,7 @@ and the adoption of continuous batting orders in all divisions.
 11. Home runs _must_ clear the fence and the yellow tubing.
 12. If a batted ball hits a wire, it cannot be caught for an out.
 13. A fair batted ball going through the fence will result in a ground rule double.
-14. A pitched ball trapped in the backstop will be a dead ball; no runner can advance.
+14. A pitched ball trapped in the backstop will be a dead ball; no runner may advance.
 
 ### Team Size and Substitutions
 
