@@ -174,7 +174,8 @@ the roles of a team coach throughout.
 Coaches, consider arranging with a team parent to assist with off-field needs
 during the game. It can be _very_ helpful to have someone to find that player
 who took too long on a bathroom break, to fetch a drink for the player getting
-dehydrated, or to re-supply your hungry players from the snack shed.
+dehydrated, or to grab those batting gloves someone forgot.
+{: .notice--success }
 
 ### On Deck
 
