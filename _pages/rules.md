@@ -6,11 +6,17 @@ toc_icon: balance-scale
 toc_h_max: 3
 ---
 
-The sections below highlight our local "ground rules", where we call out
-the special circumstances related to our facilities and describe the
-approved divergences and intepretations of Little League's official rules.
+In the sections below, we've tried to summarize Little League rules that stand
+out as things coaches need to know.  We also highlight our local "ground rules",
+where we call out the special circumstances related to our facilities and describe
+the approved divergences and intepretations of Little League's official rules.
 
-In addition, Little League offers their own lists:
+The [Little League
+rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"},
+subject to approved modifications as listed in [SMLL's Ground Rules](#smll-ground-rules),
+ are the final word.
+
+In addition, Little League offers their own lists of rule highlights:
 * for coaches: [10 Commonly Misinterpreted Little League®
   Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpreted-little-league-rules/){:target="_blank"}
 * for parents: [Common Little League® Rule Misconceptions: What Parents Need to
