@@ -7,11 +7,13 @@ toc_h_max: 3
 ---
 
 In the sections below, we've tried to summarize Little League rules that stand
-out as things coaches need to know.  We also highlight our local "ground rules",
-where we call out the special circumstances related to our facilities and describe
-the approved divergences and intepretations of Little League's official rules.
+out as things our coaches should know, for regular season games in T-Ball through
+50-70, here at Sierra Mountain Little League. We also highlight our local "ground
+rules", where we call out the special circumstances related to our facilities and
+describe the approved divergences and intepretations of Little League's official rules.
 
-The [Little League
+These describe the general conditions for most scenarios encountered by
+the coaches at SMLL. The [Little League
 rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"},
 subject to approved modifications as listed in [SMLL's Ground Rules](#smll-ground-rules),
  are the final word.
