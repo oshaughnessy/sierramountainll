@@ -82,13 +82,13 @@ League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:targ
 
 For regular season games:
 
-| Divisions       | Max Time | Min Innings | Regulation Innings | Max Innings |
-|-----------------|---------:|------------:|-------------------:|------------:|
-| Tee Ball        |     1:30 |           4 |                  - |           6 |
-| Minors          | 1:30[^1] |       4[^1] |                  5 |       5[^1] |
-| AAA             |     1:45 |       4[^1] |                  6 |       4[^1] |
-| Majors          |     1:45 |           4 |                  6 |        None |
-| 50-70 and above |     1:45 |           5 |                  7 |        None |
+| Divisions       | Max Time | Min Innings | Max Innings | Regulation Innings 
+|-----------------|---------:|------------:|------------:|-------------------:
+| Tee Ball        |     1:00 |           4 |           6 |                  6 
+| Minors          | 1:30[^1] |           4 |       5[^1] |                  6 
+| AAA             | 1:45[^1] |           4 |        None |                  6 
+| Majors          |     1:45 |           4 |        None |                  6 
+| 50-70 and above |     1:45 |           5 |        None |                  7 
 
 ## Lead Limits and Mercy Rules
 
@@ -99,7 +99,7 @@ is played, as long as all players have met their minimum play requirements.
 | In Divisions      |   Lead       |  Home has lead |   Visitors have lead   |
 |                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
 |-------------------|--------------|---------------:|-----------------------:|
-| Up through Majors | _10 or more_ | _3 1/2_        | _4_                    |
+| AAA[^1]           | _10 or more_ | _3 1/2_        | _4_                    |
 | Majors            | 8 or more    | 4 1/2          | 5                      |
 | _50-70 and above_ | _15 or more_ | _3 1/2_        | _4_                    |
 |                   | 10 or more   |  4 1/2         |  5                     |
