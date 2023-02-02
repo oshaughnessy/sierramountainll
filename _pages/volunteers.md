@@ -98,7 +98,7 @@ public areas, the dugouts, and the fields would be deeply appreciated.
 Each team should supply a scorekeeper at every game. We teach new
 people to do it every year, and it can be a fun part of the experience.
 
-### Snack Bar
+### Snack Shack
 
 SMLL's primary fundraiser is the snack bar that we open on game days.
 Many parents like to help there at a time before or after their kids
