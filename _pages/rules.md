@@ -22,7 +22,10 @@ In addition, Little League offers their own lists of rule highlights:
 * for coaches: [10 Commonly Misinterpreted Little League®
   Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpreted-little-league-rules/){:target="_blank"}
 * for parents: [Common Little League® Rule Misconceptions: What Parents Need to
-Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/){:target="_blank"}
+  Know](https://www.littleleague.org/university/articles/common-little-league-rule-misconceptions-what-parents-need-to-know/){:target="_blank"}
+* for everyone: this season's [Rule Changes and
+  Clarifications](https://www.littleleague.org/playing-rules/rule-changes/){:target="_blank"}
+
 
 ## SMLL Ground Rules
 
