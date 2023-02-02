@@ -12,6 +12,8 @@ many common questions.
 
 ## Who can play?
 
+![SMLL Boys]({% link /assets/images/smll-boys.jpg %}){: .align-left .third-width }
+
 Boys and girls ages 4-13 can play baseball with the Sierra Mountain Little
 League. Girls ages 9-12 can play softball here.
 
