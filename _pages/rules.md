@@ -64,14 +64,13 @@ and the adoption of continuous batting orders in all divisions.
 | Division        | Min Defensive Players on Field | Max Def. Players | Batting Plan |
 |-----------------|--------------------------------|------------------|--------------|
 | Tee Ball        | N/A     | 10 | All players hit in order | 
-| Minors          | 7\*     | 9  | All players hit in order |
+| Minors          | 7\*[^1] | 9  | All players hit in order |
 | AAA             | 7       | 9  | Continuous batting order |
 | Majors          | 9       | 9  | Continuous batting order |
 | 50-70 and above | 9       | 9  | Continuous batting order |
 
-<sup class="align-right">
 \* Minors: at managers' discretion, a team may play with fewer than 7 players
-</sup>
+{: .small }
 
 Player sharing is possible between teams in various ways, depending on division:
 
@@ -89,7 +88,7 @@ For regular season games, these are the basic parameters:
 | Minors          | 1:30[^1] | 4           | 5[^1]       |                  6 |
 | AAA             | 1:45[^1] | 4           | None        |                  6 |
 | Majors          | None     | 4           | 6           |                  6 |
-| 50-70 and above | 1:45     | 5           | None        |                  7 |
+| 50-70 and above | 2:00     | 5           | None        |                  7 |
 
 There are various circumstances, like mercy rules (see below), curfew, and tied
 scores, that prompt earlier finishes, longer times, or more innings.
@@ -106,7 +105,7 @@ For regular season games:
 | In Divisions      |   Lead       |  Home has lead |   Visitors have lead   |
 |                   |   _Runs_     |  _at Inning_   |   _at Inning_          |
 |-------------------|--------------|---------------:|-----------------------:|
-| AAA[^1]           | _10 or more_ | _3 1/2_        | _4_                    |
+| AAA\*[^1]           | _10 or more_ | _3 1/2_        | _4_                    |
 | Majors            |  15 or more  |  2 1/2         |  3                     |
 |                   | _10 or more_ | _3 1/2_        | _4_                    |
 |                   |  8 or more   |  4 1/2         |  5                     |
@@ -114,9 +113,8 @@ For regular season games:
 |                   |  10 or more  |  4 1/2         |  5                     |
 |                   | _8 or more_  | _5 1/2_        | _6_                    |
 
-(These numbers apply to regular-season games only. Note that the 15-run rule
-is ignored according to league ground rules.)
-{: .notice }
+\* AAA: Note that the 15-run rule is ignored according to [league ground rules](#smll-ground-rules).
+{: .small }
 
 See [The 8, 10, and 15-Run Rules: What Parents Need to
 Know](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/)
@@ -230,8 +228,8 @@ In <span class=baseball>baseball</span>, the basic rule is this:
 > of the ball, base runners shall not leave their bases until the ball has
 > been delivered and has reached the batter.
 
-In other words, the ball has to reach the plate before a base runner
-can start to steal.
+In other words, the ball has to reach the plate from a pitch before a base
+runner can start to steal.
 
 SMLL has adopted a local rule that there will be no base stealing in T-ball.
 
