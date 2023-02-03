@@ -224,7 +224,19 @@ League](https://www.littleleague.org/playing-rules/appendices/appendix-b/){:targ
 
 ### Mandatory Play
 
-See [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/){:target="_blank"}
+According to Little League, in the regular season, "every rostered player
+present at the start of a game must participate in each game for a minimum of
+six defensive outs and bat at least once". There are special rules for games
+that end early, varying team sizes, and the Minor divisions.
+
+If a player does not meet their play requirements in a given game, they must
+start the next game, complete the reqs missed from that last game, and then
+those of the current game, before being removed from play.
+
+Tournaments do not have mandatory play, but they do use continuous batting order,
+just as SMLL has adopted for regular season play in all divisions.
+
+For further explanation, please see [Regular Season Rules and Regulations Spotlight: Player Re-Entry, Special Pinch-Runner, Pitch Count, and Mandatory Play](https://www.littleleague.org/university/articles/rules-and-regulations-spotlight-player-re-entry-special-pinch-runner-pitch-count-and-mandatory-play/){:target="_blank"}
 {: .notice }
 
 
