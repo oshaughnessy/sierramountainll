@@ -23,7 +23,7 @@ page at [sierramountainll.com](https://sierramountainll.com){:target="_blank"}:
 
 ## SMLL Public Documents
 
-* [SMLL ASAP Safetey Plan]({% link /assets/files/smll-asap-2023.pdf %}){:target="_blank"} (see
+* [SMLL ASAP Safety Plan]({% link /assets/files/smll-asap-2023.pdf %}){:target="_blank"} (see
    Little League's [A Safety Awareness Program](https://www.littleleague.org/player-safety/asap/){:target="_blank"})
 * [SMLL Bylaws]({% link /assets/files/smll-bylaws-2023.pdf %}){:target="_blank"}
 * [SMLL Constitution]({% link /assets/files/smll-constitution-2023.pdf %}){:target="_blank"}
