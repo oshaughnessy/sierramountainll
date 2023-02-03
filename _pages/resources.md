@@ -21,14 +21,20 @@ page at [sierramountainll.com](https://sierramountainll.com){:target="_blank"}:
 * [Field status](https://www.sierramountainll.com/Default.aspx?tabid=1026909){:target="_blank"}
 
 
+## SMLL Public Documents
+
+* [SMLL ASAP Safetey Plan]({% link /assets/files/smll-asap-2023.pdf %}){:target="_blank"} (see
+   Little League's [A Safety Awareness Program](https://www.littleleague.org/player-safety/asap/){:target="_blank"})
+* [SMLL Bylaws]({% link /assets/files/smll-bylaws-2023.pdf %}){:target="_blank"}
+* [SMLL Constitution]({% link /assets/files/smll-constitution-2023.pdf %}){:target="_blank"}
+* [COVID-19 Safety Plan]({% link /assets/files/smll-covid-protocol-2021.pdf %}){:target="_blank"}
+* [2020-21 Profit and Loss Report]({% link /assets/files/smll-profit-loss-2020-2021.pdf %}){:target="_blank"}
+
+
 ## SMLL Forms
 
-* [SMLL Constitution]({{ site.baseurl }}/assets/files/smll-constitution-2022.docx){:target="_blank"}
-* [SMLL Bylaws]({{ site.baseurl }}/assets/files/smll-bylaws-2022.docx){:target="_blank"}
-* [COVID-19 Safety Plan]({{ site.baseurl }}/assets/files/2021-covid-protocol.pdf){:target="_blank"}
-* [Parent Code of Conduct]({{ site.baseurl }}/assets/files/smll-parent-code-of-conduct.pdf){:target="_blank"}
-* [Player Code of Conduct]({{ site.baseurl }}/assets/files/smll-player-code-of-conduct.pdf){:target="_blank"}
-* [2020-21 Profit and Loss Report]({{ site.baseurl }}/assets/files/smll-profit-loss-2020-2021.pdf){:target="_blank"}
+* [Parent Code of Conduct]({% link /assets/files/smll-parent-code-of-conduct.pdf %}){:target="_blank"}
+* [Player Code of Conduct]({% link /assets/files/smll-player-code-of-conduct.pdf %}){:target="_blank"}
 
 
 ## Little League Forms and References
