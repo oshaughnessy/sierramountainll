@@ -2,7 +2,8 @@
 
 Home page code for Sierra Mountain Little League at [smll.info](https://smll.info).
 
-League info, including registration, is hosted at [sierramountainll.com](https://sierramountainll.com).
+Includes the latest information for league participants. Registration is hosted at
+[sierramountainll.com](https://sierramountainll.com).
 
 
 ## Credits
