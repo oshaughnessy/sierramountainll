@@ -11,6 +11,8 @@ but running a team takes a lot of different skills, and it can often
 be easier if the effort is shared by people who enjoy different
 strengths.
 
+![SMLL Majors at night]({% link /assets/images/smll-majors-at-night.jpg %}){: .align-left .half-width }
+
 We also have volunteers who aren't parents of players, but know the
 game and see the value of bringing Little League to the community.
 To all of you, we appreciate your support and passion for the youth
