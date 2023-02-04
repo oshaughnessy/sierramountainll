@@ -22,10 +22,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 */
 
 /* fonts */
-$main-font: "Robot Slab";
-/* $hero-font: "DM Serif Text"; */
-/* $hero-font: "Volkhov"; */
-$hero-font: "DM Serif Text";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Roboto+Flex:wght@200&display=swap&family=Roboto&display=swap');
+$hero-font: "DM Serif Text"; // "Volkhov", "DM Serif Text"
+$main-font: "Roboto Flex";
+$page-font-weight: 200;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 /*
@@ -66,6 +66,7 @@ $base0f: #b18a3d !default;
 
 $ll-baseball-lightblue: #1472ed;
 $ll-baseball-color: #019cde;
+$ll-challenger-color: #85be00;
 $ll-softball-color: #ff6900;
 
 .baseball, .softball {
@@ -77,6 +78,10 @@ $ll-softball-color: #ff6900;
     color: $ll-baseball-color;
 }
 
+.challenger {
+    color: $ll-challenger-color;
+}
+
 .softball {
     color: $ll-softball-color;
 }
@@ -84,6 +89,11 @@ $ll-softball-color: #ff6900;
 :is(h1, h2, h3, h4, h5, h6)
 .baseball {
     background-color: $ll-baseball-color;
+    color: $background-color;
+}
+
+.challenger {
+    background-color: $ll-challenger-color;
     color: $background-color;
 }
 
@@ -142,7 +152,7 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
 :is(section.page__content, .archive) 
 p
 {
-    font-weight: 400;
+    font-weight: $page-font-weight;
     line-height: 1.5;
     color: #5b5e73;
 }
