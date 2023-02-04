@@ -27,6 +27,7 @@ how old they were at the end of the year prior.
    image_path="/assets/images/smll-minors-hit.jpg"
    alt="SMLL Minors player at bat"
    caption="It's a hit! ... at the SMLL Minors field" %}
+{: .clear }
 
 
 ## Sign Up
