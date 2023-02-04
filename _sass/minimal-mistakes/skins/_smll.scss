@@ -22,10 +22,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 */
 
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Roboto+Flex:wght@200&display=swap&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Nunito+Sans:wght@300&family=Roboto+Flex:wght@300&display=swap&family=Roboto&display=swap');
 $hero-font: "DM Serif Text"; // "Volkhov", "DM Serif Text"
 $main-font: "Roboto Flex";
-$page-font-weight: 200;
+$page-font-weight: 300;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 /*
