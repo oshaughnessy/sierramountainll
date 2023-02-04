@@ -23,7 +23,10 @@ Note that the formulas for baseball and softball league ages are different:
 a baseball player's is how old they are on Aug 31, a softball player's is
 how old they were at the end of the year prior.
 
-![SMLL Minors player at bat]({% link /assets/images/smll-minors-hit.jpg %}){: .align-right .half-width }
+{% include figure
+   image_path="/assets/images/smll-minors-hit.jpg"
+   alt="SMLL Minors player at bat"
+   caption="It's a hit! ... at the SMLL Minors field" %}
 
 
 ## Sign Up
