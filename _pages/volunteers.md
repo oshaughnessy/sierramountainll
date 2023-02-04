@@ -11,7 +11,10 @@ but running a team takes a lot of different skills, and it can often
 be easier if the effort is shared by people who enjoy different
 strengths.
 
-![SMLL Majors at night]({% link /assets/images/smll-majors-at-night.jpg %}){: .align-left .half-width }
+{% include figure
+   image_path="/assets/images/smll-majors-at-night.jpg"
+   alt="SMLL Majors field at sunset"
+   caption="SMLL Majors field at sunset" %}
 
 We also have volunteers who aren't parents of players, but know the
 game and see the value of bringing Little League to the community.
@@ -21,13 +24,13 @@ here. Thank you!
 There are many ways to serve. After you decide what to do, please
 see the [Registration](#registration) section farther down.
 
+
+## Roles
+
 _**Help!**_ We're looking for someone to coordinate our Little League [Challenger
 Division](https://www.littleleague.org/play-little-league/challenger/).
 If you're interested, please [reach out]({{ site.baseurl }}/contact/).
 {: .notice--success }
-
-
-## Roles
 
 ### Team Manager
 
