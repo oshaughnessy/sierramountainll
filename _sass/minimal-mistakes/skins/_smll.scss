@@ -147,6 +147,12 @@ p
     color: #5b5e73;
 }
 
+:is(section.page__content, .archive) 
+img
+{
+    border-radius: 4px;
+}
+
 .page * table,
 .archive table {
     border-radius: 4px;
