@@ -25,10 +25,11 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 $site-title-font: "IM Fell Great Primer SC";
 $hero-font: "DM Serif Text"; // "Volkhov", "DM Serif Text"
 $main-font: "Roboto Flex";
+$header-font: "Roboto Slab";
 $page-font-weight: 300;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300&family=Roboto+Slab&display=swap');
 
 /*
 $sans-serif: proxima-nova, Corbel, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -128,6 +129,12 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 /* notices */
 p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
 
+h1.page__title {
+    font-family: $header-font, $main-font, sans-serif;
+    font-weight: 1200;
+    font-style: bold;
+}
+
 .page__title {
     color: $footer-background-color;
     /* font-variant: small-caps; */
@@ -136,7 +143,7 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
     text-decoration-style: single;
     text-decoration-skip-ink: none;
     text-decoration-thickness: 0.12em;
-    text-underline-offset: 0.2em;
+    text-underline-offset: 0.1em;
 }
 
 .page__content {
