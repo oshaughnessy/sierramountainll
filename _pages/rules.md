@@ -264,4 +264,7 @@ According to Rule 7.08(a)(5), runners are out for violating those rules.
 _But..._ if the softball slips from the pitcher's hand, it's in play and the
 runner may attempt to steal.
 
+For more on stealing bases in softball, see [Softball Base Running: The Circle Rule](https://www.littleleague.org/university/articles/softball-base-running-the-circle-rule/){:target="_blank"}
+{: .notice }
+
 [^1]: League ground rule
