@@ -65,13 +65,13 @@ and the adoption of continuous batting orders in all divisions.
 
 ### Team Size and Substitutions
 
-| Division | Min Defensive Players on Field | Max | Batting Plan | Min Season Roster | Max |
-|----------|--------------------------------|------------------|---------------|-|-|
-| Tee Ball | None    | 10 | All players hit in order | None | None |
-| Minors   | 7\*[^1] | 9  | All players hit in order | None | None |
-| AAA      | 7       | 9  | Continuous batting order | None | None |
-| Majors   | 9       | 9  | Continuous batting order | 10   | 15   |
-| 50-70+   | 9       | 9  | Continuous batting order | 10   | 15\*   |
+| Division | Min on Field | Max | Batting Plan | Min Season Roster | Max |
+|----------|--------------|-----|--------------|-|-|
+| Tee Ball | None         | 10  | All players hit in order | None | None |
+| Minors   | 7\*[^1]      | 9   | All players hit in order | None | None |
+| AAA      | 7            | 9   | Continuous batting order | None | None |
+| Majors   | 9            | 9   | Continuous batting order | 10   | 15   |
+| 50-70+   | 9            | 9   | Continuous batting order | 10   | 15\*   |
 
 \* Minors: at managers' discretion, a team may play with fewer than 7 players<br />
 \* Juniors & Seniors: may roster 20 players if they're the only such team in the league
