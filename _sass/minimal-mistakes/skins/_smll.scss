@@ -22,12 +22,14 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 */
 
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Roboto+Flex:wght@300&display=swap');
+$site-title-font: "IM Fell Great Primer SC";
 $hero-font: "DM Serif Text"; // "Volkhov", "DM Serif Text"
 $main-font: "Roboto Flex";
 $page-font-weight: 300;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300&display=swap');
+
 /*
 $sans-serif: proxima-nova, Corbel, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $sans-serif: futura-pt, Corbel, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -313,6 +315,6 @@ div.gallery {
 }
 
 .greedy-nav a.site-title {
-    font-family: "IM Fell Great Primer SC";
+    font-family: $site-title-font;
     font-weight: bold;
 }
