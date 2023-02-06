@@ -82,10 +82,6 @@ Player sharing is possible between teams in various ways, depending on division:
 * *In AAA and above*: players must be borrowed from the player pool. Speak to
   [our Player Agent]({% link _pages/contact.md %}) if you need to request a player.
 
-See Rule III of  the
-[Little League rulebook](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
-{: .notice }
-
 ### Game Times
 
 Game times are complicated to summarize. For regular season games, these are the

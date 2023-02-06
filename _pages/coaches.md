@@ -124,6 +124,19 @@ talks about a number of injuries players can get from overuse, and how to identi
 
 ## FAQ
 
+### _How big will my team be?_
+
+In T-Ball and Minors, there are no limits to the size of a team. The average
+is about 12 players, but it varies year to year.
+
+In all higher divisions, a team must be between 10-15 players. In Juniors and
+Seniors (which we don't generally do at SMLL), if there's only 1 team, it can
+have up to 20 players.
+
+See Rule III of  the
+[Little League rulebook](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
+{: .notice }
+
 ### _What if I can't make all the games?_
 
 An assistant coach or a team parent can cover practices and games
