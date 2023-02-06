@@ -129,6 +129,20 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 /* notices */
 p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
 
+.masthead a {
+    font-weight: bold;
+}
+
+.greedy-nav a {
+    font-family: $header-font;
+    font-weight: bold;
+}
+
+.greedy-nav a.site-title {
+    font-family: $site-title-font;
+    font-weight: bold;
+}
+
 h1.page__title {
     font-family: $header-font, $main-font, sans-serif;
     font-weight: 1200;
@@ -315,13 +329,4 @@ div.gallery {
 
 .quarter-width {
     width: 25%;
-}
-
-.masthead a {
-    font-weight: bold;
-}
-
-.greedy-nav a.site-title {
-    font-family: $site-title-font;
-    font-weight: bold;
 }
