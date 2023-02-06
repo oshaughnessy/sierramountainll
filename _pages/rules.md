@@ -65,15 +65,16 @@ and the adoption of continuous batting orders in all divisions.
 
 ### Team Size and Substitutions
 
-| Division        | Min Defensive Players on Field | Max Def. Players | Batting Plan |
-|-----------------|--------------------------------|------------------|--------------|
-| Tee Ball        | N/A     | 10 | All players hit in order | 
-| Minors          | 7\*[^1] | 9  | All players hit in order |
-| AAA             | 7       | 9  | Continuous batting order |
-| Majors          | 9       | 9  | Continuous batting order |
-| 50-70 and above | 9       | 9  | Continuous batting order |
+| Division | Min Defensive Players on Field | Max | Batting Plan | Min Season Roster | Max |
+|----------|--------------------------------|------------------|---------------|-|-|
+| Tee Ball | None    | 10 | All players hit in order | None | None |
+| Minors   | 7\*[^1] | 9  | All players hit in order | None | None |
+| AAA      | 7       | 9  | Continuous batting order | None | None |
+| Majors   | 9       | 9  | Continuous batting order | 10   | 15   |
+| 50-70+   | 9       | 9  | Continuous batting order | 10   | 15\*   |
 
-\* Minors: at managers' discretion, a team may play with fewer than 7 players
+\* Minors: at managers' discretion, a team may play with fewer than 7 players<br />
+\* Juniors & Seniors: may roster 20 players if they're the only such team in the league
 {: .small }
 
 Player sharing is possible between teams in various ways, depending on division:
@@ -81,6 +82,10 @@ Player sharing is possible between teams in various ways, depending on division:
 * *In T-Ball and Minors*: players may be shared at the team managers' discretion.
 * *In AAA and above*: players must be borrowed from the player pool. Speak to
   [our Player Agent]({% link _pages/contact.md %}) if you need to request a player.
+
+See Rule III of  the
+[Little League rulebook](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
+{: .notice }
 
 ### Game Times
 
