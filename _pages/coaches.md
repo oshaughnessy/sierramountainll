@@ -133,8 +133,9 @@ In all higher divisions, a team must be between 10-15 players. In Juniors and
 Seniors (which we don't generally do at SMLL), if there's only 1 team, it can
 have up to 20 players.
 
-See Rule III of  the
+See Rule III of the
 [Little League rulebook](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
+and [Determining Roster Sizes for Teams](https://www.littleleague.org/university/articles/preparing-team-rosters/){:target="_blank"}.
 {: .notice }
 
 ### _What if I can't make all the games?_
