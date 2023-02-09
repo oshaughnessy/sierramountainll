@@ -16,11 +16,13 @@ header:
 
 ## 2023 Season Dates
 
-Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}. Any early bird discount of $25 is available through Jan 31.
+Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}.
 
-| Early Bird Registration | Regular Registration | **Asessment Day** | **Opening Day** |
+| Early Bird Registration | Regular Registration | Asessment Days | Opening Day |
+|                         |                      | By Age, 6pm        |                 |
 |---
-| Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 25<br/>(make-up Feb 27) | March 18 |
+| Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 27: **8 & 9**<br/>Feb 28: **10 & 11**<br />Mar 1: **12 & 13**<br />Mar 2: **Softball** | March 18 |
+{: .align-top }
 
 Wondering what division to sign up for? After you log in to the registration site
 and fill out your child's basic info, you'll be offered the right choices for them.
