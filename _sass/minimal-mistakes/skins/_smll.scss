@@ -157,7 +157,7 @@ h1.page__title {
     text-decoration: underline;
     text-decoration-color: $primary-color;
     text-decoration-style: single;
-    text-decoration-skip-ink: none;
+    text-decoration-skip-ink: auto;
     text-decoration-thickness: 0.12em;
     text-underline-offset: 0.15em;
 }
