@@ -218,14 +218,14 @@ a grip.
 
 ### Softballs
 
-If you want to buy your player a softball to practice with at home,
-make sure you get one of the right diameter. These are the sizes we'll
-use in each division:
+If you want to buy your player a <span class=softball>softball</span>
+to practice with at home, make sure you get one of the right diameter.
+These are the sizes we'll use in each division:
 
-| Division | Diameter |
-|----------|----------|
-| Majors+  | 12"      |
-| Minors   | 11"      |
+| Division       | Diameter | Weight   |
+|----------------|----------|----------|
+| Majors+        | 12"      | 6&frac14;-7 oz |
+| T-Ball, Minors | 11"      | 5&frac12;-6 oz  |
 
 Note that optic yellow, white, or other colors are all permitted.
 
