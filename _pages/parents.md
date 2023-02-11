@@ -227,12 +227,12 @@ use in each division:
 | Majors+  | 12"      |
 | Minors   | 11"      |
 
-Colors: white, optic yellow, & other colors are all permitted.
+Note that optic yellow, white, or other colors are all permitted.
 
 The league must use [approved balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/) during games, but any ball of the right size should
 be adequate for personal practice.
 
-Please see Rule 1.09 of the [official Little League
+Please see Rule 1.09 of the [official Little League Softball
 rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
 for specific ball regulations.
 {: .notice }
