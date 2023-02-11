@@ -219,7 +219,7 @@ a grip.
 ### Softballs
 
 If you want to buy your player a <span class=softball>softball</span>
-to practice with at home, make sure you get one of the right diameter.
+to practice with at home, make sure you get one of the right dimensions.
 These are the sizes we'll use in each division:
 
 | Division       | Diameter | Weight   |
