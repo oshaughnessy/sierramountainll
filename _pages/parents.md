@@ -216,6 +216,27 @@ For all divisions, a softball bat must meet those limits. It may be wood
 or another common bat material. It may be colored. It _must_ have
 a grip.
 
+### Softballs
+
+If you want to buy your player a softball to practice with at home,
+make sure you get one of the right diameter. These are the sizes we'll
+use in each division:
+
+| Division | Diameter |
+|----------|----------|
+| Majors+  | 12"      |
+| Minors   | 11"      |
+
+Colors: white, optic yellow, & other colors are all permitted.
+
+The league must use [approved balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/) during games, but any ball of the right size should
+be adequate for personal practice.
+
+Please see Rule 1.09 of the [official Little League
+rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
+for specific ball regulations.
+{: .notice }
+
 ### Hats
 
 <span class=baseball>Baseball players</span> must wear their cap during a game.
@@ -251,27 +272,6 @@ Pitchers may wear a play-calling band on their glove arm. It must be
 a solid color and not white, gray, or optic yellow.
 
 Pitchers may not wear sweat bands on their hands, wrists, or arms.
-
-### Softballs
-
-If you want to buy your player a softball to practice with at home,
-make sure you get one of the right diameter. These are the sizes we'll
-use in each division:
-
-| Division | Diameter |
-|----------|----------|
-| Majors+  | 12"      |
-| Minors   | 11"      |
-
-Colors: white, optic yellow, & other colors are all permitted.
-
-The league must use [approved balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/) during games, but any ball of the right size should
-be adequate for personal practice.
-
-Please see Rule 1.09 of the [official Little League
-rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
-for specific ball regulations.
-{: .notice }
 
 
 ## Pictures
