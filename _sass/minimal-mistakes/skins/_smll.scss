@@ -29,7 +29,7 @@ $header-font: "Roboto Flex";
 $page-font-weight: 300;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300;400;600;700;900&family=Roboto+Slab&display=swap');
 
 /*
 $sans-serif: proxima-nova, Corbel, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -76,7 +76,7 @@ $ll-softball-color: #ff6900;
 // softball unicode: \1F94E / &#x1F94E;
 .baseball, .softball {
     border-radius: 4px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .baseball {
@@ -108,6 +108,10 @@ $ll-softball-color: #ff6900;
     color: $background-color;
 }
 
+strong {
+    font-weight: 600;
+}
+
 :is(h1, h2, h3, h4, h5, h6)
 :is(.baseball, .softball) {
     /* block-size: fit-content; */
@@ -137,7 +141,7 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
 
 .greedy-nav a {
     font-family: $header-font;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .greedy-nav a.site-title {
@@ -147,7 +151,7 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 66%
 
 h1.page__title {
     font-family: $header-font, $main-font, sans-serif;
-    font-weight: 1200;
+    font-weight: 600;
     font-style: bold;
 }
 
@@ -263,7 +267,7 @@ figure
 /* external links in masthead navbar */
 .greedy-nav a[href^="https"]::after {
     font-family: "Font Awesome 5 Free"; 
-    font-weight: 900;
+    font-weight: 600;
     font-size: xx-small;
     content: "\00a0\f35d";
     vertical-align: super;
@@ -272,7 +276,7 @@ figure
 /* external links in nav sidebar */
 .nav__list a[href^="https"] ::after {
     font-family: "Font Awesome 5 Free"; 
-    font-weight: 900;
+    font-weight: 600;
     font-size: xx-small;
     content: "\00a0\f35d";
     vertical-align: super;
