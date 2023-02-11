@@ -134,6 +134,7 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 
 /* notices */
 p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
+p.notice.softball { background-color: mix($ll-softball-color, $background-color, 33%); }
 
 .masthead a {
     font-weight: bold;
