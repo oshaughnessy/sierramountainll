@@ -1,5 +1,5 @@
 ---
-title: 2023 Softball for Younger Players
+title: "&#x1F94E; 2023 Softball for Younger Players"
 tag: 2023, softball, registration
 ---
 

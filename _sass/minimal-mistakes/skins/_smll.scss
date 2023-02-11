@@ -72,6 +72,8 @@ $ll-baseball-color: #019cde;
 $ll-challenger-color: #85be00;
 $ll-softball-color: #ff6900;
 
+// baseball in unicode: \26BE / &#x26BE;
+// softball unicode: \1F94E / &#x1F94E;
 .baseball, .softball {
     border-radius: 4px;
     font-weight: bold;

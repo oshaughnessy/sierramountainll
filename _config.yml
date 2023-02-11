@@ -171,9 +171,9 @@ defaults:
       comments: false
       share: true
       related: true
-      #sidebar:
-      #  title: Schedules
-      #  nav: schedules-by-division
+      sidebar:
+        nav: posts
+        #title: Schedules
 
 include: ["_pages"]
 
