@@ -39,6 +39,7 @@ year preceding the season.
 
 | Division                | Age Range
 |-------------------------|---------------------
+| Minors                  | 5-11[^1]
 | Majors                  | 9-12[^1]
 
 
@@ -51,4 +52,4 @@ See the [Little League age calculator](https://www.littleleague.org/play-little-
 for more information.
 
 
-[^1]: *Must attend a player assessment*
+[^1]: *Players age 8 and above must attend a player assessment*
