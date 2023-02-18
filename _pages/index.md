@@ -12,6 +12,9 @@ header:
   overlay_image: /assets/images/smll-field-from-home.png
   #overlay_image: /assets/images/smll-majors-at-night.jpg
   overlay_filter: rgba(0, 32, 0, 0.33)
+  actions:
+    - label: Register Now!
+      url: https://www.sierramountainll.com/Default.aspx?tabid=890579
 ---
 
 ## 2023 Season Dates
