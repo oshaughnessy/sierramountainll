@@ -225,8 +225,8 @@ These are the sizes we'll use in each division:
 
 | Division         | Diameter | Weight   |
 |------------------|----------|----------|
+| Tee Ball, Minors | 11"      | 5&frac12;-6 oz |
 | Majors+          | 12"      | 6&frac14;-7 oz |
-| Tee Ball, Minors | 11"      | 5&frac12;-6 oz  |
 
 Note that optic yellow, white, or other colors are all permitted.
 
