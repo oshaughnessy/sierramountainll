@@ -208,9 +208,10 @@ Aluminum, composite, hybrid, and wood bats are allowed. See
 
 #### <span class=softball>Softball</span>
 
-| Division             | Standard | Dimensions         | Notes |
-|----------------------|----------|--------------------|-------|
-| AAA - Majors         | None     | Length <= 33"<br />Diameter <= 2 1/4" | Non-wood -- BPF 1.20 |
+| Division                 | Standard | Dimensions         | Notes |
+|--------------------------|----------|--------------------|-------|
+| Tee Ball, Minors, Majors | None     | Length <= 33"<br />Diameter <= 2 1/4" | Non-wood -- BPF 1.20 |
+| Juniors, Seniors         | None     | Length <= 34"<br />Diameter <= 2 1/4" | Non-wood -- BPF 1.20 |
 
 For all divisions, a softball bat must meet those limits. It may be wood
 or another common bat material. It may be colored. It _must_ have a grip
@@ -222,10 +223,10 @@ If you want to buy your player a <span class=softball>softball</span>
 to practice with at home, make sure you get one of the right dimensions.
 These are the sizes we'll use in each division:
 
-| Division       | Diameter | Weight   |
-|----------------|----------|----------|
-| Majors+        | 12"      | 6&frac14;-7 oz |
-| T-Ball, Minors | 11"      | 5&frac12;-6 oz  |
+| Division         | Diameter | Weight   |
+|------------------|----------|----------|
+| Majors+          | 12"      | 6&frac14;-7 oz |
+| Tee Ball, Minors | 11"      | 5&frac12;-6 oz  |
 
 Note that optic yellow, white, or other colors are all permitted.
 
