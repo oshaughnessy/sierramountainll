@@ -213,8 +213,8 @@ Aluminum, composite, hybrid, and wood bats are allowed. See
 | AAA - Majors         | None     | Length <= 33"<br />Diameter <= 2 1/4" | Non-wood -- BPF 1.20 |
 
 For all divisions, a softball bat must meet those limits. It may be wood
-or another common bat material. It may be colored. It _must_ have
-a grip.
+or another common bat material. It may be colored. It _must_ have a grip
+if it's not wood.
 
 ### Softballs
 
@@ -229,9 +229,7 @@ These are the sizes we'll use in each division:
 
 Note that optic yellow, white, or other colors are all permitted.
 
-The league must use [approved balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/) during games, but any ball of the right size should
-be fine for personal practice.
-
+Little League [endorses some balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/), but any ball of the right dimensions should be fine.
 Please see Rule 1.09 of the [official Little League Softball
 rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
 for specific ball regulations.
