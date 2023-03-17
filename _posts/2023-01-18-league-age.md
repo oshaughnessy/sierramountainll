@@ -35,7 +35,7 @@ in the current season's year.
 {: .softball}
 
 A player's "league age" for softball is the age they were at the end of the 
-year preceding the season.
+year preceding the season. In other words, how old were they last Dec 31?
 
 | Division                | Age Range
 |-------------------------|---------------------
