@@ -21,10 +21,10 @@ header:
 
 Registration for 2023 [is now open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}.
 
-| Early Bird Registration | Regular Registration | Asessment Days | Opening Day |
-|                         |                      | By Age, 6pm        |                 |
+| Early Bird Registration | Regular Registration | Asessment      | Opening Day |
+|                         |                      | By Age, Mar 26 |             |
 |---
-| Dec 1 - Jan 31          | Feb 1 - Feb 22       | Feb 27: **8 & 9**<br/>Feb 28: **10 & 11**<br />Mar 1: **12 & 13**<br />Mar 2: **Softball** | March 18 |
+| Dec 1 - Jan 31          | Feb 1 - Mar 24       | 12pm: **8 & 9**<br/>2pm: **10 & 11**<br />4pm: **12 & 13**<br /> | TBD |
 {: .align-top }
 
 Wondering what division to sign up for? After you log in to the registration site
