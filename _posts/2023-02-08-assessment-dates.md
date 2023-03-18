@@ -3,13 +3,16 @@ title: 2023 Player Assessment Dates
 tag: 2023, signup, assessments
 ---
 
+{: .notice--warning }
+UPDATED: All assessments are on [March 26 at the OCI gym](
+{% post_url 2023-03-16-final-assessment-dates %})
+
 We've established our assessment dates for the 2023 season:
 
-	~Feb 27: 8 & 9-year-olds~
-	~Feb 28: 10 & 11-year-olds~
-	~Mar 1: 12 & 13-year-olds~
-	~Mar 2: All softball~
-    UPDATED: All are on March 26 at the OCI gym
+* ~~Feb 27: 8 & 9-year-olds~~
+* ~~Feb 28: 10 & 11-year-olds~~
+* ~~Mar 1: 12 & 13-year-olds~~
+* ~~Mar 2: All softball~~
 
 We'll meet at 6pm at the [Sierra Mountain Little League fields]({{ site.baseurl }}/contact#fields)
 on each of these nights.
