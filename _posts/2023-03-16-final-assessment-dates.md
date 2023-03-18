@@ -8,6 +8,7 @@ New assessment dates have been set! We found a place to hold them indoors.
 Please meet us at Oak Creek Elementary school gymnasium in Oakhurst on March 26.
 
 	12pm: 8 & 9-year-olds
+	1pm: softball parent meeting
 	2pm: 10 & 11-year-olds
 	4pm: 12 & 13-year-olds
 
