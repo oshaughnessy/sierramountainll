@@ -26,9 +26,9 @@ in the current season's year.
 | TeeBall                 | 4-5 years old
 | Minors/Coach Pitch      | 5-6 years old
 | Minors/Player Pitch     | 7-8 years old
-| AAA                     | 8-10 years old[^1]
-| Majors                  | 10-12 years old[^1]
-| 50/70                   | 11-13 years old[^1]
+| AAA                     | 8-10 years old
+| Majors                  | 10-12 years old
+| 50/70                   | 11-13 years old
 | Challenger              | 4-18
 
 ## <span class="softball">Softball</span>
@@ -37,11 +37,16 @@ in the current season's year.
 A player's "league age" for softball is the age they were at the end of the 
 year preceding the season. In other words, how old were they last Dec 31?
 
-| Division                | Age Range
-|-------------------------|---------------------
-| Minors                  | 5-11[^1]
-| Majors                  | 9-12[^1]
+At SMLL, we use age-based divisions to align with non-Little League
+fastpitch youth leagues:
 
+| Division                  | Age Range
+|---------------------------|---------------------
+| 8U / Coach & Player Pitch | 5-8
+| 10U / AAA                 | 9-10
+| 12U / Majors              | 11-12
+| 14U / Juniors             | 13-14
+| 16U / Seniors             | 15-16
 
 ## League Age
 
@@ -51,5 +56,5 @@ formula for baseball and softball is different.
 See the [Little League age calculator](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}
 for more information.
 
-
-[^1]: *Players age 8 and above must attend a player assessment*
+Please Note: Only players age 8 and above must attend a player assessment
+{: .notice}
