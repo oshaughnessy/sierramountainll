@@ -5,7 +5,8 @@ tag: 2023, signup, assessments
 
 New assessment dates have been set! We found a place to hold them indoors.
 
-Please meet us at the Oak Creek Elementary school gymnasium in Oakhurst on March 26.
+We'll meet at the Oak Creek Elementary school's baseball field if the weather
+allows it, or the gymnasium otherwise, on March 26.
 
 	12pm: 8 & 9-year-olds
 	1pm: softball parent meeting
@@ -19,4 +20,4 @@ If you have any questions, please [reach out to us]({% link _pages/contact.md %}
 through email or Facebook. If you're not sure of the league age of your players,
 please see our [League Age & Divisions]({% post_url 2023-01-18-league-age %}) post.
 
-See you at the gym!
+See you at OCI!
