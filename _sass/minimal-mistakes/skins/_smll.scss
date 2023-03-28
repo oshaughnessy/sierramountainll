@@ -29,7 +29,7 @@ $header-font: "Roboto Flex";
 $page-font-weight: 300;
 $sans-serif: $main-font, -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300;400;600;700;900&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=DM+Serif+Text&family=Roboto+Flex:wght@300;400;600;700;800;900;1000&family=Roboto+Slab&display=swap');
 
 /*
 $sans-serif: proxima-nova, Corbel, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -74,9 +74,9 @@ $ll-softball-color: #ff6900;
 
 // baseball in unicode: \26BE / &#x26BE;
 // softball unicode: \1F94E / &#x1F94E;
-.baseball, .softball {
+:is(.baseball, .softball) {
     border-radius: 4px;
-    font-weight: 500;
+    //font-weight: 500;
 }
 
 .baseball {
@@ -106,6 +106,7 @@ $ll-softball-color: #ff6900;
 .softball {
     background-color: $ll-softball-color;
     color: $background-color;
+    font-weight: 1000;
 }
 
 strong {
@@ -116,9 +117,13 @@ strong {
 :is(.baseball, .softball) {
     /* block-size: fit-content; */
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 800;
     padding-left: 12px;
     padding-right: 12px;
+}
+
+:is(h1, h2, h3, h4, h5, h6) .softball {
+    font-weight: 800;
 }
 
 .clear, :is(h1, h2, h3, h4, h5, h6) {
@@ -154,6 +159,15 @@ h1.page__title {
     font-family: $header-font, $main-font, sans-serif;
     font-weight: 600;
     font-style: bold;
+}
+
+h1.page__title .softball {
+    text-transform: uppercase;
+    font-weight: 800;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-decoration: none;
+    text-decoration-thickness: 0;
 }
 
 .page__title {
