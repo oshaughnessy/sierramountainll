@@ -18,8 +18,8 @@ toc_h_max: 3
 
 8U is our learning division where the youngest girls have a chance to
 discover the fundamentals of playing the game. They'll learn how to throw,
-catch, run the bases, and hit. The older girls will get a chance to learn
-the underhanded fastpitch throw.
+catch, run the bases, and hit. In the 2nd half of the season, they'll also
+get a chance to learn the underhanded fastpitch throw.
 
 We encourage 5-year-old girls to play a year of tee ball before they join
 this division.
