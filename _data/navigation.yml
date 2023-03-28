@@ -15,6 +15,9 @@ main:
 - title: Rules
   url: /rules/
   description: Local rules and highlights
+- title: Softball
+  url: /softball/
+  description: Fastpitch softball info
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
