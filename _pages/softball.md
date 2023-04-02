@@ -42,13 +42,16 @@ go through the 2023 season.
 
 #### Pitching
 
-Coach pitches to own players in the 1st half of the season:
-- throw from a standing position or sitting on a ball bucket
+1st half of the season:
+- **Coaches will pitch to their own players**
+- Coaches may throw from a standing position or sitting on a ball bucket
 - 5 and 6-year-old players may use a tee at the coach's discretion
 
-Defense pitches to opposing players in the 2nd half of the season:
+2nd half of the season:
+- **Defense will pitch to opposing players**
 - 5 balls per batter
 - 3 strikes per batter
+- After 3 walked batters, player pitching should rotate out.
 
 All season:
 - 8 pitches max per hitter
@@ -148,15 +151,60 @@ from nearest to farthest:
 **_Tentative: Work in Progress_**
 {: .notice--warning }
 
+```
+             April                        May
+      Su Mo Tu We Th Fr Sa        Su Mo Tu We Th Fr Sa
+                         1            1  2  3  4  5  6
+       2  3  4  5  6  7  8         7  8  9 10 11 12 13
+       9 10 11 12 13 14 15        14 15 16 17 18 19 20
+      16 17 18 19 20 21 22        21 22 23 24 25 26 27
+      23 24 25 26 27 28 29        28 29 30 31
+      30                      
+```
+
+Relevant Events in [Bass Lake School District calendar](https://www.basslakeschooldistrict.com/site/default.aspx?PageType=3&ModuleInstanceID=142&ViewID=C9E0416E-F0E7-4626-AA7B-C14D59F72F85&RenderLoc=0&FlexDataID=9920&PageID=1):
+- April 9: Easter
+- April 17-21: Spring Break
+- May 29: Memorial Day
+- Last Day of School (BLSD): June 8
+
 ### 8U: 3 teams
 
-- April 11: _local_ -- Team A hosts Team B, Team B hosts Team C
-- April 15: _local_ -- Team C hosts Team A, Team A hosts Team B
-- April 29: _local_ -- Team B hosts Team C, Team C hosts Team A
-- May 6: vs MGSL -- Team A hosts MGSL A, Team B hosts MGSL A, Team C at Mariposa
-- May 20: vs MGSL -- Team B hosts MGSL B, Team C hosts MGSL B, Team A at Mariposa
-- May 27: _local_ -- Team A hosts Team B, Team B hosts Team C, Team C hosts Team A
-- June 3?
+1. Round 1
+    1. April 8:  Team A at Team B
+    2. April 13:  Team B at Team C
+    3. April 15:  Team C at Team A
+
+2. Round 2
+    1. April 27:  Team C at Team B
+    2. April 29:  Team B at Team A
+    3. May 4:  Team A at Team C
+
+5. _Interleague 1: vs Mariposa Girls Softball League_
+    1. May 6: MGSL A at Team A
+    2. May 6: MGSL A at Team B
+    3. May 6: Team C at Mariposa
+
+4. Round 3
+    1. May 11:  Team B at Team C
+    2. May 13:  Team C at Team A
+    3. May 18:  Team A at Team B
+
+5. _Interleague 2: vs Mariposa Girls Softball League_
+    1. May 20: MGSL B at Team B
+    2. May 20: MGSL B at Team C
+    3. May 20: Team A at Mariposa
+
+6. Round 4
+    1. May 25:  Team B at Team C
+    2. May 27:  Team C at Team A
+    3. June 1:  Team A at Team B
+
+7. Championship:
+    1. June 3:
+         1. A vs B
+         1. B vs C
+         1. C vs A
 
 mid-week games or Saturdays only?
 {: .notice--warning }
