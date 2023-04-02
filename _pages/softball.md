@@ -162,11 +162,15 @@ from nearest to farthest:
       30                      
 ```
 
-Relevant Events in [Bass Lake School District calendar](https://www.basslakeschooldistrict.com/site/default.aspx?PageType=3&ModuleInstanceID=142&ViewID=C9E0416E-F0E7-4626-AA7B-C14D59F72F85&RenderLoc=0&FlexDataID=9920&PageID=1):
 - April 9: Easter
-- April 17-21: Spring Break
+- April 3-10: MHS spring break
+- April 17-21: BLSD spring break
 - May 29: Memorial Day
-- Last Day of School (BLSD): June 8
+- June 1: MHS last day of school
+- June 8: BLSD last day of school
+
+{: .notice--info }
+School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict.com/site/default.aspx?PageType=3&ModuleInstanceID=142&ViewID=C9E0416E-F0E7-4626-AA7B-C14D59F72F85&RenderLoc=0&FlexDataID=9920&PageID=1), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
 
 ### 8U: 3 teams
 
