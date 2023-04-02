@@ -174,44 +174,36 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 
 ### 8U: 3 teams
 
-1. Round 1
-    1. April 8:  Team A at Team B
-    2. April 13:  Team B at Team C
-    3. April 15:  Team C at Team A
+Game Times:
 
-2. Round 2
-    1. April 27:  Team C at Team B
-    2. April 29:  Team B at Team A
-    3. May 4:  Team A at Team C
+    * Thursdays: 4:30-6pm
+    * Saturdays: 10:00-11:30
 
-5. _Interleague 1: vs Mariposa Girls Softball League_
-    1. May 6: MGSL A at Team A
-    2. May 6: MGSL A at Team B
-    3. May 6: Team C at Mariposa
+#### Local
 
-4. Round 3
-    1. May 11:  Team B at Team C
-    2. May 13:  Team C at Team A
-    3. May 18:  Team A at Team B
-
-5. _Interleague 2: vs Mariposa Girls Softball League_
-    1. May 20: MGSL B at Team B
-    2. May 20: MGSL B at Team C
-    3. May 20: Team A at Mariposa
-
-6. Round 4
-    1. May 25:  Team B at Team C
-    2. May 27:  Team C at Team A
-    3. June 1:  Team A at Team B
-
-7. Championship:
-    1. June 3:
-         1. A vs B
-         1. B vs C
-         1. C vs A
-
-mid-week games or Saturdays only?
-{: .notice--warning }
+| Date     | Round | Game | Visitor | @Home    | Location
+|----------|-------|------|---------|----------|----------
+| April 8  | 1     | 1    | Team A  | Team B   | SMLL Minors
+| April 13 | 1     | 2    | Team B  | Team C   | SMLL Minors
+| April 15 | 1     | 3    | Team C  | Team A   | SMLL Minors
+| April 27 | 2     | 4    | Team C  | Team B   | SMLL Minors
+| April 29 | 2     | 5    | Team B  | Team A   | SMLL Minors
+| May 4    | 2     | 6    | Team A  | Team C   | SMLL Minors
+|_May 6_   |_I1_   |_7_   |_MGSL A_ |_Team A_  |_SMLL Minors_
+|_May 6_   |_I1_   |_8_   |_MGSL A_ |_Team B_  |_SMLL Minors_
+|_May 6_   |_I1_   |_9_   |_Team C_ |_Mariposa_|_Mariposa_
+| May 11   | 3     | 10   | Team B  | Team C   | SMLL Minors
+| May 13   | 3     | 11   | Team C  | Team A   | SMLL Minors
+| May 18   | 3     | 12   | Team A  | Team B   | SMLL Minors
+|_May 20_  |_I2_   |_13_  |_MGSL B_ |_Team B_  |_SMLL Minors_
+|_May 20_  |_I2_   |_14_  |_MGSL B_ |_Team C_  |_SMLL Minors_
+|_May 20_  |_I2_   |_15_  |_Team A_ |_Mariposa_|_Mariposa_
+| May 25   | 4     | 16   | Team B  | Team C   | SMLL Minors
+| May 27   | 4     | 17   | Team C  | Team A   | SMLL Minors
+| June 1   | 4     | 18   | Team A  | Team B   | SMLL Minors
+| June 3   | 5     | 19   | Team A  | Team B   | SMLL Minors
+| June 3   | 5     | 20   | Team B  | Team C   | SMLL Minors
+| June 3   | 5     | 21   | Team C  | Team A   | SMLL Minors
 
 ### 10U: 1 team
 
