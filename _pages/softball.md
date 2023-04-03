@@ -207,28 +207,28 @@ Game Times:
 
 ### 10U: 1 team
 
-- April 15: vs YLL (double-header?)
-- April 22: vs YLL (double-header?)
-- April 29: vs YLL (double-header?)
+- April 15: vs YLL
+- April 22: vs YLL
+- April 29: vs YLL
 - May 6: hosting MGSL (double-headers)
 - May 13: _Madera or Sunnyside?_
-- May 20: at MGSL (double-headers)
+- May 20: at MGSL
 - May 27: _Madera or Sunnyside?_
-- June 3?
+- June 3: vs YLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
 {: .notice--warning }
 
 ### 12U: 1 team
 
-- April 15: vs YLL (double-header?)
-- April 22: vs YLL (double-header?)
-- April 29: vs YLL (double-header?)
+- April 15: vs YLL
+- April 22: vs YLL
+- April 29: vs YLL
 - May 6: at MGSL (double-headers)
 - May 13: _Madera or Sunnyside?_
 - May 20: hosting MGSL (double-headers)
 - May 27: _Madera or Sunnyside?_
-- June 3?
+- June 3: vs YLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
 {: .notice--warning }
