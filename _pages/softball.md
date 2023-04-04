@@ -215,14 +215,20 @@ Game Times:
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-- April 15: vs YLL
-- April 22: vs YLL
-- April 29: vs YLL
+- April 15: SMLL at YLL
+- April 18: YLL at SMLL (Tues)
+- April 22: YLL at SMLL
+- April 25: SMLL at YLL (Tues)
+- April 29: YLL at SMLL
 - May 6: SMLL at MGYSL (double-headers)
+- May 9: YLL at SMLL (Tues)
 - May 13: _Madera or Sunnyside?_
+- May 16: SMLL at YLL (Tues)
 - May 20: MGYSL at SMLL
+- May 23: YLL at SMLL (Tues)
 - May 27: SMLL at MGYSL
-- June 3: vs YLL (double-headers?)
+- May 30: SMLL at YLL (Tues)
+- June 3: YLL at SMLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
 {: .notice--warning }
