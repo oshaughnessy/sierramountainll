@@ -140,10 +140,15 @@ their base until the next pitched ball has been released by the pitcher.
 SMLL's nearest competitors for interleague play are,
 from nearest to farthest:
 
-* [Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)
-* [Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
-* [Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
-* [Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
+[Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)
+: Games are played at [Coarsegold Elementary School](https://goo.gl/maps/wsAz96RVaFGfDpLc8){:target="blank"}: 45426 Rd 415, Coarsegold, CA 93614
+
+[Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
+: Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
+
+[Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
+
+[Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
 
 
 ## 2023 Schedule
