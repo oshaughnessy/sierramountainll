@@ -179,7 +179,10 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 
 ### 8U: 3 teams
 
-Game Times
+(**_Tentative: Work in Progress_**)
+{: .notice--warning }
+
+Game Times:
 * Thursdays: 4:30-6pm
 * Saturdays: 10:00-11:30
 
