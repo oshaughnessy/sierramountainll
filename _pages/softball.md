@@ -181,29 +181,29 @@ Game Times:
 
 #### Local
 
-| Date     | Round | Game | Visitor | @Home    | Location
-|----------|-------|------|---------|----------|----------
-| April 8  | 1     | 1    | Team A  | Team B   | SMLL Minors
-| April 13 | 1     | 2    | Team B  | Team C   | SMLL Minors
-| April 15 | 1     | 3    | Team C  | Team A   | SMLL Minors
-| April 27 | 2     | 4    | Team C  | Team B   | SMLL Minors
-| April 29 | 2     | 5    | Team B  | Team A   | SMLL Minors
-| May 4    | 2     | 6    | Team A  | Team C   | SMLL Minors
-|_May 6_   |_I1_   |_7_   |_MGSL A_ |_Team A_  |_SMLL Minors_
-|_May 6_   |_I1_   |_8_   |_MGSL A_ |_Team B_  |_SMLL Minors_
-|_May 6_   |_I1_   |_9_   |_Team C_ |_Mariposa_|_Mariposa_
-| May 11   | 3     | 10   | Team B  | Team C   | SMLL Minors
-| May 13   | 3     | 11   | Team C  | Team A   | SMLL Minors
-| May 18   | 3     | 12   | Team A  | Team B   | SMLL Minors
-|_May 20_  |_I2_   |_13_  |_MGSL B_ |_Team B_  |_SMLL Minors_
-|_May 20_  |_I2_   |_14_  |_MGSL B_ |_Team C_  |_SMLL Minors_
-|_May 20_  |_I2_   |_15_  |_Team A_ |_Mariposa_|_Mariposa_
-| May 25   | 4     | 16   | Team B  | Team C   | SMLL Minors
-| May 27   | 4     | 17   | Team C  | Team A   | SMLL Minors
-| June 1   | 4     | 18   | Team A  | Team B   | SMLL Minors
-| June 3   | 5     | 19   | Team A  | Team B   | SMLL Minors
-| June 3   | 5     | 20   | Team B  | Team C   | SMLL Minors
-| June 3   | 5     | 21   | Team C  | Team A   | SMLL Minors
+| Date     | Day | Round | Game | Match | Visitor | @Home    | Location
+|----------|-----|-------|------|-------|---------|----------|-------------
+| April 13 | Thu | 1     | 1    | A/B 1 | Team A  | Team B   | SMLL Minors
+| April 15 | Sat | 1     | 2    | B/C 1 | Team B  | Team C   | SMLL Minors
+| April 27 | Thu | 1     | 3    | A/C 1 | Team C  | Team A   | SMLL Minors
+| April 29 | Sat | 2     | 4    | A/C 2 | Team A  | Team C   | SMLL Minors
+| May 4    | Thu | 2     | 5    | B/C 2 | Team C  | Team B   | SMLL Minors
+|_May 6_   |_Sat_|_I1_   |_6_   |       | _MGSL A_ |_Team A_  |_SMLL Minors_
+|_May 6_   |_Sat_|_I1_   |_7_   |       | _MGSL A_ |_Team B_  |_SMLL Minors_
+|_May 6_   |_Sat_|_I1_   |_8_   |       | _Team C_ |_MGSL B_  |_Mariposa_
+| May 11   | Thu | 2     | 9    | A/B 2 | Team B  | Team A   | SMLL Minors
+| May 13   | Sat | 3     | 10   | B/C 3 | Team B  | Team C   | SMLL Minors
+| May 18   | Thu | 3     | 11   | A/C 3 | Team C  | Team A   | SMLL Minors
+|_May 20_  |_Sat_|_I2_   |_12_  |       | _MGSL B_ |_Team C_  |_SMLL Minors_
+|_May 20_  |_Sat_|_I2_   |_13_  |       | _MGSL B_ |_Team A_  |_SMLL Minors_
+|_May 20_  |_Sat_|_I2_   |_14_  |       | _Team B_ |_MGSL A_  |_Mariposa_
+| May 25   | Thu | 3     | 15   | A/B 3 | Team A  | Team B   | SMLL Minors
+| May 27   | Sat | 4     | 16   | B/C 4 | Team C  | Team B   | SMLL Minors
+|_May 27_  |_Sat_|_I3_   |_17_  |       | _MGSL A_ |_Team B_  |_SMLL Minors_
+|_May 27_  |_Sat_|_I3_   |_18_  |       | _MGSL A_ |_Team C_  |_SMLL Minors_
+|_May 27_  |_Sat_|_I3_   |_19_  |       | _Team A_ |_MGSL B_  |_Mariposa_
+| June 1   | Thu | 4     | 20   | A/C 4 | Team A  | Team C   | SMLL Minors
+| June 3   | Sat | 4     | 21   | A/B 4 | Team B  | Team A   | SMLL Minors
 
 ### 10U: 1 team
 
