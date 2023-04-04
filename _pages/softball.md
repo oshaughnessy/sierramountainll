@@ -152,14 +152,14 @@ from nearest to farthest:
 {: .notice--warning }
 
 ```
-             April                        May
-      Su Mo Tu We Th Fr Sa        Su Mo Tu We Th Fr Sa
-                         1            1  2  3  4  5  6
-       2  3  4  5  6  7  8         7  8  9 10 11 12 13
-       9 10 11 12 13 14 15        14 15 16 17 18 19 20
-      16 17 18 19 20 21 22        21 22 23 24 25 26 27
-      23 24 25 26 27 28 29        28 29 30 31
-      30                      
+       April                    May
+Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
+                   1        1  2  3  4  5  6
+ 2  3  4  5  6  7  8     7  8  9 10 11 12 13
+ 9 10 11 12 13 14 15    14 15 16 17 18 19 20
+16 17 18 19 20 21 22    21 22 23 24 25 26 27
+23 24 25 26 27 28 29    28 29 30 31
+30
 ```
 
 - April 9: Easter
@@ -174,10 +174,9 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 
 ### 8U: 3 teams
 
-Game Times:
-
-    * Thursdays: 4:30-6pm
-    * Saturdays: 10:00-11:30
+Game Times
+* Thursdays: 4:30-6pm
+* Saturdays: 10:00-11:30
 
 #### Local
 
