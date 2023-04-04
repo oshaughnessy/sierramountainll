@@ -239,13 +239,13 @@ mid-week games locally or in Coarsegold?
 | April 22 | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
 | April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
 | April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
-| May 6    | Sat  | 5    |       | MS1   | SMLL    | MGYSL    | Mariposa
+|_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGYSL_   |_Mariposa_
 | May 9    | Tues | 6    | 3     | YS5   | YLL     | SMLL     | Oakhurst
 | May 13   | Sat  | 7    | 3     | YS6   | SMLL    | YLL      | Coarsegold
 | May 16   | Tues | 8    | 4     | YS8   | SMLL    | YLL      | Coarsegold
-| May 20   | Sat  | 9    |       | MS2   | MGYSL   | SMLL     | Oakhurst
+|_May 20_  |_Sat_ |_9_   |       |_MS2_  |_MGYSL_  |_SMLL_    |_Oakhurst_
 | May 23   | Tues | 10   | 4     | YS8   | YLL     | SMLL     | Oakhurst
-| May 27   | Sat  | 11   |       | MS3   | SMLL    | MGYSL    | Mariposa
+|_May 27_  |_Sat_ |_11_  |       |_MS3_  |_SMLL_   |_MGYSL_   |_Mariposa_
 | May 30   | Tues | 12   | 5     | YS9   | SMLL    | YLL      | Coarsegold
 | June 3   | Sat  | 13   | 5     | YS10  | YLL     | SMLL     | Oakhurst
 
@@ -255,15 +255,18 @@ mid-week games locally or in Coarsegold?
 {: .notice--warning }
 
 - April 15: vs YLL
-- April 22: vs YLL
-- April 29: vs YLL
+- April 27: @ YLL (Thurs)
+- April 29: @ YLL
+- May 4: vs YLL (Thurs)
 - May 6: MGYSL 12U1 at SMLL
 - May 6: MGYSL 12U2 at SMLL
-- May 13: _Madera or Sunnyside?_
+- May 11: @ YLL (Thurs)
+- May 13: vs YLL
 - May 20: SMLL at MGYSL 12U1
 - May 20: SMLL at MGYSL 12U3
+- May 25: vs YLL (Thurs)
 - May 27: MGYSL 12U3 at SMLL
-- June 3: vs YLL (double-headers?)
+- June 3: @ YLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
 {: .notice--warning }
