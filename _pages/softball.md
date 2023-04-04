@@ -224,10 +224,10 @@ mid-week games locally or in Coarsegold?
 - April 15: vs YLL
 - April 22: vs YLL
 - April 29: vs YLL
-- May 6: at MGSL (double-headers)
+- May 6: MGSL at SMLL (double-headers)
 - May 13: _Madera or Sunnyside?_
-- May 20: hosting MGSL (double-headers)
-- May 27: _Madera or Sunnyside?_
+- May 20: SMLL at MGSL (double-headers)
+- May 27: MGSL at SMLL
 - June 3: vs YLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
