@@ -193,20 +193,20 @@ Game Times:
 | April 27 | Thu | 3    | 1     | A/C 1 | Team C  | Team A   | SMLL Minors
 | April 29 | Sat | 4    | 2     | A/C 2 | Team A  | Team C   | SMLL Minors
 | May 4    | Thu | 5    | 2     | B/C 2 | Team C  | Team B   | SMLL Minors
-|_May 6_   |_Sat_|_6_   |_I1_   |       | _MGYSL A_ |_Team A_  |_SMLL Minors_
-|_May 6_   |_Sat_|_7_   |_I1_   |       | _MGYSL A_ |_Team B_  |_SMLL Minors_
-|_May 6_   |_Sat_|_8_   |_I1_   |       | _Team C_ |_MGYSL B_  |_Mariposa_
+|_May 6_   |_Sat_|_6_   |_I1_   |       | _MGYSL A_ |_Team A_ |_SMLL Minors_
+|_May 6_   |_Sat_|_7_   |_I1_   |       | _MGYSL A_ |_Team B_ |_SMLL Minors_
+|_May 6_   |_Sat_|_8_   |_I1_   |       | _Team C_ |_MGYSL B_ |_Mariposa_
 | May 11   | Thu | 9    | 2     | A/B 2 | Team B  | Team A   | SMLL Minors
 | May 13   | Sat | 10   | 3     | B/C 3 | Team B  | Team C   | SMLL Minors
 | May 18   | Thu | 11   | 3     | A/C 3 | Team C  | Team A   | SMLL Minors
-|_May 20_  |_Sat_|_12_  |_I2_   |       | _MGYSL B_ |_Team C_  |_SMLL Minors_
-|_May 20_  |_Sat_|_13_  |_I2_   |       | _MGYSL B_ |_Team A_  |_SMLL Minors_
-|_May 20_  |_Sat_|_14_  |_I2_   |       | _Team B_ |_MGYSL A_  |_Mariposa_
+|_May 20_  |_Sat_|_12_  |_I2_   |       | _MGYSL B_ |_Team C_ |_SMLL Minors_
+|_May 20_  |_Sat_|_13_  |_I2_   |       | _MGYSL B_ |_Team A_ |_SMLL Minors_
+|_May 20_  |_Sat_|_14_  |_I2_   |       | _Team B_ |_MGYSL A_ |_Mariposa_
 | May 25   | Thu | 15   | 3     | A/B 3 | Team A  | Team B   | SMLL Minors
 | May 27   | Sat | 16   | 4     | B/C 4 | Team C  | Team B   | SMLL Minors
-|_May 27_  |_Sat_|_17_  |_I3_   |       | _MGYSL A_ |_Team B_  |_SMLL Minors_
-|_May 27_  |_Sat_|_18_  |_I3_   |       | _MGYSL A_ |_Team C_  |_SMLL Minors_
-|_May 27_  |_Sat_|_19_  |_I3_   |       | _Team A_ |_MGYSL B_  |_Mariposa_
+|_May 27_  |_Sat_|_17_  |_I3_   |       | _MGYSL A_ |_Team B_ |_SMLL Minors_
+|_May 27_  |_Sat_|_18_  |_I3_   |       | _MGYSL A_ |_Team C_ |_SMLL Minors_
+|_May 27_  |_Sat_|_19_  |_I3_   |       | _Team A_ |_MGYSL B_ |_Mariposa_
 | June 1   | Thu | 20   | 4     | A/C 4 | Team A  | Team C   | SMLL Minors
 | June 3   | Sat | 21   | 4     | A/B 4 | Team B  | Team A   | SMLL Minors
 
@@ -216,10 +216,9 @@ Game Times:
 {: .notice--warning }
 
 - April 15: SMLL at YLL
-- April 18: YLL at SMLL (Tues)
 - April 22: YLL at SMLL
 - April 25: SMLL at YLL (Tues)
-- April 29: YLL at SMLL
+- April 29: SMLL at YLL
 - May 6: SMLL at MGYSL (double-headers)
 - May 9: YLL at SMLL (Tues)
 - May 13: _Madera or Sunnyside?_
@@ -232,6 +231,23 @@ Game Times:
 
 mid-week games locally or in Coarsegold?
 {: .notice--warning }
+
+
+| Date     | Day  | Game | Round | Match | Visitor | @Home    | Location
+|----------|------|------|-------|-------|---------|----------|-------------
+| April 15 | Sat  | 1    | 1     | YS1   | SMLL    | YLL      | Coarsegold
+| April 22 | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
+| April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
+| April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
+| May 6    | Sat  | 5    |       | MS1   | SMLL    | MGYSL    | Mariposa
+| May 9    | Tues | 6    | 3     | YS5   | YLL     | SMLL     | Oakhurst
+| May 13   | Sat  | 7    | 3     | YS6   | SMLL    | YLL      | Coarsegold
+| May 16   | Tues | 8    | 4     | YS8   | SMLL    | YLL      | Coarsegold
+| May 20   | Sat  | 9    |       | MS2   | MGYSL   | SMLL     | Oakhurst
+| May 23   | Tues | 10   | 4     | YS8   | YLL     | SMLL     | Oakhurst
+| May 27   | Sat  | 11   |       | MS3   | SMLL    | MGYSL    | Mariposa
+| May 30   | Tues | 12   | 5     | YS9   | SMLL    | YLL      | Coarsegold
+| June 3   | Sat  | 13   | 5     | YS10  | YLL     | SMLL     | Oakhurst
 
 ### 12U: 1 team
 
