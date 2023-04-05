@@ -150,7 +150,7 @@ from nearest to farthest:
 [Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)
 : Games are played at [Coarsegold Elementary School](https://goo.gl/maps/wsAz96RVaFGfDpLc8){:target="blank"}: 45426 Rd 415, Coarsegold, CA 93614
 
-[Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGYSL_)
+[Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
 : Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
 
 [Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
@@ -193,29 +193,31 @@ Game Times:
 * Thursdays: 4:30-6pm
 * Saturdays: 10:00-11:30
 
-Date     | Day | Game | Round | Match | Visitor | @Home    | Location
-|----------|-----|------|-------|-------|---------|----------|-------------
-April 13 | Thu | 1    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino   | SMLL Minors
-April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco   | SMLL Minors
-April 27 | Thu | 3    | 1     | A/C 1 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins   | SMLL Minors
-April 29 | Sat | 4    | 2     | A/C 2 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco   | SMLL Minors
-May 4    | Thu | 5    | 2     | B/C 2 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino   | SMLL Minors
-May 6    | Sat | 6    | I1    |       | MGYSL A  | 8U Poppies / Tompkins  | SMLL Minors 
-May 6    | Sat | 7    | I1    |       | MGYSL A  | 8U Buttercups / Cosentino  | SMLL Minors 
-May 6    | Sat | 8    | I1    |       | 8U Sweet Peas / Nolasco  | MGYSL B  | Mariposa 
-May 11   | Thu | 9    | 2     | A/B 2 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins   | SMLL Minors
-May 13   | Sat | 10   | 3     | B/C 3 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco   | SMLL Minors
-May 18   | Thu | 11   | 3     | A/C 3 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins   | SMLL Minors
-May 20   | Sat | 12   | I2    |       | MGYSL B  | 8U Sweet Peas / Nolasco  | SMLL Minors 
-May 20   | Sat | 13   | I2    |       | MGYSL B  | 8U Poppies / Tompkins  | SMLL Minors 
-May 20   | Sat | 14   | I2    |       | 8U Buttercups / Cosentino  | MGYSL A  | Mariposa 
-May 25   | Thu | 15   | 3     | A/B 3 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino   | SMLL Minors
-May 27   | Sat | 16   | 4     | A/B 4 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins   | SMLL Minors
-May 27   | Sat | 17   | I3    |       | MGYSL A  | 8U Buttercups / Cosentino  | SMLL Minors 
-May 27   | Sat | 18   | I3    |       | MGYSL A  | 8U Sweet Peas / Nolasco  | SMLL Minors 
-May 27   | Sat | 19   | I3    |       | 8U Poppies / Tompkins  | MGYSL B  | Mariposa 
-June 1   | Thu | 20   | 4     | A/C 4 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco   | SMLL Minors
-June 3   | Sat | 21   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino   | SMLL Minors
+Date     | Day | Game | Round | Match | Visitor | @Home
+|----------|-----|------|-------|-------|---------|----------
+April 13 | Thu | 1    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
+April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
+April 27 | Thu | 3    | 1     | A/C 1 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
+April 29 | Sat | 4    | 2     | A/C 2 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
+May 4    | Thu | 5    | 2     | B/C 2 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
+May 6    | Sat | 6    | I1    |       | MGSL A  | 8U Poppies / Tompkins
+May 6    | Sat | 7    | I1    |       | MGSL A  | 8U Buttercups / Cosentino
+May 6    | Sat | 8    | I1    |       | 8U Sweet Peas / Nolasco  | MGSL B[^1]
+May 11   | Thu | 9    | 2     | A/B 2 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins
+May 13   | Sat | 10   | 3     | B/C 3 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
+May 18   | Thu | 11   | 3     | A/C 3 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
+May 20   | Sat | 12   | I2    |       | MGSL B  | 8U Sweet Peas / Nolasco
+May 20   | Sat | 13   | I2    |       | MGSL B  | 8U Poppies / Tompkins
+May 20   | Sat | 14   | I2    |       | 8U Buttercups / Cosentino  | MGSL A[^1]
+May 25   | Thu | 15   | 3     | A/B 3 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
+May 27   | Sat | 16   | 4     | A/B 4 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins
+May 27   | Sat | 17   | I3    |       | MGSL A  | 8U Buttercups / Cosentino
+May 27   | Sat | 18   | I3    |       | MGSL A  | 8U Sweet Peas / Nolasco
+May 27   | Sat | 19   | I3    |       | 8U Poppies / Tompkins  | MGSL B[^1]
+June 1   | Thu | 20   | 4     | A/C 4 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
+June 3   | Sat | 21   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
+
+[^1]: Game hosted at the Mariposa Girls Softball League field
 
 ### 10U: 1 team
 
@@ -226,13 +228,13 @@ June 3   | Sat | 21   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups
 - April 22: YLL at SMLL
 - April 25: SMLL at YLL (Tues)
 - April 29: SMLL at YLL
-- May 6: SMLL at MGYSL (double-headers)
+- May 6: SMLL at MGSL (double-headers)
 - May 9: YLL at SMLL (Tues)
 - May 13: _Madera or Sunnyside?_
 - May 16: SMLL at YLL (Tues)
-- May 20: MGYSL at SMLL
+- May 20: MGSL at SMLL
 - May 23: YLL at SMLL (Tues)
-- May 27: SMLL at MGYSL
+- May 27: SMLL at MGSL
 - May 30: SMLL at YLL (Tues)
 - June 3: YLL at SMLL (double-headers?)
 
@@ -246,13 +248,13 @@ mid-week games locally or in Coarsegold?
 | April 22 | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
 | April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
 | April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
-|_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGYSL_   |_Mariposa_
+|_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGSL_   |_Mariposa_
 | May 9    | Tues | 6    | 3     | YS5   | YLL     | SMLL     | Oakhurst
 | May 13   | Sat  | 7    | 3     | YS6   | SMLL    | YLL      | Coarsegold
 | May 16   | Tues | 8    | 4     | YS8   | SMLL    | YLL      | Coarsegold
-|_May 20_  |_Sat_ |_9_   |       |_MS2_  |_MGYSL_  |_SMLL_    |_Oakhurst_
+|_May 20_  |_Sat_ |_9_   |       |_MS2_  |_MGSL_  |_SMLL_    |_Oakhurst_
 | May 23   | Tues | 10   | 4     | YS8   | YLL     | SMLL     | Oakhurst
-|_May 27_  |_Sat_ |_11_  |       |_MS3_  |_SMLL_   |_MGYSL_   |_Mariposa_
+|_May 27_  |_Sat_ |_11_  |       |_MS3_  |_SMLL_   |_MGSL_   |_Mariposa_
 | May 30   | Tues | 12   | 5     | YS9   | SMLL    | YLL      | Coarsegold
 | June 3   | Sat  | 13   | 5     | YS10  | YLL     | SMLL     | Oakhurst
 
@@ -265,14 +267,14 @@ mid-week games locally or in Coarsegold?
 - April 27: @ YLL (Thurs)
 - April 29: @ YLL
 - May 4: vs YLL (Thurs)
-- May 6: MGYSL 12U1 at SMLL
-- May 6: MGYSL 12U2 at SMLL
+- May 6: MGSL 12U1 at SMLL
+- May 6: MGSL 12U2 at SMLL
 - May 11: @ YLL (Thurs)
 - May 13: vs YLL
-- May 20: SMLL at MGYSL 12U1
-- May 20: SMLL at MGYSL 12U3
+- May 20: SMLL at MGSL 12U1
+- May 20: SMLL at MGSL 12U3
 - May 25: vs YLL (Thurs)
-- May 27: MGYSL 12U3 at SMLL
+- May 27: MGSL 12U3 at SMLL
 - June 3: @ YLL (double-headers?)
 
 mid-week games locally or in Coarsegold?
