@@ -195,28 +195,28 @@ Game Times:
 
 Location: SMLL Minors field, unless indicated otherwise
 
-Date     | Day | Game | Round | Match | Visitor | @Home
+Date     | Day | Game | Round | Match | Visitor | Home
 ---------|-----|------|-------|-------|---------|----------
-April 13 | Thu | 1    | 1     | A/C 1 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
-April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
-April 27 | Thu | 3    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
-April 29 | Sat | 4    | 2     | A/C 2 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
-May 4    | Thu | 5    | 2     | B/C 2 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
-May 6    | Sat | 6    | M1    |       | MGSL A  | 8U Poppies / Tompkins
-May 6    | Sat | 7    | M1    |       | MGSL A  | 8U Buttercups / Cosentino
-May 6    | Sat | 8    | M1    |       | 8U Sweet Peas / Nolasco  | MGSL B[^1]
-May 11   | Thu | 9    | 2     | A/B 2 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins
-May 13   | Sat | 10   | 3     | B/C 3 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
-May 18   | Thu | 11   | 3     | A/C 3 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
-May 20   | Sat | 12   | M2    |       | MGSL B  | 8U Sweet Peas / Nolasco
-May 20   | Sat | 13   | M2    |       | MGSL B  | 8U Poppies / Tompkins
-May 20   | Sat | 14   | M2    |       | 8U Buttercups / Cosentino  | MGSL A[^1]
-May 25   | Thu | 15   | 3     | A/B 3 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
-May 27   | Sat | 16   | M3    |       | MGSL A  | 8U Buttercups / Cosentino
-May 27   | Sat | 17   | M3    |       | MGSL A  | 8U Sweet Peas / Nolasco
-May 27   | Sat | 18   | M3    |       | 8U Poppies / Tompkins  | MGSL B[^1]
-June 1   | Thu | 19   | 4     | A/C 4 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
-June 3   | Sat | 20   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
+April 13 | Thu | 1    | 1     | P/B 1 | 8U Buttercups / Cosentino   | 8U Poppies / Tompkins
+April 15 | Sat | 2    | 1     | S/B 1 | 8U Buttercups / Cosentino   | 8U Sweet Peas / Nolasco
+April 27 | Thu | 3    | 1     | S/P 1 | 8U Poppies / Tompkins       | 8U Sweet Peas / Nolasco
+April 29 | Sat | 4    | 2     | S/P 2 | 8U Sweet Peas / Nolasco     | 8U Poppies / Tompkins
+May 4    | Thu | 5    | 2     | S/B 2 | 8U Sweet Peas / Nolasco     | 8U Buttercups / Cosentino
+May 6    | Sat | 6    | M1    |       | MGSL A                      | 8U Poppies / Tompkins
+May 6    | Sat | 7    | M1    |       | MGSL A                      | 8U Buttercups / Cosentino
+May 6    | Sat | 8    | M1    |       | 8U Sweet Peas / Nolasco     | MGSL B[^1]
+May 11   | Thu | 9    | 2     | P/B 2 | 8U Poppies / Tompkins       | 8U Buttercups / Cosentino
+May 13   | Sat | 10   | 3     | S/B 3 | 8U Sweet Peas / Nolasco     | 8U Buttercups / Cosentino
+May 18   | Thu | 11   | 3     | S/P 3 | 8U Poppies / Tompkins       | 8U Sweet Peas / Nolasco
+May 20   | Sat | 12   | M2    |       | MGSL B                      | 8U Sweet Peas / Nolasco
+May 20   | Sat | 13   | M2    |       | MGSL B                      | 8U Poppies / Tompkins
+May 20   | Sat | 14   | M2    |       | 8U Buttercups / Cosentino   | MGSL A[^1]
+May 25   | Thu | 15   | 3     | P/B 3 | 8U Buttercups / Cosentino   | 8U Poppies / Tompkins
+May 27   | Sat | 16   | M3    |       | MGSL A                      | 8U Buttercups / Cosentino
+May 27   | Sat | 17   | M3    |       | MGSL A                      | 8U Sweet Peas / Nolasco
+May 27   | Sat | 18   | M3    |       | 8U Poppies / Tompkins       | MGSL B[^1]
+June 1   | Thu | 19   | 4     | S/B 4 | 8U Buttercups / Cosentino   | 8U Sweet Peas / Nolasco
+June 3   | Sat | 20   | 4     | S/P 4 | 8U Sweet Peas / Nolasco     | 8U Poppies / Tompkins
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
 
