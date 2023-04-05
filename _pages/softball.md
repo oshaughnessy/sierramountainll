@@ -193,6 +193,8 @@ Game Times:
 * Thursdays: 4:30-6pm
 * Saturdays: 10:00-11:30
 
+Location: SMLL Minors field, unless indicated otherwise
+
 Date     | Day | Game | Round | Match | Visitor | @Home
 |----------|-----|------|-------|-------|---------|----------
 April 13 | Thu | 1    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
