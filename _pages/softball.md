@@ -25,9 +25,10 @@ games.
 We encourage 5-year-old girls to play a year of tee ball before they join
 this division.
 
-This is a coach-to-player pitch division. In the 1st half of the season,
-coaches or a machine will throw pitches to batters. In the 2nd half of
-the season, players will throw.
+This is a coach-to-player pitch division. In the 1st 1/3 of the season,
+coaches or a machine will throw pitches to batters. In the 2nd 1/3, players
+will throw for their own teammates. In the final 1/3, competitors will pitch
+against the other team.
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
@@ -42,16 +43,22 @@ go through the 2023 season.
 
 #### Pitching
 
-1st half of the season:
+1st third of the season:
 - **Coaches will pitch to their own players**
 - Coaches may throw from a standing position or sitting on a ball bucket
 - 5 and 6-year-old players may use a tee at the coach's discretion
 
-2nd half of the season:
+2nd third of the season:
+- **Offense will pitch to their own players**
+- 5 balls per batter
+- 3 strikes per batter
+- After 3 walked batters, player pitching should rotate out
+
+3rd third of the season:
 - **Defense will pitch to opposing players**
 - 5 balls per batter
 - 3 strikes per batter
-- After 3 walked batters, player pitching should rotate out.
+- After 3 walked batters, player pitching should rotate out
 
 All season:
 - 8 pitches max per hitter
