@@ -202,19 +202,19 @@ April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Pe
 April 27 | Thu | 3    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
 April 29 | Sat | 4    | 2     | A/C 2 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
 May 4    | Thu | 5    | 2     | B/C 2 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
-May 6    | Sat | 6    | I1    |       | MGSL A  | 8U Poppies / Tompkins
-May 6    | Sat | 7    | I1    |       | MGSL A  | 8U Buttercups / Cosentino
-May 6    | Sat | 8    | I1    |       | 8U Sweet Peas / Nolasco  | MGSL B[^1]
+May 6    | Sat | 6    | M1    |       | MGSL A  | 8U Poppies / Tompkins
+May 6    | Sat | 7    | M1    |       | MGSL A  | 8U Buttercups / Cosentino
+May 6    | Sat | 8    | M1    |       | 8U Sweet Peas / Nolasco  | MGSL B[^1]
 May 11   | Thu | 9    | 2     | A/B 2 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins
 May 13   | Sat | 10   | 3     | B/C 3 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
 May 18   | Thu | 11   | 3     | A/C 3 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
-May 20   | Sat | 12   | I2    |       | MGSL B  | 8U Sweet Peas / Nolasco
-May 20   | Sat | 13   | I2    |       | MGSL B  | 8U Poppies / Tompkins
-May 20   | Sat | 14   | I2    |       | 8U Buttercups / Cosentino  | MGSL A[^1]
+May 20   | Sat | 12   | M2    |       | MGSL B  | 8U Sweet Peas / Nolasco
+May 20   | Sat | 13   | M2    |       | MGSL B  | 8U Poppies / Tompkins
+May 20   | Sat | 14   | M2    |       | 8U Buttercups / Cosentino  | MGSL A[^1]
 May 25   | Thu | 15   | 3     | A/B 3 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
-May 27   | Sat | 16   | I3    |       | MGSL A  | 8U Buttercups / Cosentino
-May 27   | Sat | 17   | I3    |       | MGSL A  | 8U Sweet Peas / Nolasco
-May 27   | Sat | 18   | I3    |       | 8U Poppies / Tompkins  | MGSL B[^1]
+May 27   | Sat | 16   | M3    |       | MGSL A  | 8U Buttercups / Cosentino
+May 27   | Sat | 17   | M3    |       | MGSL A  | 8U Sweet Peas / Nolasco
+May 27   | Sat | 18   | M3    |       | 8U Poppies / Tompkins  | MGSL B[^1]
 June 1   | Thu | 19   | 4     | A/C 4 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco
 June 3   | Sat | 20   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino
 
