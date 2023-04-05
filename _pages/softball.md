@@ -196,7 +196,7 @@ Game Times:
 Location: SMLL Minors field, unless indicated otherwise
 
 Date     | Day | Game | Round | Match | Visitor | @Home
-|----------|-----|------|-------|-------|---------|----------
+---------|-----|------|-------|-------|---------|----------
 April 13 | Thu | 1    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino
 April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco
 April 27 | Thu | 3    | 1     | A/C 1 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins
