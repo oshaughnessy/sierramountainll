@@ -193,29 +193,29 @@ Game Times:
 * Thursdays: 4:30-6pm
 * Saturdays: 10:00-11:30
 
-| Date     | Day | Game | Round | Match | Visitor | @Home    | Location
+Date     | Day | Game | Round | Match | Visitor | @Home    | Location
 |----------|-----|------|-------|-------|---------|----------|-------------
-| April 13 | Thu | 1    | 1     | A/B 1 | Team A  | Team B   | SMLL Minors
-| April 15 | Sat | 2    | 1     | B/C 1 | Team B  | Team C   | SMLL Minors
-| April 27 | Thu | 3    | 1     | A/C 1 | Team C  | Team A   | SMLL Minors
-| April 29 | Sat | 4    | 2     | A/C 2 | Team A  | Team C   | SMLL Minors
-| May 4    | Thu | 5    | 2     | B/C 2 | Team C  | Team B   | SMLL Minors
-|_May 6_   |_Sat_|_6_   |_I1_   |       | _MGYSL A_ |_Team A_ |_SMLL Minors_
-|_May 6_   |_Sat_|_7_   |_I1_   |       | _MGYSL A_ |_Team B_ |_SMLL Minors_
-|_May 6_   |_Sat_|_8_   |_I1_   |       | _Team C_ |_MGYSL B_ |_Mariposa_
-| May 11   | Thu | 9    | 2     | A/B 2 | Team B  | Team A   | SMLL Minors
-| May 13   | Sat | 10   | 3     | B/C 3 | Team B  | Team C   | SMLL Minors
-| May 18   | Thu | 11   | 3     | A/C 3 | Team C  | Team A   | SMLL Minors
-|_May 20_  |_Sat_|_12_  |_I2_   |       | _MGYSL B_ |_Team C_ |_SMLL Minors_
-|_May 20_  |_Sat_|_13_  |_I2_   |       | _MGYSL B_ |_Team A_ |_SMLL Minors_
-|_May 20_  |_Sat_|_14_  |_I2_   |       | _Team B_ |_MGYSL A_ |_Mariposa_
-| May 25   | Thu | 15   | 3     | A/B 3 | Team A  | Team B   | SMLL Minors
-| May 27   | Sat | 16   | 4     | B/C 4 | Team C  | Team B   | SMLL Minors
-|_May 27_  |_Sat_|_17_  |_I3_   |       | _MGYSL A_ |_Team B_ |_SMLL Minors_
-|_May 27_  |_Sat_|_18_  |_I3_   |       | _MGYSL A_ |_Team C_ |_SMLL Minors_
-|_May 27_  |_Sat_|_19_  |_I3_   |       | _Team A_ |_MGYSL B_ |_Mariposa_
-| June 1   | Thu | 20   | 4     | A/C 4 | Team A  | Team C   | SMLL Minors
-| June 3   | Sat | 21   | 4     | A/B 4 | Team B  | Team A   | SMLL Minors
+April 13 | Thu | 1    | 1     | A/B 1 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino   | SMLL Minors
+April 15 | Sat | 2    | 1     | B/C 1 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco   | SMLL Minors
+April 27 | Thu | 3    | 1     | A/C 1 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins   | SMLL Minors
+April 29 | Sat | 4    | 2     | A/C 2 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco   | SMLL Minors
+May 4    | Thu | 5    | 2     | B/C 2 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino   | SMLL Minors
+May 6    | Sat | 6    | I1    |       | MGYSL A  | 8U Poppies / Tompkins  | SMLL Minors 
+May 6    | Sat | 7    | I1    |       | MGYSL A  | 8U Buttercups / Cosentino  | SMLL Minors 
+May 6    | Sat | 8    | I1    |       | 8U Sweet Peas / Nolasco  | MGYSL B  | Mariposa 
+May 11   | Thu | 9    | 2     | A/B 2 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins   | SMLL Minors
+May 13   | Sat | 10   | 3     | B/C 3 | 8U Buttercups / Cosentino  | 8U Sweet Peas / Nolasco   | SMLL Minors
+May 18   | Thu | 11   | 3     | A/C 3 | 8U Sweet Peas / Nolasco  | 8U Poppies / Tompkins   | SMLL Minors
+May 20   | Sat | 12   | I2    |       | MGYSL B  | 8U Sweet Peas / Nolasco  | SMLL Minors 
+May 20   | Sat | 13   | I2    |       | MGYSL B  | 8U Poppies / Tompkins  | SMLL Minors 
+May 20   | Sat | 14   | I2    |       | 8U Buttercups / Cosentino  | MGYSL A  | Mariposa 
+May 25   | Thu | 15   | 3     | A/B 3 | 8U Poppies / Tompkins  | 8U Buttercups / Cosentino   | SMLL Minors
+May 27   | Sat | 16   | 4     | A/B 4 | 8U Buttercups / Cosentino  | 8U Poppies / Tompkins   | SMLL Minors
+May 27   | Sat | 17   | I3    |       | MGYSL A  | 8U Buttercups / Cosentino  | SMLL Minors 
+May 27   | Sat | 18   | I3    |       | MGYSL A  | 8U Sweet Peas / Nolasco  | SMLL Minors 
+May 27   | Sat | 19   | I3    |       | 8U Poppies / Tompkins  | MGYSL B  | Mariposa 
+June 1   | Thu | 20   | 4     | A/C 4 | 8U Poppies / Tompkins  | 8U Sweet Peas / Nolasco   | SMLL Minors
+June 3   | Sat | 21   | 4     | B/C 4 | 8U Sweet Peas / Nolasco  | 8U Buttercups / Cosentino   | SMLL Minors
 
 ### 10U: 1 team
 
