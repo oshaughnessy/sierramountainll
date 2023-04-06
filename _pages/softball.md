@@ -226,7 +226,7 @@ June 3   | Sat | 20   | 4     | S/P 4 | 8U Sweet Peas / Nolasco     | 8U Poppies
 {: .notice--warning }
 
 - April 15: SMLL at YLL
-- April 22: YLL at SMLL
+- ~~April 22: YLL at SMLL~~
 - April 25: SMLL at YLL (Tues)
 - April 29: SMLL at YLL
 - May 6: SMLL at MGSL (double-headers)
@@ -246,7 +246,7 @@ mid-week games locally or in Coarsegold?
 | Date     | Day  | Game | Round | Match | Visitor | @Home    | Location
 |----------|------|------|-------|-------|---------|----------|-------------
 | April 15 | Sat  | 1    | 1     | YS1   | SMLL    | YLL      | Coarsegold
-| April 22 | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
+| ~~April 22~~ | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
 | April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
 | April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
 |_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGSL_   |_Mariposa_
