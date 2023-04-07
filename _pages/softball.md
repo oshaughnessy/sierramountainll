@@ -146,6 +146,9 @@ their base until the next pitched ball has been released by the pitcher.
 ### 14U/Juniors
 {: .softball}
 
+Coming in the 2023-2024 season
+{: .notice }
+
 **Ages** | 13-14
 **Ball** | 12" standard
 **Pitch Distance** | 43'
@@ -154,6 +157,9 @@ their base until the next pitched ball has been released by the pitcher.
 
 ### 16U/Seniors
 {: .softball}
+
+Coming in the 2023-2024 season
+{: .notice }
 
 **Ages** | 15-16
 **Ball** | 12" standard
