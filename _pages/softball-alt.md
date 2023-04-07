@@ -8,22 +8,39 @@ toc_h_max: 3
 
 ## Divisions
 
-### 8U/Player Pitch/Minors AA
+### 6U/Coach Pitch/Minors A
 {: .softball}
 
-**Ages** | 5-8
+**Ages** | 5-6
 **Ball** | 11" soft/reduced impact force
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
 8U is our learning division where the youngest girls have a chance to
 discover the fundamentals of playing the game. They'll learn how to throw,
-catch, run the bases, hit, and, to a more limited degree, pitch. In the 2nd
-half of the season, they'll also get a chance to pitch against opponents in
-games.
+catch, run the bases, and hit.
 
-We encourage 5-year-old girls to play a year of tee ball before they join
-this division.
+This is a coach-to-player pitch division. In the 1st half of the season,
+coaches or a machine will exclusively throw pitches to batters. In the 2nd
+half, pitchers will begin to throw for their own teammates.
+
+PLEASE NOTE: The rules below are a work in progress. We may revise them as we
+go through the 2023 season.
+{: .notice--warning }
+
+
+### 8U/Player Pitch/Minors AA
+{: .softball}
+
+**Ages** | 7-8
+**Ball** | 11" standard softball
+**Pitch Distance** | 25'
+**Base Distance**  | 60'
+
+8U is our learning division where young girls with some experience and
+growing strength build a stronger understanding of game strategy and position-
+oriented skills. We encourage coaches to rotate players through all positions
+throughout the season.
 
 This is a coach-to-player pitch division. In the 1st 1/3 of the season,
 coaches or a machine will throw pitches to batters. In the 2nd 1/3, players
@@ -78,11 +95,11 @@ territory.
 {: .softball}
 
 **Ages** | 9-10
-**Ball** | 12" standard
+**Ball** | 11" standard softball
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-10U is our transition division, where girls learn to play more strictly by
+10U is our transition division, where girls begin to play strictly by
 the rules of softball. It's a full player-pitch division, so the players
 themselves will be throwing all pitches against batters.
 
