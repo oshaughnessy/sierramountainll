@@ -234,8 +234,8 @@ June 3   | Sat | 12   | Nolasco | Kilgore
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 5:30-7:00pm
-* Saturdays: 10:30-12:00pm
+* Tuesdays: 4:00-5:15pm
+* Saturdays: 10:30-11:45pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
@@ -265,39 +265,21 @@ June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 5:00-7:00pm
+* Tuesdays: 5:30-7:00pm
 * Saturdays: 12:30-2:30pm
 
-- April 25: YLL at SMLL (Tues)
-- April 29: SMLL at YLL
-- May 6: SMLL at MGSL (double-headers)
-- May 9: YLL at SMLL (Tues)
-- May 13: _Madera or Sunnyside?_
-- May 16: SMLL at YLL (Tues)
-- May 20: MGSL at SMLL
-- May 23: YLL at SMLL (Tues)
-- May 27: SMLL at MGSL
-- May 30: SMLL at YLL (Tues)
-- June 3: YLL at SMLL (double-headers?)
-
-mid-week games locally or in Coarsegold?
-{: .notice--warning }
-
-| Date     | Day  | Game | Round | Match | Visitor | @Home    | Location
-|----------|------|------|-------|-------|---------|----------|-------------
-| April 15 | Sat  | 1    | 1     | YS1   | SMLL    | YLL      | Coarsegold
-| ~~April 22~~ | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
-| April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
-| April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
-|_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGSL_   |_Mariposa_
-| May 9    | Tues | 6    | 3     | YS5   | YLL     | SMLL     | Oakhurst
-| May 13   | Sat  | 7    | 3     | YS6   | SMLL    | YLL      | Coarsegold
-| May 16   | Tues | 8    | 4     | YS8   | SMLL    | YLL      | Coarsegold
-|_May 20_  |_Sat_ |_9_   |       |_MS2_  |_MGSL_  |_SMLL_    |_Oakhurst_
-| May 23   | Tues | 10   | 4     | YS8   | YLL     | SMLL     | Oakhurst
-|_May 27_  |_Sat_ |_11_  |       |_MS3_  |_SMLL_   |_MGSL_   |_Mariposa_
-| May 30   | Tues | 12   | 5     | YS9   | SMLL    | YLL      | Coarsegold
-| June 3   | Sat  | 13   | 5     | YS10  | YLL     | SMLL     | Oakhurst
+1. April 25: YLL @ SMLL (Tues)
+2. April 29: SMLL @ YLL
+3. May 2: YLL @ SMLL (Tues)
+4. May 6: YLL @ SMLL
+5. May 9: SMLL @ YLL (Tues)
+6. May 13: YLL @ SMLL
+7. May 16: SMLL @ YLL (Tues)
+8. May 20: YLL @ SMLL (Necessary)
+9. May 23: SMLL @ YLL (Tues)
+10. May 27: SMLL @ MGSL
+11. May 30: YLL @ SMLL (Tues)
+12. June 3: SMLL @ YLL
 
 ### 12U: 1 team
 
@@ -305,22 +287,18 @@ mid-week games locally or in Coarsegold?
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 5:00-7:00pm
-* Saturdays: 12:30-2:30pm
+* Thursdays: 5:30-7:30pm
+* Saturdays: 3:00pm-5:00pm
 
-- April 15: vs YLL
-- April 27: @ YLL (Thurs)
-- April 29: @ YLL
-- May 4: vs YLL (Thurs)
-- May 6: MGSL 12U1 at SMLL
-- May 6: MGSL 12U2 at SMLL
-- May 11: @ YLL (Thurs)
-- May 13: vs YLL
-- May 20: SMLL at MGSL 12U1
-- May 20: SMLL at MGSL 12U3
-- May 25: vs YLL (Thurs)
-- May 27: MGSL 12U3 at SMLL
-- June 3: @ YLL (double-headers?)
-
-mid-week games locally or in Coarsegold?
-{: .notice--warning }
+1. April 27: YLL @ SMLL (Thurs)
+2. April 29: SMLL @ YLL
+3. May 4: YLL @ SMLL (Thurs)
+4. May 6: MGSL 12U1 at SMLL
+5. May 11: SMLL @ YLL (Thurs)
+6. May 13: YLL @ SMLL
+7. May 18: YLL @ SMLL (Thurs)
+8. May 20: SMLL at MGSL 12U2
+9. May 25: SMLL @ YLL (Thurs)
+10. May 27: MGSL 12U3 at SMLL
+11. June 1: YLL @ SMLL (Thurs)
+12. June 3: SMLL @ YLL
