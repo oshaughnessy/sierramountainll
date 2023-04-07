@@ -1,6 +1,6 @@
 ---
-title: Fastpitch Softball v2 at SMLL
-permalink: /softball2/
+title: Fastpitch Softball at SMLL
+permalink: /softball/
 toc: true
 toc_icon: softball
 toc_h_max: 3

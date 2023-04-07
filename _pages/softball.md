@@ -8,22 +8,39 @@ toc_h_max: 3
 
 ## Divisions
 
-### 8U/Player Pitch/Minors AA
+### 6U/Coach Pitch/Minors A
 {: .softball}
 
-**Ages** | 5-8
+**Ages** | 5-6
 **Ball** | 11" soft/reduced impact force
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
-8U is our learning division where the youngest girls have a chance to
+6U is our learning division where the youngest girls have a chance to
 discover the fundamentals of playing the game. They'll learn how to throw,
-catch, run the bases, hit, and, to a more limited degree, pitch. In the 2nd
-half of the season, they'll also get a chance to pitch against opponents in
-games.
+catch, run the bases, and hit.
 
-We encourage 5-year-old girls to play a year of tee ball before they join
-this division.
+This is a coach-to-player pitch division. In the 1st half of the season,
+coaches or a machine will exclusively throw pitches to batters. In the 2nd
+half, pitchers will begin to throw for their own teammates.
+
+PLEASE NOTE: The rules below are a work in progress. We may revise them as we
+go through the 2023 season.
+{: .notice--warning }
+
+
+### 8U/Player Pitch/Minors AA
+{: .softball}
+
+**Ages** | 7-8
+**Ball** | 11" standard softball
+**Pitch Distance** | 25'
+**Base Distance**  | 60'
+
+8U is our learning division where young girls with some experience and
+growing strength build a stronger understanding of game strategy and position-
+oriented skills. We encourage coaches to rotate players through all positions
+throughout the season.
 
 This is a coach-to-player pitch division. In the 1st 1/3 of the season,
 coaches or a machine will throw pitches to batters. In the 2nd 1/3, players
@@ -78,11 +95,11 @@ territory.
 {: .softball}
 
 **Ages** | 9-10
-**Ball** | 12" standard
+**Ball** | 11" standard softball
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-10U is our transition division, where girls learn to play more strictly by
+10U is our transition division, where girls begin to play strictly by
 the rules of softball. It's a full player-pitch division, so the players
 themselves will be throwing all pitches against batters.
 
@@ -184,98 +201,104 @@ from nearest to farthest:
 {: .notice--info }
 School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict.com/site/default.aspx?PageType=3&ModuleInstanceID=142&ViewID=C9E0416E-F0E7-4626-AA7B-C14D59F72F85&RenderLoc=0&FlexDataID=9920&PageID=1), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
 
-### 8U: 3 teams
+### 6U: 2 teams
 
 (**_Tentative: Times and dates are a work in progress_**)
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 4:30-6pm
-* Saturdays: 10:00-11:30
+* Thursdays: 4:00-5:00pm
+* Saturdays: 9:00-10:00am
+
+Location: SMLL Minors field
+
+Date     | Day | Game | Visitor | Home
+---------|-----|------|---------|----------
+April 27 | Thu | 1    | Kilgore | Nolasco
+April 29 | Sat | 2    | Nolasco | Kilgore
+May 4    | Thu | 3    | Kilgore | Nolasco 
+May 6    | Sat | 4    | Nolasco | Kilgore 
+May 11   | Thu | 5    | Kilgore | Nolasco 
+May 13   | Sat | 6    | Nolasco | Kilgore 
+May 18   | Thu | 7    | Kilgore | Nolasco 
+May 20   | Sat | 8    | Nolasco | Kilgore 
+May 25   | Thu | 9    | Kilgore | Nolasco 
+May 27   | Sat | 10   | Nolasco | Kilgore 
+June 1   | Thu | 11   | Kilgore | Nolasco 
+June 3   | Sat | 12   | Nolasco | Kilgore 
+
+
+### 8U: 2 teams
+
+(**_Tentative: Times and dates are a work in progress_**)
+{: .notice--warning }
+
+Game Times:
+* Tuesdays: 4:00-5:15pm
+* Saturdays: 10:30-11:45pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
-Date     | Day | Game | Round | Match | Visitor | Home
----------|-----|------|-------|-------|---------|----------
-April 13 | Thu | 1    | 1     | P/B 1 | 8U Buttercups / Cosentino   | 8U Poppies / Tompkins
-April 15 | Sat | 2    | 1     | S/B 1 | 8U Buttercups / Cosentino   | 8U Sweet Peas / Nolasco
-April 27 | Thu | 3    | 1     | S/P 1 | 8U Poppies / Tompkins       | 8U Sweet Peas / Nolasco
-April 29 | Sat | 4    | 2     | S/P 2 | 8U Sweet Peas / Nolasco     | 8U Poppies / Tompkins
-May 4    | Thu | 5    | 2     | S/B 2 | 8U Sweet Peas / Nolasco     | 8U Buttercups / Cosentino
-May 6    | Sat | 6    | M1    |       | MGSL A                      | 8U Poppies / Tompkins
-May 6    | Sat | 7    | M1    |       | MGSL A                      | 8U Buttercups / Cosentino
-May 6    | Sat | 8    | M1    |       | 8U Sweet Peas / Nolasco     | MGSL B[^1]
-May 11   | Thu | 9    | 2     | P/B 2 | 8U Poppies / Tompkins       | 8U Buttercups / Cosentino
-May 13   | Sat | 10   | 3     | S/B 3 | 8U Sweet Peas / Nolasco     | 8U Buttercups / Cosentino
-May 18   | Thu | 11   | 3     | S/P 3 | 8U Poppies / Tompkins       | 8U Sweet Peas / Nolasco
-May 20   | Sat | 12   | M2    |       | MGSL B                      | 8U Sweet Peas / Nolasco
-May 20   | Sat | 13   | M2    |       | MGSL B                      | 8U Poppies / Tompkins
-May 20   | Sat | 14   | M2    |       | 8U Buttercups / Cosentino   | MGSL A[^1]
-May 25   | Thu | 15   | 3     | P/B 3 | 8U Buttercups / Cosentino   | 8U Poppies / Tompkins
-May 27   | Sat | 16   | M3    |       | MGSL A                      | 8U Buttercups / Cosentino
-May 27   | Sat | 17   | M3    |       | MGSL A                      | 8U Sweet Peas / Nolasco
-May 27   | Sat | 18   | M3    |       | 8U Poppies / Tompkins       | MGSL B[^1]
-June 1   | Thu | 19   | 4     | S/B 4 | 8U Buttercups / Cosentino   | 8U Sweet Peas / Nolasco
-June 3   | Sat | 20   | 4     | S/P 4 | 8U Sweet Peas / Nolasco     | 8U Poppies / Tompkins
+Date     | Day | Game | Round | Visitor | Home
+---------|-----|------|-------|---------|----------
+April 27 | Thu | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+April 29 | Sat | 2    | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
+May 4    | Thu | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 6    | Sat | 4    | I1    | MGSL A                    | 8U Poppies / Tompkins
+May 6    | Sat | 5    | I1    | 8U Buttercups / Cosentino | MGSL B[^1]
+May 11   | Thu | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 13   | Sat | 7    | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
+May 18   | Thu | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 20   | Sat | 9    | I2    | MGSL B                    | 8U Buttercups / Cosentino
+May 20   | Sat | 10   | I2    | 8U Poppies / Tompkins     | MGSL A[^1]
+May 25   | Thu | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 27   | Sat | 12   | I3    | MGSL A                    | 8U Poppies / Tompkins
+May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B[^1]
+June 1   | Thu | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
 
-### 10U: 1 team
+### 10U: 1 team       
 
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-- April 15: SMLL at YLL
-- ~~April 22: YLL at SMLL~~
-- April 25: SMLL at YLL (Tues)
-- April 29: SMLL at YLL
-- May 6: SMLL at MGSL (double-headers)
-- May 9: YLL at SMLL (Tues)
-- May 13: _Madera or Sunnyside?_
-- May 16: SMLL at YLL (Tues)
-- May 20: MGSL at SMLL
-- May 23: YLL at SMLL (Tues)
-- May 27: SMLL at MGSL
-- May 30: SMLL at YLL (Tues)
-- June 3: YLL at SMLL (double-headers?)
+Game Times:
+* Tuesdays: 5:30-7:00pm
+* Saturdays: 12:30-2:30pm
 
-mid-week games locally or in Coarsegold?
-{: .notice--warning }
-
-| Date     | Day  | Game | Round | Match | Visitor | @Home    | Location
-|----------|------|------|-------|-------|---------|----------|-------------
-| April 15 | Sat  | 1    | 1     | YS1   | SMLL    | YLL      | Coarsegold
-| ~~April 22~~ | Sat  | 2    | 1     | YS2   | YLL     | SMLL     | Oakhurst
-| April 25 | Tues | 3    | 2     | YS3   | SMLL    | YLL      | Coarsegold
-| April 29 | Sat  | 4    | 2     | YS4   | YLL     | SMLL     | Oakhurst
-|_May 6_   |_Sat_ |_5_   |       |_MS1_  |_SMLL_   |_MGSL_   |_Mariposa_
-| May 9    | Tues | 6    | 3     | YS5   | YLL     | SMLL     | Oakhurst
-| May 13   | Sat  | 7    | 3     | YS6   | SMLL    | YLL      | Coarsegold
-| May 16   | Tues | 8    | 4     | YS8   | SMLL    | YLL      | Coarsegold
-|_May 20_  |_Sat_ |_9_   |       |_MS2_  |_MGSL_  |_SMLL_    |_Oakhurst_
-| May 23   | Tues | 10   | 4     | YS8   | YLL     | SMLL     | Oakhurst
-|_May 27_  |_Sat_ |_11_  |       |_MS3_  |_SMLL_   |_MGSL_   |_Mariposa_
-| May 30   | Tues | 12   | 5     | YS9   | SMLL    | YLL      | Coarsegold
-| June 3   | Sat  | 13   | 5     | YS10  | YLL     | SMLL     | Oakhurst
+1. April 25: YLL @ SMLL (Tues)
+2. April 29: SMLL @ YLL
+3. May 2: YLL @ SMLL (Tues)
+4. May 6: YLL @ SMLL
+5. May 9: SMLL @ YLL (Tues)
+6. May 13: YLL @ SMLL
+7. May 16: SMLL @ YLL (Tues)
+8. May 20: YLL @ SMLL (Necessary)
+9. May 23: SMLL @ YLL (Tues)
+10. May 27: SMLL @ MGSL
+11. May 30: YLL @ SMLL (Tues)
+12. June 3: SMLL @ YLL
 
 ### 12U: 1 team
 
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-- April 15: vs YLL
-- April 27: @ YLL (Thurs)
-- April 29: @ YLL
-- May 4: vs YLL (Thurs)
-- May 6: MGSL 12U1 at SMLL
-- May 6: MGSL 12U2 at SMLL
-- May 11: @ YLL (Thurs)
-- May 13: vs YLL
-- May 20: SMLL at MGSL 12U1
-- May 20: SMLL at MGSL 12U3
-- May 25: vs YLL (Thurs)
-- May 27: MGSL 12U3 at SMLL
-- June 3: @ YLL (double-headers?)
+Game Times:
+* Thursdays: 5:30-7:30pm
+* Saturdays: 3:00pm-5:00pm
 
-mid-week games locally or in Coarsegold?
-{: .notice--warning }
+1. April 27: YLL @ SMLL (Thurs)
+2. April 29: SMLL @ YLL
+3. May 4: YLL @ SMLL (Thurs)
+4. May 6: MGSL 12U1 at SMLL
+5. May 11: SMLL @ YLL (Thurs)
+6. May 13: YLL @ SMLL
+7. May 18: YLL @ SMLL (Thurs)
+8. May 20: SMLL at MGSL 12U2
+9. May 25: SMLL @ YLL (Thurs)
+10. May 27: MGSL 12U3 at SMLL
+11. June 1: YLL @ SMLL (Thurs)
+12. June 3: SMLL @ YLL
