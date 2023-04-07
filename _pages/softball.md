@@ -11,7 +11,7 @@ toc_h_max: 3
 ### 6U/Coach Pitch/Minors A
 {: .softball}
 
-**Ages** | 5-6
+**Ages** | 5-6 (in general)
 **Ball** | 11" soft/reduced impact force
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
@@ -28,12 +28,19 @@ PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
 
+#### Ground Rules
+
+- Only 1 extra base on an overthrow
+- No stealing
+- Parent or coach as umpire
+- Defensive coaches are allowed on the field during game play
+  to instruct their players
 
 ### 8U/Player Pitch/Minors AA
 {: .softball}
 
-**Ages** | 7-8
-**Ball** | 11" standard softball
+**Ages** | 7-8 (in general)
+**Ball** | 11" soft/reduced impact force
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
@@ -54,6 +61,7 @@ go through the 2023 season.
 #### Ground Rules
 
 - Only 1 extra base on an overthrow
+- No stealing
 - Parent or coach as umpire
 - Defensive coaches are allowed on the field during game play
   to instruct their players
@@ -86,9 +94,10 @@ All season:
 
 #### Stealing
 
-Stealing is not permitted in 8U. Once a ball is in the pitcher's control,
-a runner may not leave their base until a batter hits the ball into fair
-territory.
+Stealing is not permitted in 8U.
+
+Once a ball is in the pitcher's control, a runner may not leave their base
+until a batter hits the ball into fair territory.
 
 
 ### 10U/Minors AAA
@@ -109,6 +118,8 @@ go through the 2023 season.
 
 #### Stealing
 
+Stealing rules follow those of regular Little League softball.
+
 Once a ball is under the control of the pitcher, runners may not
 leave their base until the next pitch is thrown and the ball reaches
 the batter.
@@ -122,9 +133,11 @@ the batter.
 **Pitch Distance** | 40'
 **Base Distance**  | 60'
 
-12U is our Majors division, with full Little League Softball rules.
+12U is our Majors division, with full Little League softball rules.
 
 #### Stealing
+
+Stealing rules follow those of regular Little League softball.
 
 Once a ball is under the control of the pitcher, runners may not leave
 their base until the next pitched ball has been released by the pitcher.
@@ -138,11 +151,6 @@ their base until the next pitched ball has been released by the pitcher.
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
 
-#### Stealing
-
-Once a ball is under the control of the pitcher, runners may not leave
-their base until the next pitched ball has been released by the pitcher.
-
 
 ### 16U/Seniors
 {: .softball}
@@ -151,12 +159,6 @@ their base until the next pitched ball has been released by the pitcher.
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
-
-#### Stealing
-
-Once a ball is under the control of the pitcher, runners may not leave
-their base until the next pitched ball has been released by the pitcher.
-
 
 
 ## Nearby Leagues
@@ -207,8 +209,8 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 4:00-5:00pm
-* Saturdays: 9:00-10:00am
+* Thursdays: 5:00-5:45pm
+* Saturdays: 9:00-9:45am
 
 Location: SMLL Minors field
 
@@ -234,8 +236,8 @@ June 3   | Sat | 12   | Nolasco | Kilgore
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 4:00-5:15pm
-* Saturdays: 10:30-11:45pm
+* Tuesdays: 4:00-5:30pm
+* Saturdays: 10:30-12:00pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
@@ -265,7 +267,7 @@ June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 5:30-7:00pm
+* Tuesdays: 6:00-8:00pm
 * Saturdays: 12:30-2:30pm
 
 1. April 25: YLL @ SMLL (Tues)
@@ -277,7 +279,7 @@ Game Times:
 7. May 16: SMLL @ YLL (Tues)
 8. May 20: YLL @ SMLL (Necessary)
 9. May 23: SMLL @ YLL (Tues)
-10. May 27: SMLL @ MGSL
+10. May 27: SMLL @ YLL
 11. May 30: YLL @ SMLL (Tues)
 12. June 3: SMLL @ YLL
 
@@ -287,7 +289,7 @@ Game Times:
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 5:30-7:30pm
+* Thursdays: 6:15-8:15pm
 * Saturdays: 3:00pm-5:00pm
 
 1. April 27: YLL @ SMLL (Thurs)
@@ -299,6 +301,6 @@ Game Times:
 7. May 18: YLL @ SMLL (Thurs)
 8. May 20: SMLL at MGSL 12U2
 9. May 25: SMLL @ YLL (Thurs)
-10. May 27: MGSL 12U3 at SMLL
+10. May 27: SMLL @ YLL
 11. June 1: YLL @ SMLL (Thurs)
 12. June 3: SMLL @ YLL
