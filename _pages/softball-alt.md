@@ -16,7 +16,7 @@ toc_h_max: 3
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
-8U is our learning division where the youngest girls have a chance to
+6U is our learning division where the youngest girls have a chance to
 discover the fundamentals of playing the game. They'll learn how to throw,
 catch, run the bases, and hit.
 
