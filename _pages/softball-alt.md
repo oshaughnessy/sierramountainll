@@ -235,7 +235,7 @@ June 3   | Sat | 12   | Nolasco | Kilgore
 
 Game Times:
 * Thursdays: 5:30-7:00pm
-* Saturdays: 10:00-11:30am
+* Saturdays: 10:30-12:00pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
@@ -256,7 +256,6 @@ May 27   | Sat | 12   | I3    | MGSL A                    | 8U Poppies / Tompkin
 May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B[^1]
 June 1   | Thu | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-June 3   | Sat | 15   | 5     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
 
@@ -265,9 +264,11 @@ June 3   | Sat | 15   | 5     | 8U Buttercups / Cosentino | 8U Poppies / Tompkin
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-- April 15: SMLL at YLL
-- ~~April 22: YLL at SMLL~~
-- April 25: SMLL at YLL (Tues)
+Game Times:
+* Tuesdays: 5:00-7:00pm
+* Saturdays: 12:30-2:30pm
+
+- April 25: YLL at SMLL (Tues)
 - April 29: SMLL at YLL
 - May 6: SMLL at MGSL (double-headers)
 - May 9: YLL at SMLL (Tues)
@@ -302,6 +303,10 @@ mid-week games locally or in Coarsegold?
 
 (**_Tentative: work in progress_**)
 {: .notice--warning }
+
+Game Times:
+* Tuesdays: 5:00-7:00pm
+* Saturdays: 12:30-2:30pm
 
 - April 15: vs YLL
 - April 27: @ YLL (Thurs)
