@@ -249,20 +249,20 @@ Location: SMLL Minors field, unless indicated otherwise
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|----------
-April 27 | Thu | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+April 25 | Tue | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
-May 4    | Thu | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 2    | Tue | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 6    | Sat | 4    | I1    | MGSL A                    | 8U Poppies / Tompkins
 May 6    | Sat | 5    | I1    | 8U Buttercups / Cosentino | MGSL B[^1]
-May 11   | Thu | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 9    | Tue | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
-May 18   | Thu | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 16   | Tue | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 20   | Sat | 9    | I2    | MGSL B                    | 8U Buttercups / Cosentino
 May 20   | Sat | 10   | I2    | 8U Poppies / Tompkins     | MGSL A[^1]
-May 25   | Thu | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 23   | Tue | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 27   | Sat | 12   | I3    | MGSL A                    | 8U Poppies / Tompkins
 May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B[^1]
-June 1   | Thu | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 30   | Tue | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
