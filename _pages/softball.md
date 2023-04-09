@@ -255,15 +255,15 @@ April 25 | Tue | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 April 29 | Sat | 2    | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
 May 2    | Tue | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 6    | Sat | 4    | I1    | MGSL A                    | 8U Poppies / Tompkins
-May 6    | Sat | 5    | I1    | 8U Buttercups / Cosentino | MGSL B[^1]
+May 6    | Sat | 5    | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 9    | Tue | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
 May 16   | Tue | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 20   | Sat | 9    | I2    | MGSL B                    | 8U Buttercups / Cosentino
-May 20   | Sat | 10   | I2    | 8U Poppies / Tompkins     | MGSL A[^1]
+May 20   | Sat | 10   | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
 May 23   | Tue | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 27   | Sat | 12   | I3    | MGSL A                    | 8U Poppies / Tompkins
-May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B[^1]
+May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 30   | Tue | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
@@ -278,18 +278,23 @@ Game Times:
 * Tuesdays: 6:00-8:00pm
 * Saturdays: 12:30-2:30pm
 
-1. April 25: YLL @ SMLL (Tues)
-2. April 29: SMLL @ YLL
-3. May 2: YLL @ SMLL (Tues)
-4. May 6: YLL @ SMLL
-5. May 9: SMLL @ YLL (Tues)
-6. May 13: YLL @ SMLL
-7. May 16: SMLL @ YLL (Tues)
-8. May 20: YLL @ SMLL (Necessary)
-9. May 23: SMLL @ YLL (Tues)
-10. May 27: SMLL @ YLL
-11. May 30: YLL @ SMLL (Tues)
-12. June 3: SMLL @ YLL
+Date     | Day | Game | Round | Visitor | Home | Notes
+---------|-----|------|-------|---------|------|----
+April 25 | Tue | 1    | 1     | YLL 10U                | Sierra Wildflowers 10U
+April 29 | Sat | 2    | 1     | Sierra Wildflowers 10U | YLL 10U
+May 2    | Tue | 3    | 2     | YLL 10U                | Sierra Wildflowers 10U
+May 6    | Sat | 4    | 2     | YLL 10U                | Sierra Wildflowers 10U
+May 9    | Tue | 5    | 3     | Sierra Wildflowers 10U | YLL 10U
+May 13   | Sat | 6    | 3     | YLL 10U                | Sierra Wildflowers 10U
+May 16   | Tue | 7    | 4     | Sierra Wildflowers 10U | YLL 10U
+May 20   | Sat | 8    | 4     | YLL 10U                | Sierra Wildflowers 10U [^2]
+May 23   | Tue | 9    | 5     | Sierra Wildflowers 10U | YLL 10U
+May 27   | Sat | 10   | 5     | Sierra Wildflowers 10U | YLL 10U
+May 30   | Tue | 11   | 6     | YLL 10U                | Sierra Wildflowers 10U
+June 3   | Sat | 12   | 6     | Sierra Wildflowers 10U | YLL 10U
+
+[^2]: Game location critical on this date for coordinating 10U & 12U
+      games with shared coaches
 
 ### 12U: 1 team
 
