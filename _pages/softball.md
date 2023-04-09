@@ -224,18 +224,17 @@ Location: SMLL Minors field
 
 Date     | Day | Game | Visitor | Home
 ---------|-----|------|---------|----------
-April 28 | Fri | 1    | 6U Kilgore              | 6U Sweet Peas / Nolasco
-April 29 | Sat | 2    | 6U Sweet Peas / Nolasco | 6U Kilgore
-May 4    | Thu | 3    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
-May 6    | Sat | 4    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 11   | Thu | 5    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
-May 13   | Sat | 6    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 18   | Thu | 7    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
-May 20   | Sat | 8    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 25   | Thu | 9    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
-May 27   | Sat | 10   | 6U Sweet Peas / Nolasco | 6U Kilgore 
-June 1   | Thu | 11   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
-June 3   | Sat | 12   | 6U Sweet Peas / Nolasco | 6U Kilgore 
+April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
+May 4    | Thu | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 11   | Thu | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 25   | Thu | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+June 1   | Thu | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore 
 
 
 ### 8U: 2 teams
