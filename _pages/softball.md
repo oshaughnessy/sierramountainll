@@ -277,8 +277,8 @@ Game Times:
 * Tuesdays: 6:00-8:00pm
 * Saturdays: 12:30-2:30pm
 
-Date     | Day | Game | Round | Visitor | Home | Notes
----------|-----|------|-------|---------|------|----
+Date     | Day | Game | Round | Visitor | Home
+---------|-----|------|-------|---------|------
 April 25 | Tue | 1    | 1     | YLL 10U                | Sierra Wildflowers 10U
 April 29 | Sat | 2    | 1     | Sierra Wildflowers 10U | YLL 10U
 May 2    | Tue | 3    | 2     | YLL 10U                | Sierra Wildflowers 10U
@@ -304,15 +304,17 @@ Game Times:
 * Thursdays: 6:15-8:15pm
 * Saturdays: 3:00pm-5:00pm
 
-1. April 27: YLL @ SMLL (Thurs)
-2. April 29: SMLL @ YLL
-3. May 4: YLL @ SMLL (Thurs)
-4. May 6: MGSL 12U1 at SMLL
-5. May 11: SMLL @ YLL (Thurs)
-6. May 13: YLL @ SMLL
-7. May 18: YLL @ SMLL (Thurs)
-8. May 20: SMLL at MGSL 12U2
-9. May 25: SMLL @ YLL (Thurs)
-10. May 27: SMLL @ YLL
-11. June 1: YLL @ SMLL (Thurs)
-12. June 3: SMLL @ YLL
+Date     | Day | Game | Round | Visitor | Home
+---------|-----|------|-------|---------|------
+April 27 | Thu | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
+April 29 | Sat | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
+May 4    | Thu | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
+May 6    | Sat | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
+May 11   | Thu | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
+May 13   | Sat | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+May 18   | Thu | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+May 20   | Sat | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
+May 25   | Thu | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
+May 27   | Sat | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U
+June 1   | Thu | 11   | 5     | YLL 12U                 | Sierra Wildflowers 12U
+June 3   | Sat | 12   | 5     | Sierra Wildflowers 12U  | YLL 12U
