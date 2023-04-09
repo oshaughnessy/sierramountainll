@@ -199,6 +199,8 @@ from nearest to farthest:
  30
 ```
 
+Significant dates:
+
 - April 9: Easter
 - April 3-10: MHS spring break
 - April 17-21: BLSD spring break
@@ -222,7 +224,7 @@ Location: SMLL Minors field
 
 Date     | Day | Game | Visitor | Home
 ---------|-----|------|---------|----------
-April 27 | Thu | 1    | Kilgore | Nolasco
+April 28 | Fri | 1    | Kilgore | Nolasco
 April 29 | Sat | 2    | Nolasco | Kilgore
 May 4    | Thu | 3    | Kilgore | Nolasco 
 May 6    | Sat | 4    | Nolasco | Kilgore 
