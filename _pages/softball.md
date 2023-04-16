@@ -173,7 +173,7 @@ SMLL's nearest competitors for interleague play are,
 from nearest to farthest:
 
 [Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)
-: Games are played at [Coarsegold Elementary School](https://goo.gl/maps/wsAz96RVaFGfDpLc8){:target="blank"}: 45426 Rd 415, Coarsegold, CA 93614
+: Games are played at [Minarets High School](https://goo.gl/maps/wHmGPXxuiFtgWqDv5){:target="blank"}: Rd 200, O'Neals, CA 93645
 
 [Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
 : Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
