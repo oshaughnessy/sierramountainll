@@ -225,15 +225,15 @@ Location: SMLL Minors field
 Date     | Day | Game | Visitor | Home
 ---------|-----|------|---------|----------
 April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
-May 4    | Thu | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 5    | Fri | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 11   | Thu | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 12   | Fri | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 19   | Fri | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 25   | Thu | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 26   | Fri | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-June 1   | Thu | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+June 2   | Fri | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore 
 
 
@@ -250,20 +250,20 @@ Location: SMLL Minors field, unless indicated otherwise
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|----------
-April 25 | Tue | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+April 27 | Thu | 1    | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
-May 2    | Tue | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 4    | Thu | 3    | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 6    | Sat | 4    | I1    | MGSL A                    | 8U Poppies / Tompkins
 May 6    | Sat | 5    | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-May 9    | Tue | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 11   | Thu | 6    | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
-May 16   | Tue | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 18   | Thu | 8    | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 20   | Sat | 9    | I2    | MGSL B                    | 8U Buttercups / Cosentino
 May 20   | Sat | 10   | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
-May 23   | Tue | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 25   | Thu | 11   | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 27   | Sat | 12   | I3    | MGSL A                    | 8U Poppies / Tompkins
 May 27   | Sat | 13   | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-May 30   | Tue | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+June 1   | Thu | 14   | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
@@ -279,17 +279,17 @@ Game Times:
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
-April 25 | Tue | 1    | 1     | YLL 10U                | Sierra Wildflowers 10U
+April 27 | Thu | 1    | 1     | YLL 10U                | Sierra Wildflowers 10U
 April 29 | Sat | 2    | 1     | Sierra Wildflowers 10U | YLL 10U
-May 2    | Tue | 3    | 2     | YLL 10U                | Sierra Wildflowers 10U
+May 4    | Thu | 3    | 2     | YLL 10U                | Sierra Wildflowers 10U
 May 6    | Sat | 4    | 2     | YLL 10U                | Sierra Wildflowers 10U
-May 9    | Tue | 5    | 3     | Sierra Wildflowers 10U | YLL 10U
+May 11   | Thu | 5    | 3     | Sierra Wildflowers 10U | YLL 10U
 May 13   | Sat | 6    | 3     | YLL 10U                | Sierra Wildflowers 10U
-May 16   | Tue | 7    | 4     | Sierra Wildflowers 10U | YLL 10U
+May 18   | Thu | 7    | 4     | Sierra Wildflowers 10U | YLL 10U
 May 20   | Sat | 8    | 4     | YLL 10U                | Sierra Wildflowers 10U [^2]
-May 23   | Tue | 9    | 5     | Sierra Wildflowers 10U | YLL 10U
+May 25   | Thu | 9    | 5     | Sierra Wildflowers 10U | YLL 10U
 May 27   | Sat | 10   | 5     | Sierra Wildflowers 10U | YLL 10U
-May 30   | Tue | 11   | 6     | YLL 10U                | Sierra Wildflowers 10U
+June 1   | Thu | 11   | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 6     | Sierra Wildflowers 10U | YLL 10U
 
 [^2]: Game location critical on this date for coordinating 10U & 12U
@@ -306,15 +306,15 @@ Game Times:
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
-April 27 | Thu | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
+April 28 | Fri | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
 April 29 | Sat | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
-May 4    | Thu | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
+May 5    | Fri | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
 May 6    | Sat | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
-May 11   | Thu | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
+May 12   | Fri | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
 May 13   | Sat | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 18   | Thu | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+May 19   | Fri | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
 May 20   | Sat | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
-May 25   | Thu | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
+May 26   | Fri | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
 May 27   | Sat | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U
-June 1   | Thu | 11   | 5     | YLL 12U                 | Sierra Wildflowers 12U
+June 2   | Fri | 11   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 June 3   | Sat | 12   | 5     | Sierra Wildflowers 12U  | YLL 12U
