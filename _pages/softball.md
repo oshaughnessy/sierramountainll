@@ -217,7 +217,7 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 5:00-5:45pm
+* Fridays: 4:00-5:00pm
 * Saturdays: 9:00-9:45am
 
 Location: SMLL Minors field
@@ -243,7 +243,7 @@ June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 4:00-5:30pm
+* Thursdays: 4:00-5:30pm
 * Saturdays: 10:30-12:00pm
 
 Location: SMLL Minors field, unless indicated otherwise
@@ -274,7 +274,7 @@ June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 {: .notice--warning }
 
 Game Times:
-* Tuesdays: 6:00-8:00pm
+* Thursdays: 6:00-8:00pm
 * Saturdays: 12:30-2:30pm
 
 Date     | Day | Game | Round | Visitor | Home
@@ -301,7 +301,7 @@ June 3   | Sat | 12   | 6     | Sierra Wildflowers 10U | YLL 10U
 {: .notice--warning }
 
 Game Times:
-* Thursdays: 6:15-8:15pm
+* Fridays: 5:30-8:00pm
 * Saturdays: 3:00pm-5:00pm
 
 Date     | Day | Game | Round | Visitor | Home
