@@ -244,7 +244,7 @@ June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore
 
 Game Times: 60 minutes or 6 innings [^3]
 * Thursdays: 4:00-5:00pm
-* Saturdays: 10:30-11:30pm
+* Saturdays: 12:30-1:30pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
@@ -275,7 +275,7 @@ June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 
 Game Times: 90 minutes or 7 innings [^3]
 * Thursdays: 6:00-7:30pm
-* Saturdays: 12:30-2:00pm
+* Saturdays: 10:30-12:00pm
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
@@ -302,7 +302,7 @@ June 3   | Sat | 12   | 6     | Sierra Wildflowers 10U | YLL 10U
 
 Game Times: 90 minutes or 7 innings [^3]
 * Fridays: 5:30-7:00pm
-* Saturdays: 2:30pm-4:00pm
+* Saturdays: 5:30pm-7:00pm
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
