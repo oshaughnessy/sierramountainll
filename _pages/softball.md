@@ -216,9 +216,9 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 (**_Tentative: Times and dates are a work in progress_**)
 {: .notice--warning }
 
-Game Times:
+Game Times: 60 minutes [^3]
 * Fridays: 4:00-5:00pm
-* Saturdays: 9:00-9:45am
+* Saturdays: 9:00-10:00am
 
 Location: SMLL Minors field
 
@@ -242,9 +242,9 @@ June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore
 (**_Tentative: Times and dates are a work in progress_**)
 {: .notice--warning }
 
-Game Times:
-* Thursdays: 4:00-5:30pm
-* Saturdays: 10:30-12:00pm
+Game Times: 60 minutes or 6 innings [^3]
+* Thursdays: 4:00-5:00pm
+* Saturdays: 10:30-11:30pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
@@ -273,9 +273,9 @@ June 3   | Sat | 15   | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cose
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-Game Times:
-* Thursdays: 6:00-8:00pm
-* Saturdays: 12:30-2:30pm
+Game Times: 90 minutes or 7 innings [^3]
+* Thursdays: 6:00-7:30pm
+* Saturdays: 12:30-2:00pm
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
@@ -300,9 +300,9 @@ June 3   | Sat | 12   | 6     | Sierra Wildflowers 10U | YLL 10U
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-Game Times:
-* Fridays: 5:30-8:00pm
-* Saturdays: 3:00pm-5:00pm
+Game Times: 90 minutes or 7 innings [^3]
+* Fridays: 5:30-7:00pm
+* Saturdays: 2:30pm-4:00pm
 
 Date     | Day | Game | Round | Visitor | Home
 ---------|-----|------|-------|---------|------
@@ -318,3 +318,7 @@ May 26   | Fri | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
 May 27   | Sat | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U
 June 2   | Fri | 11   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 June 3   | Sat | 12   | 5     | Sierra Wildflowers 12U  | YLL 12U
+
+[^3]: For game limits, no new inning is started after the time or inning limit
+      is reached.  Once an inning has started, it must be finished regardless
+      of time unless the home team is head. 
