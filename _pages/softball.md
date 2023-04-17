@@ -9,7 +9,7 @@ toc_h_max: 3
 ---
 
 {% include figure
-   image_path="/assets/images/smll-wildflowers-20230323.webp"
+   image_path="/assets/images/smll-wildflowers-20230323-colors.png"
    alt="Sierra Mountain Wildflowers"
 %}
 
