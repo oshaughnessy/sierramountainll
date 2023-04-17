@@ -4,7 +4,14 @@ permalink: /softball/
 toc: true
 toc_icon: softball
 toc_h_max: 3
+#header:
+#  overlay_image: /assets/images/smll-wildflowers-20230323.png
 ---
+
+{% include figure
+   image_path="/assets/images/smll-wildflowers-20230323.webp"
+   alt="Sierra Mountain Wildflowers"
+%}
 
 ## Divisions
 
@@ -227,9 +234,9 @@ Date     | Day | Game | Visitor | Home
 April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
 May 5    | Fri | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 12   | Fri | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 8    | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 19   | Fri | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
 May 26   | Fri | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
@@ -257,7 +264,7 @@ May 6    | Sat | 4    | 12:30 PM | I1    | MGSL A                    | 8U Poppie
 May 6    | Sat | 5    | 10:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 11   | Thu | 6    |  4:00 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 12:30 PM | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
-May 18   | Thu | 8    |  4:00 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 19   | Fri | 8    |  4:00 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 20   | Sat | 9    | 12:30 PM | I2    | MGSL B                    | 8U Buttercups / Cosentino
 May 20   | Sat | 10   |  9:00 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
 May 25   | Thu | 11   |  4:00 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
