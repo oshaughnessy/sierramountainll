@@ -330,4 +330,4 @@ June 7   | Wed | 5:30 PM | 12   | 5     | YLL 12U                 | Sierra Wildf
 
 [^3]: For game limits, no new inning is started after the time or inning limit
       is reached.  Once an inning has started, it must be finished regardless
-      of time unless the home team is head. 
+      of time unless the home team is ahead. 
