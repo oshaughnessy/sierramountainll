@@ -319,7 +319,7 @@ April 29 | Sat | 1:00 PM | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
 May 5    | Fri | 5:30 PM | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
 May 6    | Sat | 2:30 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
 May 12   | Fri | 5:30 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
-May 13   | Sat | 2:30 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+<del>May 13</del>| <del>Sat</del>| <del>2:30 PM</del> | 6    | 3     | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 5:30 PM | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
 May 20   | Sat | 1:00 PM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
 May 26   | Fri | 5:30 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
