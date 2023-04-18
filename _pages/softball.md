@@ -320,12 +320,13 @@ May 5    | Fri | 5:30 PM | 3    | 2     | YLL 12U                 | Sierra Wildf
 May 6    | Sat | 2:30 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
 May 12   | Fri | 5:30 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
 <del>May 13</del>| <del>Sat</del>| <del>2:30 PM</del> | 6    | 3     | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
-May 19   | Fri | 5:30 PM | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 20   | Sat | 1:00 PM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
-May 26   | Fri | 5:30 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 1:00 PM | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U
-June 2   | Fri | 5:30 PM | 11   | 5     | YLL 12U                 | Sierra Wildflowers 12U
-June 3   | Sat | 1:00 PM | 12   | 5     | Sierra Wildflowers 12U  | YLL 12U
+May 19   | Fri | 5:30 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
+May 26   | Fri | 5:30 PM | 8    | 3     | Sierra Wildflowers 12U  | YLL 12U
+May 27   | Sat | 1:00 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
+June 2   | Fri | 5:30 PM | 10   | 4     | YLL 12U                 | Sierra Wildflowers 12U
+June 3   | Sat | 1:00 PM | 11   | 5     | Sierra Wildflowers 12U  | YLL 12U
+June 7   | Wed | 5:30 PM | 12   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 
 [^3]: For game limits, no new inning is started after the time or inning limit
       is reached.  Once an inning has started, it must be finished regardless
