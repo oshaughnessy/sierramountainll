@@ -328,6 +328,6 @@ June 2   | Fri | 5:30 PM | 10   | 4     | YLL 12U                 | Sierra Wildf
 June 3   | Sat | 1:00 PM | 11   | 5     | Sierra Wildflowers 12U  | YLL 12U
 June 7   | Wed | 5:30 PM | 12   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 
-[^3]: For game limits, no new inning is started after the time or inning limit
-      is reached.  Once an inning has started, it must be finished regardless
-      of time unless the home team is ahead. 
+[^3]: For game limits in marked divisions, no new inning is started after the
+      time or inning limit is reached. Once an inning has started, it must be
+      finished regardless of time unless the home team is ahead. 
