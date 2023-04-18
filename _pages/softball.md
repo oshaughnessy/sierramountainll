@@ -299,8 +299,7 @@ May 27   | Sat | 10   | 10:30 AM | 5     | Sierra Wildflowers 10U | YLL 10U
 June 1   | Thu | 11   | 5:30 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
-[^2]: Game location critical on this date for coordinating 10U & 12U
-      games with shared coaches
+[^2]: Game hosted @ MGSL
 
 ### 12U: 1 team
 
@@ -309,17 +308,17 @@ June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
 Game Times: 90 minutes or 6 innings [^3]
 * Fridays: 5:30-7:00pm
-* Saturdays: 2:30-4:00pm
-* Saturdays when SMLL is away/visitors: 1:00-2:30pm
+* Saturdays @ Home: 2:00-3:30pm
+* Saturdays @ Away: 1:00-2:30pm
 
 Date     | Day | Time    | Game | Round | Visitor | Home
 ---------|-----|---------|------|-------|---------|------
 April 28 | Fri | 5:30 PM | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
 April 29 | Sat | 1:00 PM | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
 May 5    | Fri | 5:30 PM | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
-May 6    | Sat | 2:30 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
+May 6    | Sat | 2:00 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
 May 12   | Fri | 5:30 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
-<del>May 13</del>| <del>Sat</del>| <del>2:30 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
+<del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 5:30 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
 May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
 May 26   | Fri | 5:30 PM | 8    | 3     | Sierra Wildflowers 12U  | YLL 12U
