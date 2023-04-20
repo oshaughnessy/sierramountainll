@@ -260,15 +260,15 @@ Date     | Day | Game |  Time    | Round | Visitor | Home
 April 27 | Thu | 1    |  4:00 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 12:30 PM | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
 May 4    | Thu | 3    |  4:00 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-May 6    | Sat | 4    | 12:30 PM | I1    | MGSL A                    | 8U Poppies / Tompkins
+May 6    | Sat | 4    | 12:30 PM | I1    | MGSL A                    | 8U Poppies / Tompkins       [^1]
 May 6    | Sat | 5    | 10:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 11   | Thu | 6    |  4:00 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 12:30 PM | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
 May 19   | Fri | 8    |  4:00 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
-May 20   | Sat | 9    | 12:30 PM | I2    | MGSL B                    | 8U Buttercups / Cosentino
+May 20   | Sat | 9    | 12:30 PM | I2    | MGSL B                    | 8U Buttercups / Cosentino   [^1]
 May 20   | Sat | 10   |  9:00 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
 May 25   | Thu | 11   |  4:00 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-May 27   | Sat | 12   | 12:30 PM | I3    | MGSL A                    | 8U Poppies / Tompkins
+May 27   | Sat | 12   | 12:30 PM | I3    | MGSL A                    | 8U Poppies / Tompkins       [^1]
 May 27   | Sat | 13   | 10:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 June 1   | Thu | 14   |  4:00 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
@@ -289,17 +289,15 @@ Date     | Day | Game |  Time    | Round | Visitor | Home
 April 27 | Thu | 1    | 5:30 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U
 April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U
 May 4    | Thu | 3    | 5:30 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U
-May 6    | Sat | 4    | 10:30 AM | 2     | YLL 10U                | Sierra Wildflowers 10U
+May 6    | Sat | 4    | 10:30 AM | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
 May 11   | Thu | 5    | 5:30 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
 May 13   | Sat | 6    | 10:30 AM | 3     | YLL 10U                | Sierra Wildflowers 10U
 May 18   | Thu | 7    | 5:30 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
-May 20   | Sat | 8    | 10:30 AM | 4     | YLL 10U                | Sierra Wildflowers 10U [^2]
+May 20   | Sat | 8    | 10:30 AM | 4     | YLL 10U                | Sierra Wildflowers 10U [^1]
 May 25   | Thu | 9    | 5:30 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
-May 27   | Sat | 10   | 10:30 AM | 5     | Sierra Wildflowers 10U | YLL 10U
+May 27   | Sat | 10   | 10:30 AM | 5     | Sierra Wildflowers 10U | YLL 10U                [^1]
 June 1   | Thu | 11   | 5:30 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
-
-[^2]: Game hosted @ MGSL
 
 ### 12U: 1 team
 
@@ -316,13 +314,13 @@ Date     | Day | Time    | Game | Round | Visitor | Home
 April 28 | Fri | 5:30 PM | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
 April 29 | Sat | 1:00 PM | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
 May 5    | Fri | 5:30 PM | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
-May 6    | Sat | 2:00 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U
+May 6    | Sat | 2:00 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U [^1]
 May 12   | Fri | 5:30 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
 <del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 5:30 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2
+May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
 May 26   | Fri | 5:30 PM | 8    | 3     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 1:00 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U
+May 27   | Sat | 1:00 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U                [^1]
 June 2   | Fri | 5:30 PM | 10   | 4     | YLL 12U                 | Sierra Wildflowers 12U
 June 3   | Sat | 1:00 PM | 11   | 5     | Sierra Wildflowers 12U  | YLL 12U
 June 7   | Wed | 5:30 PM | 12   | 5     | YLL 12U                 | Sierra Wildflowers 12U
