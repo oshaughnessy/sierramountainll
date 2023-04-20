@@ -13,9 +13,20 @@ header:
   #overlay_image: /assets/images/smll-majors-at-night.jpg
   overlay_filter: rgba(0, 32, 0, 0.33)
   actions:
-    #- label: Register Now!
-    #  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+    - label: Game Calendar
+      url: https://www.sierramountainll.com/Default.aspx?tabid=716490
+    - label: Schedule
+      url: https://www.sierramountainll.com/Default.aspx?tabid=716491
 ---
+
+## 2023 Game Schedules
+
+Game schedules have been posted!
+
+See our game calendar here: [Team Central > Calendars](https://www.sierramountainll.com/Default.aspx?tabid=716490)
+
+See our schedules here: [Team Central > Posted Schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
+
 
 ## 2023 Season Dates
 
