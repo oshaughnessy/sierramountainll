@@ -36,7 +36,7 @@ Registration for 2023 [is closed](https://www.sierramountainll.com/Default.aspx?
 | Early Bird Registration | Regular Registration | Asessment      | Opening Day | Closing Day
 |                         |                      | By Age, Mar 26 |             |
 |----
-| Dec 1 - Jan 31          | Feb 1 - Mar 31       | 12pm: **8 & 9**<br/>2pm: **10 & 11**<br />4pm: **12 & 13**<br /> | TBD | TBD
+| Dec 1 - Jan 31          | Feb 1 - Mar 31       | 12pm: **8 & 9**<br/>2pm: **10 & 11**<br />4pm: **12 & 13**<br /> | April 24 | June 3
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
