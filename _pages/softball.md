@@ -250,27 +250,27 @@ June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore
 {: .notice--warning }
 
 Game Times: 60 minutes or 6 innings [^3]
-* Thursdays: 4:00-5:00pm
+* Thursdays: 4:30-5:30pm
 * Saturdays: 12:30-1:30pm
 
 Location: SMLL Minors field, unless indicated otherwise
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
-April 27 | Thu | 1    |  4:00 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 12:30 PM | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
-May 4    | Thu | 3    |  4:00 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 4    | Thu | 3    |  4:30 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 6    | Sat | 4    | 12:30 PM | I1    | MGSL A                    | 8U Poppies / Tompkins       [^1]
 May 6    | Sat | 5    | 10:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-May 11   | Thu | 6    |  4:00 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 11   | Thu | 6    |  4:30 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 12:30 PM | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
-May 19   | Fri | 8    |  4:00 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 19   | Fri | 8    |  4:30 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 20   | Sat | 9    | 12:30 PM | I2    | MGSL B                    | 8U Buttercups / Cosentino   [^1]
 May 20   | Sat | 10   |  9:00 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
-May 25   | Thu | 11   |  4:00 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
+May 25   | Thu | 11   |  4:30 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 27   | Sat | 12   | 12:30 PM | I3    | MGSL A                    | 8U Poppies / Tompkins       [^1]
 May 27   | Sat | 13   | 10:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-June 1   | Thu | 14   |  4:00 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+June 1   | Thu | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
 [^1]: Game hosted at the Mariposa Girls Softball League field
@@ -281,22 +281,22 @@ June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Butter
 {: .notice--warning }
 
 Game Times: 90 minutes or 6 innings [^3]
-* Thursdays: 5:30-7:00pm
+* Thursdays: 6:00-7:30pm
 * Saturdays: 10:30-12:00pm
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
-April 27 | Thu | 1    | 5:30 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U
+April 27 | Thu | 1    | 6:00 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U
 April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U
-May 4    | Thu | 3    | 5:30 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U
+May 4    | Thu | 3    | 6:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U
 May 6    | Sat | 4    | 10:30 AM | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
-May 11   | Thu | 5    | 5:30 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
+May 11   | Thu | 5    | 6:00 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
 May 13   | Sat | 6    | 10:30 AM | 3     | YLL 10U                | Sierra Wildflowers 10U
-May 18   | Thu | 7    | 5:30 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
+May 18   | Thu | 7    | 6:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
 May 20   | Sat | 8    | 10:30 AM | 4     | YLL 10U                | Sierra Wildflowers 10U [^1]
-May 25   | Thu | 9    | 5:30 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
+May 25   | Thu | 9    | 6:00 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
 May 27   | Sat | 10   | 10:30 AM | 5     | Sierra Wildflowers 10U | YLL 10U                [^1]
-June 1   | Thu | 11   | 5:30 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
+June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
 ### 12U: 1 team
