@@ -132,7 +132,7 @@ What do your kids need to play baseball or softball with SMLL?
 * uniform pants
 * uniform belt
 * uniform socks
-* athletic supporter or compression shorts (required for all boys;
+* athletic supporter or compression shorts (required for all boys in all divisions;
   catchers must wear a cup)
 * batting helmet (encouraged to purchase your own)
 * bat (optional but recommended)
