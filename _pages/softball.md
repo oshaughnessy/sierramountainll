@@ -311,13 +311,13 @@ May 12   | Fri | 6:00 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
 <del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 6:00 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
 May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
-May 20   | Sat | 3:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
-May 26   | Fri | 6:00 PM | 8    | 3     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 1:00 PM | 9    | 4     | Sierra Wildflowers 12U  | YLL 12U                [^1]
-May 27   | Sat | 1:00 PM | 9    | 103   | Sierra Wildflowers 12U  | YLL 12U                [^1]
-June 2   | Fri | 6:00 PM | 10   | 4     | YLL 12U                 | Sierra Wildflowers 12U
-June 3   | Sat | 1:00 PM | 11   | 5     | Sierra Wildflowers 12U  | YLL 12U
-June 7   | Wed | 6:00 PM | 12   | 5     | YLL 12U                 | Sierra Wildflowers 12U
+May 20   | Sat | 3:00 PM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 26   | Fri | 6:00 PM | 9    | 3     | Sierra Wildflowers 12U  | YLL 12U
+May 27   | Sat | 1:00 PM | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U                [^1]
+May 27   | Sat | 1:00 PM | 11   | 103   | Sierra Wildflowers 12U  | YLL 12U                [^1]
+June 2   | Fri | 6:00 PM | 12   | 4     | YLL 12U                 | Sierra Wildflowers 12U
+June 3   | Sat | 1:00 PM | 13   | 5     | Sierra Wildflowers 12U  | YLL 12U
+June 7   | Wed | 6:00 PM | 14   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 
 [^1]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
 [^2]: For game limits in marked divisions, no new inning is started after the
