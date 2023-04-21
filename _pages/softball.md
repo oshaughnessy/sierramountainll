@@ -183,7 +183,7 @@ from nearest to farthest:
 : Midweek games are played at [Spring Valley Elementary School](https://goo.gl/maps/D1vgjQXWMFmPQxxf8){:target="blank"}: Rd 200, O'Neals, CA 93645
 : Saturday games are played at [Minarets High School](https://goo.gl/maps/wHmGPXxuiFtgWqDv5){:target="blank"}: Rd 200, O'Neals, CA 93645
 
-[Mariposa Girls Softball League](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
+[Mariposa Girls Softball](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
 : Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
 
 [Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
