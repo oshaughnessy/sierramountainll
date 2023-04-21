@@ -192,9 +192,6 @@ from nearest to farthest:
 
 ## 2023 Schedule
 
-**_Tentative: Work in Progress_**
-{: .notice--warning }
-
 ```
         April                    May
  Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
@@ -220,11 +217,8 @@ School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict
 
 ### 6U: 2 teams
 
-(**_Tentative: Times and dates are a work in progress_**)
-{: .notice--warning }
-
 Game Times: 60 minutes
-* Fridays: 4:00-5:00pm
+* Fridays: 4:30-5:30pm
 * Saturdays: 9:00-10:00am
 
 Location: SMLL Minors field
