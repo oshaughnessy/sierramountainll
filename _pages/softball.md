@@ -246,6 +246,9 @@ Game Times: 60 minutes or 6 innings [^2]
 
 Location: SMLL Minors field, unless indicated otherwise
 
+(**_Notice: Game times in Mariposa may change_**)
+{: .notice--warning }
+
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
 April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
@@ -266,12 +269,12 @@ June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Butter
 
 ### 10U: 1 team       
 
-(**_Tentative: work in progress_**)
-{: .notice--warning }
-
 Game Times: 90 minutes or 6 innings [^2]
 * Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home & Minarets: 10:30-12:00pm
+
+(**_Notice: Game times in Mariposa may change_**)
+{: .notice--warning }
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
@@ -289,13 +292,13 @@ June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
 ### 12U: 1 team
 
-(**_Tentative: work in progress_**)
-{: .notice--warning }
-
 Game Times: 90 minutes or 6 innings [^2]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home: 2:00-3:30pm
 * Saturdays @ Minarets: 1:00-2:30pm
+
+(**_Notice: Game times in Mariposa may change_**)
+{: .notice--warning }
 
 Date     | Day | Time    | Game | Round | Visitor | Home
 ---------|-----|---------|------|-------|---------|------
