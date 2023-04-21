@@ -240,10 +240,7 @@ June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore
 
 ### 8U: 2 teams
 
-(**_Tentative: Times and dates are a work in progress_**)
-{: .notice--warning }
-
-Game Times: 60 minutes or 6 innings [^3]
+Game Times: 60 minutes or 6 innings [^2]
 * Thursdays: 4:30-5:30pm
 * Saturdays: 12:30-1:30pm
 
@@ -264,7 +261,7 @@ May 20   | Sat | 10   |  9:00 AM | I2    | 8U Poppies / Tompkins     | MGSL A   
 May 25   | Thu | 11   |  4:30 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 May 27   | Sat | 12   | 12:30 PM | I3    | MGSL A                    | 8U Poppies / Tompkins       [^1]
 May 27   | Sat | 13   | 10:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-June 1   | Thu | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
+May 30   | Tue | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
 ### 10U: 1 team       
@@ -272,7 +269,7 @@ June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Butter
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-Game Times: 90 minutes or 6 innings [^3]
+Game Times: 90 minutes or 6 innings [^2]
 * Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home & Minarets: 10:30-12:00pm
 
@@ -295,7 +292,7 @@ June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 (**_Tentative: work in progress_**)
 {: .notice--warning }
 
-Game Times: 90 minutes or 6 innings [^3]
+Game Times: 90 minutes or 6 innings [^2]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home: 2:00-3:30pm
 * Saturdays @ Minarets: 1:00-2:30pm
@@ -319,6 +316,6 @@ June 3   | Sat | 1:00 PM | 11   | 5     | Sierra Wildflowers 12U  | YLL 12U
 June 7   | Wed | 6:00 PM | 12   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 
 [^1]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
-[^3]: For game limits in marked divisions, no new inning is started after the
+[^2]: For game limits in marked divisions, no new inning is started after the
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
