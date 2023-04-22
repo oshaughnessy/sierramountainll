@@ -27,9 +27,8 @@ toc_h_max: 3
 discover the fundamentals of playing the game. They'll learn how to throw,
 catch, run the bases, and hit.
 
-This is a coach-to-player pitch division. In the 1st half of the season,
-coaches or a machine will exclusively throw pitches to batters. In the 2nd
-half, pitchers will begin to throw for their own teammates.
+This is strictly a coach-pitch division. Coaches will throw to their own
+players.
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
