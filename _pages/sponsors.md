@@ -19,6 +19,10 @@ gallery_sponsors:
     alt: Eagle Quick Lube
     title: Eagle Quick Lube
     url: https://www.facebook.com/EagleQuickLube/
+  - image_path: /assets/sponsors/busy-bee-accounting.jpg
+    alt: Busy Bee Accounting
+    title: Busy Bee Accounting
+    url: https://busybeeaccounting.com
   - image_path: /assets/sponsors/oakhurst-pt.jpg
     alt: Oakhurst Physical Therapy
     title: Oakhurst Physical Therapy
