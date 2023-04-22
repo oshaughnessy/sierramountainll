@@ -25,7 +25,8 @@ toc_h_max: 3
 
 6U is our learning division where the youngest girls have a chance to
 discover the fundamentals of playing the game. They'll learn how to throw,
-catch, run the bases, and hit.
+catch, run the bases, and hit. Players should spend a season in tee ball
+before joining softball.
 
 This is strictly a coach-pitch division. Coaches will throw to their own
 players.
@@ -41,8 +42,8 @@ go through the 2023 season.
 - Parent or coach as umpire
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
-- 5 and 6-year-old players may use a tee at the coach's discretion
-
+- Batters may use a tee at the coach's discretion, but it is not encouraged.
+  Players should be learning to hit a thrown pitch.
 
 ### 8U/Player Pitch/Minors AA
 {: .softball}
