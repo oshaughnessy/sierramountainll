@@ -123,8 +123,8 @@ In 2023, this is a coach-to-player pitch division. Our goal this year is to deve
 reliable pitchers so that next season we can start the year with a full season
 of player-only pitching.  In the 1st 1/3 of the season, coaches will throw pitches
 to batters. In the 2nd 1/3, players will throw for their own teammates. In the final
-1/3, competitors will pitch against the other team. See [8U Pitching](#8u-pitching)
-for rules.
+1/3, competitors will pitch against the other team. Pitching and batting rules are
+otherwise the same.
 {: .notice--info }
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
@@ -134,6 +134,20 @@ go through the 2023 season.
 #### 10U Ground Rules
 
 - Parent or coach as umpire during coach and player-to-own-team games
+
+#### 10U Pitching
+
+1st third of the season:
+- **Coaches will pitch to their own players**
+- Coaches may throw from a standing position or sitting on a ball bucket
+
+2nd third of the season:
+- **Offense will pitch to their own players**
+- After 3 walked batters, player pitching should rotate out
+
+3rd third of the season:
+- **Defense will pitch to opposing players**
+- After 3 walked batters, player pitching should rotate out
 
 #### 10U Stealing
 
