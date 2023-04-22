@@ -35,7 +35,7 @@ PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
 
-#### Ground Rules
+#### 6U Ground Rules
 
 - Only 1 extra base on an overthrow
 - No stealing
@@ -67,7 +67,7 @@ PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
 
-#### Ground Rules
+#### 8U Ground Rules
 
 - Only 1 extra base on an overthrow
 - No stealing
@@ -75,7 +75,7 @@ go through the 2023 season.
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
 
-#### Pitching
+#### 8U Pitching
 
 1st third of the season:
 - **Coaches will pitch to their own players**
@@ -100,7 +100,7 @@ All season:
 - Half-inning ends when all players have played through the lineup, defense
   causes 3 fielded outs, or 5 runs are scored
 
-#### Stealing
+#### 8U Stealing
 
 Stealing is not permitted in 8U.
 
@@ -130,13 +130,13 @@ PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
 
-#### Ground Rules
+#### 10U Ground Rules
 
 - Parent or coach as umpire during coach and player-to-own-team games
 
-#### Stealing
+#### 10U Stealing
 
-Stealing rules follow those of regular Little League softball.
+Stealing rules follow those of regular Little League Minors softball.
 
 Once a ball is under the control of the pitcher, runners may not
 leave their base until the next pitch is thrown and the ball reaches
@@ -151,11 +151,11 @@ the batter.
 **Pitch Distance** | 40'
 **Base Distance**  | 60'
 
-12U is our Majors division, with full Little League softball rules.
+12U is our Majors division, with full Little League Majors softball rules.
 
 #### Stealing
 
-Stealing rules follow those of regular Little League softball.
+Stealing rules follow those of regular Little League Majors softball.
 
 Once a ball is under the control of the pitcher, runners may not leave
 their base until the next pitched ball has been released by the pitcher.
