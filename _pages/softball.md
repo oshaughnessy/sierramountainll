@@ -40,8 +40,10 @@ go through the 2023 season.
 - Only 1 extra base on an overthrow
 - No stealing
 - Parent or coach as umpire
-- Defensive coaches are allowed on the field during game play
+- Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
+- 5 and 6-year-old players may use a tee at the coach's discretion
+
 
 ### 8U/Player Pitch/Minors AA
 {: .softball}
@@ -51,7 +53,7 @@ go through the 2023 season.
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
-8U is our learning division where young girls with some experience and
+8U is a learning division where young girls with some experience and
 growing strength build a stronger understanding of game strategy and position-
 oriented skills. We encourage coaches to rotate players through all positions
 throughout the season.
@@ -70,7 +72,7 @@ go through the 2023 season.
 - Only 1 extra base on an overthrow
 - No stealing
 - Parent or coach as umpire
-- Defensive coaches are allowed on the field during game play
+- Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
 
 #### Pitching
@@ -78,7 +80,6 @@ go through the 2023 season.
 1st third of the season:
 - **Coaches will pitch to their own players**
 - Coaches may throw from a standing position or sitting on a ball bucket
-- 5 and 6-year-old players may use a tee at the coach's discretion
 
 2nd third of the season:
 - **Offense will pitch to their own players**
@@ -116,12 +117,22 @@ until a batter hits the ball into fair territory.
 **Base Distance**  | 60'
 
 10U is our transition division, where girls begin to play strictly by
-the rules of softball. It's a full player-pitch division, so the players
-themselves will be throwing all pitches against batters.
+the rules of softball.
+
+In 2023, this is a coach-to-player pitch division. Our goal this year is to develop
+reliable pitchers so that next season we can start the year with a full season
+of player-only pitching.  In the 1st 1/3 of the season, coaches will throw pitches
+to batters. In the 2nd 1/3, players will throw for their own teammates. In the final
+1/3, competitors will pitch against the other team.
+{: .notice--info }
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
+
+#### Ground Rules
+
+- Parent or coach as umpire during coach and player-to-own-team games
 
 #### Stealing
 
@@ -301,23 +312,23 @@ Game Times: 90 minutes or 6 innings [^2]
 (**_Notice: Game times in Mariposa may change_**)
 {: .notice--warning }
 
-Date     | Day | Time    | Game | Round | Visitor | Home
----------|-----|---------|------|-------|---------|------
-April 28 | Fri | 6:00 PM | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
-April 29 | Sat | 1:00 PM | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
-May 5    | Fri | 6:00 PM | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
-May 6    | Sat | 2:00 PM | 4    | 101   | MGSL 12U1               | Sierra Wildflowers 12U [^1]
-May 12   | Fri | 6:00 PM | 5    | 2     | Sierra Wildflowers 12U  | YLL 12U
+Date     | Day | Time     | Game | Round | Visitor | Home
+---------|-----|----------|------|-------|---------|------
+April 28 | Fri | 6:00 PM  | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
+April 29 | Sat | 1:00 PM  | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
+May 5    | Fri | 6:00 PM  | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
+May 6    | Sat | 11:30 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^1]
+May 6    | Sat | 2:00 PM  | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^1]
+May 12   | Fri | 6:00 PM  | 6    | 2     | Sierra Wildflowers 12U  | YLL 12U
 <del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
-May 19   | Fri | 6:00 PM | 6    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 20   | Sat | 1:00 PM | 7    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
-May 20   | Sat | 3:00 PM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
-May 26   | Fri | 6:00 PM | 9    | 3     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 1:00 PM | 10   | 4     | Sierra Wildflowers 12U  | YLL 12U                [^1]
-May 27   | Sat | 1:00 PM | 11   | 103   | Sierra Wildflowers 12U  | YLL 12U                [^1]
-June 2   | Fri | 6:00 PM | 12   | 4     | YLL 12U                 | Sierra Wildflowers 12U
-June 3   | Sat | 1:00 PM | 13   | 5     | Sierra Wildflowers 12U  | YLL 12U
-June 7   | Wed | 6:00 PM | 14   | 5     | YLL 12U                 | Sierra Wildflowers 12U
+May 19   | Fri | 6:00 PM  | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
+May 20   | Sat | 11:30 AM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
+May 20   | Sat | 2:00 PM  | 9    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 26   | Fri | 6:00 PM  | 10   | 3     | Sierra Wildflowers 12U  | YLL 12U
+May 27   | Sat | 11:30 AM | 11   | 4     | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
+May 27   | Sat | 2:00 PM  | 12   | 4     | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+June 2   | Fri | 6:00 PM  | 13   | 5     | YLL 12U                 | Sierra Wildflowers 12U
+June 3   | Sat | 1:00 PM  | 14   | 5     | Sierra Wildflowers 12U  | YLL 12U
 
 [^1]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
 [^2]: For game limits in marked divisions, no new inning is started after the
