@@ -277,9 +277,6 @@ Game Times: 60 minutes or 6 innings [^2]
 
 Location: SMLL Minors field, unless indicated otherwise
 
-(**_Notice: Game times in Mariposa may change_**)
-{: .notice--warning }
-
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
 April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
@@ -304,20 +301,18 @@ Game Times: 90 minutes or 6 innings [^2]
 * Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home & Minarets: 10:30-12:00pm
 
-(**_Notice: Game times in Mariposa may change_**)
-{: .notice--warning }
-
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
 April 27 | Thu | 1    | 6:00 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U
 April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U
 May 4    | Thu | 3    | 6:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U
-May 6    | Sat | 4    | 10:30 AM | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
+May 6    | Sat | 4    | 1:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
 May 11   | Thu | 5    | 6:00 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
 May 13   | Sat | 6    | 10:30 AM | 3     | YLL 10U                | Sierra Wildflowers 10U
 May 18   | Thu | 7    | 6:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
+May 20   | Sat | 8    | 1:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U                [^1]
 May 25   | Thu | 9    | 6:00 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
-May 27   | Sat | 10   | 10:30 AM | 5     | Sierra Wildflowers 10U | YLL 10U                [^1]
+May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | YLL 10U                [^1]
 June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
@@ -327,9 +322,6 @@ Game Times: 90 minutes or 6 innings [^2]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home: 2:00-3:30pm
 * Saturdays @ Minarets: 1:00-2:30pm
-
-(**_Notice: Game times in Mariposa may change_**)
-{: .notice--warning }
 
 Date     | Day | Time     | Game | Round | Visitor | Home
 ---------|-----|----------|------|-------|---------|------
