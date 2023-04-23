@@ -217,7 +217,11 @@ from nearest to farthest:
 [Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
 
 
-## 2023 Schedule
+## 2023 Schedules
+
+This is a quick reference. Please see
+[published schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
+for official times.
 
 ```
         April                    May
