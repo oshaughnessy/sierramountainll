@@ -312,7 +312,7 @@ May 13   | Sat | 6    | 10:30 AM | 3     | YLL 10U                | Sierra Wildf
 May 18   | Thu | 7    | 6:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
 May 20   | Sat | 8    | 1:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U                [^1]
 May 25   | Thu | 9    | 6:00 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
-May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | YLL 10U                [^1]
+May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | MGSL 10U+12U           [^1]
 June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
