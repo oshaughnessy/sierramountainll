@@ -281,16 +281,16 @@ Date     | Day | Game |  Time    | Round | Visitor | Home
 April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 12:30 PM | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
 May 4    | Thu | 3    |  4:30 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-May 6    | Sat | 4    | 12:30 PM | I1    | MGSL A                    | 8U Poppies / Tompkins       [^1]
-May 6    | Sat | 5    | 10:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
+May 6    | Sat | 4    | 10:00 AM | I1    | 8U Poppies / Tompkins     | MGSL A                      [^1]
+May 6    | Sat | 5    | 11:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 11   | Thu | 6    |  4:30 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 May 13   | Sat | 7    | 12:30 PM | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
 May 19   | Fri | 8    |  4:30 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
-May 20   | Sat | 9    | 12:30 PM | I2    | MGSL B                    | 8U Buttercups / Cosentino   [^1]
-May 20   | Sat | 10   |  9:00 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
+May 20   | Sat | 9    | 10:00 AM | I2    | 8U Buttercups / Cosentino | MGSL B                      [^1]
+May 20   | Sat | 10   | 11:30 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
 May 25   | Thu | 11   |  4:30 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-May 27   | Sat | 12   | 12:30 PM | I3    | MGSL A                    | 8U Poppies / Tompkins       [^1]
-May 27   | Sat | 13   | 10:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
+May 27   | Sat | 12   | 10:00 AM | I3    | 8U Poppies / Tompkins     | MGSL A                      [^1]
+May 27   | Sat | 13   | 11:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
 May 30   | Tue | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
 June 3   | Sat | 15   | 12:30 PM | 5     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 
