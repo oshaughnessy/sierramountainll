@@ -322,22 +322,23 @@ Game Times: 90 minutes or 6 innings [^2]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home: 2:00-3:30pm
 * Saturdays @ Minarets: 1:00-2:30pm
+* Saturdays @ Mariposa: 10:00am, 12:00pm, 2:00pm
 
 Date     | Day | Time     | Game | Round | Visitor | Home
 ---------|-----|----------|------|-------|---------|------
 April 28 | Fri | 6:00 PM  | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
 April 29 | Sat | 1:00 PM  | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
 May 5    | Fri | 6:00 PM  | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
-May 6    | Sat | 11:30 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^1]
-May 6    | Sat | 2:00 PM  | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^1]
+May 6    | Sat | 10:00 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^1]
+May 6    | Sat | 12:00 PM | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^1]
 May 12   | Fri | 6:00 PM  | 6    | 2     | Sierra Wildflowers 12U  | YLL 12U
 <del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 6:00 PM  | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 20   | Sat | 11:30 AM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
-May 20   | Sat | 2:00 PM  | 9    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 20   | Sat | 10:00 AM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
+May 20   | Sat | 12:00 PM | 9    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
 May 26   | Fri | 6:00 PM  | 10   | 3     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 11:30 AM | 11   | 4     | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
-May 27   | Sat | 2:00 PM  | 12   | 4     | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 27   | Sat | 12:00 PM | 11   | 4     | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 27   | Sat | 2:00 PM  | 12   | 4     | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
 June 2   | Fri | 6:00 PM  | 13   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 June 3   | Sat | 1:00 PM  | 14   | 5     | Sierra Wildflowers 12U  | YLL 12U
 
