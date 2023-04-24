@@ -304,7 +304,7 @@ Game Times: 90 minutes or 6 innings [^2]
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
 April 27 | Thu | 1    | 6:00 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U
-April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U
+April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U (playing at SMLL)
 May 4    | Thu | 3    | 6:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U
 May 6    | Sat | 4    | 1:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
 May 11   | Thu | 5    | 6:00 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
@@ -327,7 +327,7 @@ Game Times: 90 minutes or 6 innings [^2]
 Date     | Day | Time     | Game | Round | Visitor | Home
 ---------|-----|----------|------|-------|---------|------
 April 28 | Fri | 6:00 PM  | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
-April 29 | Sat | 1:00 PM  | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U
+April 29 | Sat | 2:00 PM  | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U (playing at SMLL)
 May 5    | Fri | 6:00 PM  | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
 May 6    | Sat | 10:00 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^1]
 May 6    | Sat | 12:00 PM | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^1]
