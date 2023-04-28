@@ -28,9 +28,8 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 * Mike DePastene, Treasurer, Player Agent
 * Matt Troutner, Safety and Coaching Coordinator
 * Tom Burdette, Umpire in Chief
-* Mayra Reeve, Fundraising
-* Tami Michel, Snack Bar Coordinator
-* Jennifer Stanley, Challenger League Coordinator
+* Heather Aleshire, Fundraising
+* Samantha Nolasco, Snack Bar Coordinator
 * O'Shaughnessy Evans, Softball Coordinator, Information Coordinator
 
 
