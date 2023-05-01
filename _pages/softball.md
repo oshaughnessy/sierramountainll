@@ -71,9 +71,10 @@ go through the 2023 season.
 
 - Only 1 extra base on an overthrow
 - No stealing
-- Parent or coach as umpire
+- Parent or coach may serve as umpire
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
+- 5 run limit per team per inning
 
 #### 8U Pitching
 
@@ -133,7 +134,8 @@ go through the 2023 season.
 
 #### 10U Ground Rules
 
-- Parent or coach as umpire during coach and player-to-own-team games
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
 
 #### 10U Pitching
 
@@ -168,6 +170,12 @@ the batter.
 
 12U is our Majors division, with full Little League Majors softball rules.
 
+#### 12U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
+
+
 #### Stealing
 
 Stealing rules follow those of regular Little League Majors softball.
@@ -187,6 +195,11 @@ Coming in the 2023-2024 season
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
 
+#### 14U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
+
 
 ### 16U/Seniors
 {: .softball}
@@ -198,6 +211,11 @@ Coming in the 2023-2024 season
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
+
+#### 16U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
 
 
 ## Nearby Leagues

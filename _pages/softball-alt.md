@@ -57,6 +57,7 @@ go through the 2023 season.
 - Parent or coach as umpire
 - Defensive coaches are allowed on the field during game play
   to instruct their players
+- 5 run limit per team inning
 
 #### Pitching
 
@@ -107,6 +108,11 @@ PLEASE NOTE: The rules below are a work in progress. We may revise them as we
 go through the 2023 season.
 {: .notice--warning }
 
+#### Ground Rules
+
+- Parent or coach can serve as umpire
+- 5 run limit per team inning
+
 #### Stealing
 
 Once a ball is under the control of the pitcher, runners may not
@@ -124,6 +130,11 @@ the batter.
 
 12U is our Majors division, with full Little League Softball rules.
 
+#### Ground Rules
+
+- Parent or coach can serve as umpire
+- 5 run limit per team inning
+
 #### Stealing
 
 Once a ball is under the control of the pitcher, runners may not leave
@@ -138,6 +149,10 @@ their base until the next pitched ball has been released by the pitcher.
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
 
+#### Ground Rules
+
+- 5 run limit per team inning
+
 #### Stealing
 
 Once a ball is under the control of the pitcher, runners may not leave
@@ -151,6 +166,10 @@ their base until the next pitched ball has been released by the pitcher.
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
+
+#### Ground Rules
+
+- 5 run limit per team inning
 
 #### Stealing
 
