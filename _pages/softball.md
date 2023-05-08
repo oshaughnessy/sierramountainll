@@ -272,24 +272,24 @@ Game Times: 60 minutes
 
 Location: SMLL Minors field
 
-Date     | Day | Game | Visitor | Home
----------|-----|------|---------|----------
+Date     | Day | Game | Visitor                 | Home
+---------|-----|------|-------------------------|----------
 April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
 May 5    | Fri | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
 May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
 May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 22   | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco [^3]
+May 22   | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco  [^R]
 May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 29   | Mon | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco [^3]
+May 29   | Mon | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco  [^R]
 June 2   | Fri | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore 
 
 
 ### 8U: 2 teams
 
-Game Times: 60 minutes or 6 innings [^2]
+Game Times: 60 minutes or 6 innings [^L]
 * Thursdays: 4:30-5:30pm
 * Saturdays: 12:30-1:30pm
 
@@ -299,46 +299,46 @@ Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
 April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
 April 29 | Sat | 2    | 12:30 PM | 1     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins
-May 6    | Sat | 4    | 10:00 AM | I1    | 8U Poppies / Tompkins     | MGSL A                      [^1]
-May 6    | Sat | 5    | 11:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-May 9    | Tue | 3    |  4:30 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino   [^3]
-May 12   | Fri | 6    |  4:30 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins       [^3]
+May 6    | Sat | 4    | 10:00 AM | I1    | 8U Poppies / Tompkins     | MGSL A                      [^M]
+May 6    | Sat | 5    | 11:30 AM | I1    | 8U Buttercups / Cosentino | MGSL B                      [^M]
+May 9    | Tue | 3    |  4:30 PM | 2     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino   [^R]
+May 12   | Fri | 6    |  4:30 PM | 2     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins       [^R]
 May 13   | Sat | 7    | 12:30 PM | 3     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino 
 May 19   | Fri | 8    |  4:30 PM | 3     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
-May 20   | Sat | 9    | 10:00 AM | I2    | 8U Buttercups / Cosentino | MGSL B                      [^1]
-May 20   | Sat | 10   | 11:30 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^1]
+May 20   | Sat | 9    | 10:00 AM | I2    | 8U Buttercups / Cosentino | MGSL B                      [^M]
+May 20   | Sat | 10   | 11:30 AM | I2    | 8U Poppies / Tompkins     | MGSL A                      [^M]
 May 25   | Thu | 11   |  4:30 PM | 4     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
-May 27   | Sat | 12   | 10:00 AM | I3    | 8U Poppies / Tompkins     | MGSL A                      [^1]
-May 27   | Sat | 13   | 11:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^1]
+May 27   | Sat | 12   | 10:00 AM | I3    | 8U Poppies / Tompkins     | MGSL A                      [^M]
+May 27   | Sat | 13   | 11:30 AM | I3    | 8U Buttercups / Cosentino | MGSL B                      [^M]
 May 30   | Tue | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins 
-June 1   | Thu | 15   |  4:30 PM | 5     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins       [^3]
+June 1   | Thu | 15   |  4:30 PM | 5     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins       [^R]
 
 
 ### 10U: 1 team       
 
-Game Times: 90 minutes or 6 innings [^2]
+Game Times: 90 minutes or 6 innings [^L]
 * Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home & Minarets: 10:30-12:00pm
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
 April 29 | Sat | 2    | 10:30 AM | 1     | Sierra Wildflowers 10U | YLL 10U (playing at SMLL)
-May 6    | Sat | 4    | 1:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^1]
+May 6    | Sat | 4    | 1:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^M]
 May 11   | Thu | 5    | 6:00 PM  | 3     | Sierra Wildflowers 10U | YLL 10U
 May 13   | Sat | 6    | 10:30 AM | 3     | YLL 10U                | Sierra Wildflowers 10U
-May 16   | Tue | 1    | 6:00 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U [^3]
+May 16   | Tue | 1    | 6:00 PM  | 1     | YLL 10U                | Sierra Wildflowers 10U [^R]
 May 18   | Thu | 7    | 6:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U
-May 20   | Sat | 8    | 1:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U                [^1]
-May 23   | Tue | 3    | 6:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^3]
+May 20   | Sat | 8    | 1:00 PM  | 4     | Sierra Wildflowers 10U | YLL 10U                [^M]
+May 23   | Tue | 3    | 6:00 PM  | 2     | YLL 10U                | Sierra Wildflowers 10U [^R]
 May 25   | Thu | 9    | 6:00 PM  | 5     | Sierra Wildflowers 10U | YLL 10U
-May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | MGSL 10U+12U           [^1]
+May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | MGSL 10U+12U           [^M]
 June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
 
 ### 12U: 1 team
 
-Game Times: 90 minutes or 6 innings [^2]
+Game Times: 90 minutes or 6 innings [^L]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
 * Saturdays @ Home: 2:00-3:30pm
 * Saturdays @ Minarets: 1:00-2:30pm
@@ -349,21 +349,20 @@ Date     | Day | Time     | Game | Round | Visitor | Home
 April 28 | Fri | 6:00 PM  | 1    | 1     | YLL 12U                 | Sierra Wildflowers 12U
 April 29 | Sat | 2:00 PM  | 2    | 1     | Sierra Wildflowers 12U  | YLL 12U (playing at SMLL)
 May 5    | Fri | 6:00 PM  | 3    | 2     | YLL 12U                 | Sierra Wildflowers 12U
-May 6    | Sat | 10:00 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^1]
-May 6    | Sat | 12:00 PM | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^1]
+May 6    | Sat | 10:00 AM | 4    | 101   | Sierra Wildflowers 12U  | MGSL 12U1 [^M]
+May 6    | Sat | 12:00 PM | 5    | 101   | Sierra Wildflowers 12U  | MGSL 12U2 [^M]
 May 12   | Fri | 6:00 PM  | 6    | 2     | Sierra Wildflowers 12U  | YLL 12U
-<del>May 13</del>| <del>Sat</del>| <del>2:00 PM</del> | <del>6</del>| <del>3</del> | <del>YLL 12U</del>| <del>Sierra Wildflowers 12U</del>
 May 19   | Fri | 6:00 PM  | 7    | 3     | YLL 12U                 | Sierra Wildflowers 12U
-May 20   | Sat | 10:00 AM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
-May 20   | Sat | 12:00 PM | 9    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
+May 20   | Sat | 10:00 AM | 8    | 102   | Sierra Wildflowers 12U  | MGSL 12U2              [^M]
+May 20   | Sat | 12:00 PM | 9    | 102   | Sierra Wildflowers 12U  | MGSL 12U1              [^M]
 May 26   | Fri | 6:00 PM  | 10   | 3     | Sierra Wildflowers 12U  | YLL 12U
-May 27   | Sat | 12:00 PM | 11   | 4     | Sierra Wildflowers 12U  | MGSL 12U1              [^1]
-May 27   | Sat | 2:00 PM  | 12   | 4     | Sierra Wildflowers 12U  | MGSL 12U2              [^1]
+May 27   | Sat | 12:00 PM | 11   | 4     | Sierra Wildflowers 12U  | MGSL 12U1              [^M]
+May 27   | Sat | 2:00 PM  | 12   | 4     | Sierra Wildflowers 12U  | MGSL 12U2              [^M]
 June 2   | Fri | 6:00 PM  | 13   | 5     | YLL 12U                 | Sierra Wildflowers 12U
 June 3   | Sat | 1:00 PM  | 14   | 5     | Sierra Wildflowers 12U  | YLL 12U
 
-[^1]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
-[^2]: For game limits in marked divisions, no new inning is started after the
+[^R]: Rescheduled game
+[^M]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
+[^L]: For game limits in marked divisions, no new inning is started after the
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
-[^3]: Rescheduled game
