@@ -293,8 +293,6 @@ Game Times: 60 minutes or 6 innings [^L]
 * Thursdays: 4:30-5:30pm
 * Saturdays: 12:30-1:30pm
 
-Location: SMLL Minors field, unless indicated otherwise
-
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
 April 27 | Thu | 1    |  4:30 PM | 1     | 8U Poppies / Tompkins     | 8U Buttercups / Cosentino
