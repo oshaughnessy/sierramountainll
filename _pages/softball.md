@@ -335,6 +335,7 @@ May 27   | Sat | 10   | 10:00 AM | 5     | Sierra Wildflowers 10U | MGSL 10U+12U
 June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildflowers 10U
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
+
 ### 12U: 1 team
 
 Game Times: 90 minutes or 6 innings [^2]
@@ -366,5 +367,3 @@ June 3   | Sat | 1:00 PM  | 14   | 5     | Sierra Wildflowers 12U  | YLL 12U
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
 [^3]: Rescheduled game
-      time or inning limit is reached. Once an inning has started, it must be
-      finished regardless of time unless the home team is ahead. 
