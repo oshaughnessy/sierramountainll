@@ -248,7 +248,7 @@ for official times.
   2  3  4  5  6  7  8     7  8  9 10 11 12 13
   9 10 11 12 13 14 15    14 15 16 17 18 19 20
  16 17 18 19 20 21 22    21 22 23 24 25 26 27
- 23 24 25 26 27 28 29    28 29 30 31
+ 23 24 25 26 27 28 29    28 29 30 31  1  2  3
  30
 ```
 
@@ -277,12 +277,12 @@ Date     | Day | Game | Visitor | Home
 April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
 May 5    | Fri | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 8    | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
 May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
-May 26   | Fri | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 22   | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco [^3]
 May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 29   | Mon | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco [^3]
 June 2   | Fri | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
 June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore 
 
@@ -362,5 +362,8 @@ June 3   | Sat | 1:00 PM  | 14   | 5     | Sierra Wildflowers 12U  | YLL 12U
 
 [^1]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
 [^2]: For game limits in marked divisions, no new inning is started after the
+      time or inning limit is reached. Once an inning has started, it must be
+      finished regardless of time unless the home team is ahead. 
+[^3]: Rescheduled game
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
