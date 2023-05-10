@@ -17,6 +17,8 @@ header:
       url: https://www.sierramountainll.com/Default.aspx?tabid=716490
     - label: Schedule
       url: https://www.sierramountainll.com/Default.aspx?tabid=716491
+    - label: Sports Connect
+      url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
 ---
 
 ## 2023 Game Schedules
