@@ -74,7 +74,7 @@ $ll-softball-color: #ff6900;
 
 // baseball in unicode: \26BE / &#x26BE;
 // softball unicode: \1F94E / &#x1F94E;
-:is(.baseball, .softball) {
+:is(.baseball, .softball, .challenger) {
     border-radius: 4px;
     //font-weight: 500;
 }
@@ -97,9 +97,11 @@ $ll-softball-color: #ff6900;
     color: $background-color;
 }
 
+:is(h1, h2, h3, h4, h5, h6)
 .challenger {
     background-color: $ll-challenger-color;
     color: $background-color;
+    font-weight: 1000;
 }
 
 :is(h1, h2, h3, h4, h5, h6)
@@ -114,7 +116,7 @@ strong {
 }
 
 :is(h1, h2, h3, h4, h5, h6)
-:is(.baseball, .softball) {
+:is(.baseball, .softball, .challenger) {
     /* block-size: fit-content; */
     text-transform: uppercase;
     font-weight: 800;
@@ -140,6 +142,7 @@ $toc-active-color: mix(#40A4FF, $background-color, 50%) !default;
 /* notices */
 p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
 p.notice.softball { background-color: mix($ll-softball-color, $background-color, 33%); }
+p.notice.challenger { background-color: mix($ll-challenger-color, $background-color, 33%); }
 
 .masthead a {
     font-weight: bold;

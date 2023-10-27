@@ -48,6 +48,17 @@ fastpitch youth leagues:
 | 14U / Juniors             | 13-14
 | 16U / Seniors             | 15-16
 
+## <span class="challenger">Challenger</span>
+{: .challenger}
+
+A player's "league age" for Challenger baseball is the age they will be by the end
+of August 31 in the current season's year.
+
+| Division                  | Age Range
+|---------------------------|---------------------
+| Challenger                | 4-18 (22 if still in school)
+| [Senior](https://www.littleleague.org/play-little-league/challenger/senior-division/) | 15+
+
 ## League Age
 
 We use the league age to fit players into the categories above. Note that the
