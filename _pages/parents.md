@@ -60,7 +60,7 @@ If you'd like to sign up your kids:
 
 ### How do I know my kids' league age?
 
-Please see the [League Age &amp; Divisions]({{ site.baseurl }}/2023/01/18/league-age/)
+Please see the [League Age &amp; Divisions]({% post-url 2023-01-18-league-age %})
 post for an overview of how player ages work with our game divisions.
 
 ## Volunteer
