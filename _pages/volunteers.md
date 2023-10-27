@@ -27,11 +27,6 @@ see the [Registration](#registration) section farther down.
 
 ## Roles
 
-_**Help!**_ We're looking for someone to coordinate our Little League [Challenger
-Division](https://www.littleleague.org/play-little-league/challenger/).
-If you're interested, please [reach out]({{ site.baseurl }}/contact/).
-{: .notice--success }
-
 ### Team Manager
 
 At a small league like SMLL, the team manager and coach roles are
