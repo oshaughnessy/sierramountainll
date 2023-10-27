@@ -37,8 +37,8 @@ in the current season's year.
 A player's "league age" for softball is the age they were at the end of the 
 year preceding the season. In other words, how old were they last Dec 31?
 
-At SMLL, we use age-based divisions to align with non-Little League
-fastpitch youth leagues:
+At SMLL, we use age-based divisions to align with local fastpitch youth leagues
+that use softball's more conventional groupings:
 
 | Division                  | Age Range
 |---------------------------|---------------------
