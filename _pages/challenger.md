@@ -13,7 +13,7 @@ toc_h_max: 3
 
 **Ages** | 4-18 (up to 22 if in school)
 **Pitch Distance** | 46'
-**Base Distance**  | 60-70'
+**Base Distance**  | 60'
 
 ### Senior
 {: .challenger}
