@@ -18,6 +18,9 @@ main:
 - title: Softball
   url: /softball/
   description: Fastpitch softball info
+- title: Challenger
+  url: /challenger/
+  description: Challenger baseball info
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
