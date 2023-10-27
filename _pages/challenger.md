@@ -11,9 +11,17 @@ toc_h_max: 3
 ### Challenger
 {: .challenger}
 
-**Ages** | 4-18 (up to 22 if in school)
+**Ages** | 4-18
 **Pitch Distance** | 46'
 **Base Distance**  | 60'
+
+Challenger is Little League's "[adaptive baseball program for individuals with physical and
+intellectual challenges](
+https://www.littleleague.org/play-little-league/challenger/about-challenger/)".
+It's for youth ages 4-18\* with physical or intellectual challenges.
+
+\* or up to 22 if they're still in school and no senior division is available
+{: .small }
 
 ### Senior
 {: .challenger}
@@ -21,3 +29,7 @@ toc_h_max: 3
 **Ages** | 15+
 **Pitch Distance** | 60'
 **Base Distance**  | 90'
+
+The [Senior Challenger division](
+https://www.littleleague.org/play-little-league/challenger/senior-division/)
+is for players 15 and older. There is no upper age limit.
