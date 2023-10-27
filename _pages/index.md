@@ -13,21 +13,17 @@ header:
   #overlay_image: /assets/images/smll-majors-at-night.jpg
   overlay_filter: rgba(0, 32, 0, 0.33)
   actions:
-    - label: Game Calendar
-      url: https://www.sierramountainll.com/Default.aspx?tabid=716490
-    - label: Schedule
-      url: https://www.sierramountainll.com/Default.aspx?tabid=716491
+    #- label: Game Calendar
+    #  url: https://www.sierramountainll.com/Default.aspx?tabid=716490
+    #- label: Schedule
+    #  url: https://www.sierramountainll.com/Default.aspx?tabid=716491
     - label: Sports Connect
       url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
 ---
 
-## 2023 Game Schedules
+## 2024 Season Dates
 
-Game schedules have been posted!
-
-See our game calendar here: [Team Central > Calendars](https://www.sierramountainll.com/Default.aspx?tabid=716490)
-
-See our schedules here: [Team Central > Posted Schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
+Coming soon!
 
 
 ## 2023 Season Dates
