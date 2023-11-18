@@ -144,6 +144,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
    must go through a **background check**. The league will submit this
    for you using your registration info. See Little League's
    [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/){:target="_blank"} page for more.
+   _Note: background checks are enhanced for 2024._
 
 ### If you're a manager or coach...
 
