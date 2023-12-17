@@ -23,18 +23,12 @@ header:
 
 ## 2024 Season Dates
 
-Coming soon!
-
-
-## 2023 Season Dates
-
-Registration for 2023 [is closed](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}. Thank you so much to everyone who signed up.
-
+Registration for 2024 [is open](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}!
 
 | Early Bird Registration | Regular Registration | Asessment      | Opening Day | Closing Day
-|                         |                      | By Age, Mar 26 |             |
+|                         |                      | By Age         |             |
 |----
-| Dec 1 - Jan 31          | Feb 1 - Mar 31       | 12pm: **8 & 9**<br/>2pm: **10 & 11**<br />4pm: **12 & 13**<br /> | April 24 | June 3
+| Dec 17 - Jan 31         | Feb 1 - Mar 31       | TBD in March   | TBD in April | TBD in June
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
