@@ -42,7 +42,8 @@ that use softball's more conventional groupings:
 
 | Division                  | Age Range
 |---------------------------|---------------------
-| 8U / Coach & Player Pitch | 5-8
+| 6U / Coach & Machine Pitch | 5-6
+| 8U / Coach & Player Pitch  | 7-8
 | 10U / AAA                 | 9-10
 | 12U / Majors              | 11-12
 | 14U / Juniors             | 13-14
