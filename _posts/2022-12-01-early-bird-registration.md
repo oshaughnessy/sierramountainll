@@ -5,7 +5,7 @@ tag: signup
 
 [Registration for 2023 is open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}
 
-The regular season rate is $125. Any early bird discount of $25 is available through Jan 31,
+The regular season rate is $125. An early bird discount of $25 is available through Jan 31,
 which you'll see in your cart during checkout.
 
 Wondering what division to sign up for? After you log in to the registration site

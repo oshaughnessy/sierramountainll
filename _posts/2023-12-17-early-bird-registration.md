@@ -5,8 +5,10 @@ tag: signup
 
 [Registration for 2024 is open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}
 
-The regular season rate is $125. Any early bird discount of $25 is available through Jan 31,
-which you'll see in your cart during checkout.
+The early signup rate of $100 is available until Jan 31!
+_Please note that the discount for this rate isn't visible until checkout._
+
+The regular season rate is $125.
 
 Wondering what division to sign up for? After you log in to the registration site
 and fill out your child's basic information, you'll be offered appropriate choices
