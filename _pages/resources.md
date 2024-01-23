@@ -5,12 +5,6 @@ classes: wide
 permalink: /resources/
 ---
 
-We're looking for someone to help run our Little League [Challenger
-Division](https://www.littleleague.org/play-little-league/challenger/).
-If you're interested, please [reach out]({{ site.baseurl }}/contact/).
-{: .notice--warning }
-
-
 ## Sports Connect -- Team Central
 
 Game schedules and more can be found at the SMLL Team Central
