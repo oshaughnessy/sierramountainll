@@ -101,6 +101,10 @@ All clothing and equipment should be in good repair. Bats may not be damaged.
 Boys need to wear an athletic supporter. Male catchers must wear a cup.  Aside
 from some exceptions, jewelry is not allowed ([see below](#wearing-jewelry)).
 
+Player safety also includes vetting our volunteers with in-depth background checks
+and training them to recognize abuse. Please see our [Background
+Checks &amp; Training]({% link _pages/bgchecks.md %}) page for more information.
+
 
 ### Wearing Jewelry
 

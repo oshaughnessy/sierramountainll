@@ -146,14 +146,18 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
    [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/){:target="_blank"} page for more.
    _Note: background checks are enhanced for 2024._
 
+3. Complete USA Baseball's [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses). If you need to register for a new account, note that "Sierra Mountain
+   Little League" is not listed under "Little League - Local Leagues".
+   Select "\*\* Little League", then click "+ Join" instead.
+
 ### If you're a manager or coach...
 
-{:start="3"}
-3. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
+{:start="4"}
+4. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
    First aid and fundamental baseball training is a Little League requirement.
 
 <!--
-4. Register a **Live Scan**. This only needs to be done once by each league
+5. Register a **Live Scan**. This only needs to be done once by each league
    manager and coach and does not need to be done annually. A Live Scan for
    another organization cannot be used by SMLL.
 
