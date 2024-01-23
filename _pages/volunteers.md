@@ -146,7 +146,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
    [background checks](https://www.littleleague.org/player-safety/child-protection-program/local-league-background-check-information/){:target="_blank"} page for more.
    _Note: background checks are enhanced for 2024._
 
-3. Complete USA Baseball's [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses). If you need to register for a new account, note that "Sierra Mountain
+3. Complete USA Baseball's [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188). If you need to register for a new account, note that "Sierra Mountain
    Little League" is not listed under "Little League - Local Leagues".
    Select "\*\* Little League", then click "+ Join" instead.
 
