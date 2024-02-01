@@ -40,7 +40,7 @@ Season](https://www.littleleague.org/university/articles/incorporating-effective
 
 You may get questions from parents when they're signing up their kids, wanting to know
 what they should register for. We accommodate boys and girls 4-13 in baseball,
-girls 9-12 in softball, and 4-18 in our Challenger baseball division.
+girls 9-12 in softball, and 4-22 in our Challenger baseball division.
 
 Please see the [League Age &amp; Divisions]({% post_url 2023-01-18-league-age %})
 post for an overview of how divisions and ages work.
