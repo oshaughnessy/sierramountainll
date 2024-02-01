@@ -160,7 +160,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 4. Complete the **coaching courses**:
      * [Concussion training](https://www.cdc.gov/headsup/youthsports/training/index.html){:target="_blank"} is
        annual training [required by California law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"} for any coach working in a youth sport.
-     * Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
+     * Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#what-do-i-need-to-be-a-coach).
        First aid and fundamental baseball training are Little League requirements.
 
 <!--
