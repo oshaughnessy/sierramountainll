@@ -157,8 +157,11 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 ### If you're a manager or coach...
 
 {:start="4"}
-4. [Complete the **coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
-   First aid and fundamental baseball training is a Little League requirement.
+4. Complete the **coaching courses**:
+     * [Concussion training](https://www.cdc.gov/headsup/youthsports/training/index.html){:target="_blank"} is
+       annual training [required by California law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"} for any coach working in a youth sport.
+     * Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#coaching-requirements).
+       First aid and fundamental baseball training are Little League requirements.
 
 <!--
 5. Register a **Live Scan**. This only needs to be done once by each league
