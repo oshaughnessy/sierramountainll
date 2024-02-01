@@ -150,6 +150,10 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
    Little League" is not listed under "Little League - Local Leagues".
    Select "\*\* Little League", then click "+ Join" instead.
 
+   If you've already completed a Safe Sport Abuse Awareness training program for another sport
+   or league, and your certificate is still current, you can use it for Little League, too.
+   For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs.
+
 ### If you're a manager or coach...
 
 {:start="4"}
