@@ -24,13 +24,17 @@ Oakhurst, California  93644<br />
 
 The Sierra Mountain Little League Board of Directors includes the following volunteers:
 
-* Scott Michel, President
-* Mike DePastene, Treasurer, Player Agent
-* Matt Troutner, Safety and Coaching Coordinator
-* Tom Burdette, Umpire in Chief
-* Heather Aleshire, Fundraising
-* Samantha Nolasco, Snack Bar Coordinator
-* O'Shaughnessy Evans, Softball Coordinator, Information Coordinator
+* Scott Michel, _President_
+* Mike DePastene, _Treasurer, <span class=baseball>Baseball Player Agent</span>_
+* Tom Burdette, _Umpire in Chief_
+* Heather Aleshire, _Fundraising_
+* Heather Skelton, _Safety Coordinator_
+* Samantha Nolasco, _Snack Bar Coordinator_
+* Ashley Garcia, _<span class=challenger>Challenger Director</span>_
+* Taryn Tompkins, _<span class=softball>Softball Player Agent</span>_
+* O'Shaughnessy Evans, _<span class=softball>Softball Director</span>, Information Coordinator_
+* **OPEN POSITION**, _<span class=baseball>Baseball Coaching Coordinator</span>_
+* **OPEN POSITION**, _<span class=softball>Softball Coaching Coordinator</span>_
 
 
 ## Fields
