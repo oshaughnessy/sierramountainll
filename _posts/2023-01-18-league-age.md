@@ -64,11 +64,11 @@ in the current season's year.
 A player's "league age" for softball is the age they were at the end of the 
 year preceding the season. In other words, how old were they last Dec 31?
 
-In the first year of SMLL softball, the 2023 season, we used
-age-based divisions to align with local fastpitch youth leagues
-that use softball's more conventional groupings. We're considering
-expanding each division in 2024 to create larger Minor and Major divisions
-and facilitate a strong Junior team.
+In the first year of SMLL softball, 2023, we used age-based divisions
+to align with nearby fastpitch youth leagues that use softball's
+more conventional 2-year groupings. We're considering expanding each
+division in 2024 to create larger Minor and Major divisions and
+facilitate a strong Junior team.
 
 ### 2024+
 
@@ -76,17 +76,19 @@ and facilitate a strong Junior team.
 |--------------------------|------------------|------------
 | 6U (Minor Coach Pitch)   | 6-5              | {{sb_6y}}-{{sb_5y}}
 | 9U (Minor Player Pitch)  | 9-7              | {{sb_9y}}-{{sb_7y}}
-| 12U (Major)              | 12-10            | {{sb_12y}}-{{sb_10y}}
-| 14U (Junior)             | 14-12            | {{sb_14y}}-{{sb_12y}}
+| 12U (Major)              | 12-10            | {{sb_12y}}-{{sb_10y}} [^SBT]
+| 14U (Junior)             | 14-12            | {{sb_14y}}-{{sb_12y}} [^SBT]
+
+[^SBT]: aligns with the age range for a Little League softball tournament division
 
 ### 2023
 
 | Division                  -| League Age Range
 |----------------------------|-----------------
-| 6U (Coach Pitch)           | 5-6             
-| 8U (Coach & Player Pitch)  | 7-8             
-| 10U                        | 9-10            
-| 12U (Major)                | 11-12           
+| 6U (Coach Pitch)           | 6-5
+| 8U (Coach & Player Pitch)  | 8-7
+| 10U                        | 10-9
+| 12U (Major)                | 12-11
 
 ## <span class="challenger">Challenger</span>
 {: .challenger}
