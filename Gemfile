@@ -6,6 +6,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 #gem "jekyll-google-calendar", group:  :jekyll_plugins
 
 gem "jemoji"
+gem "jekyll-timeago"
 
 gem "webrick", "~> 1.7"
 gem "minimal-mistakes-jekyll"

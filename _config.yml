@@ -52,6 +52,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jemoji
+  - jekyll-timeago
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -194,3 +195,6 @@ lunr:
 
 # what's the date in the current year of our first game?
 first_game: 9/17
+
+jekyll_timeago:
+  depth: 1
