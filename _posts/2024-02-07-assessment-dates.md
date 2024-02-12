@@ -3,6 +3,12 @@ title: 2024 Season Dates
 tag: 2024, signup, assessments
 ---
 
+In brief: 
+
+- Feb 24: assessments
+- Mar 16: work day
+- Mar 23: opening day
+
 ## Assessments
 
 Our player assessments will be on **Saturday, Feb 24** at the
