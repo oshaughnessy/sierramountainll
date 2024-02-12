@@ -24,9 +24,20 @@ through email or Facebook. If you're not sure of the league age of your players,
 please see our [League Age & Divisions]({% post_url 2023-01-18-league-age %}) post.
 
 
+## Field Repair Day
+
+We're doing a field repair day at SMLL on **Saturday, March 16**.
+Last year we had dozens and dozens of people show up to do spring cleaning
+at the fields & walkways, dugout repairs, painting... so many things. It was such
+a success and such a fun day seeing so many people help out. Let's do the same
+this year and get those facilities safe and ready to have fun with as soon as
+the weather starts turning good!
+
+
+
 ## Season Start
 
 If the weather this winter cooperates, we'll start the 2024 season with games on
-**Saturday, March 16**.
+**Saturday, March 23**.
 
 Looking forward to seeing all of you on the field!
