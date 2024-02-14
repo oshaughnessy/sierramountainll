@@ -143,7 +143,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 2. Be aware that all volunteers who spend significant time with kids
    must go through a **background check**. The league will submit this
    for you using your registration info. See our
-   [background checks]({% link _pages/bgchecks.md %}) page for more.
+   [background checks]({% link _pages/volunteers.md %}) page for more.
 
 3. Complete USA Baseball's [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188). If you need to register for a new account, note that "Sierra Mountain
    Little League" is not listed under "Little League - Local Leagues".
