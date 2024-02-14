@@ -81,7 +81,7 @@ team.
 | 15U (Junior)             | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}} [^SBT]
 
 [^SBT]: aligns with the age range for a Little League softball tournament division
-[^SB12]: 12-year-olds may dual-enroll in both Major and Junior softball
+[^SB12]: 12-year-olds may dual-roster in both Major and Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
 
 ### 2023
