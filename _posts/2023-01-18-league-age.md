@@ -31,6 +31,7 @@ toc: true
 {% assign sb_12y = last_year | minus: 12 %}
 {% assign sb_13y = last_year | minus: 13 %}
 {% assign sb_14y = last_year | minus: 14 %}
+{% assign sb_15y = last_year | minus: 15 %}
 
 How does your player's age affect the division they'll be in?
 It's a key way to identify the starting point for players in
@@ -66,9 +67,9 @@ year preceding the season. In other words, how old were they last Dec 31?
 
 In the first year of SMLL softball, 2023, we used age-based divisions
 to align with nearby fastpitch youth leagues that use softball's
-more conventional 2-year groupings. We're considering expanding each
-division in 2024 to create larger Minor and Major divisions and
-facilitate a strong Junior team.
+more conventional 2-year groupings. We expanding each division in 2024
+to create larger Minor and Major divisions and facilitate a strong Junior
+team.
 
 ### 2024+
 
@@ -76,10 +77,12 @@ facilitate a strong Junior team.
 |--------------------------|------------------|------------
 | 6U (Minor Coach Pitch)   | 6-5              | {{sb_6y}}-{{sb_5y}}
 | 9U (Minor Player Pitch)  | 9-7              | {{sb_9y}}-{{sb_7y}}
-| 12U (Major)              | 12-10            | {{sb_12y}}-{{sb_10y}} [^SBT]
-| 14U (Junior)             | 14-12            | {{sb_14y}}-{{sb_12y}} [^SBT]
+| 12U (Major)              | 12-10 [^SB12]    | {{sb_12y}}-{{sb_10y}} [^SBT]
+| 15U (Junior)             | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}} [^SBT]
 
 [^SBT]: aligns with the age range for a Little League softball tournament division
+[^SB12]: 12-year-olds may dual-enroll in both Major and Junior softball
+[^SB15]: 15-year-olds may participate in the Junior division but may not pitch
 
 ### 2023
 
