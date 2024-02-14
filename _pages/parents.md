@@ -83,7 +83,7 @@ Volunteer opportunities include:
   sweeping the dugouts, putting the pitching mound on the Minors field, cleaning up
   the seating areas, returning the trash cans to their space by the snack bar.
 
-Please see our [Volunteers]({{ site.baseurl }}/volunteers) page for more info.
+Please see our [Roles]({% link _pages/roles.md %}) page for more info.
 
 
 ## Player Safety
@@ -103,7 +103,7 @@ from some exceptions, jewelry is not allowed ([see below](#wearing-jewelry)).
 
 Player safety also includes vetting our volunteers with in-depth background checks
 and training them to recognize abuse. Please see our [Background
-Checks &amp; Training]({% link _pages/bgchecks.md %}) page for more information.
+Checks &amp; Training]({% link _pages/volunteers.md %}) page for more information.
 
 
 ### Wearing Jewelry

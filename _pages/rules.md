@@ -43,7 +43,7 @@ and the adoption of continuous batting orders in all divisions.
    an automatic ejection from the game; please refer to the [Player and Parents Codes of
    Conduct]({{ site.baseurl }}/resources/#smll-forms).
 5. Only approved [Managers, Coaches, Players, and registered
-   volunteers]({% link _pages/volunteers.md %}) are allowed in the dugout or on the
+   volunteers]({% link _pages/roles.md %}) are allowed in the dugout or on the
    playing field during games and practices
 6. The home team is responsible for turning the lights on and off, locking and unlocking
    the restrooms, cleaning up trash, emptying the trash cans, prepping the field, and

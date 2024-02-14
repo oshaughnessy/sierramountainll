@@ -13,7 +13,7 @@ and leaders with experience at other organizations will all have something
 valuable to contribute.
 
 If you're interested, please [reach out]({% link _pages/contact.md %})
-to our Coaching Coordinator and see the [Volunteer]({% link _pages/volunteers.md %})
+to our Coaching Coordinator and see the [Roles]({% link _pages/roles.md %})
 page for registration info.
 
 
@@ -53,7 +53,7 @@ and highlights of League rules.
 ## Responsibilities
 
 Coaches take on a handful of roles that are often shared by the team manager.
-We cover the list on our [volunteers]({{ site.baseurl }}/volunteers/#coach--assistant-coach)
+We cover the list on our [roles]({{ site.baseurl }}/roles/#coach--assistant-coach)
 page. A few key roles are outlined below.
 
 ### Player Safety
