@@ -57,12 +57,13 @@ in the current season's year.
 |-----------------------|-------------------
 | Tee Ball              | 6-4 years old     
 | Minor A/Coach Pitch   | 6-5 years old     
-| Minor AA/Player Pitch | 9-7 years old     [^BBtryouts]
+| Minor AA/Player Pitch | 9-7 years old
 | Minor AAA             | 10-8 years old    
 | Major                 | 12-10 years old   
 | 50/70                 | 13-11 years old   
 
-[^BBtryouts]: Players 8+ should attend tryouts/evaluations so that we can balance our teams
+Please Note: Baseball players league-age 8 and over are required to try out.
+{: .notice}
 
 ## <span class="softball">Softball</span>
 {: .softball}
@@ -81,11 +82,13 @@ team.
 | Division                -| League Age Range | Birth Years
 |--------------------------|------------------|------------
 | 6U (Minor Coach Pitch)   | 6-5              | {{sb_6y}}-{{sb_5y}}
-| 9U (Minor Player Pitch)  | 9-7              | {{sb_9y}}-{{sb_7y}}   [^SBtryouts]
+| 9U (Minor Player Pitch)  | 9-7              | {{sb_9y}}-{{sb_7y}}
 | 12U (Major)              | 12-10 [^SB12]    | {{sb_12y}}-{{sb_10y}} [^SBT]
 | 15U (Junior)             | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}} [^SBT]
 
-[^SBtryouts]: Players 7+ should attend tryouts/evaluations so that we can balance our teams
+Please Note: Softball players league-age 8 and above must attend a player assessment.
+{: .notice}
+
 [^SBT]: aligns with the age range for a Little League softball tournament division
 [^SB12]: 12-year-olds may dual-roster in both Major and Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
@@ -119,6 +122,3 @@ formula for baseball and softball is different.
 
 See the [Little League age calculator](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}
 for more information.
-
-Please Note: Players age 8 and above must attend a player assessment
-{: .notice}
