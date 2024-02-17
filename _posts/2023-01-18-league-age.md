@@ -1,6 +1,6 @@
 ---
 title: League Age &amp; Divisions
-tag: signup
+tag: signup, evaluations, tryouts
 toc: true
 ---
 
@@ -39,7 +39,7 @@ the league.
 
 It's not always the only factor, though -- you can see that
 there's some overlap in the groups below.  Players who want
-to play in AAA and above will need to attend an assessment.
+to play in AAA and above will need to attend a tryout/evaluation.
 One or more are offered before every season begins.
 
 SMLL has established the following age groups:
@@ -114,5 +114,5 @@ formula for baseball and softball is different.
 See the [Little League age calculator](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}
 for more information.
 
-Please Note: Only players age 8 and above must attend a player assessment
+Please Note: Only players age 8 and above must attend a player tryout/evaluation.
 {: .notice}

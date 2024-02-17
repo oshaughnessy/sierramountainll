@@ -1,6 +1,6 @@
 ---
 title: 2023 UPDATED Player Assessment Dates
-tag: 2023, signup, assessments
+tag: 2023, signup, evaluations, tryouts
 ---
 
 New assessment dates have been set! We found a place to hold them indoors.

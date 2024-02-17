@@ -1,13 +1,13 @@
 ---
 title: 2023 Player Assessment Dates
-tag: 2023, signup, assessments
+tag: 2023, signup, evaluations, tryouts
 ---
 
 {: .notice--warning }
-UPDATED: All assessments are on [March 26 at the OCI gym](
+UPDATED: All evaluations are on [March 26 at the OCI gym](
 {% post_url 2023-03-16-final-assessment-dates %})
 
-We've established our assessment dates for the 2023 season:
+We've established our evaluation dates for the 2023 season:
 
 * ~~Feb 27: 8 & 9-year-olds~~
 * ~~Feb 28: 10 & 11-year-olds~~
@@ -17,7 +17,7 @@ We've established our assessment dates for the 2023 season:
 We'll meet at 6pm at the [Sierra Mountain Little League fields]({{ site.baseurl }}/contact#fields)
 on each of these nights.
 
-All players must attend an assessment in order to be placed on a team. We use
+All players must attend an evaluation in order to be placed on a team. We use
 this time to see what skill level our incoming players have, then use that to
 create balanced teams and ensure a fun and safe season for everyone.
 

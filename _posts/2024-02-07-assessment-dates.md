@@ -1,17 +1,17 @@
 ---
 title: 2024 Season Dates
-tag: 2024, signup, assessments
+tag: 2024, signup, evaluations, tryouts
 ---
 
 In brief: 
 
-- Feb 24: assessments
+- Feb 24: evaluations/tryouts
 - Mar 16: work day
 - Mar 23: opening day
 
-## Assessments
+## Evaluations
 
-Our player assessments will be on **Saturday, Feb 24** at the
+Our player evaluations will be on **Saturday, Feb 24** at the
 [SMLL fields]({{ site.baseurl }}/contact#fields).
 
 We'll include all leagues:
