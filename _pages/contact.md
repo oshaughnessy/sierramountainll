@@ -12,7 +12,7 @@ or [message us at Facebook](https://m.me/sierramountainll){:target="_blank"}.
 ## Mailing Address
 
 Sierra Mountain Little League<br />
-PO Box 824 <br />
+PO Box 824<br />
 Oakhurst, California  93644<br />
 {: .notice--info }
 
@@ -41,6 +41,12 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 
 The Sierra Mountain Little League playing fields are located behind the
 Oakhurst Community Center.
+
+Sierra Mountain Little League<br />
+425B Cinder Lane<br />
+Oakhurst, California  93644<br />
+{: .notice--info }
+
 
 From Northbound 41:
 1. Turn right on Road 426
