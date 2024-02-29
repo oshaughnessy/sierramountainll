@@ -40,7 +40,7 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
 ## Abuse Awareness
 
 As of 2024, Little League International requires annual abuse awareness training.
-Sierra Mountain Little League offers Safe-Sport compliant training through Little League's
+Sierra Mountain Little League offers Safe Sport-compliant training through Little League's
 [Base Abuse Awareness](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
 
 More information on the BASE program and training available can be found at
@@ -48,3 +48,7 @@ More information on the BASE program and training available can be found at
 page](https://usabdevelops.com/page/4834/base/17090/base).
 
 Courses provided to volunteers include [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses).
+
+If you have completed a Safe Sport training program for another organization
+and have an active certificate of completion, you can use that for Little League.
+Just upload the certificate to your Sports Connect volunteer page.
