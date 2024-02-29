@@ -25,6 +25,9 @@ season. The training will cover coaching fundamentals, including pitching,
 hitting, sliding, and fielding, at levels appropriate for the ages you'll
 be coaching.
 
+Please see our [Volunteers]({% link _pages/volunteers.md %}) page for info
+on background checks and other requirements mandated by California and Little League.
+
 See Little League's [Appointing Managers, Coaches, and Umpires
 ](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
 {: .notice }
