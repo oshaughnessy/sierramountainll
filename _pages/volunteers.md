@@ -6,7 +6,7 @@ toc_icon: praying-hands
 toc_h_max: 3
 ---
 
-Thanks for looking into volunteering with Sierra Mountain Little League!
+Thanks for looking into helping with Sierra Mountain Little League!
 
 We have a handful of requirements for everyone who spends time with our players.
 These are mandated by the state, the federal government, and Little League.
