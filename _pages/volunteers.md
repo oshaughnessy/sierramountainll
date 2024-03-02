@@ -23,6 +23,11 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 1. First, see the [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
     section in Sports Connect and **sign up for a position** there.
 
+   That page has a place to upload your ID and some other clearances,
+   like a certificate from Safe Sport and a few others (see below).
+   When you have those done, you'll need to come back here to upload
+   them so we can check them.
+
 2. Be aware that all volunteers who spend significant time with kids
    must go through a **background check**. The league will submit this
    for you using your registration info. See "Background Checks" below.
