@@ -130,48 +130,6 @@ If you're interested, please text Tom at `831-818-6859`.
 
 ## Registration
 
-Any volunteer who provides "regular service to the league or repetitive access
-to children" must go through the background check process. That includes helping
-with hitting and catching during practice, coaching a base or coordinating
-the batting lineup during games, even working in the snack bar or being a team
-parent. Please see Little League's [Background Checks for Little League®
-Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
-
-1. First, see the [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
-    section in Sports Connect and **sign up for a position** there.
-
-2. Be aware that all volunteers who spend significant time with kids
-   must go through a **background check**. The league will submit this
-   for you using your registration info. See our
-   [background checks]({% link _pages/volunteers.md %}) page for more.
-
-3. Complete USA Baseball's [Abuse Awareness for Adults at usabdevelops.com](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188). If you need to register for a new account, note that "Sierra Mountain
-   Little League" is not listed under "Little League - Local Leagues".
-   Select "\*\* Little League", then click "+ Join" instead.
-
-   If you've already completed a Safe Sport Abuse Awareness training program for another sport
-   or league and your certificate is still current, you can use it for Little League, too.
-   For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs.
-
-### If you're a manager or coach...
-
-{:start="4"}
-4. Complete the **coaching courses**:
-     * [Concussion training](https://www.cdc.gov/headsup/youthsports/training/index.html){:target="_blank"} is
-       annual training [required by California law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"} for any coach working in a youth sport.
-     * Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#what-do-i-need-to-be-a-coach).
-       First aid and fundamental baseball training are Little League requirements.
-
-<!--
-5. Register a **Live Scan**. This only needs to be done once by each league
-   manager and coach and does not need to be done annually. A Live Scan for
-   another organization cannot be used by SMLL.
-
-**Please Note**:
-For registrations, it is essential that you use your full legal name. The system that
-processes your Live Scan application will only be able to connect your information
-to our registration system if they all have the same name. The Live Scan application
-runs through the California Department of Justice, where it will need to match your
-registered legal name.
-{: .notice--warning }
--->
+Please see our [Volunteers]({% link _pages/volunteers.md %}) page for details on
+requirements for volunteers, all of which are required by the state & federal government
+or Little League.
