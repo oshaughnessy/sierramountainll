@@ -20,6 +20,10 @@ intellectual challenges](
 https://www.littleleague.org/play-little-league/challenger/about-challenger/)".
 It's for youth ages 4-18\* with physical or intellectual challenges.
 
+According to Little League, "if an individual can participate in
+the traditional Little League Baseball or Softball program with
+reasonable accommodations they should do so."
+
 \* or up to 22 if they're still in school and no senior division is available
 {: .small }
 
