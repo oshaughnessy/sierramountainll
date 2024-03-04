@@ -131,6 +131,9 @@ the The Eric Paredes Sudden Cardiac Prevention Act
 Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#what-do-i-need-to-be-a-coach).
 First aid and fundamental baseball training are Little League requirements.
 
+If you're interested in more, take a look at
+[Little League's Diamond Leader Training](https://www.littleleague.org/diamondleader).
+
 
 ### Fingerprinting: Live Scans
 
