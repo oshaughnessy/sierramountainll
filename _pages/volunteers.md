@@ -11,6 +11,12 @@ Thanks for looking into helping with Sierra Mountain Little League!
 We have a handful of requirements for everyone who spends time with our players.
 These are mandated by the state, the federal government, and Little League.
 
+## Volunteer Checklist
+
+1. Sign up as a Volunteer in Sports Connect
+2. Fill out the JDP background check that will be emailed it to you
+3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+
 ## Coach Checklist
 
 1. Sign up as a Head or Assistant Coach in Sports Connect
@@ -19,7 +25,7 @@ These are mandated by the state, the federal government, and Little League.
 4. Take the [Heads Up concussion training](https://www.train.org/cdctrain/course/1089818/details)
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
 
-## Summary
+## Requirements
 
 Any volunteer who provides "regular service to the league or repetitive access
 to children" must go through the background check process. That includes helping
@@ -72,7 +78,7 @@ registered legal name.
 -->
 
 
-## Background Checks
+### Background Checks
 
 Little League International (LLI) requires its leagues to perform background checks on
 all individuals with "regular, repetitive access to players".
@@ -103,7 +109,7 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
  - [JD Palatine's page on youth sports background checks](https://www.jdp.com/industries/youth-sports-background-checks/)
 
 
-## Abuse Awareness
+### Abuse Awareness
 
 As of 2024, Little League International requires annual abuse awareness training.
 Sierra Mountain Little League offers Safe Sport-compliant training through Little League's
