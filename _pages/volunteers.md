@@ -16,6 +16,7 @@ These are mandated by the state, the federal government, and Little League.
 1. Sign up as a Volunteer in Sports Connect
 2. Fill out the JDP background check that will be emailed it to you
 3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+4. Upload your Safe Sport cert fo your Volunteer page in Sports Connect.
 
 ## Coach Checklist
 
@@ -24,6 +25,7 @@ These are mandated by the state, the federal government, and Little League.
 3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
 4. Take the [Heads Up concussion training](https://www.train.org/cdctrain/course/1089818/details)
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
+6. Upload all 3 certs (or screenshots) to the Volunteer page in Sports Connect.
 
 ## Requirements
 
