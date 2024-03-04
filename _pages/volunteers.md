@@ -76,7 +76,7 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
  - [JD Palatine's page on youth sports background checks](https://www.jdp.com/industries/youth-sports-background-checks/)
 
 
-### Abuse Awareness: BASE/Safe Sport
+### Abuse Awareness: SafeSport
 
 As of 2024, Little League International requires annual abuse awareness training.
 Sierra Mountain Little League offers Safe Sport-compliant training through Little League's
@@ -127,10 +127,12 @@ the The Eric Paredes Sudden Cardiac Prevention Act
 Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#what-do-i-need-to-be-a-coach).
 First aid and fundamental baseball training are Little League requirements.
 
-<!--
 
 ### Fingerprinting: Live Scans
 
+_Coming Soon!_
+
+<!--
 5. Register a **Live Scan**. This only needs to be done once by each league
    manager and coach and does not need to be done annually. A Live Scan for
    another organization cannot be used by SMLL.
