@@ -38,13 +38,8 @@ See the
 section in Sports Connect and **sign up for a position** there.
 
 That page has a place to upload your ID and some other clearances,
-like a certificate from Safe Sport and a few others (see below).
-When you have those done, you'll need to come back here to upload
-them so we can check them.
-
-   If you've already completed a Safe Sport Abuse Awareness training program for another sport
-   or league and your certificate is still current, you can use it for Little League, too.
-   For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs.
+like a certificate from SafeSport and a few others. When you have those done,
+you'll need to return to this page to upload the files or images so we can check them.
 
 ### Background Check: JDP
 
@@ -98,9 +93,9 @@ Little League" is not listed under "Little League - Local Leagues".
 Select "\*\* Little League", then click "+ Join" instead.
 
 {: .notice--success }
-If you have completed a Safe Sport training program for another organization
-and have an active certificate of completion, you can use that for Little League.
-Just upload the certificate to your Sports Connect volunteer page.
+If you've already completed a Safe Sport Abuse Awareness training program for another sport
+or league and your certificate is still current, you can use it for Little League, too.
+For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
 
 ### Health Training
 
