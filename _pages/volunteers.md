@@ -39,15 +39,19 @@ section in Sports Connect and **sign up for a position** there.
 
 That page has a place to upload your ID and some other clearances,
 like a certificate from SafeSport and a few others. When you have those done,
-you'll need to return to this page to upload the files or images so we can check them.
+you'll need to return to the Volunteer page to upload those files or images
+so we can check them.
 
 ### Background Check: JDP
 
 Any volunteer who provides "regular service to the league or repetitive access
-to children" must go through the background check process. That includes helping
-with hitting and catching during practice, coaching a base or coordinating
-the batting lineup during games, even working in the snack bar or being a team
-parent. Please see Little League's [Background Checks for Little League®
+to children" must go through the background check process.
+
+{: .notice--warning }
+This includes helping with hitting and catching during practice,
+coaching a base or coordinating the batting lineup during games,
+even working in the snack bar or being a team parent. Please see
+Little League's [Background Checks for Little League®
 Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
 
 In order to be in compliance with [California's Business & Professions Code
@@ -56,8 +60,8 @@ and provides them with SafeSport-approved abuse training annually. This is requi
 of all volunteers, regardless of whether an individual is new to the program or
 returning.
 
-A background check is performed at the beginning of each season, with enhanced screening
-at J.D. Palatine (JDP). This includes:
+A background check is performed at the beginning of each season,
+with enhanced screening at J.D. Palatine (JDP). This includes:
 
 > the JDP National Criminal Search, plus Developed names, and collects
 > data from more than 685 million criminal records, sex offender
