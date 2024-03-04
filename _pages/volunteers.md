@@ -16,7 +16,7 @@ These are mandated by the state, the federal government, and Little League.
 1. Sign up as a Volunteer in Sports Connect
 2. Fill out the JDP background check that will be emailed it to you
 3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
-4. Upload your Safe Sport cert fo your Volunteer page in Sports Connect.
+4. Upload your Safe Sport cert to your Volunteer page in Sports Connect.
 
 ## Coach Checklist
 
