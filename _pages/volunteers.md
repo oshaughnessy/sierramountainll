@@ -13,20 +13,20 @@ These are mandated by the state, the federal government, and Little League.
 
 ## Volunteer Checklist
 
-1. Sign up as a Volunteer in Sports Connect
+1. Sign up as a _Volunteer_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
-4. Upload your Safe Sport cert to your Volunteer page in Sports Connect.
+3. Take the [SafeSport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+4. Upload your SafeSport cert to your Volunteer page in Sports Connect.
 
 ## Coach Checklist
 
-1. Sign up as a Head or Assistant Coach in Sports Connect
+1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+3. Take the [SafeSport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
 4. Take the [HEADS UP concussion training](https://www.train.org/cdctrain/course/1089818/details)
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
    (good for 2 years)
-6. Upload all 3 certs (or screenshots) to the Volunteer page in Sports Connect.
+6. Upload all 3 certs or screenshots to the Volunteer page in Sports Connect.
 
 
 ## Requirement Details
@@ -52,7 +52,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 
 In order to be in compliance with [California's Business & Professions Code
 § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.), Sierra Mountain Little League submits all volunteers to a background check
-and provides them with Safe Sport-approved abuse training annually. This is required
+and provides them with SafeSport-approved abuse training annually. This is required
 of all volunteers, regardless of whether an individual is new to the program or
 returning.
 
@@ -79,7 +79,7 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
 ### Abuse Awareness: SafeSport
 
 As of 2024, Little League International requires annual abuse awareness training.
-Sierra Mountain Little League offers Safe Sport-compliant training through Little League's
+Sierra Mountain Little League offers SafeSport-compliant training through Little League's
 [Base Abuse Awareness](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
 
 To meet California's requirements, complete USA Baseball's
@@ -93,7 +93,7 @@ Little League" is not listed under "Little League - Local Leagues".
 Select "\*\* Little League", then click "+ Join" instead.
 
 {: .notice--success }
-If you've already completed a Safe Sport Abuse Awareness training program for another sport
+If you've already completed a SafeSport Abuse Awareness training program for another sport
 or league and your certificate is still current, you can use it for Little League, too.
 For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
 
