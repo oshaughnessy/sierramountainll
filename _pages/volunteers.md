@@ -49,9 +49,9 @@ to children" must go through the background check process.
 
 {: .notice--warning }
 This includes helping with hitting and catching during practice,
-coaching a base or coordinating the batting lineup during games,
-even working in the snack bar or being a team parent. Please see
-Little League's [Background Checks for Little League®
+coaching a base or being in the dugout during games, even working
+in the snack bar or being a team parent. Please see Little League's
+[Background Checks for Little League®
 Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
 
 In order to be in compliance with [California's Business & Professions Code
