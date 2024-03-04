@@ -11,6 +11,14 @@ Thanks for looking into helping with Sierra Mountain Little League!
 We have a handful of requirements for everyone who spends time with our players.
 These are mandated by the state, the federal government, and Little League.
 
+## Coach Checklist
+
+1. Sign up as a Head or Assistant Coach in Sports Connect
+2. Fill out the JDP background check that will be emailed it to you
+3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+4. Take the [Heads Up concussion training](https://www.train.org/cdctrain/course/1089818/details)
+5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
+
 ## Summary
 
 Any volunteer who provides "regular service to the league or repetitive access
