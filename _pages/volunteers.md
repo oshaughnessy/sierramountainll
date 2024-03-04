@@ -111,18 +111,20 @@ is training [required by California
 law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}
 for any coach working in a youth sport.
 
-Coaches of youth sports programs are encouraged to follow the guidelines of 
-the The Eric Paredes Sudden Cardiac Prevention Act
-[Dept of Ed Article 13 § 33479.8](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=33479.8.){:target="_blank"}
-
 #### Cardiac Arrest
 
 [Sudden Cardiac Arrest training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
-training [required by California
+training is [required by California
 law](https://www.littleleague.org/player-safety/state-laws-on-sudden-cardiac-arrest-training/){:target="_blank"}
 for coaches in educational sports programs.
 
-The training is good for 2 years ([Cal Ed Code 33479.6](https://codes.findlaw.com/ca/education-code/edc-sect-33479-6/){:target="_blank"}).
+{: .notice--success }
+The training is good for 2 years ([Cal Ed Code § 33479.6](https://codes.findlaw.com/ca/education-code/edc-sect-33479-6/){:target="_blank"}).
+
+{: .notice--info }
+Coaches of youth sports programs are encouraged to follow the guidelines of 
+the The Eric Paredes Sudden Cardiac Prevention Act
+[Dept of Ed Article 13 § 33479.8](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=33479.8.){:target="_blank"}
 
 
 ### Other Coaching Courses
