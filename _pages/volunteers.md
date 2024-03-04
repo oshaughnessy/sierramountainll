@@ -25,6 +25,7 @@ These are mandated by the state, the federal government, and Little League.
 3. Take the [Safe Sport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
 4. Take the [HEADS UP concussion training](https://www.train.org/cdctrain/course/1089818/details)
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
+   (good for 2 years)
 6. Upload all 3 certs (or screenshots) to the Volunteer page in Sports Connect.
 
 
@@ -103,15 +104,21 @@ Just upload the certificate to your Sports Connect volunteer page.
 
 ### Health Training
 
+#### Concussion
+
 [HEADS UP concussion training](https://www.cdc.gov/headsup/youthsports/training/index.html){:target="_blank"}
 is annual training [required by California
 law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}
 for any coach working in a youth sport.
 
+#### Cardiac Arrest
+
 [Sudden Cardiac Arrest training](https://epsavealife.org/sca-prevention-training/)
-is also annual training [required by California
+training [required by California
 law](https://www.littleleague.org/player-safety/state-laws-on-sudden-cardiac-arrest-training/)
-for coaches.
+for coaches in educational sports programs.
+
+The training is good for 2 years ([Cal Ed Code 33479.6](https://codes.findlaw.com/ca/education-code/edc-sect-33479-6/)).
 
 
 ### Other Coaching Courses
