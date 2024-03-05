@@ -89,11 +89,32 @@ Athletes](https://www.littleleague.org/player-safety/concussions-youth-athletes/
 A [free concussion training course is available](https://nfhslearn.com/courses/concussion-in-sports-2)
 from the NFHS.
 
-Heat-related ilness is a real risk here in central California. Take a look at the
+Heat-related illness is a real risk here in central California. Take a look at the
 Little League Rulebook's [Appendix E -- Heat Illness Prevention Protection
 Policy](https://www.littleleague.org/playing-rules/appendices/appendix-e/)
 and US Soccer's [Recognize to Recover Heat
 Guidelines]({% link /assets/files/recognize-to-recover-heat-guidlines.pdf %}).
+
+### Concussion Awareness Requirements
+
+All coaches at SMLL need to read this [CDC concussion information
+sheet]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
+for coaches, sign it at the beginning of each season, and return it
+to the league safety officer.
+
+For more, please see the CDC's HEADS UP to Youth Sports [for
+coaches](https://www.cdc.gov/headsup/youthsports/coach.html).
+
+
+### Sudden Cardiac Arrest Requirements
+
+All coaches at SMLL should read this [sudden cardiac arrest information
+sheet]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
+for coaches, sign it at the beginning of each season, and return it
+to the league safety officer.
+
+For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
+Prevention Training](https://epsavealife.org/sca-prevention-training/).
 
 ### Coaching Bases
 

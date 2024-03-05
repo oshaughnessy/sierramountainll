@@ -109,7 +109,7 @@ Checks &amp; Training]({% link _pages/volunteers.md %}) page for more informatio
 ### Concussion Awareness
 
 All parents of SMLL's players should read this [concussion information
-sheet]({% link /assets/files/headsup-Parent_Athlete_Info_Sheet-a.pdf %}){:target="_blank"}
+sheet]({% link /assets/files/headsup-parents.pdf %}){:target="_blank"}
 from the CDC, sign it at the beginning of each season, and return it to their coach.
 
 For more, please see the CDC's HEADS UP to Youth Sports [for
@@ -119,7 +119,7 @@ parents](https://www.cdc.gov/headsup/youthsports/parents.html).
 ### Sudden Cardiac Arrest
 
 All parents of SMLL's players should read this [sudden cardiac arrest information
-sheet]({% link /assets/files/sca-ParentAthleteFactSheetSigCIF.pdf %}){:target="_blank"},
+sheet]({% link /assets/files/sca-parents.pdf %}){:target="_blank"},
 sign it at the beginning of each season, and return it to their coach.
 
 For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
