@@ -140,23 +140,17 @@ If you're interested in more, take a look at
 A Live Scan must be done specifically for SMLL by each coach or other
 "regular volunteer". It _does not_ need to be done annually.
 
-Who is a regular volunteer?
-{: .notice--info }
-[California Assembly Bill No. 506](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB506){:target="_blank"}:
+{% capture regular-volunteers %}
+Who needs to submit a Live Scan?
+From [California Assembly Bill No. 506](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB506){:target="_blank"}:
 > "Regular volunteer" means a volunteer with the youth service
 > organization who is 18 years of age or older and who has direct
 > contact with, or supervision of, children for more than 16 hours
 > per month or 32 hours per year.
+{% endcapture %}
+<div class="notice--info">{{ regular-volunteers | markdownify }}</div>
 
 For us, this primarily includes coaches and team parents.
 
 {: .notice--warning }
-**Please Note:** A Live Scan for another organization cannot be used by SMLL.
-
-{: .notice--warning }
-**Please Note:**
-For registrations, it is essential that you use your full legal name. The system that
-processes your Live Scan application will only be able to connect your information
-to our registration system if they all have the same name. The Live Scan application
-runs through the California Department of Justice, where it will need to match your
-registered legal name.
+A Live Scan for another organization cannot be used by SMLL.
