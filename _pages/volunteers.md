@@ -27,6 +27,9 @@ These are mandated by the state, the federal government, and Little League.
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
    (good for 2 years)
 6. Upload all 3 certs or screenshots to the Volunteer page in Sports Connect.
+7. Print and sign the [CDC concussion information sheet for coaches]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
+8. Print and sign the [sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}.
+9. Return both signed documents to the league's [safety officer]({% link _pages/contact.md %}#board).
 
 
 ## Requirement Details
