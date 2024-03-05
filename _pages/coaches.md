@@ -85,7 +85,7 @@ Guidelines]({% link /assets/files/recognize-to-recover-heat-guidlines.pdf %}).
 
 #### Concussion Awareness Requirements
 
-{: .notice--success }
+{: .notice--warning }
 All coaches at SMLL need to read this [CDC concussion information
 sheet]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
 for coaches, sign it at the beginning of each season, and return it
@@ -107,7 +107,7 @@ in [HEADS UP to Youth Sports](https://www.cdc.gov/headsup/youthsports/coach.html
 
 #### Sudden Cardiac Arrest Requirements
 
-{: .notice--success }
+{: .notice--warning }
 All coaches at SMLL should read this [sudden cardiac arrest information
 sheet]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
 for coaches, sign it at the beginning of each season, and return it
