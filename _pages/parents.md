@@ -116,6 +116,15 @@ For more, please see the CDC's HEADS UP to Youth Sports [for
 parents](https://www.cdc.gov/headsup/youthsports/parents.html).
 
 
+### Sudden Cardiac Arrest
+
+All parents of SMLL's players should read this [sudden cardiac arrest information
+sheet]({% link /assets/files/sca-ParentAthleteFactSheetSigCIF.pdf %}){:target="_blank"},
+sign it at the beginning of each season, and return it to their coach.
+
+For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
+Prevention Training](https://epsavealife.org/sca-prevention-training/).
+
 
 ### Wearing Jewelry
 
