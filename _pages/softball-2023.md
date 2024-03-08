@@ -1,6 +1,6 @@
 ---
-title: Fastpitch Softball at SMLL
-permalink: /softball/
+title: 2023 Fastpitch Softball at SMLL
+permalink: /softball-2023/
 toc: true
 toc_icon: softball
 toc_h_max: 3
@@ -13,16 +13,42 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes 2024 softball at SMLL.
-For our first year, see [2023 Softball]({% link _pages/softball-2023.md %})
-
-
 ## Divisions
 
-### 8U/Player Pitch/Minors
+### 6U/Coach Pitch/Minors A
 {: .softball}
 
-**Ages** | 6-8 (in general)
+**Ages** | 5-6 (in general)
+**Ball** | 11" soft/reduced impact force
+**Pitch Distance** | 25'
+**Base Distance**  | 60'
+
+6U is our learning division where the youngest girls have a chance to
+discover the fundamentals of playing the game. They'll learn how to throw,
+catch, run the bases, and hit. Players should spend a season in tee ball
+before joining softball.
+
+This is strictly a coach-pitch division. Coaches will throw to their own
+players.
+
+PLEASE NOTE: The rules below are a work in progress. We may revise them as we
+go through the 2023 season.
+{: .notice--warning }
+
+#### 6U Ground Rules
+
+- Only 1 extra base on an overthrow
+- No stealing
+- Parent or coach as umpire
+- Defensive coaches are allowed and encouraged to be on the field during game play
+  to instruct their players
+- Batters may use a tee at the coach's discretion, but it is not encouraged.
+  Players should be learning to hit a thrown pitch.
+
+### 8U/Player Pitch/Minors AA
+{: .softball}
+
+**Ages** | 7-8 (in general)
 **Ball** | 11" soft/reduced impact force
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
@@ -38,7 +64,7 @@ will throw for their own teammates. In the final 1/3, competitors will pitch
 against the other team.
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
-go through the 2024 season.
+go through the 2023 season.
 {: .notice--warning }
 
 #### 8U Ground Rules
@@ -83,17 +109,68 @@ Once a ball is in the pitcher's control, a runner may not leave their base
 until a batter hits the ball into fair territory.
 
 
-### 11U/Majors
+### 10U/Minors AAA
 {: .softball}
 
-**Ages** | 9-12
+**Ages** | 9-10
+**Ball** | 11" standard softball
+**Pitch Distance** | 35'
+**Base Distance**  | 60'
+
+10U is our transition division, where girls begin to play strictly by
+the rules of softball.
+
+In 2023, this is a coach-to-player pitch division. Our goal this year is to develop
+reliable pitchers so that next season we can start the year with a full season
+of player-only pitching.  In the 1st 1/3 of the season, coaches will throw pitches
+to batters. In the 2nd 1/3, players will throw for their own teammates. In the final
+1/3, competitors will pitch against the other team. Pitching and batting rules are
+otherwise the same.
+{: .notice--info }
+
+PLEASE NOTE: The rules below are a work in progress. We may revise them as we
+go through the 2023 season.
+{: .notice--warning }
+
+#### 10U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
+
+#### 10U Pitching
+
+1st third of the season:
+- **Coaches will pitch to their own players**
+- Coaches may throw from a standing position or sitting on a ball bucket
+
+2nd third of the season:
+- **Offense will pitch to their own players**
+- After 3 walked batters, player pitching should rotate out
+
+3rd third of the season:
+- **Defense will pitch to opposing players**
+- After 3 walked batters, player pitching should rotate out
+
+#### 10U Stealing
+
+Stealing rules follow those of regular Little League Minors softball.
+
+Once a ball is under the control of the pitcher, runners may not
+leave their base until the next pitch is thrown and the ball reaches
+the batter.
+
+
+### 12U/Majors
+{: .softball}
+
+**Ages** | 11-12
 **Ball** | 12" standard
 **Pitch Distance** | 40'
 **Base Distance**  | 60'
 
-11U is our 2024 Majors division, with full Little League Majors softball rules.
+12U is our Majors division, with full Little League Majors softball rules.
 
-#### 11U Ground Rules
+#### 12U Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 - 5 run limit per team per inning
@@ -107,15 +184,35 @@ Once a ball is under the control of the pitcher, runners may not leave
 their base until the next pitched ball has been released by the pitcher.
 
 
-### 15U/Juniors
+### 14U/Juniors
 {: .softball}
 
-**Ages** | 13-15
+Coming in the 2023-2024 season
+{: .notice }
+
+**Ages** | 13-14
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
 
-#### 15U Ground Rules
+#### 14U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
+
+
+### 16U/Seniors
+{: .softball}
+
+Coming in the 2023-2024 season
+{: .notice }
+
+**Ages** | 15-16
+**Ball** | 12" standard
+**Pitch Distance** | 43'
+**Base Distance**  | 60'
+
+#### 16U Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 - 5 run limit per team per inning
@@ -138,39 +235,59 @@ from nearest to farthest:
 [Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
 
 
-## 2024 Schedules
+## 2023 Schedules
 
 This is a quick reference. Please see
 [published schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
 for official times.
 
 ```
-     March 2024            April 2024             May 2024
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-                1  2      1  2  3  4  5  6            1  2  3  4
- 3  4  5  6  7  8  9   7  8  9 10 11 12 13   5  6  7  8  9 10 11
-10 11 12 13 14 15 16  14 15 16 17 18 19 20  12 13 14 15 16 17 18
-17 18 19 20 21 22 23  21 22 23 24 25 26 27  19 20 21 22 23 24 25
-24 25 26 27 28 29 30  28 29 30              26 27 28 29 30 31
-31
+        April                    May
+ Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
+                    1        1  2  3  4  5  6
+  2  3  4  5  6  7  8     7  8  9 10 11 12 13
+  9 10 11 12 13 14 15    14 15 16 17 18 19 20
+ 16 17 18 19 20 21 22    21 22 23 24 25 26 27
+ 23 24 25 26 27 28 29    28 29 30 31  1  2  3
+ 30
 ```
 
 Significant dates:
 
-- March 25-April 1: MHS spring break
-- March 31: Easter
-- April 15-19: BLSD spring break
-- May 27: Memorial Day
-- June 6: MHS last day of school
-- June 12: BLSD last day of school
+- April 9: Easter
+- April 3-10: MHS spring break
+- April 17-21: BLSD spring break
+- May 29: Memorial Day
+- June 1: MHS last day of school
+- June 8: BLSD last day of school
 
 {: .notice--info }
-School Calendars: [Bass Lake School District](https://basslakeschooldistrict.com/29343_2), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
+School Calendars: [Bass Lake School District](https://www.basslakeschooldistrict.com/site/default.aspx?PageType=3&ModuleInstanceID=142&ViewID=C9E0416E-F0E7-4626-AA7B-C14D59F72F85&RenderLoc=0&FlexDataID=9920&PageID=1), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
 
-### 2023 8U: 2 teams
+### 6U: 2 teams
 
-NOTE: This is from 2023. It is only here as a reference.
-{: .notice--warning }
+Game Times: 60 minutes
+* Fridays: 4:30-5:30pm
+* Saturdays: 9:00-10:00am
+
+Location: SMLL Minors field
+
+Date     | Day | Game | Visitor                 | Home
+---------|-----|------|-------------------------|----------
+April 29 | Sat | 1    | 6U Sweet Peas / Nolasco | 6U Kilgore
+May 5    | Fri | 2    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 6    | Sat | 3    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 13   | Sat | 5    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 18   | Thu | 6    | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+May 20   | Sat | 7    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 22   | Mon | 4    | 6U Kilgore              | 6U Sweet Peas / Nolasco  [^R]
+May 27   | Sat | 9    | 6U Sweet Peas / Nolasco | 6U Kilgore 
+May 29   | Mon | 8    | 6U Kilgore              | 6U Sweet Peas / Nolasco  [^R]
+June 2   | Fri | 10   | 6U Kilgore              | 6U Sweet Peas / Nolasco 
+June 3   | Sat | 11   | 6U Sweet Peas / Nolasco | 6U Kilgore 
+
+
+### 8U: 2 teams
 
 Game Times: 60 minutes or 6 innings [^L]
 * Thursdays: 4:30-5:30pm
@@ -195,10 +312,7 @@ May 30   | Tue | 14   |  4:30 PM | 4     | 8U Buttercups / Cosentino | 8U Poppie
 June 1   | Thu | 15   |  4:30 PM | 5     | 8U Buttercups / Cosentino | 8U Poppies / Tompkins       [^R]
 
 
-### 2023 10U: 1 team       
-
-NOTE: This is from 2023. It is only here as a reference.
-{: .notice--warning }
+### 10U: 1 team       
 
 Game Times: 90 minutes or 6 innings [^L]
 * Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
@@ -220,10 +334,7 @@ June 1   | Thu | 11   | 6:00 PM  | 6     | YLL 10U                | Sierra Wildf
 June 3   | Sat | 12   | 10:30 AM | 6     | Sierra Wildflowers 10U | YLL 10U
 
 
-### 2023 12U: 1 team
-
-NOTE: This is from 2023. It is only here as a reference.
-{: .notice--warning }
+### 12U: 1 team
 
 Game Times: 90 minutes or 6 innings [^L]
 * Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
