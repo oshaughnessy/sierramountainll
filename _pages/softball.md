@@ -170,36 +170,25 @@ School Calendars: [Bass Lake School District](https://basslakeschooldistrict.com
 ### 8U: 3 teams
 
 Game Times: 60 minutes or 6 innings [^L]
-* Thursdays: 4:30-5:30pm
-* Saturdays: 12:30-1:30pm
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|----------
-_TBD_
 
 
 ### 11U: 3 teams
 
 Game Times: 90 minutes or 6 innings [^L]
-* Thursdays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
-* Saturdays @ Home & Minarets: 10:30-12:00pm
 
 Date     | Day | Game |  Time    | Round | Visitor | Home
 ---------|-----|------|----------|-------|---------|------
-_TBD_
 
 
 ### 15U: 1 team
 
 Game Times: 90 minutes or 6 innings [^L]
-* Fridays: 6:00-7:30pm @ SMLL Minors or Spring Valley Elementary
-* Saturdays @ Home: 2:00-3:30pm
-* Saturdays @ Minarets: 1:00-2:30pm
-* Saturdays @ Mariposa: 10:00am, 12:00pm, 2:00pm
 
 Date     | Day | Time     | Game | Round | Visitor | Home
 ---------|-----|----------|------|-------|---------|------
-TBD
 
 [^R]: Rescheduled game
 [^M]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
