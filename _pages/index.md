@@ -25,7 +25,10 @@ header:
 
 ## 2024 Season Dates
 
-Registration for 2024 is now closed. Thank you, everyone, for signing up!
+Registration for 2024 baseball & softball is now closed.
+Sign-up for our special-needs Challenger program remains open until June.
+
+Thank you, everyone, for signing up!
 
 | Early Bird Registration | Regular Registration | Asessment      | Opening Day | Closing Day
 |                         |                      | By Age         |             |
