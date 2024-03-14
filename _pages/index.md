@@ -25,7 +25,7 @@ header:
 
 ## 2024 Season Dates
 
-Registration for 2024 [is open](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}!
+Registration for 2024 is now closed. Thank you, everyone, for signing up!
 
 | Early Bird Registration | Regular Registration | Asessment      | Opening Day | Closing Day
 |                         |                      | By Age         |             |
