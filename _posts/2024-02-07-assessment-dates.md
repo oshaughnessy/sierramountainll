@@ -7,7 +7,7 @@ In brief:
 
 - Feb 24: evaluations/tryouts
 - Mar 16: work day
-- Mar 23: opening day
+- Mar 30: opening day
 
 ## Evaluations
 
