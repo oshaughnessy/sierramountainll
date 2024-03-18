@@ -44,6 +44,6 @@ the weather starts turning good!
 ## Season Start
 
 If the weather this winter cooperates, we'll start the 2024 season with games on
-**Saturday, March 23**.
+**Saturday, March 30**.
 
 Looking forward to seeing all of you on the field!
