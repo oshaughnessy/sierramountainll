@@ -33,7 +33,7 @@ Thank you, everyone, for signing up!
 | Early Bird Registration | Regular Registration | Asessment      | Opening Day | Closing Day
 |                         |                      | By Age         |             |
 |----
-| Dec 17 - Jan 31         | Feb 1 - Mar 10       | Feb 24         | March 30     | June 9
+| Dec 17 - Jan 31         | Feb 1 - Mar 10       | Feb 24         | April 1     | June 9
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}

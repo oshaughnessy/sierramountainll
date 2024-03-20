@@ -7,7 +7,7 @@ In brief:
 
 - Feb 24: evaluations/tryouts
 - Mar 16: work day
-- Mar 30: opening day
+- Apr 1: opening day
 
 ## Evaluations
 
@@ -44,6 +44,6 @@ the weather starts turning good!
 ## Season Start
 
 If the weather this winter cooperates, we'll start the 2024 season with games on
-**Saturday, March 30**.
+**Monday, April 1**.
 
 Looking forward to seeing all of you on the field!
