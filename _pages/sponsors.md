@@ -97,14 +97,14 @@ gallery_sponsors:
 
 Many, many thanks to our Sierra Mountain Little Leagues sponsors!
 
-We offer 2 types of sponsorships, for teams and fields.
+We offer 2 types of sponsorships, for fields and teams.
 
-Team sponsors, at $250, get their name on the back of jerseys for a
-group of kids in any one of our division, where your name will be seen
-close up by the parents in the stands and the sidelines at every game.
-
-Field sponsors, at $500, get a banner out on our Majors field, where
+Field sponsors, at $250, get a banner out on our baseball or softball field, where
 you can share the moment and the photo ops with our players' biggest hits.
+
+Team sponsors, at $500, get a field banner *and* get their name on the back of jerseys
+for a group of kids in any one of our divisions, where your name will be seen
+close up by the parents in the stands and the sidelines at every game.
 
 {% include figure image_path="/assets/sponsors/sponsor-shots-sgb.jpg"
    alt="South Gate Brewing, a local business, sponsors Sierra Mountain Little League"
