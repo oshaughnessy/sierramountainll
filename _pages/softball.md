@@ -159,8 +159,8 @@ Significant dates:
 
 - March 25-April 1: MHS spring break
 - March 31: Easter
-- April 15-19: BLSD spring break
-- May 27: Memorial Day
+- April 15-21: BLSD spring break
+- May 25-27: Memorial Day weekend
 - June 6: MHS last day of school
 - June 12: BLSD last day of school
 
