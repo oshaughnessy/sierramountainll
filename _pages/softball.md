@@ -159,6 +159,7 @@ Significant dates:
 
 - March 25-April 1: MHS spring break
 - March 31: Easter
+- April 1-7: Chawanakee spring break
 - April 15-21: BLSD spring break
 - May 25-27: Memorial Day weekend
 - June 6: MHS last day of school
