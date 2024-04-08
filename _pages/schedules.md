@@ -4,7 +4,7 @@ permalink: /schedules/
 toc: false
 ---
 
-# 2024 Calendars
+# 2024 Game Calendars
 
 ## Baseball
 * [Tee Ball]({% link _pages/schedules/tee.md %})
@@ -20,6 +20,7 @@ toc: false
 * [15U]({% link _pages/schedules/15u.md %})
 
 # 2024 Game Schedules
+
 {% assign schedule_files = site.static_files | where: "schedule", true %}
 {% for sched_file in schedule_files %}
 * [{{ sched_file.name }}]({{ sched_file.path }})

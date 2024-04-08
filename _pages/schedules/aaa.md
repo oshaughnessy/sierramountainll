@@ -1,10 +1,8 @@
 ---
-title: AAA Schedules
+title: AAA Calendars
 permalink: /schedules/aaa/
 toc: false
 ---
-
-# 2024 AAA Game Schedules
 
 ## AAA Red Sox
 <iframe src="https://calendar.google.com/calendar/embed?src=l5s2gl7mcc6a8r5rpogk7c3lkf1beinm%40import.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
