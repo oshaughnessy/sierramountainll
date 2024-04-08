@@ -181,6 +181,42 @@ defaults:
       path: schedules/pdf
     values:
       schedule: true
+  - scope:
+      path: schedules/pdf/a
+    values:
+      division: a
+  - scope:
+      path: schedules/pdf/aa
+    values:
+      division: aa
+  - scope:
+      path: schedules/pdf/aaa
+    values:
+      division: aaa
+  - scope:
+      path: schedules/pdf/major
+    values:
+      division: major
+  - scope:
+      path: schedules/pdf/5070
+    values:
+      division: 5070
+  - scope:
+      path: schedules/pdf/challenger
+    values:
+      division: challenger
+  - scope:
+      path: schedules/pdf/8u
+    values:
+      division: 8u
+  - scope:
+      path: schedules/pdf/11u
+    values:
+      division: 11u
+  - scope:
+      path: schedules/pdf/15u
+    values:
+      division: 15u
 
 include: ["_pages"]
 
