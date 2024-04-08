@@ -182,6 +182,10 @@ defaults:
     values:
       schedule: true
   - scope:
+      path: schedules/pdf/tee
+    values:
+      division: tee
+  - scope:
       path: schedules/pdf/a
     values:
       division: a
