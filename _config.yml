@@ -176,6 +176,11 @@ defaults:
       sidebar:
         nav: posts
         #title: Schedules
+  # schedules
+  - scope:
+      path: schedules/pdf
+    values:
+      schedule: true
 
 include: ["_pages"]
 
