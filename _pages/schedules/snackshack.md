@@ -9,11 +9,31 @@ _The Snack Shack is SMLL's primary fundraiser!_[^sponsors]
 We work hard to keep our annual player cost as low as possible, and
 most of our fees each year get spent making the season happen:
 - uniforms
-- league fees
+- player pictures
+- Little League fees
+- team equipment (balls, catcher's gear)
 - _insurance_
 - trash service
 - field maintenance (like ground repairs after winter, upgrading school fields)
-- equipment maintenance (like the mower)
+- equipment maintenance & replacement (the mowers, chalk machines, watering system)
+- building maintenance
+- consumables (like bathroom supplies)
+- software fees (like Sports Connect)
+
+Every game costs us, too:
+- 3x game balls
+- youth umpires are paid
+- field chalk
+- so much water
+
+We're partnering with our local schools now and working to upgrade infields
+at the local elementary and junior highs:
+- bases
+- home plates
+- pitching mounds
+- dugouts
+
+All that, and we have things stolen, "borrowed", and broken every year, too.
 
 [Schedule volunteer time](https://calendly.com/sierramountainll/banana-stand)!
 
