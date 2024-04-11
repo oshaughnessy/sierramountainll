@@ -20,7 +20,7 @@ most of our fees each year get spent making the season happen:
 - consumables (like bathroom supplies)
 - software fees (like Sports Connect)
 
-Every game costs us, too:
+_Every_ game costs us, too:
 - 3x game balls
 - youth umpires are paid
 - field chalk
