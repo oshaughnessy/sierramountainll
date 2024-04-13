@@ -4,7 +4,7 @@ permalink: /schedules/snackshack/
 toc: false
 ---
 
-[Schedule volunteer time](https://calendly.com/sierramountainll/banana-stand)
+**[SCHEDULE VOLUNTEER TIME](https://calendly.com/sierramountainll/banana-stand)**
 {: .notice--info }
 
 _The Snack Shack is SMLL's primary fundraiser!_[^sponsors]
@@ -39,12 +39,12 @@ at the local elementary and junior highs:
 
 All that, and we have things stolen, "borrowed", and broken every year, too.
 
-[Schedule volunteer time](https://calendly.com/sierramountainll/banana-stand)
+**[Schedule volunteer time](https://calendly.com/sierramountainll/banana-stand)**
 {: .notice--info }
 
 <iframe src="https://calendar.google.com/calendar/embed?src=6f60778b3df080ad98af2d604252308b1d2f28a8ef389602b6ce5574dd0f02d7%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[Schedule volunteer time](https://calendly.com/sierramountainll/banana-stand)
+**[SCHEDULE VOLUNTEER TIME](https://calendly.com/sierramountainll/banana-stand)**
 {: .notice--info }
 
 
