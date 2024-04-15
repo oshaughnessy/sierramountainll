@@ -53,6 +53,7 @@ plugins:
   - jekyll-include-cache
   - jemoji
   - jekyll-timeago
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.
