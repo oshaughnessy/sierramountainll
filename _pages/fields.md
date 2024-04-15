@@ -48,7 +48,7 @@ located on the left side when parking.
 
 ### SMLL Softball Field
 
-All divisions of softball can have games sccheduled at the SMLL Softball Field,
+All divisions of softball can have games scheduled at the SMLL Softball Field,
 located on the right side when parking.
 
 Player Pitch, Coach Pitch, and Tee Ball baseball can have games at the SMLL Softball Field.
