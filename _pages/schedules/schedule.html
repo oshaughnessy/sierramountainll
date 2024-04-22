@@ -1,0 +1,158 @@
+<!-- %U to move forward on Sundays, %W to shift on Mondays -->
+{% assign cur_week = 'now' | date: "%W %z" %}
+{% assign first_week = site.first_game | date: "%W %z" %}
+{% assign season_week = cur_week | minus: first_week | modulo: 52 | plus: 1 %}
+<!-- nth-child matches later need to account for tr element,
+     so they're 1 higher than otherwise expected. -->
+{% assign schedule_active_column = season_week | plus: 0 %}
+{% assign schedule_active_week = season_week | plus: 2 %}
+
+<!--
+* cur week: {{ cur_week }}
+* first week: {{ first_week }}
+* season week: {{ season_week }}
+* active col: {{ schedule_active_column }}
+-->
+
+<style>
+/* schedule overview */
+table.schedule-overview {
+  font-size: +1em;
+  font-weight: bold;
+  width: 100%;
+}
+
+table.schedule-overview th,
+table.schedule-overview td {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+
+/* schedule key */
+
+table.schedule-key {
+  font-size: +1em;
+  width: 100%;
+}
+
+table.schedule-key th,
+table.schedule-key td {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+
+/* schedule */
+
+table.schedule {
+  font-size: +1em;
+  text-align: center;
+  scroll-snap-type: x proximity;
+}
+
+table.schedule th {
+  vertical-align: bottom;
+}
+
+table.schedule td {
+}
+
+table.schedule th:first-child,
+table.schedule td:first-child {
+  position: sticky;
+  left: 0;
+  opacity: 1;
+  background-color: #003433;
+  text-align: right;
+}
+
+table.schedule :nth-child({{ schedule_active_column }} of th)::before {
+  /* content: '\1F446';  /* finger-pointing-up */
+  /* content: '\1F447';  /* finger-pointing-down */
+  content: '\26bd';  /* soccer ball */
+  padding-right: 0.25em;
+}
+
+table.schedule :nth-child({{ schedule_active_column }} of th) {
+  font-weight: bold;
+  background-color: #1e252a;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+  scroll-snap-align: end;
+}
+
+table.schedule :nth-child({{ schedule_active_column }} of td) {
+  font-weight: bold;
+  background-color: #000000;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+  scroll-snap-align: end;
+}
+
+table.schedule tbody tr:last-child {
+  font-weight: bold;
+  background-color: #003433;
+}
+
+
+/* single-day schedule */
+
+table.week-schedule {
+  font-size: +1em;
+  text-align: center;
+}
+
+table.week-schedule td:first-child {
+  text-align: right;
+}
+
+table.week-schedule:nth-of-type({{ schedule_active_week }}) th {
+  font-weight: bold;
+  background-color: #1e252a;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+table.week-schedule:nth-of-type({{ schedule_active_week }}) td {
+  font-weight: bold;
+  background-color: #000000;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+h2.week-schedule:nth-of-type({{ schedule_active_week }})::before {
+  padding-right: 1em;
+  content: ' \1F449 ';  /* finger-pointing-right */
+}
+
+h2.week-schedule:nth-of-type({{ schedule_active_week }})::after {
+  padding-left: 0.5em;
+  content: ' \1F448 ';  /* finger-pointing-left */
+}
+
+h2.week-schedule:nth-of-type({{ schedule_active_week }}) {
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+</style>
+
+
+{% assign schedule_files = site.static_files | where: "division", page.division %}
+{% for sched_file in schedule_files %}
+* [{{ sched_file.name }}]({{ sched_file.path }})
+{% endfor %}
+
+**Please note:** The most current schedule information is in [GameChanger](https://web.gc.com).
+{:.notice--success}
+
+All Google Calendars may be a day or more out of date.
+{:.notice--warning}
+
+PDFs here will **not** have recent changes.
+{:.notice--danger}
+
+
+[^stale]: <span class="notice--warning">All Google Calendars may be a day or more out of date.</span>
+          <span class="notice--danger">PDFs here will *not* have recent changes.</span>

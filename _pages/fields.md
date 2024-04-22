@@ -61,7 +61,7 @@ Player Pitch, Coach Pitch, and Tee Ball baseball can have games at the SMLL Soft
 
 ### OCI Field #1
 
-The northern-most field at Oak Creek Intermediate School, located at the top of
+The north field at Oak Creek Intermediate School, located at the top of
 the multisport field and track, and surrounded by an outfield fence,
 may host 12U and 10U softball games. It's also suitable for baseball
 at ages when a mound is not strictly necessary.
