@@ -1,16 +1,14 @@
 ---
 title: Tee Ball Calendars
 permalink: /schedules/tee/
+categories: schedules
+breadcrumbs: true
 toc: false
 league: baseball
 division: Tee
 ---
 
 {% include_relative schedule.html league=page.league division=page.division %}
-{% assign schedule_files = site.static_files | where: "division", "tee" %}
-{% for sched_file in schedule_files %}
-* [{{ sched_file.name }}]({{ sched_file.path }})
-{% endfor %}
 
 ## Cubbies Tee Ball
 <iframe src="https://calendar.google.com/calendar/embed?src=sjl8aumktgjfstaapptdougkihouma54%40import.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

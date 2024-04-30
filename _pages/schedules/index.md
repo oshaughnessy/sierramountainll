@@ -1,6 +1,7 @@
 ---
 title: Schedules
 permalink: /schedules/
+categories: schedules
 toc: false
 ---
 

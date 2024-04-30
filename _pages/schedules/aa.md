@@ -1,17 +1,14 @@
 ---
 title: Player Pitch Calendars
 permalink: /schedules/aa/
+breadcrumbs: true
+categories: schedules
 toc: false
 league: baseball
 division: AA
 ---
 
 {% include_relative schedule.html league=page.league division=page.division %}
-
-{% assign schedule_files = site.static_files | where: "division", "aa" %}
-{% for sched_file in schedule_files %}
-* [{{ sched_file.name }}]({{ sched_file.path }})
-{% endfor %}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23039BE5&title=2024%20SMLL%20AA&src=cDg4ZmdsYXB2M3QzcWxxbm5xb3VtaDVrajl1YjN0aW9AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bDJybnNmMzVzZzhob3J1amk4bnBmbjVqcG5zaTJhOW1AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=YXVpaGE0MDBkb3FmZmNmcTllZzE1am11MG9qa2JsY3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D81B60&color=%233F51B5&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
