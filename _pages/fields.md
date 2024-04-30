@@ -7,6 +7,8 @@ toc_icon: fas fa-address-card
 toc_h_max: 2
 ---
 
+## Sierra Mountain Little League
+
 The Sierra Mountain Little League playing fields are located behind the
 Oakhurst Community Center.
 
