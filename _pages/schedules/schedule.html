@@ -1,4 +1,6 @@
 <!-- %U to move forward on Sundays, %W to shift on Mondays -->
+{% assign division = page.division | downcase %}
+{% assign league = page.league | downcase %}
 {% assign cur_week = 'now' | date: "%W %z" %}
 {% assign first_week = site.first_game | date: "%W %z" %}
 {% assign season_week = cur_week | minus: first_week | modulo: 52 | plus: 1 %}
@@ -139,7 +141,7 @@ h2.week-schedule:nth-of-type({{ schedule_active_week }}) {
 </style>
 
 
-{% assign schedule_files = site.static_files | where: "division", page.division %}
+{% assign schedule_files = site.static_files | where: "division", division %}
 {% for sched_file in schedule_files %}
 * [{{ sched_file.name }}]({{ sched_file.path }})
 {% endfor %}
