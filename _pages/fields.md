@@ -109,6 +109,23 @@ and is suitable for use by 8yo and under practices (Coach Pitch, Tee, 8U, 6U).
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2113.781931531509!2d-119.50322623620174!3d37.2268772437476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80942dff3d2045d9%3A0xd30ec8f131023039!2sNorth%20Fork%20Elementary%20School!5e1!3m2!1sen!2sus!4v1713149706300!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### Yosemite High School
+
+<div class="google-maps">
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1966.3958933282593!2d-119.63060211921!3d37.326587807610984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sYosemite%20High%20School%20softball!5e1!3m2!1sen!2sus!4v1714494168681!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+#### Varsity Softball
+
+To reach the Varsity softball field, enter campus off High School Road, drive past the Baker Swim Complex,
+and park in the dirt lot at the end of the road. Pass through the left-most fence and walk across the
+gated-off dirt lot towards the tennis courts and softball field.
+
+#### JV Softball
+
+To reach the Junior Varsity softball field, park at the dirt lot off Hangtree Lane and walk across the bridge
+to the grassy lot beyond. The field will be on your left. It is located below the football and track stadium.
+
 ## League Boundaries
 
 Our official boundary map is below. Check if your player's address
