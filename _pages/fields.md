@@ -4,6 +4,7 @@ title: SMLL Fields
 permalink: /fields/
 toc: true
 toc_icon: fas fa-address-card
+toc_h_max: 2
 ---
 
 The Sierra Mountain Little League playing fields are located behind the
