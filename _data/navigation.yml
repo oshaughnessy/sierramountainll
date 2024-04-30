@@ -24,6 +24,9 @@ main:
 - title: Resources
   url: /resources/
   description: Documents and references for further reading
+- title: Fields
+  url: /fields/
+  description: Where we play
 - title: Calendar
   url: /calendar/
   description: Key league dates and events
