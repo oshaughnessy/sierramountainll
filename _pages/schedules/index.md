@@ -15,6 +15,8 @@ Please note that the most current schedule information is only
 available in [GameChanger](https://web.gc.com). All schedules here may
 be a day or more out of date.
 
+* [Field Schedules]({% link _pages/schedules/fields.md %})
+
 ### Baseball
 
 * [Tee Ball]({% link _pages/schedules/tee.md %})
