@@ -1,7 +1,6 @@
 ---
 title: Coach Pitch Calendars
 permalink: /schedules/a/
-breadcrumbs: true
 categories: schedules
 toc: false
 league: baseball

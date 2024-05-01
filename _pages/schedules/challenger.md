@@ -1,7 +1,6 @@
 ---
 title: Challenger Baseball Calendars
 permalink: /schedules/challenger/
-breadcrumbs: true
 categories: schedules
 toc: false
 league: Baseball

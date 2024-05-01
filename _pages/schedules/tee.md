@@ -2,7 +2,6 @@
 title: Tee Ball Calendars
 permalink: /schedules/tee/
 categories: schedules
-breadcrumbs: true
 toc: false
 league: baseball
 division: Tee

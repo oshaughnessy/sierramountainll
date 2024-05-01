@@ -1,7 +1,6 @@
 ---
 title: AAA Calendars
 permalink: /schedules/aaa/
-breadcrumbs: true
 categories: schedules
 toc: false
 league: baseball

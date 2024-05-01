@@ -1,7 +1,6 @@
 ---
 title: Snack Shack Calendar
 permalink: /schedules/snackshack/
-breadcrumbs: true
 categories: schedules
 toc: false
 ---

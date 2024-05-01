@@ -1,7 +1,6 @@
 ---
 title: Player Pitch Calendars
 permalink: /schedules/aa/
-breadcrumbs: true
 categories: schedules
 toc: false
 league: baseball

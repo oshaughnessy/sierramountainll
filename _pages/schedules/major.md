@@ -1,7 +1,6 @@
 ---
 title: Major Calendars
 permalink: /schedules/major/
-breadcrumbs: true
 categories: schedules
 toc: false
 league: baseball
