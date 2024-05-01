@@ -5,9 +5,13 @@ categories: schedules
 toc: false
 ---
 
+Please note: games in the calendars below are not necessarily hosted at the SMLL fields.
+Confirm location by clicking on specific events.
+{:.notice--warning}
+
 ## Majors Field
 
-The Majors field at SMLL hosts Challenger, 50/70, Major, and AAA teams.
+The Majors field at SMLL hosts Challenger, 50/70, Major, and AAA games.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&title=SMLL%20Majors%20Field&src=azJ1cjZ2cXJsNmh2MmY4bDNwdW4za285cThlanJvOWdAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=a3JqcWZ1bDRwaTNwNXRtcGdvNzJxZmp2ZW1rcTBhZ2pAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=MjdpNXM5bWgybWtuOTBiZTJ2cTR2Z3I0bjNlbWN0dDFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bG01dDNwOGp0ZXM2dWhlZzhva21wc2EzcW51bm1hOGNAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bDVzMmdsN21jYzZhOHI1cnBvZ2s3YzNsa2YxYmVpbm1AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=dnA1Z2c2NGF2NzQwYzIwNDJuaHVkMTNlMnAwdWc2cXZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=aGZudWE0cHR0cmRwdWViZ2FmZXRjZDRnY292M29oMzVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bGMxbDQxZ25hdDk1ZGtjaDRoZTF1Y2ZkbGpydDVqM2ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OTU5ZXR2ZW5oYW9sM2U5amIzYW92NTZzcGI3cnQ0N3FAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D81B60&color=%233F51B5&color=%234285F4&color=%23A79B8E&color=%23B39DDB&color=%234285F4&color=%23009688&color=%23616161&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
