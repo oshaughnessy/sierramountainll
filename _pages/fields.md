@@ -44,6 +44,9 @@ the Community Center parking lot. Please park in the gravel parking lot only.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1397.1735439863562!2d-119.65209494103732!3d37.32692143316211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80942775cecaf907%3A0xbff16f23324289e5!2sSierra%20Mountain%20Little%20League%20Field%2C%20Cinder%20Ln%2C%20Oakhurst%2C%20CA%2093644!5e1!3m2!1sen!2sus!4v1713149606020!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+BATHROOMS: available any time there are games or practices. Coaches should unlock & lock it around activities.
+{: .notice--success }
+
 ### SMLL Majors Field
 
 All local games for Major and AAA baseball are played on the SMLL Majors field,
@@ -73,6 +76,10 @@ _More information forthcoming._
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1149.9298314082255!2d-119.64398998503307!3d37.331804696155736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8094279bc8f4c957%3A0xdc05bd8c4b33c07c!2sOak%20Creek%20Intermediate%20School!5e1!3m2!1sen!2sus!4v1713148595303!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+BATHROOMS: A port-a-potty is located between fields 2 and 3. Coaches can unlock & lock it around activities.
+{: .notice--success }
+
+
 ### OCI Field #1
 
 The north field at Oak Creek Intermediate School, located at the top of
@@ -95,11 +102,15 @@ lot between Oakhurst Elementary School and First Baptist Church.
 
 It has a very small infield and is suitable only for Tee Ball or 6U softball practices.
 
+
 ## Wasuma
 
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1054.81257670211!2d-119.7279690328804!3d37.374922172089036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80969ef21d6b8aeb%3A0xb15fb2f507fdccc1!2sWasuma%20Elementary%20School!5e1!3m2!1sen!2sus!4v1713148987690!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+BATHROOMS: Open until 7pm on weekdays, _not_ open on weekends.
+{: .notice--success }
 
 ### Wasuma Upper Field
 
@@ -115,11 +126,15 @@ and can be accessed by driving through the parking lot and following the road
 to the right of the buildings. It has no pitching mound and short baselines,
 and is suitable for use by 8yo and under practices (Coach Pitch, Tee, 8U, 6U).
 
+
 ## Yosemite High School
 
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1966.3958933282593!2d-119.63060211921!3d37.326587807610984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sYosemite%20High%20School%20softball!5e1!3m2!1sen!2sus!4v1714494168681!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+BATHROOMS: The building next to the track will be open during games.
+{: .notice--success }
 
 ### Varsity Softball
 
@@ -131,6 +146,7 @@ gated-off dirt lot towards the tennis courts and softball field.
 
 To reach the Junior Varsity softball field, park at the dirt lot off Hangtree Lane and walk across the bridge
 to the grassy lot beyond. The field will be on your left. It is located below the football and track stadium.
+
 
 ## League Boundaries
 
