@@ -27,7 +27,8 @@ be a day or more out of date.
 * [50/70]({% link _pages/schedules/5070.md %})
 * [Challenger]({% link _pages/schedules/challenger.md %})
 
-### Softball
+### [Softball]({% link _pages/schedules/softball.md %})
+
 * [8U]({% link _pages/schedules/8u.md %})
 * [11U]({% link _pages/schedules/11u.md %})
 * [15U]({% link _pages/schedules/15u.md %})
