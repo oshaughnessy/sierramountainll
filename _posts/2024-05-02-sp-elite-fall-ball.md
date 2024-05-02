@@ -3,6 +3,10 @@ title: 2024 Fall Opportunity for 9-10yo
 tag: 2024-season, fall-season, baseball, non-smll
 ---
 
+Hi, SMLL families! A coach from one of our neighbor leagues in
+Merced reached out to find some active minor-division players,
+and we're spreading the word.
+
 Will Atkinson at SP Elite is looking for around 5 players, ages 9-10,
 for a fall baseball team to play in late August through October.
 
