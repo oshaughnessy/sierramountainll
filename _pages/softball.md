@@ -1,5 +1,5 @@
 ---
-title: Fastpitch Softball at SMLL
+title: 2024 Fastpitch Softball at SMLL
 permalink: /softball/
 toc: true
 toc_icon: softball
@@ -13,7 +13,7 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes 2024 softball at SMLL.
+This page describes the 2023-2024 spring softball season at SMLL.
 For our first year, see [2023 Softball]({% link _pages/softball-2023.md %})
 
 
