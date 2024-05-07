@@ -1,6 +1,7 @@
 ---
 title: 2024 Fastpitch Softball at SMLL
 permalink: /softball/
+tag: softball, 2024-season
 toc: true
 toc_icon: softball
 toc_h_max: 3
@@ -13,7 +14,7 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes the 2023-2024 spring softball season at SMLL.
+This page describes the 2024 spring softball season at SMLL.
 For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})
 
 
@@ -157,42 +158,43 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 
 Significant dates:
 
-- March 25-April 1: MHS spring break
+- March 25-April 1: Mountain Home School (MHS) spring break
 - March 31: Easter
 - April 1-7: Chawanakee spring break
-- April 15-21: BLSD spring break
+- April 15-21: Bass Lake School District (BLSD) spring break
 - May 25-27: Memorial Day weekend
-- June 6: MHS last day of school
+- June 6: MHS & Mariposa last day of school
 - June 12: BLSD last day of school
 
 {: .notice--info }
 School Calendars: [Bass Lake School District](https://basslakeschooldistrict.com/29343_2), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
 
-### 8U: 3 teams
+
+### 8U: 4 teams
 
 Game Times: 60 minutes or 6 innings [^L]
+[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2
+[General schedule]({% link _pages/schedules/softball.md %}):
+* Tues: 5:30pm @ SMLL or OCI
+* Thurs: 5:30pm @ SMLL or OCI
+* Sat: 10am @ SMLL or OCI
 
-Date     | Day | Game |  Time    | Round | Visitor | Home
----------|-----|------|----------|-------|---------|----------
-TBD      |   - |        - |    - |     - |       - | -
-
-
-### 11U: 3 teams
-
-Game Times: 90 minutes or 6 innings [^L]
-
-Date     | Day | Game |  Time    | Round | Visitor | Home
----------|-----|------|----------|-------|---------|------
-TBD      |   - |        - |    - |     - |       - | -
-
-
-### 15U: 1 team
+### 11U: 4 teams
 
 Game Times: 90 minutes or 6 innings [^L]
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, Wasuma Upper
+[General schedule]({% link _pages/schedules/softball.md %}):
+* Tues: 6pm @ SMLL or YHS
+* Thurs: 6pm @ SMLL or YHS
+* Sat: 10am @ SMLL, YHS, or Wasuma
 
-Date     | Day | Time     | Game | Round | Visitor | Home
----------|-----|----------|------|-------|---------|------
-TBD      |   - |        - |    - |     - |       - | -
+### 15U: 2 teams
+
+Game Times: 90 minutes or 6 innings [^L]
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV
+[General schedule]({% link _pages/schedules/softball.md %}):
+* Thurs: 6pm @ SMLL or YHS
+* Sat: 10am @ SMLL or YHS
 
 [^R]: Rescheduled game
 [^M]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
