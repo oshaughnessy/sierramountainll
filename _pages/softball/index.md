@@ -14,8 +14,9 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes the 2024 spring softball season at SMLL.
-For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})
+This page describes the 2024 spring softball season at SMLL.\
+For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})\
+For next year, see [2025 Softball]({% link _pages/softball/2025.md %})
 
 
 ## Divisions
@@ -142,7 +143,7 @@ from nearest to farthest:
 ## 2024 Schedules
 
 This is a quick reference. Please see
-[published schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
+[published schedules]({% link _pages/schedules/softball.md %})
 for official times.
 
 ```
@@ -172,8 +173,8 @@ School Calendars: [Bass Lake School District](https://basslakeschooldistrict.com
 
 ### 8U: 4 teams
 
-Game Times: 60 minutes or 6 innings [^L]
-[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2
+Game Times: 60 minutes or 6 innings [^L]\
+[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 5:30pm @ SMLL or OCI
 * Thurs: 5:30pm @ SMLL or OCI
@@ -181,8 +182,8 @@ Game Times: 60 minutes or 6 innings [^L]
 
 ### 11U: 4 teams
 
-Game Times: 90 minutes or 6 innings [^L]
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, Wasuma Upper
+Game Times: 90 minutes or 6 innings [^L]\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, Wasuma Upper\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 6pm @ SMLL or YHS
 * Thurs: 6pm @ SMLL or YHS
@@ -190,8 +191,8 @@ Game Times: 90 minutes or 6 innings [^L]
 
 ### 15U: 2 teams
 
-Game Times: 90 minutes or 6 innings [^L]
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV
+Game Times: 90 minutes or 6 innings [^L]\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Thurs: 6pm @ SMLL or YHS
 * Sat: 10am @ SMLL or YHS
