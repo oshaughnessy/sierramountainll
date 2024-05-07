@@ -88,7 +88,7 @@ until a batter hits the ball into fair territory.
 
 **Ages** | 9-12
 **Ball** | 12" standard
-**Pitch Distance** | 40'
+**Pitch Distance** | 35' or 40'
 **Base Distance**  | 60'
 
 11U is our 2024 Majors division, with full Little League Majors softball rules.
@@ -112,7 +112,7 @@ their base until the next pitched ball has been released by the pitcher.
 
 **Ages** | 13-15
 **Ball** | 12" standard
-**Pitch Distance** | 43'
+**Pitch Distance** | 40' or 43'
 **Base Distance**  | 60'
 
 #### 15U Ground Rules
