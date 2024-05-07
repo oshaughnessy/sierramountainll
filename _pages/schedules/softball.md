@@ -1,10 +1,10 @@
 ---
 title: Softball Calendars
-permalink: /schedules/15u/
+permalink: /schedules/
 categories: schedules softball
 toc: false
 league: softball
-division: 15U
+tag: softball
 ---
 
 ## All Softball Teams
