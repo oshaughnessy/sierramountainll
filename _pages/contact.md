@@ -24,8 +24,8 @@ Oakhurst, California  93644<br />
 
 The Sierra Mountain Little League Board of Directors includes the following volunteers:
 
-* Scott Michel, _President_
-* Mike DePastene, _Treasurer, <span class=baseball>Baseball Player Agent</span>_
+* Scott Michel, _President_, _Treasurer_
+* Mike DePastene, <span class=baseball>Baseball Player Agent</span>_
 * Tom Burdette, _Umpire in Chief_
 * Heather Aleshire, _Fundraising_
 * Heather Skelton, _Safety Coordinator_
@@ -36,7 +36,7 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 
 ### Open Positions
 
-* Treasurer
+* Schedule Coordinator
 * <span class=baseball>Baseball Player Agent</span>
 * Area Representatives/Coach Coordinators
 
