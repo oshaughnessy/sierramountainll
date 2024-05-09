@@ -1,6 +1,6 @@
 ---
 title: Softball Calendars
-permalink: /schedules/
+permalink: /schedules/softball/
 categories: schedules softball
 toc: false
 league: softball
