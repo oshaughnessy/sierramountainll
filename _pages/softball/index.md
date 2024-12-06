@@ -14,18 +14,49 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes the 2024 spring softball season at SMLL.\
+This page describes the 2025 spring softball season at SMLL.\
 For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})\
-For next year, see [2025 Softball]({% link _pages/softball/2025.md %})
+For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %})
 
 
 ## Divisions
 
+### 6U/Coach Pitch/Minors
+{: .softball}
+
+**Ages** | 5-6 (in general)
+**Ball** | 11" soft/reduced impact force
+**Pitch Distance** | 25'
+**Base Distance**  | 60'
+
+6U is our learning division where the youngest girls have a chance to
+discover the fundamentals of playing the game. They'll learn how to throw,
+catch, run the bases, and hit. Players should spend a season in tee ball
+before joining softball.
+
+This is strictly a coach-pitch division. Coaches will throw to their own
+players.
+
+PLEASE NOTE: The rules below are a work in progress. We may revise them as we
+go through the 2023 season.
+{: .notice--warning }
+
+#### 6U Ground Rules
+
+- Only 1 extra base on an overthrow
+- No stealing
+- Parent or coach as umpire
+- Defensive coaches are allowed and encouraged to be on the field during game play
+  to instruct their players
+- Batters may use a tee at the coach's discretion, but it is not encouraged.
+  Players should be learning to hit a thrown pitch.
+
+
 ### 8U/Player Pitch/Minors
 {: .softball}
 
-**Ages** | 6-8 (in general)
-**Ball** | 11" soft/reduced impact force
+**Ages** | 7-8 (in general)
+**Ball** | 11" soft/reduced impact force to 11" hard
 **Pitch Distance** | 25'
 **Base Distance**  | 60'
 
@@ -40,7 +71,7 @@ will throw for their own teammates. In the final 1/3, competitors will pitch
 against the other team.
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
-go through the 2024 season.
+go through the season.
 {: .notice--warning }
 
 #### 8U Ground Rules
@@ -85,17 +116,47 @@ Once a ball is in the pitcher's control, a runner may not leave their base
 until a batter hits the ball into fair territory.
 
 
-### 11U/Majors
+### 10U/Minors AAA
 {: .softball}
 
-**Ages** | 9-12
-**Ball** | 12" standard
-**Pitch Distance** | 35' or 40'
+**Ages** | 9-10
+**Ball** | 11" standard softball
+**Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-11U is our 2024 Majors division, with full Little League Majors softball rules.
+10U is our transition division, where girls begin to play strictly by
+the rules of softball.
 
-#### 11U Ground Rules
+#### 10U Ground Rules
+
+- Parent or coach may serve as umpire if no official is available
+- 5 run limit per team per inning
+
+#### 10U Pitching
+
+- **Defense will pitch to opposing players**
+- After 5 walked batters, player pitching should rotate out
+
+#### 10U Stealing
+
+Stealing rules follow those of regular Little League Minors softball.
+
+Once a ball is under the control of the pitcher, runners may not
+leave their base until the next pitch is thrown and the ball reaches
+the batter.
+
+
+### 12U/Majors
+{: .softball}
+
+**Ages** | 11-12
+**Ball** | 12" standard
+**Pitch Distance** | 40'
+**Base Distance**  | 60'
+
+12U is our Majors division, with full Little League Majors softball rules.
+
+#### 12U Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 - 5 run limit per team per inning
@@ -140,50 +201,58 @@ from nearest to farthest:
 [Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
 
 
-## 2024 Schedules
+## 2025 Schedules
 
 This is a quick reference. Please see
-[published schedules]({% link _pages/schedules/softball.md %})
+[published schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
 for official times.
 
 ```
-     March 2024            April 2024             May 2024
+     March 2025            April 2025             May 2025
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-                1  2      1  2  3  4  5  6            1  2  3  4
- 3  4  5  6  7  8  9   7  8  9 10 11 12 13   5  6  7  8  9 10 11
-10 11 12 13 14 15 16  14 15 16 17 18 19 20  12 13 14 15 16 17 18
-17 18 19 20 21 22 23  21 22 23 24 25 26 27  19 20 21 22 23 24 25
-24 25 26 27 28 29 30  28 29 30              26 27 28 29 30 31
-31
+                   1         1  2  3  4  5               1  2  3
+ 2  3  4  5  6  7  8   6  7  8  9 10 11 12   4  5  6  7  8  9 10
+ 9 10 11 12 13 14 15  13 14 15 16 17 18 19  11 12 13 14 15 16 17
+16 17 18 19 20 21 22  20 21 22 23 24 25 26  18 19 20 21 22 23 24
+23 24 25 26 27 28 29  27 28 29 30           25 26 27 28 29 30 31
+30 31
 ```
 
 Significant dates:
 
-- March 25-April 1: Mountain Home School (MHS) spring break
-- March 31: Easter
-- April 1-7: Chawanakee spring break
-- April 15-21: Bass Lake School District (BLSD) spring break
-- May 25-27: Memorial Day weekend
-- June 6: MHS & Mariposa last day of school
-- June 12: BLSD last day of school
+- TBD: Mountain Home School (MHS) spring break
+- TBD: Easter
+- TBD: Chawanakee spring break
+- TBD: Bass Lake School District (BLSD) spring break
+- TBD: Memorial Day weekend
+- TBD: MHS & Mariposa last day of school
+- TBD: BLSD last day of school
 
 {: .notice--info }
 School Calendars: [Bass Lake School District](https://basslakeschooldistrict.com/29343_2), [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
 
-
 ### 8U: 4 teams
 
 Game Times: 60 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2\
+[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, North Fork Elementary\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 5:30pm @ SMLL or OCI
 * Thurs: 5:30pm @ SMLL or OCI
 * Sat: 10am @ SMLL or OCI
 
-### 11U: 4 teams
+### 10U: 5 teams
 
 Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, Wasuma Upper\
+[Locations]({% link _pages/fields.md %}): SMLL softball, North Fork Elementary, OCI Field 1, Wasuma Upper\
+[General schedule]({% link _pages/schedules/softball.md %}):
+* Tues: 6pm @ SMLL or OCI
+* Thurs: 6pm @ SMLL or OCI
+* Sat: 10am @ SMLL, YHS, or Wasuma
+
+### 12U: 5 teams
+
+Game Times: 90 minutes or 6 innings [^L]\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, North Fork Elementary, OCI Field 1, Wasuma Upper\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 6pm @ SMLL or YHS
 * Thurs: 6pm @ SMLL or YHS
@@ -192,10 +261,11 @@ Game Times: 90 minutes or 6 innings [^L]\
 ### 15U: 2 teams
 
 Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, North Fork Elementary, OCI Field 1, Wasuma Upper\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Thurs: 6pm @ SMLL or YHS
 * Sat: 10am @ SMLL or YHS
+
 
 [^R]: Rescheduled game
 [^M]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
