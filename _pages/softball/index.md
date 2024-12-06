@@ -38,7 +38,7 @@ This is strictly a coach-pitch division. Coaches will throw to their own
 players.
 
 PLEASE NOTE: The rules below are a work in progress. We may revise them as we
-go through the 2023 season.
+go through the season.
 {: .notice--warning }
 
 #### 6U Ground Rules
