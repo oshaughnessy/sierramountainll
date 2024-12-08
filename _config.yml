@@ -245,6 +245,8 @@ lunr:
 
 # what's the date in the current year of our first game?
 first_game: 9/17
+# what's the season for the current year
+season_year: 2025
 
 jekyll_timeago:
   depth: 1
