@@ -31,10 +31,10 @@ Registration for 2025 baseball & softball is open!
 
 Signing up early helps us plan better for the spring and gets you a $25 discount per player.
 
-| Early Bird Registration | Regular Registration | Assessment | Opening Day | Picture Day | Closing Day
-|                         |                      | By Age     |             |             |
+| Early Bird Registration | Regular Registration | Assessment    | Opening Day   | Picture Day   | Closing Day
+|                         |                      | By Age        |               |               |
 |----
-| Dec 8 - Jan 31          | Feb 1 - Mar 15       | TBD        | TBD (Mar/Apr) | TBD (April) | Early June
+| Dec 8 - Jan 31          | Feb 1 - Mar 15       | TBD (Feb/Mar) | TBD (Mar/Apr) | TBD (Apr/May) | Early June
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
