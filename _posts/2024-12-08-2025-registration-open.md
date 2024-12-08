@@ -1,9 +1,9 @@
 ---
-title: Spring 2025 registration is open
+title: Spring 2025 registration
 tag: 2025-season signup
 ---
 
-[Registration for 2025 is open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}
+[Signups for 2025 are open!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}
 
 We've updated our rates for this year:
 
