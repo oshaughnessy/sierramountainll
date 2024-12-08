@@ -67,9 +67,9 @@ year preceding the season. In other words, how old were they last Dec 31?
 
 In the first year of SMLL softball, 2023, we used age-based divisions
 to align with nearby fastpitch youth leagues that use softball's
-more conventional 2-year groupings. We expanding each division in 2024
+more conventional 2-year groupings. We expanded each division in 2024
 to create larger Minor and Major divisions and facilitate a strong Junior
-team.
+team. We returned to 2-year groups in 2024.
 
 ### 2025
 
