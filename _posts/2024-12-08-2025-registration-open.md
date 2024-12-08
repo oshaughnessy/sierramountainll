@@ -8,11 +8,14 @@ tag: 2025-season signup
 We've updated our rates for this year.
 
 _No more volunteer deposit._
+
 Tee ball is $100.
+
 Young minors divisions are $125.
+
 Older divisions are $150.
 
-$25 early-bird discount is available through January.
+**$25 early-bird discount is available through January.Z**
 
 Wondering what division to sign up for? After you log in to the registration site
 and fill out your child's basic information, you'll be offered appropriate choices
