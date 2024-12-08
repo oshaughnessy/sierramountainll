@@ -215,9 +215,13 @@ defaults:
     values:
       division: 8u
   - scope:
-      path: schedules/pdf/11u
+      path: schedules/pdf/10u
     values:
-      division: 11u
+      division: 10u
+  - scope:
+      path: schedules/pdf/12u
+    values:
+      division: 12u
   - scope:
       path: schedules/pdf/15u
     values:
