@@ -8,8 +8,8 @@ tag: 2025-season signup
 We've updated our rates for this year.
 
 Tee ball is $100.<br />
-Young minors divisions are $125.<br />
-Older divisions are $150.<br />
+Young minors divisions are $125 _(coach & player pitch baseball; 6U & 8U fastpitch)_.<br />
+Older divisions are $150 _(AAA, Majors, 50/70 baseball; 10U, 12U, 14U fastpitch)_.<br />
 
 _No more volunteer deposit._<br />
 **$25 early-bird discount is available through January.**
