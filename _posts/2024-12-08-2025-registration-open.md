@@ -16,5 +16,5 @@ _No more volunteer deposit._<br />
 
 Wondering what division to sign up for? After you log in to the registration site
 and fill out your child's basic information, you'll be offered appropriate choices
-for them. Our [League Age &amp; Divisions post]({{ site.baseurl }}/2023/01/18/league-age/)
+for them. Our [League Age &amp; Divisions post]({% post_url 2023-01-18-league-age %})
 gives a short overview of how we separate age groups into divisions here at SMLL.
