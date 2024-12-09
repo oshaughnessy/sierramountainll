@@ -27,7 +27,7 @@ header:
 
 ## 2025 Season Dates
 
-### <<<< Registration for 2025 baseball & softball is open >>>> ###
+### <<<< You can register now for 2025 baseball & softball >>>> ###
 
 Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
