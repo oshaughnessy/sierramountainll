@@ -3,8 +3,11 @@ title: Spring 2025 registration
 tag: 2025-season signup
 ---
 
-[Sign Up Today!](https://www.sierramountainll.com/Default.aspx?tabid=890579){:target="_blank"}
-{: .align-right .half-width .btn .btn--success .btn--light-outline }
+<a href="https://www.sierramountainll.com/Default.aspx?tabid=890579"
+   class="align-right half-width btn btn--success btn--light-outline btn--large"
+   target="_blank">
+Sign Up Today!
+</a>
 
 We've updated our rates for this year:
 

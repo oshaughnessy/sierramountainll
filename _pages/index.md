@@ -28,9 +28,9 @@ header:
 ## 2025 Season Dates
 
 <a href="https://www.sierramountainll.com/Default.aspx?tabid=890579"
-   class="align-right half-width btn btn--success btn--light-outline"
+   class="align-right half-width btn btn--success btn--large btn--light-outline"
    target="_blank">
-<< << Register Now >> >><br />
+<u>Register Now</u><br />
 Baseball + Softball + Challenger
 </a>
 
