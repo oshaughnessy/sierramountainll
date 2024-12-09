@@ -27,9 +27,9 @@ header:
 
 ## 2025 Season Dates
 
-Registration for 2025 baseball & softball is open!
+### <<<< Registration for 2025 baseball & softball is open >>>> ###
 
-Signing up early helps us plan better for the spring and gets you a $25 discount per player.
+Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
 | Early Bird Registration | Regular Registration | Assessment    | Opening Day   | Picture Day   | Closing Day
 |                         |                      | By Age        |               |               |
