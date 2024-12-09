@@ -27,7 +27,12 @@ header:
 
 ## 2025 Season Dates
 
-### <span class="notice--success"><<<< [Register Now](https://www.sierramountainll.com/Default.aspx?tabid=890579) for baseball, softball, & Challenger >>>></span>
+<a href="https://www.sierramountainll.com/Default.aspx?tabid=890579"
+   class="align-right half-width btn btn--success btn--light-outline"
+   target="_blank">
+<< << Register Now >> >><br />
+Baseball + Softball + Challenger
+</a>
 
 Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
