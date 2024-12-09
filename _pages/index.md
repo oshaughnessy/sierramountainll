@@ -31,8 +31,7 @@ header:
 
 Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
-| Early Bird Registration | Regular Registration | Assessment    | Opening Day   | Picture Day   | Closing Day
-|                         |                      | By Age        |               |               |
+| Early Bird Registration | Regular Registration | Assessments   | Opening Day   | Picture Day   | Closing Day
 |----
 | Dec 8 - Jan 31          | Feb 1 - Mar 15       | TBD (Feb/Mar) | TBD (Mar/Apr) | TBD (Apr/May) | Early June
 {: .align-top }
