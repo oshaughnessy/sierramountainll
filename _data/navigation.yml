@@ -74,8 +74,8 @@ posts:
   url: /tags/
 
 resources:
-- title: "Schedules"
-  url: /schedules/
+#- title: "Schedules"
+#  url: /schedules/
 - title: "Registration"
   url: https://www.sierramountainll.com/Default.aspx?tabid=890579
   #icon: fas fa-baseball-ball
