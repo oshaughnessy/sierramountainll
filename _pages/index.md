@@ -27,7 +27,7 @@ header:
 
 ## 2025 Season Dates
 
-### <<<< You can register now for 2025 baseball & softball >>>> ###
+### <<<< You can [register now](https://www.sierramountainll.com/Default.aspx?tabid=890579) for 2025 baseball & softball >>>> ###
 
 Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
