@@ -21,8 +21,8 @@ We've updated our rates for this year:
 **$25 early-bird discount is available through January.**<br />
 _No more volunteer deposit._<br />
 
-Wondering what division to sign up for? After you fill out your player's basic info, you'll see choices
-appropriate for them.
+Wondering what division to sign up for? After you fill out your player's basic info, you'll only
+see age-appropriate choices for them.
 
 Our [League Age &amp; Divisions post]({% post_url 2023-01-18-league-age %}) gives a short overview
 of how we break out age groups here at SMLL.
