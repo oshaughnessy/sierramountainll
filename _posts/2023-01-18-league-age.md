@@ -60,7 +60,7 @@ in the current season's year.
 | 50/70                 | 13-11 years old   
 
 Please Note: Baseball players league-age 8 and over are required to try out.
-{: .notice}
+{: .notice--warning}
 
 
 ## <span class="softball">Softball</span>
@@ -86,7 +86,7 @@ team. We returned to 2-year groups in 2024.
 | 15U (Junior)              | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
 
 Please Note: Softball players age 8 and above must attend a player tryout/evaluation.
-{: .notice}
+{: .notice--warning}
 
 [^SB12]: 12-year-olds may dual-roster in both Major and Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
