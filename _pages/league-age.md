@@ -85,7 +85,7 @@ Please Note: Softball players age 8 and above must attend a player tryout/evalua
 In the first year of SMLL softball, 2023, we used age-based divisions
 to align with nearby fastpitch youth leagues that use softball's
 more conventional 2-year groupings. In 2024, we expanded to 3-year groups
-to create get more teams and improve competition, and to launch our new
+to create more teams and improve competition, and to launch our new
 Junior division. In 2025, we returned to 2-year groups.
 {: .notice--info}
 
