@@ -71,14 +71,6 @@ Please Note: Baseball players league-age 8 and over are required to try out.
 A player's "league age" for softball is the age they were at the end of the 
 year preceding the season. In other words, how old were they last Dec 31?
 
-In the first year of SMLL softball, 2023, we used age-based divisions
-to align with nearby fastpitch youth leagues that use softball's
-more conventional 2-year groupings. We expanded each division in 2024
-to create larger Minor and Major divisions and facilitate a strong Junior
-team. We returned to 2-year groups in 2024.
-
-### 2025
-
 | Division                 -| League Age Range | Birth Years
 |---------------------------|------------------|------------
 | 6U (Coach Pitch)          | 6-5              | {{sb_6y}}-{{sb_5y}}
@@ -90,27 +82,18 @@ team. We returned to 2-year groups in 2024.
 Please Note: Softball players age 8 and above must attend a player tryout/evaluation.
 {: .notice--warning}
 
+In the first year of SMLL softball, 2023, we used age-based divisions
+to align with nearby fastpitch youth leagues that use softball's
+more conventional 2-year groupings. In 2024, we expanded to 3-year groups
+to create get more teams and improve competition, and to launch our new
+Junior division. In 2025, we returned to 2-year groups.
+{: .notice--info}
+
+
 [^SB12]: 12-year-olds may dual-roster in both Major and Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
 [^SBT]: aligns with the age range for a Little League softball tournament division
 
-### 2024
-
-| Division                -| League Age Range | Birth Years
-|--------------------------|------------------|------------
-| 6U (Minor Coach Pitch)   | 6-5              | {{sb_6y}}-{{sb_5y}}
-| 9U (Minor Player Pitch)  | 9-7              | {{sb_9y}}-{{sb_7y}}
-| 12U (Major)              | 12-10 [^SB12]    | {{sb_12y}}-{{sb_10y}} [^SBT]
-| 15U (Junior)             | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}} [^SBT]
-
-### 2023
-
-| Division                  -| League Age Range
-|----------------------------|-----------------
-| 6U (Coach Pitch)           | 6-5
-| 8U (Coach & Player Pitch)  | 8-7
-| 10U                        | 10-9
-| 12U (Major)                | 12-11
 
 ## <span class="challenger">Challenger</span>
 {: .challenger}
