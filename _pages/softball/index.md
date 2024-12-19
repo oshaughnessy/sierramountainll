@@ -223,7 +223,7 @@ Significant 2025 dates:
 - Apr 13-20: Bass Lake School District (BLSD) spring break
 - Apr 13-20: Mountain Home School (MHS) spring break
 - Apr 13-20: Chawanakee Unified (CUSD) spring break
-- Apr 13-20: Yosemite Unified (CUSD) spring break
+- Apr 13-20: Yosemite Unified (YUSD) spring break
 - Apr 20-20: Mariposa Unified (MUSD) spring break
 - Apr 20: Easter
 - May 26: Memorial Day weekend
