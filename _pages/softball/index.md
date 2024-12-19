@@ -218,28 +218,6 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 30 31
 ```
 
-Significant 2025 dates:
-
-- Apr 13-20: Bass Lake School District (BLSD) spring break
-- Apr 13-20: Mountain Home School (MHS) spring break
-- Apr 13-20: Chawanakee Unified (CUSD) spring break
-- Apr 13-20: Yosemite Unified (YUSD) spring break
-- Apr 20-20: Mariposa Unified (MUSD) spring break
-- Apr 20: Easter
-- May 26: Memorial Day weekend
-- Jun 6: MUSD last day of school
-- Jun 10-12: YUSD last days of school
-- Jun 11: MHS last day of school
-- Jun 12: BLSD last day of school
-- Jun 13: CUSD last day of school
-
-{: .notice--info }
-School Calendars:
- [Bass Lake School District](https://basslakeschooldistrict.com/29343_2),
- [Chawanakee Unified School District](https://www.chawanakee.k12.ca.us/apps/pages/index.jsp?uREC_ID=2553517&type=d&pREC_ID=2255312),
- [Mariposa Unified School Distrct](https://www.mcusd.org/District/1465-2023-24-School-Year-Calendars.html)
- [Mountain Home School](https://www.wscsfamily.org/wscs-calendar.html)
- [Yosemite Unified School District](https://coarsegold.yosemiteusd.com/apps/pages/index.jsp?uREC_ID=4375480&type=d&pREC_ID=2577912)
 
 ### 8U: 4 teams
 
