@@ -18,6 +18,9 @@ This page describes the 2025 spring softball season at SMLL.\
 For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})\
 For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %})
 
+PLEASE NOTE: The rules below are a work in progress until pre-season planning
+is complete at the end of signups.
+{: .notice--warning }
 
 ## Divisions
 
@@ -36,10 +39,6 @@ before joining softball.
 
 This is strictly a coach-pitch division. Coaches will throw to their own
 players.
-
-PLEASE NOTE: The rules below are a work in progress. We may revise them as we
-go through the season.
-{: .notice--warning }
 
 #### 6U Ground Rules
 
@@ -69,10 +68,6 @@ This is a coach-to-player pitch division. In the 1st 1/3 of the season,
 coaches or a machine will throw pitches to batters. In the 2nd 1/3, players
 will throw for their own teammates. In the final 1/3, competitors will pitch
 against the other team.
-
-PLEASE NOTE: The rules below are a work in progress. We may revise them as we
-go through the season.
-{: .notice--warning }
 
 #### 8U Ground Rules
 
