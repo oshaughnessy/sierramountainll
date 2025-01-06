@@ -73,20 +73,21 @@ year preceding the season. In other words, how old were they last Dec 31?
 
 | Division                 -| League Age Range | Birth Years
 |---------------------------|------------------|------------
-| 6U (Coach Pitch)          | 6-5              | {{sb_6y}}-{{sb_5y}}
-| 8U (Coach & Player Pitch) | 8-7              | {{sb_8y}}-{{sb_7y}}
+| 6U (Minor Coach Pitch)    | 6-5              | {{sb_6y}}-{{sb_5y}}
+| 8U (Minor Player Pitch)   | 8-7              | {{sb_8y}}-{{sb_7y}}
 | 10U (Minor Player Pitch)  | 10-9             | {{sb_10y}}-{{sb_9y}}
 | 12U (Major)               | 12-11 [^SB12]    | {{sb_12y}}-{{sb_11y}}
 | 15U (Junior)              | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
 
-Please Note: Softball players age 8 and above must attend a player tryout/evaluation.
+Please Note: All softball players must attend a player tryout/evaluation.
 {: .notice--warning}
 
 In the first year of SMLL softball, 2023, we used age-based divisions
 to align with nearby fastpitch youth leagues that use softball's
 more conventional 2-year groupings. In 2024, we expanded to 3-year groups
 to create more teams and improve competition, and to launch our new
-Junior division. In 2025, we returned to 2-year groups.
+Junior division. In 2025, we will try to find the right balance between
+2-year age groups and Little League's traditional divisions.
 {: .notice--info}
 
 

@@ -56,7 +56,7 @@ players.
 
 **Ages** | 7-8 (in general)
 **Ball** | 11" soft/reduced impact force to 11" hard
-**Pitch Distance** | 30'
+**Pitch Distance** | 35'
 **Base Distance**  | 60'
 
 8U is a learning division where young girls with some experience and
