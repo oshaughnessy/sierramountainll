@@ -64,8 +64,10 @@ growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
 
-This is a player pitch division, but with accommodations for brand new
-pitchers.
+This is a player pitch division.  Coaches should begin teaching girls to
+throw a fastpitch from the very beginning of the season, and teams should
+approach early games with extra patience as all teams will be developing brand
+new pitchers.
 
 #### 8U Ground Rules
 
