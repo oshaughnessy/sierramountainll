@@ -56,7 +56,7 @@ players.
 
 **Ages** | 7-8 (in general)
 **Ball** | 11" soft/reduced impact force to 11" hard
-**Pitch Distance** | 25'
+**Pitch Distance** | 30'
 **Base Distance**  | 60'
 
 8U is a learning division where young girls with some experience and
@@ -64,10 +64,8 @@ growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
 
-This is a coach-to-player pitch division. In the 1st 1/3 of the season,
-coaches or a machine will throw pitches to batters. In the 2nd 1/3, players
-will throw for their own teammates. In the final 1/3, competitors will pitch
-against the other team.
+This is a player pitch division, but with accommodations for brand new
+pitchers.
 
 #### 8U Ground Rules
 
@@ -80,26 +78,13 @@ against the other team.
 
 #### 8U Pitching
 
-1st third of the season:
-- **Coaches will pitch to their own players**
-- Coaches may throw from a standing position or sitting on a ball bucket
-
-2nd third of the season:
-- **Offense will pitch to their own players**
-- 5 balls per batter
-- 3 strikes per batter
-- After 3 walked batters, player pitching should rotate out
-
-3rd third of the season:
 - **Defense will pitch to opposing players**
 - 5 balls per batter
 - 3 strikes per batter
-- After 3 walked batters, player pitching should rotate out
-
-All season:
 - 8 pitches max per hitter
 - Batters can run when fouling off a 3rd-strike hit
 - No outs are called on a 3rd strike; player simply returns to the dugout
+- After 3 walked batters, player pitching should rotate out
 - Half-inning ends when all players have played through the lineup, defense
   causes 3 fielded outs, or 5 runs are scored
 
