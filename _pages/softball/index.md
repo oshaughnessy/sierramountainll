@@ -29,7 +29,7 @@ is complete at the end of signups.
 
 **Ages** | 5-6 (in general)
 **Ball** | 11" soft/reduced impact force
-**Pitch Distance** | 25'
+**Pitch Distance** | _Coach's discretion_
 **Base Distance**  | 60'
 
 6U is our learning division where the youngest girls have a chance to
@@ -157,7 +157,7 @@ their base until the next pitched ball has been released by the pitcher.
 
 **Ages** | 13-15
 **Ball** | 12" standard
-**Pitch Distance** | 40' or 43'
+**Pitch Distance** | 43'
 **Base Distance**  | 60'
 
 #### 15U Ground Rules
