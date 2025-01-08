@@ -24,37 +24,10 @@ is complete at the end of signups.
 
 ## Divisions
 
-### 6U/Coach Pitch/Minors
+### 8U/Minors Player Pitch
 {: .softball}
 
-**Ages** | 5-6 (in general)
-**Ball** | 11" soft/reduced impact force
-**Pitch Distance** | _Coach's discretion_
-**Base Distance**  | 60'
-
-6U is our learning division where the youngest girls have a chance to
-discover the fundamentals of playing the game. They'll learn how to throw,
-catch, run the bases, and hit. Players should spend a season in tee ball
-before joining softball.
-
-This is strictly a coach-pitch division. Coaches will throw to their own
-players.
-
-#### 6U Ground Rules
-
-- Only 1 extra base on an overthrow
-- No stealing
-- Parent or coach as umpire
-- Defensive coaches are allowed and encouraged to be on the field during game play
-  to instruct their players
-- Batters may use a tee at the coach's discretion, but it is not encouraged.
-  Players should be learning to hit a thrown pitch.
-
-
-### 8U/Player Pitch/Minors
-{: .softball}
-
-**Ages** | 7-8 (in general)
+**Ages** | 6-8
 **Ball** | 11" soft/reduced impact force to 11" hard
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
@@ -63,6 +36,11 @@ players.
 growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
+
+6-year-olds should have spent a season in tee ball before joining softball.
+Otherwise, we encourage them to play tee ball or coach-pitch baseball first.
+They will need to attend an assessment day and have coach approval before
+joining 8U.
 
 This is a player pitch division.  Coaches should begin teaching girls to
 throw a fastpitch from the very beginning of the season, and teams should
@@ -80,7 +58,6 @@ new pitchers.
 
 #### 8U Pitching
 
-- **Defense will pitch to opposing players**
 - 5 balls per batter
 - 3 strikes per batter
 - 8 pitches max per hitter
@@ -116,7 +93,6 @@ the rules of softball.
 
 #### 10U Pitching
 
-- **Defense will pitch to opposing players**
 - After 5 walked batters, player pitching should rotate out
 
 #### 10U Stealing
@@ -204,7 +180,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ### 8U: 4 teams
 
 Game Times: 60 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, North Fork Elementary\
+[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, YLL\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 5:30pm @ SMLL or OCI
 * Thurs: 5:30pm @ SMLL or OCI
@@ -213,7 +189,7 @@ Game Times: 60 minutes or 6 innings [^L]\
 ### 10U: 5 teams
 
 Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, North Fork Elementary, OCI Field 1, Wasuma Upper\
+[Locations]({% link _pages/fields.md %}): SMLL softball, OCI Field 1, YLL\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 6pm @ SMLL or OCI
 * Thurs: 6pm @ SMLL or OCI
@@ -222,7 +198,7 @@ Game Times: 90 minutes or 6 innings [^L]\
 ### 12U: 5 teams
 
 Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, North Fork Elementary, OCI Field 1, Wasuma Upper\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Tues: 6pm @ SMLL or YHS
 * Thurs: 6pm @ SMLL or YHS
@@ -231,7 +207,7 @@ Game Times: 90 minutes or 6 innings [^L]\
 ### 15U: 2 teams
 
 Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, North Fork Elementary, OCI Field 1, Wasuma Upper\
+[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
 [General schedule]({% link _pages/schedules/softball.md %}):
 * Thurs: 6pm @ SMLL or YHS
 * Sat: 10am @ SMLL or YHS
