@@ -46,6 +46,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 30 31
 ```
 
+- **Feb 17-21:** President's Week break
 - **Apr 13-20:** Bass Lake School District (BLSD) spring break
 - **Apr 13-20:** Mountain Home School (MHS) spring break
 - **Apr 13-20:** Chawanakee Unified (CUSD) spring break

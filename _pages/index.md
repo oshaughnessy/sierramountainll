@@ -38,7 +38,7 @@ Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 
 | Early Bird Registration | Regular Registration | Assessments   | Opening Day   | Picture Day   | Closing Day
 |----
-| Dec 8 - Jan 31          | Feb 1 - Mar 15       | TBD (Feb/Mar) | TBD (Mar/Apr) | TBD (Apr/May) | Early June
+| Dec 8 - Jan 31          | Feb 1 - Mar 15       | Feb 15        | Mar 29 (tentative) | TBD (Apr/May) | June 1
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
