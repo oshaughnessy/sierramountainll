@@ -122,7 +122,6 @@ to which that runner is entitled until the ball has been batted or reaches the b
 #### 12U Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- 5 run limit per team per inning
 
 
 #### 12U Stealing
@@ -149,7 +148,6 @@ is entitled until the ball has been released by the pitcher on the delivery."
 #### 15U Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- 5 run limit per team per inning
 
 
 ## Nearby Leagues
