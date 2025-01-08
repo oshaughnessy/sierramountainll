@@ -37,15 +37,16 @@ growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
 
-6-year-olds should have spent a season in tee ball before joining softball.
-Otherwise, we encourage them to play tee ball or coach-pitch baseball first.
-They will need to attend an assessment day and have coach approval before
-joining 8U.
-
 This is a player pitch division.  Coaches should begin teaching girls to
 throw a fastpitch from the very beginning of the season, and teams should
 approach early games with extra patience as all teams will be developing brand
 new pitchers.
+
+6-year-olds should have spent a season in tee ball before joining softball.
+Otherwise, we encourage them to play tee ball or coach-pitch baseball first.
+They will need to attend an assessment day and have coach approval before
+joining 8U.
+{: .notice--success}
 
 #### 8U Ground Rules
 
