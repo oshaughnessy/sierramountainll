@@ -147,6 +147,8 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 #### 15U Ground Rules
 
+- 40 foot pitch distance may be used if a pitching mound is available
+  at 40 feet and not 43 feet
 - Parent or coach may serve as umpire if no official is available
 
 
