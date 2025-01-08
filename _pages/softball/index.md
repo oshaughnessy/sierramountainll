@@ -124,7 +124,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 - Parent or coach may serve as umpire if no official is available
 
 
-#### 12U Stealing
+#### 12U+ Stealing
 
 Stealing rules follow those of regular Little League Majors softball:
 stay on base until the ball leaves the pitcher's hand. In the rulebook's words:
