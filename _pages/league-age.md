@@ -73,8 +73,7 @@ year preceding the season. In other words, how old were they last Dec 31?
 
 | Division                 -| League Age Range | Birth Years
 |---------------------------|------------------|------------
-| 6U (Minor Coach Pitch)    | 6-5              | {{sb_6y}}-{{sb_5y}}
-| 8U (Minor Player Pitch)   | 8-7              | {{sb_8y}}-{{sb_7y}}
+| 8U (Minor Player Pitch)   | 8-6              | {{sb_8y}}-{{sb_6y}}
 | 10U (Minor Player Pitch)  | 10-9             | {{sb_10y}}-{{sb_9y}}
 | 12U (Major)               | 12-11 [^SB12]    | {{sb_12y}}-{{sb_11y}}
 | 15U (Junior)              | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
