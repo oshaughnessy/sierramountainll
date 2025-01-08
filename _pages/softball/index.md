@@ -99,10 +99,14 @@ the rules of softball.
 #### 10U Stealing
 
 Stealing rules follow those of regular Little League Minors softball.
+Essentially, don't lead off until the ball reaches the batter.
+In the rulebook's words:
 
-Once a ball is under the control of the pitcher, runners may not
-leave their base until the next pitch is thrown and the ball reaches
-the batter.
+[Rule 7.08(a)(5)(b)](https://www.littleleague.org/app/Rulebook/2/162)
+**Minor League:**<br />
+"Any runner is out when... the runner fails to keep in contact with the base
+to which that runner is entitled until the ball has been batted or reaches the batter."
+{: .notice--info }
 
 
 ### 12U/Majors
@@ -121,12 +125,17 @@ the batter.
 - 5 run limit per team per inning
 
 
-#### Stealing
+#### 12U Stealing
 
-Stealing rules follow those of regular Little League Majors softball.
+Stealing rules follow those of regular Little League Majors softball:
+stay on base until the ball leaves the pitcher's hand. In the rulebook's words:
 
-Once a ball is under the control of the pitcher, runners may not leave
-their base until the next pitched ball has been released by the pitcher.
+[Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
+**Major/Junior Divisions:**<br />
+"Any runner is out when...  the runner fails to keep contact with the base to which that runner
+is entitled until the ball has been released by the pitcher on the delivery."
+{: .notice--info }
+
 
 
 ### 15U/Juniors
