@@ -104,8 +104,8 @@ In the rulebook's words:
 
 [Rule 7.08(a)(5)(b)](https://www.littleleague.org/app/Rulebook/2/162)
 **Minor League:**<br />
-"Any runner is out when... the runner fails to keep in contact with the base
-to which that runner is entitled until the ball has been batted or reaches the batter."
+"_Any runner is out when..._ the runner fails to keep in contact with the base
+to which that runner is entitled until **the ball has been batted or reaches the batter**."
 {: .notice--info }
 
 
@@ -131,8 +131,8 @@ stay on base until the ball leaves the pitcher's hand. In the rulebook's words:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
 **Major/Junior Divisions:**<br />
-"Any runner is out when...  the runner fails to keep contact with the base to which that runner
-is entitled until the ball has been released by the pitcher on the delivery."
+"_Any runner is out when..._  the runner fails to keep contact with the base to which that runner
+is entitled until **the ball has been released by the pitcher** on the delivery."
 {: .notice--info }
 
 
