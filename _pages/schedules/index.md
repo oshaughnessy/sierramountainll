@@ -51,7 +51,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 - **Apr 13-20:** Mountain Home School (MHS) spring break
 - **Apr 13-20:** Chawanakee Unified (CUSD) spring break
 - **Apr 13-20:** Yosemite Unified (YUSD) spring break
-- **Apr 20-20:** Mariposa Unified (MUSD) spring break
+- **Apr 21-25:** Mariposa Unified (MUSD) spring break
 - **Apr 20:** Easter
 - **May 26:** Memorial Day weekend
 - **Jun 6:** MUSD last day of school
