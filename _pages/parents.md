@@ -226,8 +226,8 @@ be certified by USA Baseball and marked with the USA Bat standard
 (they will say "USA Baseball"). For 50-70, non-wood bats may also
 be certified by BBCOR.
 
-Aluminum, composite, hybrid, and wood bats are allowed. See
-[Rule 1.10](https://www.littleleague.org/playing-rules/bat-rules/) for details.
+Aluminum, composite, hybrid, and wood bats are allowed.
+See [baseball rule 1.10](https://www.littleleague.org/playing-rules/bat-rules/#baseball) for details.
 {: .notice--success }
 
 #### <span class=softball>Softball</span>
@@ -240,6 +240,9 @@ Aluminum, composite, hybrid, and wood bats are allowed. See
 For all divisions, a softball bat must meet those limits. It may be wood
 or another common bat material. It may be colored. It _must_ have a grip
 if it's not wood.
+
+See [softball rule 1.10](https://www.littleleague.org/playing-rules/bat-rules/#softball) for details.
+{: .notice--success }
 
 ### Softballs
 
