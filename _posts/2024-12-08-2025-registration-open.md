@@ -1,6 +1,6 @@
 ---
 title: Spring 2025 registration
-tag: 2025-season signup
+tag: 2025 signup
 ---
 
 <a href="https://www.sierramountainll.com/Default.aspx?tabid=890579"

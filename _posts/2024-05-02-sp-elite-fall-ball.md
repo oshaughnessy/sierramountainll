@@ -1,6 +1,6 @@
 ---
 title: 2024 Fall Opportunity for 9-10yo
-tag: 2024-season, fall-season, baseball, non-smll
+tag: 2024, fall-season, baseball, non-smll
 ---
 
 Hi, SMLL families! A coach from one of our neighbor leagues in
