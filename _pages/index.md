@@ -40,7 +40,7 @@ Sign up by Jan 31 to save $25/player and help us plan better for the spring!
 |----
 | Dec 8 - Jan 31          | Feb 1 - Mar 15       | March 8<sup>\*</sup> | Mar 29<sup>*</sup> | TBD (Apr/May) | June 1
 |=
-||||| _<sup>\*</sup> weather permitting_ :|
+||||| _<sup>\*</sup> weather permitting_ |
 {: .align-top }
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
