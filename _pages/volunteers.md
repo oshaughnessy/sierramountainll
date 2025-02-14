@@ -15,14 +15,14 @@ These are mandated by the state, the federal government, and Little League.
 
 1. Sign up as a _Volunteer_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [SafeSport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
-4. Upload your SafeSport cert to your Volunteer page in Sports Connect.
+3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/)
+4. Upload your SafeSport cert to your Volunteer page in Sports Connect
 
 ## Coach Checklist
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [SafeSport abuse awareness training](https://usabdevelops.com/page/3532/courses) or document a current one from another sport
+3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/) (other programs are no longer allowed)
 4. Take the [HEADS UP concussion training](https://www.train.org/cdctrain/course/1089818/details)
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
    (good for 2 years)
@@ -83,26 +83,21 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
  - [JD Palatine's page on youth sports background checks](https://www.jdp.com/industries/youth-sports-background-checks/)
 
 
-### Abuse Awareness: SafeSport
+### Abuse Awareness: Little League
 
-As of 2024, Little League International requires annual abuse awareness training.
-Sierra Mountain Little League offers SafeSport-compliant training through Little League's
-[Base Abuse Awareness](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
-
-To meet California's requirements, complete USA Baseball's
-[Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188).
-More info is available at [USA Baseball's Baseball Athlete Safety Education
-page](https://usabdevelops.com/page/4834/base/17090/base).
+Little League International requires annual abuse awareness training through
+[Little League's Abuse Awareness](https://www.littleleague.org/university/articles/abuse-awareness-training-course/)
+course.
 
 {: .notice--info }
-If you need to register for a new account, note that "Sierra Mountain
-Little League" is not listed under "Little League - Local Leagues".
-Select "\*\* Little League", then click "+ Join" instead.
+In prior years, USA Baseball's 
+[Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188) or
+another sport program's SafeSport-compliant certification was adequate. These options were retired
+beginning with the 2025 season.
 
 {: .notice--success }
-If you've already completed a SafeSport Abuse Awareness training program for another sport
-or league and your certificate is still current, you can use it for Little League, too.
-For example, [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606) is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
+For more information, see Little League's
+[SafeSport Resources for Leagues](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
 
 ### Health Training
 
