@@ -96,8 +96,12 @@ another sport program's SafeSport-compliant certification was adequate. These op
 beginning with the 2025 season.
 
 {: .notice--success }
+If you need to register for a new account in the LL training portal, to find our league,
+search for "Sierra Mountain" and click on "SIERRA MOUNTAIN LL".
+
 For more information, see Little League's
 [SafeSport Resources for Leagues](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
+
 
 ### Health Training
 
