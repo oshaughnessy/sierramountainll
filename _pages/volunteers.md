@@ -15,16 +15,17 @@ These are mandated by the state, the federal government, and Little League.
 
 1. Sign up as a _Volunteer_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/)
+3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
 4. Upload your SafeSport cert to your Volunteer page in Sports Connect
 
 ## Coach Checklist
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/) (other programs are no longer allowed)
-4. Take the [HEADS UP concussion training](https://www.train.org/cdctrain/course/1089818/details)
-5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/)
+3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
+(other programs are no longer allowed)
+4. Take the [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
+5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
    (good for 2 years)
 6. Upload all 3 certs or screenshots to the Volunteer page in Sports Connect.
 7. Print and sign the [CDC concussion information sheet for coaches]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
@@ -107,7 +108,7 @@ For more information, see Little League's
 
 #### Concussion
 
-[HEADS UP concussion training](https://www.cdc.gov/headsup/youthsports/training/index.html){:target="_blank"}{:target="_blank"}
+[HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
 is training [required by California
 law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}
 for any coach working in a youth sport.

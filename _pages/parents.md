@@ -105,6 +105,10 @@ Player safety also includes vetting our volunteers with in-depth background chec
 and training them to recognize abuse. Please see our [Background
 Checks &amp; Training]({% link _pages/volunteers.md %}) page for more information.
 
+Little League also encourages parents to take advantage of USA Baseball's 
+[Abuse Awareness for Minors](https://usabdevelops.com/page/3532/courses/13975/abuse-awareness-for-minors)
+program as well.
+
 
 ### Concussion Awareness
 
