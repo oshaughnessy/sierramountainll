@@ -1,5 +1,5 @@
 ---
-title: 2025 Tryout Times
+title: 2025 Assessments Times
 tag: 2025, signup, evaluations, tryouts
 ---
 

@@ -20,7 +20,7 @@ lube up the mower, repaint wherever needed. This day is really important to get
 us ready for a safe, fun, and productive spring season.
 
 
-## Tryouts
+## Assessments
 
 Our player evaluations will be on **Saturday, March 8** at the
 [SMLL fields]({{ site.baseurl }}/contact#fields).
