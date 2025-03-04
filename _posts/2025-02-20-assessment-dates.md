@@ -5,9 +5,9 @@ tag: 2025, signup, evaluations, tryouts
 
 Baseball and softball player assessments for the 2025 season will be:
 
-* ~~10am: 8 & 9-year-olds~~
-* ~~12pm: 10 & 11-year-olds~~
-* ~~2pm: 12 & older~~
+* 10am: 8 & 9-year-olds
+* 12pm: 10 & 11-year-olds
+* 2pm: 12 & older
 
 We'll meet at the [Sierra Mountain Little League fields]({{ site.baseurl }}/contact#fields).
 
