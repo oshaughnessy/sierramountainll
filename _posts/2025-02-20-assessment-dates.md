@@ -6,9 +6,9 @@ tag: 2025, signup, evaluations, tryouts
 Player assessments for the 2025 season will be:
 
 Baseball
-* 10am: 8yo
-* 12pm: 9-10yo
-* 2pm: 11-12yo
+* 10am: 8-9yo
+* 12pm: 10-11yo
+* 2pm: 12+
 
 Softball
 * 10am: 6-8yo
