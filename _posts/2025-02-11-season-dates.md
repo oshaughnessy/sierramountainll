@@ -6,7 +6,7 @@ tag: 2025, signup, evaluations, tryouts
 In brief: 
 
 - Mar 1: spring cleaning
-- Mar 8: tryouts
+- ~~Mar 8~~ **Mar 10**: tryouts
 - Mar 29: opening day
 
 
@@ -22,7 +22,7 @@ us ready for a safe, fun, and productive spring season.
 
 ## Assessments
 
-Our player evaluations will be on **Saturday, March 8** at the
+Our player evaluations will be on ~~**Saturday, March 8**~~ **Monday, March 10**~~ at the
 [SMLL fields]({{ site.baseurl }}/contact#fields).
 
 We'll include all leagues:

@@ -3,6 +3,11 @@ title: 2025 Assessments Times
 tag: 2025, signup, evaluations, tryouts
 ---
 
+
+NOTICE: Reschedule Due to Rain and Snow<br />
+[Assessments moved to March 10]({% post_url 2025-03-06-assessment-reschedule %})
+{:.notice--danger}
+
 Player assessments for the 2025 season will be:
 
 Baseball
