@@ -25,26 +25,27 @@ Oakhurst, California  93644<br />
 The Sierra Mountain Little League Board of Directors includes the following volunteers:
 
 * Scott Michel, _President_, _Treasurer_
-* Tom Burdette, _Umpire in Chief_
-* O'Shaughnessy Evans, _<span class=softball>Softball Director</span>, Information Coordinator_
-* Heather Aleshire, _Fundraising_
+* O'Shaughnessy Evans, _<span class=softball>Softball Director</span> &amp; Information Coordinator_
+  ([softball@smll.info](mailto:softball@smll.info))
 * Ashley Garcia, _<span class=challenger>Challenger Director</span>_
+  ([challenger@smll.info](mailto:challenger@smll.info))
+* Sarah Rold, _<span class=baseball>Baseball Player Agent</span> &amp; Schedule Coordinator_
 * Taryn Tompkins, _<span class=softball>Softball Player Agent</span>_
+* Savannah Moore, _Secretary_
+* Tom Burdette, _Umpire in Chief_
+
+### Area Representatives
+
+| Ahwahnee       | North Fork | Oakhurst | Home Schools
+|----------------|------------|----------|--------------
+| Taryn Tompkins | _OPEN_     | _OPEN_   | Gerry Rommell
+
 
 ### Open Positions
 
 * Safety Coordinator
-* Schedule Coordinator
-* <span class=baseball>Baseball Player Agent</span>
-* Area Representatives/Coach Coordinators
+* Other Area Representatives/Coach Coordinators
 
-
-### Area Representatives / Coaching Coordinators
-
-|                                      | Ahwahnee       | North Fork | Oakhurst | Home Schools
-|--------------------------------------|----------------|------------|----------|--------------
-| <span class=baseball>Baseball</span> | Taryn Tompkins | _OPEN_     | _OPEN_   | _OPEN_
-| <span class=softball>Softball</span> | ^^             | _OPEN_     | _OPEN_   | Gerry Rommell
 
 
 ## Fields
