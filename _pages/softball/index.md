@@ -24,7 +24,7 @@ is complete at the end of signups.
 
 ## Divisions
 
-### Minors AA Player Pitch
+### Minors AA/Lower Player Pitch
 {: .softball}
 
 **Ages** | 6-9
@@ -76,7 +76,7 @@ Once a ball is in the pitcher's control, a runner may not leave their base
 until a batter hits the ball into fair territory.
 
 
-### Minors AAA: Player Pitch
+### Minors AAA/Upper Player Pitch
 {: .softball}
 
 **Ages** | 9-10
@@ -187,7 +187,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ```
 
 
-### Minors Player Pitch Lower:
+### Minors/Lower Player Pitch
 
 Game Times: 60 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, YLL\
@@ -196,7 +196,7 @@ Game Times: 60 minutes or 6 innings [^L]\
 * Thurs: 5:30pm @ SMLL or OCI
 * Sat: 10am @ SMLL or OCI
 
-### Minors Player Pitch Upper:
+### Minors/Upper Player Pitch
 
 Game Times: 90 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL softball, OCI Field 1, YLL\
