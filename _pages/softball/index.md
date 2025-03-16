@@ -24,15 +24,15 @@ is complete at the end of signups.
 
 ## Divisions
 
-### 8U/Minors Player Pitch
+### Minors AA Player Pitch
 {: .softball}
 
-**Ages** | 6-8
+**Ages** | 6-9
 **Ball** | 11" soft/reduced impact force to 11" hard
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-8U is a learning division where young girls with some experience and
+Minors AA is a learning division where young girls with some experience and
 growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
@@ -45,10 +45,10 @@ new pitchers.
 6-year-olds should have spent a season in tee ball before joining softball.
 Otherwise, we encourage them to play tee ball or coach-pitch baseball first.
 They will need to attend an assessment day and have coach approval before
-joining 8U.
+joining Minors AA.
 {: .notice--success}
 
-#### 8U Ground Rules
+#### Minors AA Ground Rules
 
 - Only 1 extra base on an overthrow
 - No stealing
@@ -57,7 +57,7 @@ joining 8U.
   to instruct their players
 - 5 run limit per team per inning
 
-#### 8U Pitching
+#### Minors AA Pitching
 
 - 5 balls per batter
 - 3 strikes per batter
@@ -68,15 +68,15 @@ joining 8U.
 - Half-inning ends when all players have played through the lineup, defense
   causes 3 fielded outs, or 5 runs are scored
 
-#### 8U Stealing
+#### Minors AA Stealing
 
-Stealing is not permitted in 8U.
+Stealing is not permitted in Minors AA.
 
 Once a ball is in the pitcher's control, a runner may not leave their base
 until a batter hits the ball into fair territory.
 
 
-### 10U/Minors AAA
+### Minors AAA: Player Pitch
 {: .softball}
 
 **Ages** | 9-10
@@ -84,19 +84,19 @@ until a batter hits the ball into fair territory.
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-10U is our transition division, where girls begin to play strictly by
+Minors AAA is our transition division, where girls begin to play strictly by
 the rules of softball.
 
-#### 10U Ground Rules
+#### Minors AAA Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 - 5 run limit per team per inning
 
-#### 10U Pitching
+#### Minors AAA Pitching
 
 - After 5 walked batters, player pitching should rotate out
 
-#### 10U Stealing
+#### Minors AAA Stealing
 
 Stealing rules follow those of regular Little League Minors softball.
 Essentially, don't lead off until the ball reaches the batter.
@@ -109,7 +109,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--info }
 
 
-### 12U/Majors
+### Majors
 {: .softball}
 
 **Ages** | 11-12
@@ -117,14 +117,14 @@ to which that runner is entitled until **the ball has been batted or reaches the
 **Pitch Distance** | 40'
 **Base Distance**  | 60'
 
-12U is our Majors division, with full Little League Majors softball rules.
+Our Majors division has the full Little League Majors softball rules.
 
-#### 12U Ground Rules
+#### Majors Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 
 
-#### 12U+ Stealing
+#### Majors Stealing
 
 Stealing rules follow those of regular Little League Majors softball:
 stay on base until the ball leaves the pitcher's hand. In the rulebook's words:
@@ -137,15 +137,15 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 
 
-### 15U/Juniors
+### Juniors
 {: .softball}
 
-**Ages** | 13-15
+**Ages** | 12-14
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
 
-#### 15U Ground Rules
+#### Juniors Ground Rules
 
 - 40 foot pitch distance may be used if a pitching mound is available
   at 40 feet and not 43 feet
@@ -187,7 +187,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ```
 
 
-### 8U: 4 teams
+### Minors Player Pitch Lower:
 
 Game Times: 60 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, YLL\
@@ -196,7 +196,7 @@ Game Times: 60 minutes or 6 innings [^L]\
 * Thurs: 5:30pm @ SMLL or OCI
 * Sat: 10am @ SMLL or OCI
 
-### 10U: 5 teams
+### Minors Player Pitch Upper:
 
 Game Times: 90 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL softball, OCI Field 1, YLL\
@@ -205,7 +205,7 @@ Game Times: 90 minutes or 6 innings [^L]\
 * Thurs: 6pm @ SMLL or OCI
 * Sat: 10am @ SMLL, YHS, or Wasuma
 
-### 12U: 5 teams
+### Majors
 
 Game Times: 90 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
@@ -214,7 +214,7 @@ Game Times: 90 minutes or 6 innings [^L]\
 * Thurs: 6pm @ SMLL or YHS
 * Sat: 10am @ SMLL, YHS, or Wasuma
 
-### 15U: 2 teams
+### Juniors
 
 Game Times: 90 minutes or 6 innings [^L]\
 [Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
