@@ -14,9 +14,7 @@ toc_h_max: 3
    alt="Sierra Mountain Wildflowers"
 %}
 
-This page describes the 2025 spring softball season at SMLL.\
-For our first year, see [2023 Softball]({% link _pages/softball/2023.md %})\
-For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %})
+This page describes the 2025[^past] spring softball season at SMLL.
 
 PLEASE NOTE: The rules below are a work in progress until pre-season planning
 is complete at the end of signups.
@@ -32,6 +30,7 @@ is complete at the end of signups.
 **Ball** | 11" standard softball
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
+**Game Times**     | 60 minutes or 6 innings [^limit]
 
 Minors AA is a learning division where young girls with some experience and
 growing strength build a stronger understanding of game strategy and
@@ -92,6 +91,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 **Ball** | 11" standard softball
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
+**Game Times**     | 90 minutes or 6 innings [^limit]
 
 Minors AAA is our transition division, where girls begin to play with nearly all the
 regular rules of fastpitch softball.
@@ -129,6 +129,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 **Ball** | 12" standard
 **Pitch Distance** | 40'
 **Base Distance**  | 60'
+**Game Times**     | 90 minutes or 6 innings [^limit]
 
 Our Majors division has the full Little League Majors softball rules.
 
@@ -164,6 +165,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 **Ball** | 12" standard
 **Pitch Distance** | 43'
 **Base Distance**  | 60'
+**Game Times**     | 90 minutes or 6 innings [^limit]
 
 #### Juniors Ground Rules
 
@@ -181,7 +183,7 @@ from nearest to farthest:
 : Midweek games are played at [Spring Valley Elementary School](https://goo.gl/maps/D1vgjQXWMFmPQxxf8){:target="blank"}: Rd 200, O'Neals, CA 93645
 : Saturday games are played at [Minarets High School](https://goo.gl/maps/wHmGPXxuiFtgWqDv5){:target="blank"}: Rd 200, O'Neals, CA 93645
 
-[Mariposa Girls Softball](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGSL_)
+[Mariposa Girls Softball](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGS_)
 : Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
 
 [Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
@@ -189,73 +191,13 @@ from nearest to farthest:
 [Sunnyside Little League](http://www.sunnysidell.org/){:target="_blank"} (aka _Sunnyside_)
 
 
-## 2025 Schedules
+## Schedules
 
-```
-     March 2025            April 2025             May 2025
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-                   1         1  2  3  4  5               1  2  3
- 2  3  4  5  6  7  8   6  7  8  9 10 11 12   4  5  6  7  8  9 10
- 9 10 11 12 13 14 15  13 14 15 16 17 18 19  11 12 13 14 15 16 17
-16 17 18 19 20 21 22  20 21 22 23 24 25 26  18 19 20 21 22 23 24
-23 24 25 26 27 28 29  27 28 29 30           25 26 27 28 29 30 31
-30 31
-```
+Please see our [softball schedules page]({% link _pages/schedules/softball.md %}) for game times and live scores.
 
-<script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
 
-### Minors AA/8U
+[^past]: For our first year, see [2023 Softball]({% link _pages/softball/2023.md %}). For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %}).
 
-Game Times: 60 minutes or 6 innings [^L]
-
-<div id="gc-scoreboard-widget-tdbt"></div>
-<script>
-    window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-tdbt",
-        widgetId: "c230bd39-7122-4d16-994d-492c7c4dde3f",
-        maxVerticalGamesVisible: 2,
-    })
-</script>
-
-### Minors AAA/10U
-
-Game Times: 90 minutes or 6 innings [^L]
-
-<div id="gc-scoreboard-widget-h09p"></div>
-<script>
-    window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-h09p",
-        widgetId: "5598999a-f720-44bf-aad5-cdae9610f94f",
-        maxVerticalGamesVisible: 2,
-    })
-</script>
-
-### Majors/12U
-
-Game Times: 90 minutes or 6 innings [^L]
-
-<div id="gc-scoreboard-widget-36bi"></div>
-<script>
-    window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-36bi",
-        widgetId: "32ef962e-bd34-4438-a8b7-4d945c54fae6",
-        maxVerticalGamesVisible: 2,
-    })
-</script>
-
-### Juniors/14U
-
-Game Times: 90 minutes or 6 innings [^L]
-
-<div id="gc-scoreboard-widget-10nk"></div>
-<script>
-    window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-10nk",
-        widgetId: "a5dff1c2-58b9-4ce7-bd2d-5b9f21a802db",
-        maxVerticalGamesVisible: 2,
-    })
-</script>
-
-[^L]: For game limits in marked divisions, no new inning is started after the
+[^limit]: For game limits in marked divisions, no new inning is started after the
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
