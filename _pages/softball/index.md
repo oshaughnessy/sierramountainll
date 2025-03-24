@@ -55,19 +55,16 @@ joining Minors AA.
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
 - Optional 4th outfielder may be provided to create a 10th defensive player
-- No bunting
-- Stealing allowed, with lead-off at release of pitched ball (CHECK)
+- Bunting is _not allowed_
+- Stealing _is allowed_, with lead-off at release of pitched ball (CHECK)
 - Only 1 extra base on an overthrow (CHECK)
 - 5 run limit per team per inning
 - Infield fly rule will not be applied
 
 #### Minors AA Pitching
 
-- After 4 balls, defensive coach will pitch remaining strikes;
-  all coach-pitched throws are strikes
+- After 4 balls, defensive coach will pitch remaining strikes; all coach pitches are strikes
 - Batter hit by pitch once results in ball; batter hit by pitch twice in same at-bat results in award of 1st base
-- Half-inning ends when all players have played through the lineup, defense
-  causes 3 fielded outs, or 5 runs are scored
 
 #### Minors AA Stealing
 
@@ -96,8 +93,8 @@ to which that runner is entitled until **the ball has been batted or reaches the
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
-Minors AAA is our transition division, where girls begin to play strictly by
-the rules of softball.
+Minors AAA is our transition division, where girls begin to play with nearly all the
+regular rules of fastpitch softball.
 
 #### Minors AAA Ground Rules
 
@@ -170,8 +167,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 #### Juniors Ground Rules
 
-- 40 foot pitch distance may be used if a pitching mound is available
-  at 40 feet and not 43 feet
+- 40 foot pitch distance may be used if a pitching rubber is not available at 43 feet
 - Parent or coach may serve as umpire if no official is available
 - Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6 (CHECK)
 
@@ -195,10 +191,6 @@ from nearest to farthest:
 
 ## 2025 Schedules
 
-This is a quick reference. Please see
-[published schedules](https://www.sierramountainll.com/Default.aspx?tabid=716491)
-for official times.
-
 ```
      March 2025            April 2025             May 2025
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
@@ -210,45 +202,60 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 30 31
 ```
 
+<script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
 
-### Minors/Lower Player Pitch
+### Minors AA/8U
 
-Game Times: 60 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL, OCI Field 2, YLL\
-[General schedule]({% link _pages/schedules/softball.md %}):
-* Tues: 5:30pm @ SMLL or OCI
-* Thurs: 5:30pm @ SMLL or OCI
-* Sat: 10am @ SMLL or OCI
+Game Times: 60 minutes or 6 innings [^L]
 
-### Minors/Upper Player Pitch
+<div id="gc-scoreboard-widget-tdbt"></div>
+<script>
+    window.GC.scoreboard.init({
+        target: "#gc-scoreboard-widget-tdbt",
+        widgetId: "c230bd39-7122-4d16-994d-492c7c4dde3f",
+        maxVerticalGamesVisible: 2,
+    })
+</script>
 
-Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, OCI Field 1, YLL\
-[General schedule]({% link _pages/schedules/softball.md %}):
-* Tues: 6pm @ SMLL or OCI
-* Thurs: 6pm @ SMLL or OCI
-* Sat: 10am @ SMLL, YHS, or Wasuma
+### Minors AAA/10U
 
-### Majors
+Game Times: 90 minutes or 6 innings [^L]
 
-Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
-[General schedule]({% link _pages/schedules/softball.md %}):
-* Tues: 6pm @ SMLL or YHS
-* Thurs: 6pm @ SMLL or YHS
-* Sat: 10am @ SMLL, YHS, or Wasuma
+<div id="gc-scoreboard-widget-h09p"></div>
+<script>
+    window.GC.scoreboard.init({
+        target: "#gc-scoreboard-widget-h09p",
+        widgetId: "5598999a-f720-44bf-aad5-cdae9610f94f",
+        maxVerticalGamesVisible: 2,
+    })
+</script>
 
-### Juniors
+### Majors/12U
 
-Game Times: 90 minutes or 6 innings [^L]\
-[Locations]({% link _pages/fields.md %}): SMLL softball, YHS Varsity & JV, YLL, MHS Varsity\
-[General schedule]({% link _pages/schedules/softball.md %}):
-* Thurs: 6pm @ SMLL or YHS
-* Sat: 10am @ SMLL or YHS
+Game Times: 90 minutes or 6 innings [^L]
 
+<div id="gc-scoreboard-widget-36bi"></div>
+<script>
+    window.GC.scoreboard.init({
+        target: "#gc-scoreboard-widget-36bi",
+        widgetId: "32ef962e-bd34-4438-a8b7-4d945c54fae6",
+        maxVerticalGamesVisible: 2,
+    })
+</script>
 
-[^R]: Rescheduled game
-[^M]: Game hosted at the Mariposa Girls Softball League fields. Times TBD.
+### Juniors/14U
+
+Game Times: 90 minutes or 6 innings [^L]
+
+<div id="gc-scoreboard-widget-10nk"></div>
+<script>
+    window.GC.scoreboard.init({
+        target: "#gc-scoreboard-widget-10nk",
+        widgetId: "a5dff1c2-58b9-4ce7-bd2d-5b9f21a802db",
+        maxVerticalGamesVisible: 2,
+    })
+</script>
+
 [^L]: For game limits in marked divisions, no new inning is started after the
       time or inning limit is reached. Once an inning has started, it must be
       finished regardless of time unless the home team is ahead. 
