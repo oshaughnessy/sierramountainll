@@ -1,7 +1,7 @@
 ---
-title: 2024 Fastpitch Softball at SMLL
+title: 2025 Fastpitch Softball at SMLL
 permalink: /softball/
-tag: softball, 2024-season
+tag: softball, 2025-season
 toc: true
 toc_icon: softball
 toc_h_max: 3
@@ -27,8 +27,9 @@ is complete at the end of signups.
 ### Minors AA/Lower Player Pitch
 {: .softball}
 
-**Ages** | 6-9
-**Ball** | 11" soft/reduced impact force to 11" hard
+**Interleague division** | 8U
+**Ages** | 6-8
+**Ball** | 11" standard softball
 **Pitch Distance** | 35'
 **Base Distance**  | 60'
 
@@ -79,6 +80,7 @@ until a batter hits the ball into fair territory.
 ### Minors AAA/Upper Player Pitch
 {: .softball}
 
+**Interleague division** | 10U
 **Ages** | 9-10
 **Ball** | 11" standard softball
 **Pitch Distance** | 35'
@@ -98,20 +100,26 @@ the rules of softball.
 
 #### Minors AAA Stealing
 
-Stealing rules follow those of regular Little League Minors softball.
-Essentially, don't lead off until the ball reaches the batter.
-In the rulebook's words:
+By interleague consent, stealing rules follow those of regular Little League **Majors** softball:
 
+[Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
+**Major/Junior Divisions:**\
+"_Any runner is out when..._  the runner fails to keep contact with the base to which that runner
+is entitled until **the ball has been released by the pitcher** on the delivery."
+{: .notice--info }
+
+Note the difference from Minors softball:\
 [Rule 7.08(a)(5)(b)](https://www.littleleague.org/app/Rulebook/2/162)
-**Minor League:**<br />
+**Minor League:**\
 "_Any runner is out when..._ the runner fails to keep in contact with the base
 to which that runner is entitled until **the ball has been batted or reaches the batter**."
-{: .notice--info }
+{: .notice--warning }
 
 
 ### Majors
 {: .softball}
 
+**Interleague division** | 12U
 **Ages** | 11-12
 **Ball** | 12" standard
 **Pitch Distance** | 40'
@@ -140,6 +148,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 ### Juniors
 {: .softball}
 
+**Interleague division** | 14U
 **Ages** | 12-14
 **Ball** | 12" standard
 **Pitch Distance** | 43'
