@@ -51,11 +51,12 @@ joining Minors AA.
 
 #### Minors AA Ground Rules
 
-- Only 1 extra base on an overthrow
-- No stealing
 - Parent or coach may serve as umpire
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
+- No bunting
+- Stealing allowed, with lead-off at release of pitched ball
+- Only 1 extra base on an overthrow
 - 5 run limit per team per inning
 
 #### Minors AA Pitching
@@ -63,18 +64,25 @@ joining Minors AA.
 - 5 balls per batter
 - 3 strikes per batter
 - 8 pitches max per hitter
-- Batters can run when fouling off a 3rd-strike hit
-- No outs are called on a 3rd strike; player simply returns to the dugout
-- After 3 walked batters, player pitching should rotate out
 - Half-inning ends when all players have played through the lineup, defense
   causes 3 fielded outs, or 5 runs are scored
 
 #### Minors AA Stealing
 
-Stealing is not permitted in Minors AA.
+By interleague consent, stealing rules follow those of regular Little League **Majors** softball:
 
-Once a ball is in the pitcher's control, a runner may not leave their base
-until a batter hits the ball into fair territory.
+[Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
+**Major/Junior Divisions:**\
+"_Any runner is out when..._  the runner fails to keep contact with the base to which that runner
+is entitled until **the ball has been released by the pitcher** on the delivery."
+{: .notice--info }
+
+Note the difference from Minors softball:\
+[Rule 7.08(a)(5)(b)](https://www.littleleague.org/app/Rulebook/2/162)
+**Minor League:**\
+"_Any runner is out when..._ the runner fails to keep in contact with the base
+to which that runner is entitled until **the ball has been batted or reaches the batter**."
+{: .notice--warning }
 
 
 ### Minors AAA/Upper Player Pitch
@@ -92,7 +100,7 @@ the rules of softball.
 #### Minors AAA Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- 5 run limit per team per inning
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5
 
 #### Minors AAA Pitching
 
@@ -130,6 +138,7 @@ Our Majors division has the full Little League Majors softball rules.
 #### Majors Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5
 
 
 #### Majors Stealing
@@ -159,6 +168,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 - 40 foot pitch distance may be used if a pitching mound is available
   at 40 feet and not 43 feet
 - Parent or coach may serve as umpire if no official is available
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6
 
 
 ## Nearby Leagues
