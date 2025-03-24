@@ -22,9 +22,9 @@ PLEASE NOTE: The rules below are a work in progress until pre-season planning
 is complete at the end of signups.
 {: .notice--warning }
 
-## Divisions
+## Interleague Divisions
 
-### Minors AA/Lower Player Pitch
+### Minors AA/Lower Player Pitch/8U
 {: .softball}
 
 **Interleague division** | 8U
@@ -54,16 +54,18 @@ joining Minors AA.
 - Parent or coach may serve as umpire
 - Defensive coaches are allowed and encouraged to be on the field during game play
   to instruct their players
+- Optional 4th outfielder may be provided to create a 10th defensive player
 - No bunting
-- Stealing allowed, with lead-off at release of pitched ball
-- Only 1 extra base on an overthrow
+- Stealing allowed, with lead-off at release of pitched ball (CHECK)
+- Only 1 extra base on an overthrow (CHECK)
 - 5 run limit per team per inning
+- Infield fly rule will not be applied
 
 #### Minors AA Pitching
 
-- 5 balls per batter
-- 3 strikes per batter
-- 8 pitches max per hitter
+- After 4 balls, defensive coach will pitch remaining strikes;
+  all coach-pitched throws are strikes
+- Batter hit by pitch once results in ball; batter hit by pitch twice in same at-bat results in award of 1st base
 - Half-inning ends when all players have played through the lineup, defense
   causes 3 fielded outs, or 5 runs are scored
 
@@ -85,7 +87,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Minors AAA/Upper Player Pitch
+### Minors AAA/Upper Player Pitch/10U
 {: .softball}
 
 **Interleague division** | 10U
@@ -100,11 +102,9 @@ the rules of softball.
 #### Minors AAA Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5
-
-#### Minors AAA Pitching
-
-- After 5 walked batters, player pitching should rotate out
+- 5 run limit per team per inning (CHECK) *OR*
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5 (CHECK)
+- Infield fly rule will be applied (CHECK)
 
 #### Minors AAA Stealing
 
@@ -124,7 +124,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Majors
+### Majors/12U
 {: .softball}
 
 **Interleague division** | 12U
@@ -135,10 +135,15 @@ to which that runner is entitled until **the ball has been batted or reaches the
 
 Our Majors division has the full Little League Majors softball rules.
 
+Rule highlights that become effective in Majors:\
+    - [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/)\
+    - [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)
+{: .notice--success }
+
 #### Majors Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5 (CHECK)
 
 
 #### Majors Stealing
@@ -154,7 +159,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 
 
-### Juniors
+### Juniors/14U
 {: .softball}
 
 **Interleague division** | 14U
@@ -168,7 +173,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 - 40 foot pitch distance may be used if a pitching mound is available
   at 40 feet and not 43 feet
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6 (CHECK)
 
 
 ## Nearby Leagues
