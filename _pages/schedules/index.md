@@ -10,7 +10,6 @@ toc: false
 ### Baseball
 
 * [Tee Ball]({% link _pages/schedules/tee.md %})
-* [A/Coach Pitch]({% link _pages/schedules/a.md %})
 * [AA/Player Pitch]({% link _pages/schedules/aa.md %})
 * [AAA]({% link _pages/schedules/aaa.md %})
 * [Major]({% link _pages/schedules/major.md %})
