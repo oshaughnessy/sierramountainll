@@ -55,19 +55,19 @@ joining Minors AA.
   to instruct their players
 - Optional 4th outfielder may be provided to create a 10th defensive player
 - Bunting is _not allowed_
-- Stealing _is allowed_, with lead-off at release of pitched ball (CHECK)
-- Only 1 extra base on an overthrow (CHECK)
-- 5 run limit per team per inning
-- Infield fly rule will not be applied
+- Infield fly rule will _not_ be applied
+- Stealing is _not allowed_
+- Runners may lead-off at release of pitched ball
+- 5-run limit per team per inning
 
 #### Minors AA Pitching
 
 - After 4 balls, defensive coach will pitch remaining strikes; all coach pitches are strikes
 - Batter hit by pitch once results in ball; batter hit by pitch twice in same at-bat results in award of 1st base
 
-#### Minors AA Stealing
+#### Minors AA Lead-offs
 
-By interleague consent, stealing rules follow those of regular Little League **Majors** softball:
+By interleague consent, lead-off rules follow those of regular Little League **Majors** softball:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
 **Major/Junior Divisions:**\
@@ -99,9 +99,8 @@ regular rules of fastpitch softball.
 #### Minors AAA Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- 5 run limit per team per inning (CHECK) *OR*
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5 (CHECK)
-- Infield fly rule will be applied (CHECK)
+- 5-run limit per team per inning
+- Infield fly rule will be applied
 
 #### Minors AAA Stealing
 
@@ -141,7 +140,7 @@ Rule highlights that become effective in Majors:\
 #### Majors Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 3, 10 @ 4, 8 @ 5 (CHECK)
+- 5-run limit per team per inning
 
 
 #### Majors Stealing
@@ -171,7 +170,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 - 40 foot pitch distance may be used if a pitching rubber is not available at 43 feet
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6 (CHECK)
+- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6
 
 
 ## Nearby Leagues
