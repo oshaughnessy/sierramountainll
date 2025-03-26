@@ -16,10 +16,6 @@ toc_h_max: 3
 
 This page describes the 2025[^past] spring softball season at SMLL.
 
-PLEASE NOTE: The rules below are a work in progress until pre-season planning
-is complete at the end of signups.
-{: .notice--warning }
-
 ## Interleague Divisions
 
 ### Minors AA/Lower Player Pitch/8U
@@ -178,11 +174,11 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 SMLL's nearest competitors for interleague play are,
 from nearest to farthest:
 
-[Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)
+[Yosemite Little League](https://www.yosemitelittleleague.org/){:target="_blank"} (aka _YLL_)[^partner]
 : Midweek games are played at [Spring Valley Elementary School](https://goo.gl/maps/D1vgjQXWMFmPQxxf8){:target="blank"}: Rd 200, O'Neals, CA 93645
 : Saturday games are played at [Minarets High School](https://goo.gl/maps/wHmGPXxuiFtgWqDv5){:target="blank"}: Rd 200, O'Neals, CA 93645
 
-[Mariposa Girls Softball](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGS_)
+[Mariposa Girls Softball](https://mariposagirlssoftball.com/){:target="_blank"} (aka _MGS_)[^partner]
 : Games are played at [Mariposa County High School](https://goo.gl/maps/vpK4Aya9wA1KXuud8){:target="_blank"}: 5074 Old Hwy N, Mariposa, CA 95338
 
 [Madera National Little League](https://www.maderanational.com/){:target="_blank"} (aka _Madera_)
@@ -195,6 +191,7 @@ from nearest to farthest:
 Please see our [softball schedules page]({% link _pages/schedules/softball.md %}) for game times and live scores.
 
 
+[^partner]: MGS, SMLL, and YLL worked in close partnership to create an interleague game schedule this season.
 [^past]: For our first year, see [2023 Softball]({% link _pages/softball/2023.md %}). For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %}).
 
 [^limit]: For game limits in marked divisions, no new inning is started after the
