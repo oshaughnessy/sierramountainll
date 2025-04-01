@@ -34,6 +34,9 @@ Please see [our latest ground rules]({% link /assets/files/smll-ground-rules-202
 New for 2023, they include the allowance of Game Changer for keeping score
 and the adoption of continuous batting orders in all divisions.
 
+Please see [SMLL softball rules]({% link _pages/softball/index.md %}) for interleague rules
+adopted by our fastpitch girls' softball program.
+
 ### SMLL Local Field Rules
 
 1. Any kid warming up an outfielder _must_ have a helmet on.
@@ -258,7 +261,8 @@ SMLL has adopted a local rule that there will be no base stealing in T-ball.
 
 In <span class=softball>softball</span>, from Majors up, base runners may
 not leave their bases until the pitched ball has been released by the pitcher.
-In Minors, they may not leave until the ball reaches the batter.
+In LL Minors rules, they may not leave until the ball reaches the batter, but
+SMLL has adopted the Majors rule in all divisions.
 
 According to Rule 7.08(a)(5), runners are out for violating those rules.
 _But..._ if the softball slips from the pitcher's hand, it's in play and the
