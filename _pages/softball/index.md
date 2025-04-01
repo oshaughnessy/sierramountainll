@@ -27,7 +27,7 @@ This page describes the 2025[^past] spring softball season at SMLL.
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
 | **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs
+| **Run Rules**             | 5 runs per team per half-inning
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
@@ -92,7 +92,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs
+| **Run Rules**             | 5 runs per team per half-inning
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
@@ -137,7 +137,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 40'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs
+| **Run Rules**             | 5 runs per team per half-inning
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
