@@ -66,7 +66,7 @@ joining Minors AA.
 
 #### Minors AA Lead-offs
 
-By interleague consent, lead-off rules follow those of regular Little League **Majors** softball:
+Lead-off rules follow those of regular Little League **Majors** softball:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
 **Major/Junior Divisions:**\
@@ -98,7 +98,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 Minors AAA is our transition division, where girls begin to play with nearly all the
 regular rules of fastpitch softball.
 
-Rule highlights in Minors AAA/10U:\
+Rule highlights:\
 :heavy_check_mark: [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)\
 :x: [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/) **NOT APPLIED**
 {: .notice--success }
@@ -110,7 +110,7 @@ Rule highlights in Minors AAA/10U:\
 
 #### Minors AAA Stealing
 
-By interleague consent, stealing rules follow those of regular Little League **Majors** softball:
+Stealing rules follow those of regular Little League **Majors** softball:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
 **Major/Junior Divisions:**\
