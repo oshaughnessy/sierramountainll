@@ -51,11 +51,11 @@ adopted by our fastpitch girls' softball program.
 6. The home team is responsible for turning the lights on and off, locking and unlocking
    the restrooms, cleaning up trash, emptying the trash cans, prepping the field, and
    dragging the field after the game.
-7. Children and Players are not allowed to play around the main buildings of the community center;
-   they are especially not allowed to play on the big hills behind the field as this is a safety
-   hazard. Players caught playing around these areas will be suspended from the next game.
-8. A batted fly ball in fair territory which hits the wires hanging over the Major and Minor
-   A left field will be ruled a ground rule double.
+7. Children and players are not allowed to play around the main buildings of the Oakhurst Community
+   Center; they are especially not allowed to play on the big hills behind the field as this is a
+   safety hazard. Players caught playing around these areas will be suspended from the next game.
+8. A batted fly ball in fair territory which hits the wires hanging over the Baseball and Softball
+   left fields will be ruled a ground rule double.
 9. Makeup games will be scheduled during free blocks of time.
 10. Major teams will have preference on the Major field. Thereafter, the field/practice
     schedule will be determined at the coaches meeting. Major teams will have preference over
@@ -76,7 +76,7 @@ adopted by our fastpitch girls' softball program.
 | Majors   | 9            | 9   | Continuous batting order |
 | 50-70+   | 9            | 9   | Continuous batting order |
 
-\* Minors: at managers' discretion, a team may play with fewer than 7 players<br />
+\* Minors: at managers' discretion, a team may play with fewer than 7 players
 {: .small }
 
 Player sharing is possible between teams in various ways, depending on division:
