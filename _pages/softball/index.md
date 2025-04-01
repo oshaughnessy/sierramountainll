@@ -27,9 +27,9 @@ This page describes the 2025[^past] spring softball season at SMLL.
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
 | **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs per team per half-inning
+| **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
 Minors AA is a learning division where young girls with some experience and
@@ -92,9 +92,9 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs per team per half-inning
+| **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
 Minors AAA is our transition division, where girls begin to play with nearly all the
@@ -137,9 +137,9 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 40'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs per team per half-inning
+| **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
 Our Majors division has the full Little League Majors softball rules.
@@ -227,5 +227,11 @@ _Footnotes_
     For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %}).
 
 [^partner]: MGS, SMLL, and YLL worked in close partnership to create an interleague game schedule this season.
+
+[^runs]: 5-run limit is found in [Rule 5.07](https://www.littleleague.org/app/Rulebook/2/159):
+    "... (Minor League: The side is retired when three offensive
+    players are legally put out, called out by an umpire, or when all
+    players on the roster have batted one time in the half-inning or
+    when the offensive team scores five (5) runs."
 
 [^softballs]: .47 COR, 375 lb compression, 11" or 12" circumference
