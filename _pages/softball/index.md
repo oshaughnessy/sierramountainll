@@ -141,7 +141,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 
 Our Majors division has the full Little League Majors softball rules.
 
-Rule highlights that are applied in Majors:\
+Rule highlights:\
 :heavy_check_mark: [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/)\
 :heavy_check_mark: [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)
 {: .notice--success }
@@ -178,12 +178,14 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
 
-#### Juniors Ground Rules and Highlights
+Rule highlights:\
+:heavy_check_mark: [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6
+{: .notice--success }
+
+#### Juniors Ground Rules
 
 - 40 foot pitch distance may be used if a pitching rubber is not available at 43 feet
 - Parent or coach may serve as umpire if no official is available
-- Use [Little League run rules](https://www.littleleague.org/university/articles/the-10-run-rule-what-parents-need-to-know/): 15 runs @ inning 4, 10 @ 5, 8 @ 6
-
 
 ## Nearby Leagues
 
