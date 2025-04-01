@@ -34,7 +34,7 @@ Please see [our latest ground rules]({% link /assets/files/smll-ground-rules-202
 New for 2023, they include the allowance of Game Changer for keeping score
 and the adoption of continuous batting orders in all divisions.
 
-Please see [SMLL softball rules]({% link _pages/softball/index.md %}) for interleague rules
+See the [SMLL softball page]({% link _pages/softball/index.md %}) for interleague rules
 adopted by our fastpitch girls' softball program.
 
 ### SMLL Local Field Rules
