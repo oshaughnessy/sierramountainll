@@ -21,12 +21,13 @@ This page describes the 2025[^past] spring softball season at SMLL.
 ### Minors AA/Lower Player Pitch/8U
 {: .softball}
 
-**Interleague division**  | 8U
-**Ages**                  | 6-8
-**Ball**                  | 11" standard softball<sup>*</sup> |
-**Pitch Distance**        | 35'
-**Base Distance**         | 60'
-**Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
+| **Interleague division**  | 8U
+| **Ages**                  | 6-8
+| **Ball**                  | 11" standard softball<sup>*</sup> |
+| **Pitch Distance**        | 35'
+| **Base Distance**         | 60'
+| **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
+| **Run Rules**             | 5 runs
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
@@ -91,6 +92,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
+| **Run Rules**             | 5 runs
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
@@ -135,6 +137,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Pitch Distance**        | 40'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
+| **Run Rules**             | 5 runs
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
@@ -174,6 +177,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 | **Pitch Distance**        | 43'
 | **Base Distance**         | 60'
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
+| **Run Rules**             | 15 runs @ inning 4, 10 @ 5, 8 @ 6 |
 
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
