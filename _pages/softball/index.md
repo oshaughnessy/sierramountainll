@@ -21,12 +21,15 @@ This page describes the 2025[^past] spring softball season at SMLL.
 ### Minors AA/Lower Player Pitch/8U
 {: .softball}
 
-**Interleague division** | 8U
-**Ages** | 6-8
-**Ball** | 11" standard softball
-**Pitch Distance** | 35'
-**Base Distance**  | 60'
-**Game Times**     | 60 minutes or 6 innings [^limit]
+**Interleague division**  | 8U
+**Ages**                  | 6-8
+**Ball**                  | 11" standard softball<sup>*</sup> |
+**Pitch Distance**        | 35'
+**Base Distance**         | 60'
+**Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+{: .small }
 
 Minors AA is a learning division where young girls with some experience and
 growing strength build a stronger understanding of game strategy and
@@ -82,21 +85,28 @@ to which that runner is entitled until **the ball has been batted or reaches the
 ### Minors AAA/Upper Player Pitch/10U
 {: .softball}
 
-**Interleague division** | 10U
-**Ages** | 9-10
-**Ball** | 11" standard softball
-**Pitch Distance** | 35'
-**Base Distance**  | 60'
-**Game Times**     | 90 minutes or 6 innings [^limit]
+| **Interleague division**  | 10U
+| **Ages**                  | 9-10
+| **Ball**                  | 11" standard softball<sup>*</sup> |
+| **Pitch Distance**        | 35'
+| **Base Distance**         | 60'
+| **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+{: .small }
 
 Minors AAA is our transition division, where girls begin to play with nearly all the
 regular rules of fastpitch softball.
+
+Rule highlights in Minors AAA/10U:\
+:heavy_check_mark: [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)\
+:x: [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/) **NOT APPLIED**
+{: .notice--success }
 
 #### Minors AAA Ground Rules
 
 - Parent or coach may serve as umpire if no official is available
 - 5-run limit per team per inning
-- Infield fly rule will be applied
 
 #### Minors AAA Stealing
 
@@ -119,18 +129,21 @@ to which that runner is entitled until **the ball has been batted or reaches the
 ### Majors/12U
 {: .softball}
 
-**Interleague division** | 12U
-**Ages** | 11-12
-**Ball** | 12" standard
-**Pitch Distance** | 40'
-**Base Distance**  | 60'
-**Game Times**     | 90 minutes or 6 innings [^limit]
+| **Interleague division**  | 12U
+| **Ages**                  | 11-12
+| **Ball**                  | 12" standard softball<sup>*</sup> |
+| **Pitch Distance**        | 40'
+| **Base Distance**         | 60'
+| **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+{: .small }
 
 Our Majors division has the full Little League Majors softball rules.
 
-Rule highlights that become effective in Majors:\
-    - [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/)\
-    - [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)
+Rule highlights that are applied in Majors:\
+:heavy_check_mark: [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/)\
+:heavy_check_mark: [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/)
 {: .notice--success }
 
 #### Majors Ground Rules
@@ -155,14 +168,17 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 ### Juniors/14U
 {: .softball}
 
-**Interleague division** | 14U
-**Ages** | 12-14
-**Ball** | 12" standard
-**Pitch Distance** | 43'
-**Base Distance**  | 60'
-**Game Times**     | 90 minutes or 6 innings [^limit]
+| **Interleague division**  | 14U
+| **Ages**                  | 12-14
+| **Ball**                  | 12" standard softball<sup>*</sup> |
+| **Pitch Distance**        | 43'
+| **Base Distance**         | 60'
+| **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
 
-#### Juniors Ground Rules
+&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+{: .small }
+
+#### Juniors Ground Rules and Highlights
 
 - 40 foot pitch distance may be used if a pitching rubber is not available at 43 feet
 - Parent or coach may serve as umpire if no official is available
@@ -191,9 +207,19 @@ from nearest to farthest:
 Please see our [softball schedules page]({% link _pages/schedules/softball.md %}) for game times and live scores.
 
 
-[^partner]: MGS, SMLL, and YLL worked in close partnership to create an interleague game schedule this season.
-[^past]: For our first year, see [2023 Softball]({% link _pages/softball/2023.md %}). For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %}).
 
-[^limit]: For game limits in marked divisions, no new inning is started after the
-      time or inning limit is reached. Once an inning has started, it must be
-      finished regardless of time unless the home team is ahead. 
+
+----
+_Footnotes_
+
+
+[^limit]: For game limits in marked divisions, no new inning is started after the time
+    or inning limit is reached. Once an inning has started, it must be finished regardless
+    of time unless the home team is ahead. 
+
+[^past]: For our first year, see [2023 Softball]({% link _pages/softball/2023.md %}).
+    For our 2nd year, see [2024 Softball]({% link _pages/softball/2024.md %}).
+
+[^partner]: MGS, SMLL, and YLL worked in close partnership to create an interleague game schedule this season.
+
+[^softballs]: .47 COR, 375 lb compression, 11" or 12" circumference
