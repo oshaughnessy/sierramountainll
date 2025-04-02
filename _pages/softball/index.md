@@ -110,9 +110,9 @@ Rule highlights:\
 - Parent or coach may serve as umpire if no official is available
 - 5-run limit per team per inning
 
-#### Minors AAA Stealing
+#### Minors AAA Lead-Offs
 
-Stealing rules follow those of regular Little League **Majors** softball:
+Lead-off rules follow those of regular Little League **Majors** softball:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
 **Major/Junior Divisions:**\
@@ -155,9 +155,9 @@ Rule highlights:\
 - 5-run limit per team per inning
 
 
-#### Majors Stealing
+#### Majors Lead-Offs
 
-Stealing rules follow those of regular Little League Majors softball:
+Lead-off rules follow those of regular Little League Majors softball:
 stay on base until the ball leaves the pitcher's hand. In the rulebook's words:
 
 [Rule 7.08(a)(5)(a)](https://www.littleleague.org/app/Rulebook/2/162)
