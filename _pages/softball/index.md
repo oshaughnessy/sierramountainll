@@ -18,7 +18,8 @@ This page describes the 2025[^past] spring softball season at SMLL.
 
 ## Interleague Divisions
 
-### Minors AA/Lower Player Pitch/8U
+### Minors AA/Lower Player Pitch/8U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
+
 {: .softball}
 
 | **Interleague division**  | 8U
@@ -83,7 +84,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Minors AAA/Upper Player Pitch/10U
+### Minors AAA/Upper Player Pitch/10U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-10u.pdf %})
 {: .softball}
 
 | **Interleague division**  | 10U
@@ -128,7 +129,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Majors/12U
+### Majors/12U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-12u.pdf %})
 {: .softball}
 
 | **Interleague division**  | 12U
@@ -168,7 +169,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 
 
-### Juniors/14U
+### Juniors/14U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-14u.pdf %})
 {: .softball}
 
 | **Interleague division**  | 14U
