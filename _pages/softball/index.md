@@ -18,8 +18,7 @@ This page describes the 2025[^past] spring softball season at SMLL.
 
 ## Interleague Divisions
 
-### Minors AA/Lower Player Pitch/8U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
-
+### Minors AA/Lower Player Pitch/8U
 {: .softball}
 
 | **Interleague division**  | 8U
@@ -30,6 +29,7 @@ This page describes the 2025[^past] spring softball season at SMLL.
 | **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
+[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -84,7 +84,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Minors AAA/Upper Player Pitch/10U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-10u.pdf %})
+### Minors AAA/Upper Player Pitch/10U
 {: .softball}
 
 | **Interleague division**  | 10U
@@ -95,6 +95,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
+[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-10u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -129,7 +130,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Majors/12U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-12u.pdf %})
+### Majors/12U
 {: .softball}
 
 | **Interleague division**  | 12U
@@ -140,6 +141,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
+[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-12u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -169,7 +171,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 
 
-### Juniors/14U [PDF]({% link /assets/files/2025-interleague-fastpitch-rules-14u.pdf %})
+### Juniors/14U
 {: .softball}
 
 | **Interleague division**  | 14U
@@ -180,6 +182,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 | **Game Times**            | 90 minutes or 6 innings<sup>*</sup> |
 | **Run Rules**             | 15 runs @ inning 4, 10 @ 5, 8 @ 6 |
 
+[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-14u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
 {: .small }
 
