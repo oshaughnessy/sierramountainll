@@ -15,14 +15,12 @@ Please see your GameChanger app or [web.gc.com](https://web.gc.com) for your tea
 
 GameChanger scoreboards coming soon
 
-<!--
 * [Tee Ball]({% link _pages/schedules/tee.md %})
 * [AA/Player Pitch]({% link _pages/schedules/aa.md %})
 * [AAA]({% link _pages/schedules/aaa.md %})
 * [Major]({% link _pages/schedules/major.md %})
 * [50/70]({% link _pages/schedules/5070.md %})
 * [Challenger]({% link _pages/schedules/challenger.md %})
--->
 
 ### [Softball]({% link _pages/schedules/softball.md %})
 
