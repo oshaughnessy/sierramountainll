@@ -18,11 +18,11 @@ This page describes the 2025[^past] spring softball season at SMLL.
 
 ## Interleague Divisions
 
-### Minors AA/Lower Player Pitch/8U
+### Minors AA (Coach Pitch)
 {: .softball}
 
 | **Interleague division**  | 8U
-| **Ages**                  | 6-8
+| **Ages**                  | 6-8<sup>*</sup> |
 | **Ball**                  | 11" standard softball<sup>*</sup> |
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
@@ -30,30 +30,29 @@ This page describes the 2025[^past] spring softball season at SMLL.
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
 [:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
-Minors AA is a learning division where young girls with some experience and
-growing strength build a stronger understanding of game strategy and
+Minors AA is a learning division where young girls with some experience
+and growing strength build a stronger understanding of game strategy and
 position-oriented skills. We encourage coaches to rotate players through
 all positions throughout the season.
 
-This is a player pitch division.  Coaches should begin teaching girls to
+This is a coach-pitch division. Coaches should begin teaching girls to
 throw a fastpitch from the very beginning of the season, and teams should
 approach early games with extra patience as all teams will be developing brand
 new pitchers.
 
 6-year-olds should have spent a season in tee ball before joining softball.
-Otherwise, we encourage them to play tee ball or coach-pitch baseball first.
-They will need to attend an assessment day and have coach approval before
-joining Minors AA.
+Otherwise, we encourage them to play tee ball first.  They will need to attend
+an assessment day and have coach approval before joining Minors AA.
 {: .notice--success}
 
 #### Minors AA Ground Rules
 
 - Parent or coach may serve as umpire
-- Defensive coaches are allowed and encouraged to be on the field during game play
-  to instruct their players
+- Defensive coaches are allowed and encouraged to be on the field during game
+  play to instruct their players
 - Optional 4th outfielder may be provided to create a 10th defensive player
 - Bunting is _not allowed_
 - Infield fly rule will _not_ be applied
@@ -61,7 +60,7 @@ joining Minors AA.
 - Runners may lead-off at release of pitched ball
 - 5-run limit per team per inning
 
-#### Minors AA Pitching
+#### Minors AA Coach-Pitching
 
 - After 4 balls, defensive coach will pitch remaining strikes; all coach pitches are strikes
 - Batter hit by pitch once results in ball; batter hit by pitch twice in same at-bat results in award of 1st base
@@ -76,7 +75,7 @@ Lead-off rules follow those of regular Little League **Majors** softball:
 is entitled until **the ball has been released by the pitcher** on the delivery."
 {: .notice--info }
 
-Note the difference from Minors softball:\
+Note the difference from the Minors softball rule:\
 [Rule 7.08(a)(5)(b)](https://www.littleleague.org/app/Rulebook/2/162)
 **Minor League:**\
 "_Any runner is out when..._ the runner fails to keep in contact with the base
@@ -84,11 +83,11 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Minors AAA/Upper Player Pitch/10U
+### Minors AAA
 {: .softball}
 
 | **Interleague division**  | 10U
-| **Ages**                  | 9-10
+| **Ages**                  | 9-10<sup>*</sup> |
 | **Ball**                  | 11" standard softball<sup>*</sup> |
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
@@ -96,7 +95,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
 [:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-10u.pdf %})
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
 Minors AAA is our transition division, where girls begin to play with nearly all the
@@ -130,11 +129,11 @@ to which that runner is entitled until **the ball has been batted or reaches the
 {: .notice--warning }
 
 
-### Majors/12U
+### Majors
 {: .softball}
 
 | **Interleague division**  | 12U
-| **Ages**                  | 11-12
+| **Ages**                  | 11-12<sup>*</sup> |
 | **Ball**                  | 12" standard softball<sup>*</sup> |
 | **Pitch Distance**        | 40'
 | **Base Distance**         | 60'
@@ -142,7 +141,7 @@ to which that runner is entitled until **the ball has been batted or reaches the
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
 [:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-12u.pdf %})
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit], runs[^runs]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
 Our Majors division has the full Little League Majors softball rules.
@@ -171,11 +170,11 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 
 
 
-### Juniors/14U
+### Juniors
 {: .softball}
 
 | **Interleague division**  | 14U
-| **Ages**                  | 12-14
+| **Ages**                  | 12-14<sup>*</sup> |
 | **Ball**                  | 12" standard softball<sup>*</sup> |
 | **Pitch Distance**        | 43'
 | **Base Distance**         | 60'
@@ -183,7 +182,7 @@ is entitled until **the ball has been released by the pitcher** on the delivery.
 | **Run Rules**             | 15 runs @ inning 4, 10 @ 5, 8 @ 6 |
 
 [:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-14u.pdf %})
-&nbsp;&nbsp;&nbsp;&nbsp;_*: balls[^softballs], limits[^limit]_
+&nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit]_
 {: .small }
 
 Rule highlights:\
@@ -222,6 +221,10 @@ Please see our [softball schedules page]({% link _pages/schedules/softball.md %}
 ----
 _Footnotes_
 
+
+[^ages]: Division ages described here are general ranges, listed to show correlation for interleague play.
+    Actual player ages are based on Little League Junior (12-15), Major (9-12), and Minor (5-11) age groupings
+    and defined by ["league age" definitions](https://www.littleleague.org/play-little-league/determine-league-age/).
 
 [^limit]: For game limits in marked divisions, no new inning is started after the time
     or inning limit is reached. Once an inning has started, it must be finished regardless
