@@ -224,7 +224,7 @@ _Footnotes_
 
 [^ages]: Division ages described here are general ranges, listed to show correlation for interleague play.
     Actual player ages are based on Little League Junior (12-15), Major (9-12), and Minor (5-11) age groupings
-    and defined by ["league age" definitions](https://www.littleleague.org/play-little-league/determine-league-age/).
+    and defined by ["league age"](https://www.littleleague.org/play-little-league/determine-league-age/).
 
 [^limit]: For game limits in marked divisions, no new inning is started after the time
     or inning limit is reached. Once an inning has started, it must be finished regardless
