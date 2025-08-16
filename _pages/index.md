@@ -39,6 +39,8 @@ Sign up for Baseball + Softball travel teams
 Sign up now for more info. Registering for tryouts is free,
 and we'll keep playing costs as low as possible.
 
+**Tryouts for 12U fastpitch are Aug 24. Please sign up ASAP.**
+
 <!--
 Our 2025 season is about to begin!
 
