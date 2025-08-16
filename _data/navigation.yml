@@ -38,6 +38,8 @@ sidebar:
 - title: News
   url: /news/
   description: Latest announcements
+- title: "Registration"
+  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
 - title: Parents
   url: /parents/
   description: Information for the adults who register players
@@ -79,9 +81,9 @@ posts:
 resources:
 - title: "Schedules"
   url: /schedules/
-#- title: "Registration"
-#  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
-#  #icon: fas fa-baseball-ball
+- title: "Registration"
+  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+  #icon: fas fa-baseball-ball
 #- title: League Age
 #  url: /league-age/
 - title: "Sports Connect"
