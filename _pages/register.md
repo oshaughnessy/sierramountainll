@@ -8,7 +8,7 @@ redirect_from:
 
 ### [Sign up Players and Volunteers](https://www.sierramountainll.com/Default.aspx?tabid=890579)
 
-Next season's rates and divisions are listed in our [2025 announcement post]({% post_url 2024-12-08-2025-registration-open %}).
+[Fall Ball is open now!]({% post_url 2025-08-16-fall-ball %}).
 
 ### [Coach and Volunter Checklists]({% link _pages/volunteers.md %})
 
