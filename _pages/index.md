@@ -31,8 +31,13 @@ header:
    class="align-right half-width btn btn--success btn--large btn--light-outline"
    target="_blank">
 <u>Register Now</u><br />
-Sign up now for Baseball + Softball travel teams
+Sign up for Baseball + Softball travel teams
 </a>
+
+2025 Fall Ball travel teams are starting tryouts very soon!
+
+Sign up now for more info. Registering for tryouts is free,
+and we'll keep playing costs as low as possible.
 
 <!--
 Our 2025 season is about to begin!
