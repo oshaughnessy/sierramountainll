@@ -19,7 +19,7 @@ header:
     #  url: https://www.sierramountainll.com/Default.aspx?tabid=716491
     #- label: Sports Connect
     #  url: https://login.stacksports.com/login?client_id=612b0399b1854a002e427f78&redirect_uri=https://core-api.bluesombrero.com/login/redirect/portal/7479&app_name=Sierra+Mountain+Little+League&portalid=7479&instancekey=sports
-    - label: 2025 Fall Ball
+    - label: 2026 Spring Ball
       url: https://www.sierramountainll.com/Default.aspx?tabid=890579
     #- label: 2025 Schedules
     #  url: /schedules/
@@ -34,6 +34,25 @@ header:
 Sign up for Tee Ball, Baseball, and Fastpitch Softball 
 </a>
 
+Our 2026 season is about to begin!
+
+Signups for all divisions are open now.
+
+### 12U Fastpitch Travel Ball
+
+Sprint 12U Fastpitch travel is having tryouts on Jan 18 at 2pm.
+
+Sign up now for more info. Registering for tryouts is free,
+and we'll keep playing costs as low as possible.
+
+<!--
+| Registration    | Assessments | Opening Ceremonies | 1st Games | Picture Day   | Closing Day
+|----
+| Jan 1 - Jan 31  | Feb 1 - Mar 15       | Mar 10      | Mar 29             | Apr 5      | TBD (Apr/May) | June 1
+|=
+{: .align-top }
+-->
+
 <!--
 2026 Spring travel teams are starting tryouts very soon!
 
@@ -41,16 +60,6 @@ Sign up now for more info. Registering for tryouts is free,
 and we'll keep playing costs as low as possible.
 
 **Tryouts for 12U fastpitch are Aug 24. Please sign up ASAP.**
--->
-
-<!--
-Our 2025 season is about to begin!
-
-| Early Bird Registration | Regular Registration | Assessments | Opening Ceremonies | 1st Games | Picture Day   | Closing Day
-|----
-| Dec 8 - Jan 31          | Feb 1 - Mar 15       | Mar 10      | Mar 29             | Apr 5      | TBD (Apr/May) | June 1
-|=
-{: .align-top }
 -->
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
