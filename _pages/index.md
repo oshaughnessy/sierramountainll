@@ -25,21 +25,23 @@ header:
     #  url: /schedules/
 ---
 
-## 2025 Fall Ball
+## 2026 Spring Registration
 
 <a href="https://www.sierramountainll.com/Default.aspx?tabid=890579"
    class="align-right half-width btn btn--success btn--large btn--light-outline"
    target="_blank">
 <u>Register Now</u><br />
-Sign up for Baseball + Softball travel teams
+Sign up for Tee Ball, Baseball, and Fastpitch Softball 
 </a>
 
-2025 Fall Ball travel teams are starting tryouts very soon!
+<!--
+2026 Spring travel teams are starting tryouts very soon!
 
 Sign up now for more info. Registering for tryouts is free,
 and we'll keep playing costs as low as possible.
 
 **Tryouts for 12U fastpitch are Aug 24. Please sign up ASAP.**
+-->
 
 <!--
 Our 2025 season is about to begin!
