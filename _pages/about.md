@@ -4,11 +4,11 @@ title: About Us
 permalink: /about/
 ---
 
-Sierra Mountain Local League (SMLL) is part of [Little League
-District 10](https://www.cadistrict10.com){:target="_blank"}
-in central California. In the 2026 season, this applies only to our
-Challenger division. All other divisions of baseball and softball
-are local programs of MY Club, without an external governing body.
+Sierra Mountain Local League (SMLL) was part of
+[Little League District 10](https://www.cadistrict10.com){:target="_blank"}
+in central California until the 2026 season. In 2026, only our Challenger division
+registered with Little League. All other divisions of baseball and softball are local
+programs of [MY Club](https://mountainyouthclubs.org), without an external governing body.
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-left .full-width .gimme-space }
 
