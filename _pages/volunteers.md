@@ -54,9 +54,12 @@ to children" must go through the background check process.
 {: .notice--warning }
 This includes helping with hitting and catching during practice,
 coaching a base or being in the dugout during games, even working
-in the snack bar or being a team parent. Please see Little League's
-[Background Checks for Little League®
-Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
+in the snack bar or being a team parent. It's for anybody who spends
+more than 16 hours per month with our youth.
+
+#### Compliance Notice
+
+We are required to provide notice like the following.
 
 In order to be in compliance with [California's Business & Professions Code
 § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
@@ -77,9 +80,6 @@ with enhanced screening at J.D. Palatine (JDP). This includes:
 
 More information about JD Palatine's youth sports products can be viewed at the
 following locations:
- - [Important Updates to Little League's Child Protection Program,
-Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-child-protection-program/) for more information.
- - [Little League's JDP FAQs](https://www.littleleague.org/player-safety/child-protection-program/jdp-faqs/)
  - [JD Palatine's page on youth sports background checks](https://www.jdp.com/industries/youth-sports-background-checks/)
 
 
