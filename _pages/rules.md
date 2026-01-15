@@ -174,7 +174,7 @@ for important details.
 
 #### <span class=softball>Softball</span> Pitching Limits
 
-| **Age Range** | Minors & Majors    | Junior & Senior |
+| **Age Range** | 6U-12U             | 14U-16U         |
 |---------------|--------------------|-----------------|
 | **Pitch Innings Per Day**     | 12 | No limit        |
 | **Rest Days After 7 Innings** | 1  | No requirement  |
@@ -245,7 +245,7 @@ For further explanation, please see [Regular Season Rules and Regulations Spotli
 
 ### Stealing Bases
 
-_According to Rule 7.13..._
+_According to LL Rule 7.13..._
 
 In <span class=baseball>baseball</span>, the basic rule is this:
 
@@ -259,14 +259,12 @@ runner can start to steal.
 
 SMLL has adopted a local rule that there will be no base stealing in T-ball.
 
-In <span class=softball>softball</span>, from Majors up, base runners may
+In <span class=softball>softball</span>, from 8U up, base runners may
 not leave their bases until the pitched ball has been released by the pitcher.
-In LL Minors rules, they may not leave until the ball reaches the batter, but
-SMLL has adopted the Majors rule in all divisions.
 
-According to Rule 7.08(a)(5), runners are out for violating those rules.
-_But..._ if the softball slips from the pitcher's hand, it's in play and the
-runner may attempt to steal.
+According to LL Rule 7.08(a)(5) and NSA Rule 8.8(u), runners are out for violating
+those rules.  _But..._ if the softball slips from the pitcher's hand, it's in play
+and the runner may attempt to steal.
 
 For more on stealing bases in softball, see [Softball Base Running: The Circle Rule](https://www.littleleague.org/university/articles/softball-base-running-the-circle-rule/){:target="_blank"}
 {: .notice }
