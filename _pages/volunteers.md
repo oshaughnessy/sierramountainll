@@ -15,15 +15,14 @@ These are mandated by the state or the federal government.
 
 1. Sign up as a _Volunteer_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
+3. Take the [SafeSport abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
 4. Upload your SafeSport cert to your Volunteer page in Sports Connect
 
 ## Coach Checklist
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Fill out the JDP background check that will be emailed to you
-3. Take the [Little League abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
-(other programs are no longer allowed)
+3. Take the [SafeSport abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
 4. Take the [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
    (good for 2 years)
@@ -61,7 +60,7 @@ Volunteers](https://www.littleleague.org/university/articles/background-checks-f
 
 In order to be in compliance with [California's Business & Professions Code
 § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
-SMLL submits all volunteers to a background check and provides them with SafeSport-approved abuse training annually.
+SMLL submits all volunteers to a background check and provides them with CA AB 506-compliant abuse training annually.
 This is required of all volunteers, regardless of whether an individual is new to the program or returning.
 
 A background check is performed at the beginning of each season,
@@ -84,24 +83,20 @@ Oct 2023](https://www.littleleague.org/news/important-updates-to-little-leagues-
  - [JD Palatine's page on youth sports background checks](https://www.jdp.com/industries/youth-sports-background-checks/)
 
 
-### Abuse Awareness: Little League
+### Abuse Awareness
 
-Little League International requires annual abuse awareness training through
-[Little League's Abuse Awareness](https://www.littleleague.org/university/articles/abuse-awareness-training-course/)
-course.
-
-{: .notice--info }
-In prior years, USA Baseball's 
-[Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188) or
-another sport program's SafeSport-compliant certification was adequate. These options were retired
-beginning with the 2025 season.
+To meet California requirement from AB 506, complete any complaint abuse awareness training program:
+- [U.S. Center for SafeSport Training](https://safesport.org)
+- [Mandated Reporter CA](https://mandatedreporterca.com/training/volunteers)
+- USA Baseball's [Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188).
+  More info is available at [USA Baseball's Baseball Athlete Safety Education page](
+  https://usabdevelops.com/page/4834/base/17090/base).
 
 {: .notice--success }
-If you need to register for a new account in the LL training portal, to find our league,
-search for "Sierra Mountain" and click on "SIERRA MOUNTAIN LL".
-
-For more information, see Little League's
-[SafeSport Resources for Leagues](https://www.littleleague.org/player-safety/child-protection-program/safesport-resources-parents/) program.
+If you've already completed AB 506-compliant abuse awareness training program for another sport
+or league and your certificate is still current, you can use it for MY Club, too.  For example,
+[US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
+is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
 
 
 ### Health Training
@@ -109,8 +104,7 @@ For more information, see Little League's
 #### Concussion
 
 [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
-is training [required by California
-law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}
+is [required by California law](https://www.littleleague.org/player-safety/concussions-youth-athletes/){:target="_blank"}
 for any coach working in a youth sport.
 
 #### Cardiac Arrest
@@ -140,7 +134,7 @@ If you're interested in more, take a look at
 
 ### Fingerprinting: Live Scans
 
-A Live Scan must be done specifically for SMLL by each coach or other
+A Live Scan must be done specifically for MY Club by each coach or other
 "regular volunteer". It _does not_ need to be done annually.
 
 {% capture regular-volunteers %}
@@ -153,7 +147,8 @@ From [California Assembly Bill No. 506](https://leginfo.legislature.ca.gov/faces
 {% endcapture %}
 <div class="notice--info">{{ regular-volunteers | markdownify }}</div>
 
-For us, this primarily includes coaches and team parents.
+For us, this includes coaches and assistant coaches -- anybody who will regularly help at
+practices or be on the field during games.
 
 {: .notice--warning }
-A Live Scan for another organization cannot be used by SMLL.
+A Live Scan for another organization cannot be used by MY Club.
