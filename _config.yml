@@ -26,7 +26,7 @@ title: SMLL
 email: shaug-sierramountainll@wumpus.org
 # Default is your site title.
 description: >-
-  Sierra Mountain Little League
+  Sierra Mountain Local League
 #author: O'Shaughnessy Evans
 # base hostname & protocol for your site, e.g. http://example.com
 domain: smll.info
@@ -124,7 +124,7 @@ header:
 og_image: assets/images/smll-logo-trans.png
 social:
   type: Organization # Person or Organization (defaults to Person)
-  name: Sierra Mountain Little League # If the user or org name differs from the site name
+  name: Sierra Mountain Local League # If the user or org name differs from the site name
   links:
     - https://www.facebook.com/sierramountainll
     #- https://twitter.com/yourTwitter

@@ -26,7 +26,7 @@ hitting, sliding, and fielding, at levels appropriate for the ages you'll
 be coaching.
 
 Please see our [Volunteers]({% link _pages/volunteers.md %}) page for info
-on background checks and other requirements mandated by California and Little League.
+on background checks and other requirements mandated by California or the US federal government.
 
 See Little League's [Appointing Managers, Coaches, and Umpires
 ](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
@@ -239,4 +239,4 @@ with questions about this.
 ## Further Reading
 
 We have various [resources]({% link _pages/resources.md %}) available on our site
-with more information about SMLL and Little League.
+with more information about SMLL.

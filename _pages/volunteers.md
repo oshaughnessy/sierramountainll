@@ -6,10 +6,10 @@ toc_icon: praying-hands
 toc_h_max: 3
 ---
 
-Thanks for looking into helping with Sierra Mountain Little League!
+Thanks for looking into helping with SMLL!
 
 We have a handful of requirements for everyone who spends time with our players.
-These are mandated by the state, the federal government, and Little League.
+These are mandated by the state or the federal government.
 
 ## Volunteer Checklist
 
@@ -60,10 +60,9 @@ in the snack bar or being a team parent. Please see Little League's
 Volunteers](https://www.littleleague.org/university/articles/background-checks-for-little-league-volunteers/) for more info.
 
 In order to be in compliance with [California's Business & Professions Code
-§ 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.), Sierra Mountain Little League submits all volunteers to a background check
-and provides them with SafeSport-approved abuse training annually. This is required
-of all volunteers, regardless of whether an individual is new to the program or
-returning.
+§ 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
+SMLL submits all volunteers to a background check and provides them with SafeSport-approved abuse training annually.
+This is required of all volunteers, regardless of whether an individual is new to the program or returning.
 
 A background check is performed at the beginning of each season,
 with enhanced screening at J.D. Palatine (JDP). This includes:

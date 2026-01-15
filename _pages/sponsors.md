@@ -95,7 +95,7 @@ gallery_sponsors:
 
 ---
 
-Many, many thanks to our Sierra Mountain Little Leagues sponsors!
+Many, many thanks to our Sierra Mountain Local Leagues sponsors!
 
 We offer 2 types of sponsorships, for fields and teams.
 
@@ -107,7 +107,7 @@ in any one of our divisions, where your name will be seen close up by the parent
 in the stands and the sidelines at every game.
 
 {% include figure image_path="/assets/sponsors/sponsor-shots-sgb.jpg"
-   alt="South Gate Brewing, a local business, sponsors Sierra Mountain Little League"
+   alt="South Gate Brewing, a local business, sponsors SMLL"
    caption="Field banner for one of our local sponsors, South Gate Brewing."
 %}
 

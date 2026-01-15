@@ -17,7 +17,7 @@ strengths.
    caption="SMLL Majors field at sunset" %}
 
 We also have volunteers who aren't parents of players, but know the
-game and see the value of bringing Little League to the community.
+game and see the value of bringing youth baseball & softball to the community.
 To all of you, we appreciate your support and passion for the youth
 here. Thank you!
 
@@ -131,5 +131,4 @@ If you're interested, please text Tom at `831-818-6859`.
 ## Registration
 
 Please see our [Volunteers]({% link _pages/volunteers.md %}) page for details on
-requirements for volunteers, all of which are required by the state & federal government
-or Little League.
+requirements for volunteers, all of which are required by the state & federal government.

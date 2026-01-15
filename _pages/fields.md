@@ -7,12 +7,12 @@ toc_icon: fas fa-address-card
 toc_h_max: 2
 ---
 
-## Sierra Mountain Little League
+## Sierra Mountain Local League
 
-The Sierra Mountain Little League playing fields are located behind the
+The MY Club Sierra Mountain Local League playing fields are located behind the
 Oakhurst Community Center.
 
-Sierra Mountain Little League<br />
+Sierra Mountain Local League<br />
 425B Cinder Lane<br />
 Oakhurst, California  93644<br />
 {: .notice--info }
@@ -22,8 +22,8 @@ From Northbound 41:
 2. Turn right on 425B
 3. Turn right on Cinder Lane
  
-Little League traffic should take the road to the left to bypass
-the Community Center parking lot. Please park in the gravel parking lot only.
+League traffic should take the road to the left to bypass the Community Center parking lot.
+Please park in the gravel parking lot only.
 
 <style>
   .google-maps {
@@ -150,8 +150,9 @@ to the grassy lot beyond. The field will be on your left. It is located below th
 
 ## League Boundaries
 
-Our official boundary map is below. Check if your player's address
-or school falls within our area using the official
+SMLL only registered a Challenger team with Little League for the 2026 season.
+Our official boundary map is below. Check if your player's address or school falls
+within our area using the official
 [LL League Finder](https://www.littleleague.org/play-little-league/league-finder/){:target="_blank"}.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/smll-boundary-map-official.jpg){: .align-center}

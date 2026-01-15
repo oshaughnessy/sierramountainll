@@ -65,7 +65,7 @@ post for an overview of how player ages work with our game divisions.
 
 ## Volunteer
 
-Sierra Mountain Little League is run entirely by volunteers -- working parents
+SMLL is run entirely by volunteers -- working parents
 just like you who want to invest in their kids and their community. The whole
 system takes a lot of time and effort and many hands working together to make
 it happen. After you register your players in Sports Connect, you're given a
@@ -105,7 +105,7 @@ Player safety also includes vetting our volunteers with in-depth background chec
 and training them to recognize abuse. Please see our [Background
 Checks &amp; Training]({% link _pages/volunteers.md %}) page for more information.
 
-Little League also encourages parents to take advantage of USA Baseball's 
+SMLL also encourages parents to take advantage of USA Baseball's 
 [Abuse Awareness for Minors](https://usabdevelops.com/page/3532/courses/13975/abuse-awareness-for-minors)
 program as well.
 
@@ -261,7 +261,7 @@ These are the sizes we'll use in each division:
 
 Note that optic yellow, white, or other colors are all permitted.
 
-Little League [endorses some balls](https://www.littleleague.org/partnerships/licensing/shop-little-league-products/on-field/), but any ball of the right dimensions should be fine.
+Any fastpitch softball of the right dimensions should be fine.
 Please see Rule 1.09 of the [official Little League Softball
 rules](https://www.littleleague.org/playing-rules/rules-regulations-policies/){:target="blank"}
 for specific ball regulations.

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 nav_title: Home
-title: Sierra Mountain Little League
+title: Sierra Mountain Local League
 permalink: /
 layout: home
 classes: wide

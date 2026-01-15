@@ -91,9 +91,9 @@ resources:
   description: League registration account
 #- title: "Schedules"
 #  url: https://www.sierramountainll.com/Default.aspx?tabid=716491
-- title: "Store"
-  url: https://shop.bluesombrero.com/store/p/7479
+#- title: "Store"
+#  url: https://shop.bluesombrero.com/store/p/7479
 - title: "Sponsors"
   url: /sponsors/
-- title: "Little League"
-  url: https://www.littleleague.org/university/parents/
+- title: "NSA Fastpitch"
+  url: https://playnsa.com/category/nsa-news/girls-fastpitch/

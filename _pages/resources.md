@@ -40,7 +40,6 @@ page at [sierramountainll.com](https://sierramountainll.com){:target="_blank"}:
 * [School Enrollment Form](https://www.littleleague.org/downloads/school-enrollment-form/){:target="_blank"}
 
 * [Player League Age](https://www.littleleague.org/play-little-league/determine-league-age/){:target="_blank"}
-* [Residency Requirements](https://www.littleleague.org/university/articles/residency-requirements/){:target="_blank"}
 
 If needed for any form, our league is `Sierra Mountain Little League`
 and our ID is `4051014`.

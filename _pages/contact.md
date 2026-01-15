@@ -11,7 +11,7 @@ or [message us at Facebook](https://m.me/sierramountainll){:target="_blank"}.
 
 ## Mailing Address
 
-Sierra Mountain Little League<br />
+MY Club Sierra Mountain Local League<br />
 PO Box 824<br />
 Oakhurst, California  93644<br />
 {: .notice--info }
@@ -22,16 +22,15 @@ Oakhurst, California  93644<br />
 
 ## Board
 
-The Sierra Mountain Little League Board of Directors includes the following volunteers:
+The MY Club Sierra Mountain Local League committee includes the following volunteers:
 
-* Scott Michel, _President_, _Treasurer_
 * O'Shaughnessy Evans, _<span class=softball>Softball Director</span> &amp; Information Coordinator_
   ([softball@smll.info](mailto:softball@smll.info))
+* Sarah Rold, _<span class=baseball>Baseball Player Agent</span> &amp; Schedule Coordinator_
 * Ashley Garcia, _<span class=challenger>Challenger Director</span>_
   ([challenger@smll.info](mailto:challenger@smll.info))
-* Sarah Rold, _<span class=baseball>Baseball Player Agent</span> &amp; Schedule Coordinator_
-* Taryn Tompkins, _<span class=softball>Softball Player Agent</span>_
 * Savannah Moore, _Secretary_
+* Taryn Tompkins, _<span class=softball>Softball Player Agent</span>_
 * Tom Burdette, _Umpire in Chief_
 
 ### Area Representatives
@@ -45,7 +44,6 @@ The Sierra Mountain Little League Board of Directors includes the following volu
 
 * Safety Coordinator
 * Other Area Representatives/Coach Coordinators
-
 
 
 ## Fields
