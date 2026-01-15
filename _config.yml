@@ -247,9 +247,9 @@ lunr:
 #  search_engine_id: 462070f4ab7ad47f3
 
 # what's the date in the current year of our first game?
-first_game: 9/17
+first_game: 3/14
 # what's the season for the current year
-season_year: 2025
+season_year: 2026
 
 jekyll_timeago:
   depth: 1

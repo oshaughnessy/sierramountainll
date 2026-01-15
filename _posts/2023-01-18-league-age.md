@@ -75,20 +75,19 @@ more conventional 2-year groupings. We expanded each division in 2024
 to create larger Minor and Major divisions and facilitate a strong Junior
 team. We returned to 2-year groups in 2024.
 
-### 2025
+### 2025+
 
-| Division                 -| League Age Range | Birth Years
-|---------------------------|------------------|------------
-| 6U (Coach Pitch)          | 6-5              | {{sb_6y}}-{{sb_5y}}
-| 8U (Coach & Player Pitch) | 8-7              | {{sb_8y}}-{{sb_7y}}
-| 10U (Minor Player Pitch)  | 10-9             | {{sb_10y}}-{{sb_9y}}
-| 12U (Major)               | 12-11 [^SB12]    | {{sb_12y}}-{{sb_11y}}
-| 15U (Junior)              | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
+| Division  -| League Age Range | Birth Years
+|------------|------------------|------------
+| 8U         | 8-6              | {{sb_8y}}-{{sb_6y}}
+| 10U        | 10-9             | {{sb_10y}}-{{sb_9y}}
+| 12U        | 12-11 [^SB12]    | {{sb_12y}}-{{sb_11y}}
+| 15U        | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
 
-Please Note: Softball players age 8 and above must attend a player tryout/evaluation.
+Please Note: All softball players must attend a player tryout/evaluation.
 {: .notice--warning}
 
-[^SB12]: 12-year-olds may dual-roster in both Major and Junior softball
+[^SB12]: 12-year-olds may dual-roster in both 12U/Major and 15U/Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
 [^SBT]: aligns with the age range for a Little League softball tournament division
 
