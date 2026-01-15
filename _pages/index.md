@@ -42,16 +42,17 @@ Signups for all divisions are open now.
 
 Sprint 12U Fastpitch travel is having tryouts on Jan 18 at 2pm.
 
-Sign up now for more info. Registering for tryouts is free,
-and we'll keep playing costs as low as possible.
+Players registered for travel softball will automatically be registered for
+the regular recreational softball season as well. Travel players will have
+additional costs, but we will keep them as low as possible.  Sign up now for more info. 
 
-<!--
-| Registration    | Assessments | Opening Ceremonies | 1st Games | Picture Day   | Closing Day
+### Season Dates
+
+| Registration    | Assessments | Opening Ceremonies | Picture Day
 |----
-| Jan 1 - Jan 31  | Feb 1 - Mar 15       | Mar 10      | Mar 29             | Apr 5      | TBD (Apr/May) | June 1
+| Jan 1 - Feb 14  | Feb 12-13   | Mar 14             | TBD (Apr/May)
 |=
 {: .align-top }
--->
 
 <!--
 2026 Spring travel teams are starting tryouts very soon!
