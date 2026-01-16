@@ -14,14 +14,14 @@ These are mandated by the state or the federal government.
 ## Volunteer Checklist
 
 1. Sign up as a _Volunteer_ in Sports Connect
-2. Fill out the JDP background check that will be emailed to you
-3. Take the [SafeSport abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
+2. _(Coming soon: Fill out the JDP background check that will be emailed to you)_
+2. Take [abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
 4. Upload your SafeSport cert to your Volunteer page in Sports Connect
 
 ## Coach Checklist
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
-2. Fill out the JDP background check that will be emailed to you
+2. _(Coming soon: Fill out the JDP background check that will be emailed to you)_
 3. Take the [SafeSport abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
 4. Take the [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
@@ -31,6 +31,7 @@ These are mandated by the state or the federal government.
    _(linked here for reference; volunteers are required to check that they've read it during signup)_.
 8. Review the [sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
    _(linked here for reference; volunteers are required to check that they've read it during signup)_.
+9. _(Coming soon: Submit a Live Scan fingerprinting application)_
 
 
 ## Requirement Details
@@ -52,10 +53,15 @@ Any volunteer who provides "regular service to the league or repetitive access
 to children" must go through the background check process.
 
 {: .notice--warning }
+WORK IN PROGRESS! We'll be sending these out to all registered volunteers ASAP,
+but it's not ready yet.  With our move to MY Club, we're still figuring out how to
+do these through the new org.
+
+{: .notice--success }
 This includes helping with hitting and catching during practice,
 coaching a base or being in the dugout during games, even working
 in the snack bar or being a team parent. It's for anybody who spends
-more than 16 hours per month with our youth.
+more than 16 hours per month or 32 per year with our youth.
 
 #### Compliance Notice
 
@@ -136,6 +142,10 @@ If you're interested in more, take a look at
 
 A Live Scan must be done specifically for MY Club by each coach or other
 "regular volunteer". It _does not_ need to be done annually.
+
+{: .notice--warning }
+WORK IN PROGRESS! We'll be requesting these ASAP. With our move to MY Club,
+we're still figuring out how to do these through the new org.
 
 {% capture regular-volunteers %}
 Who needs to submit a Live Scan?
