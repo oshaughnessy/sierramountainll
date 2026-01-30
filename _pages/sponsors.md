@@ -102,9 +102,9 @@ We offer 2 types of sponsorships, for fields and teams.
 Field sponsors, at $500, get a banner out on our baseball or softball field, where
 you can share the moment and the photo ops with our players' biggest hits.
 
-Team sponsors, at $800, get their name on the back of jerseys for a group of kids
-in any one of our divisions, where your name will be seen close up by the parents
-in the stands and the sidelines at every game.
+Team sponsors, at $800, get a banner *and* their name on the back of jerseys for a
+group of kids in any one of our divisions, where your name will be seen close up by
+the parents in the stands and the sidelines at every game.
 
 {% include figure image_path="/assets/sponsors/sponsor-shots-sgb.jpg"
    alt="South Gate Brewing, a local business, sponsors SMLL"
@@ -112,7 +112,7 @@ in the stands and the sidelines at every game.
 %}
 
 If you're interested in supporting the league, please reach out to
-[Scott Michel]({{ site.baseurl }}/contacts/).
+[MY Club Athletics]({{ site.baseurl }}/contacts/).
 
 We also accept donations of $25, $50, or $100 through [Square
 Up](https://squareup.com/store/sierra-mountain-little-league){:target="_blank"}.
