@@ -24,14 +24,13 @@ Oakhurst, California  93644<br />
 
 The MY Club Sierra Mountain Local League committee includes the following volunteers:
 
+* Kal&eacute; Simmons, [MY Club Athletics](mailto:athletics@mtareayouth.org)
 * O'Shaughnessy Evans, _<span class=softball>Softball Director</span> &amp; Information Coordinator_
   ([softball@smll.info](mailto:softball@smll.info))
-* Sarah Rold, _<span class=baseball>Baseball Player Agent</span> &amp; Schedule Coordinator_
+* Sarah Rold, _<span class=baseball>Player Agent</span> &amp; Schedule Coordinator_
+* Savannah Moore, _Secretary_
 * Ashley Garcia, _<span class=challenger>Challenger Director</span>_
   ([challenger@smll.info](mailto:challenger@smll.info))
-* Savannah Moore, _Secretary_
-* Taryn Tompkins, _<span class=softball>Softball Player Agent</span>_
-* Tom Burdette, _Umpire in Chief_
 
 ### Area Representatives
 
