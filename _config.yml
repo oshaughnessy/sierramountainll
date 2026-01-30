@@ -98,7 +98,7 @@ exclude:
 # See also: https://mmistakes.github.io/minimal-mistakes/docs/configuration
 
 # Your site's logo. Will be shown on the left top of your page.
-logo: assets/images/smll-logo-trans.png
+logo: assets/images/myclub-smll-trans.png
 # If the images of our blog are stored in an external cloud,
 # you can use the jekyll-img-prefix plugin and set your image's base URL here.
 # img_prefix: https://your-img-cdn.com
@@ -120,8 +120,8 @@ facebook:
   username: sierramountainll
   publisher: sierramountainll
 header:
-  image: assets/images/smll-logo-trans.png
-og_image: assets/images/smll-logo-trans.png
+  image: assets/images/myclub-smll-trans.png
+og_image: assets/images/myclub-smll-trans.png
 social:
   type: Organization # Person or Organization (defaults to Person)
   name: Sierra Mountain Local League # If the user or org name differs from the site name

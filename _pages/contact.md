@@ -18,7 +18,7 @@ Oakhurst, California  93644<br />
 
 <br />
 
-![SMLL Logo]({{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right .half-width }
+![SMLL Logo]({{ site.baseurl }}/assets/images/myclub-smll-trans.png){: .align-right .half-width }
 
 ## Board
 

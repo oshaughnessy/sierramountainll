@@ -10,7 +10,7 @@ in central California until the 2026 season. In 2026, only our Challenger divisi
 registered with Little League. All other divisions of baseball and softball are local
 programs of [MY Club](https://mountainyouthclubs.org), without an external governing body.
 
-![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-left .full-width .gimme-space }
+![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/myclub-smll-trans.png){: .align-left .full-width .gimme-space }
 
 We have been serving the mountain communities of the Sierra foothills
 since 1972, providing baseball and softball activities for coed players

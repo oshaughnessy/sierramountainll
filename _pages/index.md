@@ -63,6 +63,6 @@ and we'll keep playing costs as low as possible.
 **Tryouts for 12U fastpitch are Aug 24. Please sign up ASAP.**
 -->
 
-![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/smll-logo-trans.png){: .align-right}
+![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/myclub-smll-trans.png){: .align-right}
 
 ----
