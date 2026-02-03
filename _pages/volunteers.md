@@ -15,14 +15,14 @@ These are mandated by the state or the federal government.
 
 1. Sign up as a _Volunteer_ in Sports Connect
 2. _(Coming soon: Fill out the JDP background check that will be emailed to you)_
-2. Take [abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
+2. Take [abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"} or document a current one from another sport
 4. Upload your SafeSport cert to your Volunteer page in Sports Connect
 
 ## Coach Checklist
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. _(Coming soon: Fill out the JDP background check that will be emailed to you)_
-3. Take the [SafeSport abuse awareness training](https://safesport.org){:target="_blank"} or document a current one from another sport
+3. Take the [LL abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"} or document a current one from another sport
 4. Take the [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
 5. Take [Sudden Cardiac Awareness (SCA) training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
    (good for 2 years)
@@ -92,17 +92,21 @@ following locations:
 ### Abuse Awareness
 
 To meet California requirement from AB 506, complete any complaint abuse awareness training program:
-- [U.S. Center for SafeSport Training](https://safesport.org)
-- [Mandated Reporter CA](https://mandatedreporterca.com/training/volunteers)
-- USA Baseball's [Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188).
+- [Little League's abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
+- [USA Baseball's Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188).
   More info is available at [USA Baseball's Baseball Athlete Safety Education page](
   https://usabdevelops.com/page/4834/base/17090/base).
+- [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 
 {: .notice--success }
 If you've already completed AB 506-compliant abuse awareness training program for another sport
 or league and your certificate is still current, you can use it for MY Club, too.  For example,
 [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
+
+For more info, see:
+- [U.S. Center for SafeSport Training](https://safesport.org)
+- [Mandated Reporter CA](https://mandatedreporterca.com/training/volunteers)
 
 
 ### Health Training
