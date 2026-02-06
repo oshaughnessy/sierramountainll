@@ -31,7 +31,7 @@ These are mandated by the state or the federal government.
    _(linked here for reference; volunteers are required to check that they've read it during signup)_.
 8. Review the [sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
    _(linked here for reference; volunteers are required to check that they've read it during signup)_.
-9. _(Coming soon: Submit a Live Scan fingerprinting application)_
+9. Submit a Live Scan fingerprinting application
 
 
 ## Requirement Details
@@ -145,11 +145,19 @@ If you're interested in more, take a look at
 ### Fingerprinting: Live Scans
 
 A Live Scan must be done specifically for MY Club by each coach or other
-"regular volunteer". It _does not_ need to be done annually.
+"regular volunteer". Thankfully, you only need to do it once, It _does not_ need to be
+done annually.  rather than annually like the rest of the certs. Unfortunately, though,
+a Live Scan for another organization can't be used for MY Club.
 
-{: .notice--warning }
-WORK IN PROGRESS! We'll be requesting these ASAP. With our move to MY Club,
-we're still figuring out how to do these through the new org.
+   1. Fill out the [MY Club Live Scan form]({% link /assets/files/myclub-livescan-2026.pdf %}).
+      Use your full legal name, as found on your driver's license or California ID.
+   2. Make an appointment with the Oakhurst Sheriff's office to submit your form. _(Very important!)_
+   3. Bring _the 1st page of your form_ and
+      [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
+      to your appointment. You will be fingerprinted and your identity will be verified when
+      they complete your form and submit it.
+   4. Submission is under $10 for coaches, but only at the Oakhurst Sheriff's office.
+
 
 {% capture regular-volunteers %}
 Who needs to submit a Live Scan?
