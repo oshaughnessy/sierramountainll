@@ -19,23 +19,8 @@ page for registration info.
 
 ## What do I need to be a coach?
 
-At least one coach or manager from each team must attend a first aid class and
-a baseball training session, both provided by the league at the beginning of the
-season. The training will cover coaching fundamentals, including pitching,
-hitting, sliding, and fielding, at levels appropriate for the ages you'll
-be coaching.
-
 Please see our [Volunteers]({% link _pages/volunteers.md %}) page for info
 on background checks and other requirements mandated by California or the US federal government.
-
-See Little League's [Appointing Managers, Coaches, and Umpires
-](https://www.littleleague.org/university/articles/appointing-managers-coaches-and-umpires/).
-{: .notice }
-
-Skills and health training is covered at Little League's [Incorporating
-Effective Local Training Can Prep Volunteers for a Safer, More Successful
-Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
-{: .notice }
 
 ## Things to Know
 

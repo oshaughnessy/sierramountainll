@@ -121,11 +121,13 @@ for any coach working in a youth sport. To satisfy this, you can take this free 
 
 ### Other Coaching Courses
 
-Please see the other [**coaching courses**]({{ site.baseurl }}/coaches/#what-do-i-need-to-be-a-coach).
-First aid and fundamental baseball training are Little League requirements.
+If you'd like to learn more, skills and health training is covered at Little League's
+[Incorporating Effective Local Training Can Prep Volunteers for a Safer, More Successful
+Season](https://www.littleleague.org/university/articles/incorporating-effective-local-training-can-prep-volunteers-for-a-safer-more-successful-season/).
+{: .notice }
 
-If you're interested in more, take a look at
-[Little League's Diamond Leader Training](https://www.littleleague.org/diamondleader).
+[Little League's Diamond Leader Training](https://www.littleleague.org/diamondleader) program
+is also widely respected.
 
 
 ### Fingerprinting: Live Scans
