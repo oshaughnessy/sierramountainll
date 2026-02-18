@@ -153,7 +153,18 @@ practices or be on the field during games.
 A Live Scan for another organization cannot be used by MY Club.
 
 
-### Other Coaching Courses
+### Alternate Courses
+
+If you've taken courses elsewhere and they haven't expired, use those certificates!
+
+- [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
+- [Sudden Cardiac Arrest training](https://epsavealife.org/sca-prevention-training/){:target="_blank"}
+- [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
+- [USA Baseball's Abuse Awareness for Adults course](https://usabdevelops.com/page/3532/courses?page=1&TAG_ID=2188).
+- [Little League's abuse awareness training](https://www.littleleague.org/university/articles/abuse-awareness-training-course/){:target="_blank"}
+
+
+## Learn More
 
 If you'd like to learn more, skills and health training is covered at Little League's
 [Incorporating Effective Local Training Can Prep Volunteers for a Safer, More Successful
