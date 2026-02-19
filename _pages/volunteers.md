@@ -133,7 +133,8 @@ a Live Scan for another organization can't be used for MY Club.
       [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
       to your appointment. You will be fingerprinted and your identity will be verified when
       they complete your form and submit it.
-   4. Submission is under $10 for coaches, but only at the Oakhurst Sheriff's office.
+   4. Submission $10-25 for coaches, but only at the Oakhurst Sheriff's office. Let them know you're
+      coming from SMLL and they may give you a better rate.
 
 
 {% capture regular-volunteers %}
