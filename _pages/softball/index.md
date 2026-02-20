@@ -36,6 +36,7 @@ The following rules apply to all divisions:
 
 
 ### 8U
+{: .softball}
 
 No 8U at SMLL this season! We didn't have enough players for more than 1 team.
 {: .notice--info }
