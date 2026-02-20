@@ -11,7 +11,7 @@ toc_h_max: 3
 
 This page describes the 2026[^past] spring softball season at SMLL.
 
-![Sierra Wildflowers Logo]({% link /assets/images/smll-wildflowers-20260219-round-trans.png %}){: .align-center .half-width }
+![Sierra Wildflowers Logo]({% link /assets/images/smll-wildflowers-20260219-round-trans-yellow-ball.png %}){: .align-center .half-width }
 
 
 ## Divisions
