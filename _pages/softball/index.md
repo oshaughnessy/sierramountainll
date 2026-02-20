@@ -35,87 +35,16 @@ The following rules apply to all divisions:
   on the runner is close.[^sliding]
 
 
-### 8U (Coach Pitch)
-{: .softball}
+### 8U
 
-| **Ages**                  | 6-8<sup>*</sup> |
-| **Ball**                  | 11" standard softball<sup>*</sup> |
-| **Pitch Distance**        | 35'
-| **Base Distance**         | 60'
-| **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
-| **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
-
-[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
-&nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
-{: .small }
-
-8U is a learning division where young girls with some experience
-and growing strength build a stronger understanding of game strategy and
-position-oriented skills. We encourage coaches to rotate players through
-all positions throughout the season.
-
-This is a coach-pitch division. Coaches should begin teaching girls to
-throw a fastpitch from the very beginning of the season, and teams should
-approach early games with extra patience as all teams will be developing brand
-new pitchers.
-
-6-year-olds should have spent a season in tee ball before joining softball.
-Otherwise, we encourage them to play tee ball first. They will need to attend
-an assessment day and have coach approval before joining 8U.
-{: .notice--success}
-
-#### 8U Ground Rules
-
-- Defensive coaches are allowed and encouraged to be on the field during game
-  play to instruct their players
-- Optional 4th outfielder may be provided to create a 10th defensive player
-- Bunting is _not allowed_
-- Infield fly rule will _not_ be applied
-- Stealing is _not allowed_
-- Runners may lead-off at release of pitched ball
-
-#### 8U Coach-Pitching
-
-- After 4 balls, defensive coach will pitch remaining strikes; all coach pitches are strikes
-- Coach must have 1 foot on the pitching plate when the ball is released
-- Batter hit by pitch once results in ball; batter hit by pitch twice in same at-bat results in award of 1st base
-
-**8U Modified, 1(c)**\
-"While the offensive coach is pitching, he/she must remain in contact with the pitching
-mound and is not allowed to coach any of his/her players or field any balls."
-{: .notice--info }
-
-#### 8U Lead-offs
-
-Lead-off rules follow those of NSA 8U Modified fastpitch softball[^rulebook].
-
-**8U Modified, Section 1(f)**\
-"Runners may leave the base once the pitch is released, this includes while the coach is pitching.
-Runners may ONLY lead off base when the coach is pitching, they may not steal."
-{: .notice--info }
-
-Note that by common agreement with MGS[^partner], we understand this to mean that runners
-may lead off when a player or a coach is pitching.
-
-This aligns with the the regular rules of NSA fastpitch softball for divisions 10U and higher:
-
-**Rule 8.8(u):** _The baserunner is out_ \
-"when the baserunner(s) fails to keep contact with their base until
-a legally pitched ball leaves the pitcher's hand. The ball is dead,
-'NO PITCH' is declared and the baserunner(s) is declared out."
-{: .notice--info }
-
-#### 8U Sliding
-
-**8U Modified, Section 1(o)**\
-"Runners are not required to slide but must try and avoid contact"
+No 8U at SMLL this season! We didn't have enough players for more than 1 team.
 {: .notice--info }
 
 
 ### 10U
 {: .softball}
 
-| **Ages**                  | 9-10<sup>*</sup> |
+| **Ages**                  | 7-10<sup>*</sup> |
 | **Ball**                  | 11" standard softball<sup>*</sup> |
 | **Pitch Distance**        | 35'
 | **Base Distance**         | 60'
@@ -128,6 +57,8 @@ a legally pitched ball leaves the pitcher's hand. The ball is dead,
 
 10U is our transition division, where girls begin to play with nearly all the
 regular rules of fastpitch softball.
+
+
 
 #### 10U Rule Highlights
 
@@ -227,9 +158,10 @@ Please see our [softball schedules page]({% link _pages/schedules/softball.md %}
 ----
 _Footnotes_
 
-
-[^ages]: **[Ages]** Division ages listed here are based on birth year, the way NSA did it prior to the 2025-26 season,
-    which [changed to Sep-Aug age groups](https://playnsa.com/2025/07/nsa-changes-age-eligibility-for-new-season/).
+[^ages]: **[Ages]** New for the 2025-26 season, division ages listed here are based on Sep-Aug age groups.
+    See the [USSSA Softball age calculator](https://www.usssa.com/fastpitch/ageCalculator),
+    and the [NSA announcement](https://playnsa.com/2025/07/nsa-changes-age-eligibility-for-new-season/).
+    In prior seasons, SMLL aligning with Little League in using birth year divisions.
 
 [^limit]: **[Time Limits]** For game limits in marked divisions, no new inning is started after the time
     or inning limit is reached. Once an inning has started, it must be finished regardless
