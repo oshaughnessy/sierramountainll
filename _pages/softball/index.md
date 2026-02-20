@@ -6,15 +6,12 @@ toc: true
 toc_icon: softball
 toc_h_max: 3
 #header:
-#  overlay_image: /assets/images/smll-wildflowers-20230323.png
+#  overlay_image: /assets/images/smll-wildflowers-20260219-round.png
 ---
 
-{% include figure
-   image_path="/assets/images/smll-wildflowers-20230323-colors.png"
-   alt="Sierra Mountain Wildflowers"
-%}
-
 This page describes the 2026[^past] spring softball season at SMLL.
+
+![Sierra Wildflowers Logo]({% link /assets/images/smll-wildflowers-20260219-round-trans.png %}){: .align-center .half-width }
 
 
 ## Divisions
@@ -24,7 +21,7 @@ This page describes the 2026[^past] spring softball season at SMLL.
 The following rules apply to all divisions:
 
 - 5-run limit per team per inning[^runs]
-- Pitchers must wear a face mask while in the pitching position.
+- Pitchers may wear a face mask while in the pitching position.
 - Pitchers are only allowed to pitch 2 consecutive innings, after which another
   pitcher must be substituted in for at least 1 inning. After this, the original
   pitcher may return.
