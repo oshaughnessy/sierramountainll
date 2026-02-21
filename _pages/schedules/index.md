@@ -29,32 +29,32 @@ GameChanger scoreboards coming soon
 * [12U]({% link _pages/schedules/12u.md %})
 * [14U]({% link _pages/schedules/14u.md %})
 
-## Significant 2025 Dates
+## Significant 2026 Dates
 
 ```
-     March 2025            April 2025             May 2025
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-                   1         1  2  3  4  5               1  2  3
- 2  3  4  5  6  7  8   6  7  8  9 10 11 12   4  5  6  7  8  9 10
- 9 10 11 12 13 14 15  13 14 15 16 17 18 19  11 12 13 14 15 16 17
-16 17 18 19 20 21 22  20 21 22 23 24 25 26  18 19 20 21 22 23 24
-23 24 25 26 27 28 29  27 28 29 30           25 26 27 28 29 30 31
-30 31
-```
+     March 2026              April 2026               May 2026
+Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7              1  2  3  4                    1  2
+ 8  9 10 11 12 13 14     5  6  7  8  9 10 11     3  4  5  6  7  8  9
+15 16 17 18 19 20 21    12 13 14 15 16 17 18    10 11 12 13 14 15 16
+22 23 24 25 26 27 28    19 20 21 22 23 24 25    17 18 19 20 21 22 23
+29 30 31                26 27 28 29 30          24 25 26 27 28 29 30
+                                                31
 
-- **Feb 17-21:** President's Week break
-- **Apr 13-20:** Bass Lake School District (BLSD) spring break
-- **Apr 13-20:** Mountain Home School (MHS) spring break
-- **Apr 13-20:** Chawanakee Unified (CUSD) spring break
-- **Apr 13-20:** Yosemite Unified (YUSD) spring break
-- **Apr 21-25:** Mariposa Unified (MUSD) spring break
-- **Apr 20:** Easter
-- **May 26:** Memorial Day weekend
-- **Jun 6:** MUSD last day of school
-- **Jun 10-12:** YUSD last days of school
-- **Jun 11:** MHS last day of school
-- **Jun 12:** BLSD last day of school
-- **Jun 13:** CUSD last day of school
+
+- **Feb 16-20:** President's Week break
+- **Apr A-B:** Bass Lake School District (BLSD) spring break
+- **Apr A-B:** Mountain Home School (MHS) spring break
+- **Apr A-B:** Chawanakee Unified (CUSD) spring break
+- **Apr A-B:** Yosemite Unified (YUSD) spring break
+- **Apr A-B:** Mariposa Unified (MUSD) spring break
+- **Apr N:** Easter
+- **May N:** Memorial Day weekend
+- **Jun N:** MUSD last day of school
+- **Jun A-B:** YUSD last days of school
+- **Jun N:** MHS last day of school
+- **Jun N:** BLSD last day of school
+- **Jun N:** CUSD last day of school
 
 {: .notice--info }
 School Calendars:
