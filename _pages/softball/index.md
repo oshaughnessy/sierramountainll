@@ -1,6 +1,8 @@
 ---
 title: 2026 Fastpitch Softball at SMLL
 permalink: /softball/
+redirect_from:
+  - /softball/2026/
 tag: softball, 2026-season
 toc: true
 toc_icon: softball
