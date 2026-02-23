@@ -40,7 +40,7 @@ Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
 22 23 24 25 26 27 28    19 20 21 22 23 24 25    17 18 19 20 21 22 23
 29 30 31                26 27 28 29 30          24 25 26 27 28 29 30
                                                 31
-
+```
 
 - **Feb 16-20:** President's Week break
 - **Apr A-B:** Bass Lake School District (BLSD) spring break
