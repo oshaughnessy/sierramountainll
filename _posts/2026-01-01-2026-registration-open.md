@@ -1,5 +1,5 @@
 ---
-title: Spring 2026 registration
+title: Spring 2026 Registration Open
 tag: 2026 2026-season signup
 ---
 
