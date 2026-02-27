@@ -1,6 +1,8 @@
 ---
 title: Volunteers -- Background Checks & Training
 permalink: /volunteers/
+redirect_from:
+  - /volunteer/
 toc: true
 toc_icon: praying-hands
 toc_h_max: 3
@@ -117,6 +119,10 @@ is [required by California law](https://www.littleleague.org/player-safety/concu
 for any coach working in a youth sport. To satisfy this, you can take this free course:
 
 > **[NFHS Learn: Concussion Training](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"}**
+
+According to [AB 2007](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB2007#:~:text=The%20bill%20would%20require%20youth,organization%2C%20irrespective%20of%20their%20ages.),
+coaches need to take the course "at least once". After you've done this, you don't need to repeat it,
+but it is good info to keep fresh.
 
 
 ### Fingerprinting: Live Scans
