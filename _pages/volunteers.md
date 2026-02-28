@@ -40,7 +40,9 @@ These are mandated by the state or the federal government.
 
 ## Requirement Details
 
-### Sign Up: Sports Connect
+### Sign Up
+
+#### Volunteer in Sports Connect
 
 See the
 [Volunteer](https://www.sierramountainll.com/Default.aspx?tabid=716513&familyid=1280771057954850150&subctl=volunteersinfo){:target="_blank"}
@@ -51,7 +53,7 @@ like a certificate from SafeSport and a few others. When you have those done,
 you'll need to return to the Volunteer page to upload those files or images
 so we can check them.
 
-### Sign Up: NFHS Learn
+#### Sign Up for NFHS Learn
 
 NFHS is the easiest place to take free courses that will keep all of us in compliance with California & Federal law.
 
