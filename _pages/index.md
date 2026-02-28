@@ -48,4 +48,5 @@ Signups for all divisions are open now.
 
 ![SMLL Logo]({{ site.url }}{{ site.baseurl }}/assets/images/myclub-smll-trans.png){: .align-right}
 
+
 ----

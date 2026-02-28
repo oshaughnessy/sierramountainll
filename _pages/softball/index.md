@@ -156,8 +156,6 @@ Other nearby leagues include:
 Please see our [softball schedules page]({% link _pages/schedules/softball.md %}) for game times and live scores.
 
 
-
-
 ----
 _Footnotes_
 

@@ -19,7 +19,7 @@ These are mandated by the state or the federal government.
 2. Register or sign in to a free [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
     - Take [NFHS Learn Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
 3. Take the free [CDSS Mandated Reporter Training](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} course for volunteers.
-4. Submit a Live Scan fingerprinting application
+4. Submit a Live Scan fingerprinting application[^notice]
 
 ## Coach Checklist
 
@@ -35,7 +35,7 @@ These are mandated by the state or the federal government.
       _(linked here for reference; volunteers are required to check that they've read it during signup)_.
     - [Sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
       _(linked here for reference; volunteers are required to check that they've read it during signup)_.
-5. Submit a Live Scan fingerprinting application
+5. Submit a Live Scan fingerprinting application[^notice]
 
 
 ## Requirement Details
@@ -111,21 +111,10 @@ According to [AB 2007](https://leginfo.legislature.ca.gov/faces/billNavClient.xh
 coaches need to take the course "at least once". After you've done this, you don't need to repeat it,
 but it is good info to keep fresh.
 
-#### Compliance Notice
-
-In order to be compliant with [California's Business & Professions Code
-§ 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
-we are required to provide notice like the following:
-
-> SMLL submits all volunteers to fingerprinting and a background check
-> and provides them with CA AB 506-compliant abuse training annually.
-> This is required of all volunteers, regardless of whether an individual
-> is new to the program or returning.
-
 
 ### Fingerprinting: Live Scans
 
-A Live Scan must be done specifically for MY Club by each coach or other
+A Live Scan[^notice] must be done specifically for MY Club by each coach or other
 "regular volunteer". Thankfully, you only need to do it once, It _does not_ need to be
 done annually.  rather than annually like the rest of the certs. Unfortunately, though,
 a Live Scan for another organization can't be used for MY Club.
@@ -177,3 +166,9 @@ Season](https://www.littleleague.org/university/articles/incorporating-effective
 
 [Little League's Diamond Leader Training](https://www.littleleague.org/diamondleader) program
 is also widely respected.
+
+
+----
+_Footnotes_
+
+[^notice]: **[Compliance Notice]** In order to be compliant with [California's Business & Professions Code § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.), we are required to provide notice like the following: "SMLL submits all volunteers to fingerprinting and a background check and provides them with CA AB 506-compliant abuse training annually. This is required of all volunteers, regardless of whether an individual is new to the program or returning."
