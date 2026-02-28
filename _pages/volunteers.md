@@ -31,11 +31,9 @@ These are mandated by the state or the federal government.
     |-------|---------------|---------------
     | [Live Scan]({% link /assets/files/myclub-livescan-2026.pdf %}) | [Concussions](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"} | [Sudden Cardiac Arrest](https://nfhslearn.com/courses/sudden-cardiac-arrest){:target="_blank"} | [Abuse Awareness](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"} | [Mandated Reporter](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} |
 
-4. Review:
+4. Review _(if you didn't during signup)_:
     - [CDC concussion information sheet for coaches]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
-      _(linked here for reference; volunteers are required to check that they've read it during signup)_.
     - [Sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
-      _(linked here for reference; volunteers are required to check that they've read it during signup)_.
 
 
 ## Requirement Details
