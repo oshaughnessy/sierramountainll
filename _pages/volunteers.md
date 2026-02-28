@@ -91,7 +91,7 @@ for coaches in educational sports programs. To satisfy this, you can take this f
 
 {: .notice--success }
 According to
-([AB 379 § 2.124235(a)(5)(A)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379),
+[AB 379 § 2.124235.a.5.A](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379),
 coaches and other administrators need to take the course "at least once", and we need to offer it annually.
 
 {: .notice--info }
