@@ -25,17 +25,17 @@ These are mandated by the state or the federal government.
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Register or sign in to a free [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
-    - Take [NFHS Learn: Concussion Training](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"}
-    - Take [NFHS Learn: Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
-    - Take [NFHS Learn: Sudden Cardiac Arrest Training](https://nfhslearn.com/courses/sudden-cardiac-arrest){:target="_blank"}
-    - Upload all 3 certs or screenshots to the Volunteer page in Sports Connect.
-3. Take the free [CDSS Mandated Reporter Training](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} course for volunteers.
+3. Take your courses:
+
+    | Once | | | Annual
+    |-------|---------------|---------------
+    | [Live Scan]({% link /assets/files/myclub-livescan-2026.pdf %}) | [Concussions](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"} | [Sudden Cardiac Arrest](https://nfhslearn.com/courses/sudden-cardiac-arrest){:target="_blank"} | [Abuse Awareness](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"} | [Mandated Reporter](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} |
+
 4. Review:
     - [CDC concussion information sheet for coaches]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
       _(linked here for reference; volunteers are required to check that they've read it during signup)_.
     - [Sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
       _(linked here for reference; volunteers are required to check that they've read it during signup)_.
-5. Submit a Live Scan fingerprinting application[^notice]
 
 
 ## Requirement Details
@@ -92,7 +92,9 @@ for coaches in educational sports programs. To satisfy this, you can take this f
 > **[NFHS Learn: Sudden Cardiac Arrest Training](https://nfhslearn.com/courses/sudden-cardiac-arrest){:target="_blank"}**
 
 {: .notice--success }
-The training is good for 2 years ([Cal Ed Code § 33479.6](https://codes.findlaw.com/ca/education-code/edc-sect-33479-6/){:target="_blank"}).
+According to
+([AB 379 § 2.124235(a)(5)(A)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379),
+coaches and other administrators need to take the course "at least once", and we need to offer it annually.
 
 {: .notice--info }
 Coaches of youth sports programs are encouraged to follow the guidelines of 
@@ -107,7 +109,9 @@ for any coach working in a youth sport. To satisfy this, you can take this free 
 
 > **[NFHS Learn: Concussion Training](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"}**
 
-According to [AB 2007](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB2007#:~:text=The%20bill%20would%20require%20youth,organization%2C%20irrespective%20of%20their%20ages.),
+{: .notice--success }
+According to
+[AB 2007](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB2007#:~:text=The%20bill%20would%20require%20youth,organization%2C%20irrespective%20of%20their%20ages.),
 coaches need to take the course "at least once". After you've done this, you don't need to repeat it,
 but it is good info to keep fresh.
 
