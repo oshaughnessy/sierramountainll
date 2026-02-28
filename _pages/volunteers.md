@@ -51,48 +51,34 @@ like a certificate from SafeSport and a few others. When you have those done,
 you'll need to return to the Volunteer page to upload those files or images
 so we can check them.
 
-### Abuse Awareness
+### Sign Up: NFHS Learn
 
-To meet California requirements for AB 506, complete these abuse awareness training programs:
+NFHS is the easiest place to take free courses that will keep all of us in compliance with California & Federal law.
+
+You can register for an
+[NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
+to take your abuse awareness, concussion, and sudden cardiac arrest training.
+Those are suitable for coaches across our age divisions, from tee ball through high school.
+
+
+### Courses
+
+#### Abuse Awareness
+
+The federal Safe Sport Act and California AB 506 require abuse prevention training. To statisfy those,
+you can take these courses:
+
 - [NFHS Learn's Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
 - [CDSS Mandated Reporter Training](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"}
 
 {: .notice--success }
-If you've already completed AB 506-compliant abuse awareness training program for another sport
+If you've already completed an AB 506-compliant abuse awareness training program for another sport
 or league and your certificate is still current, you can use it for MY Club, too.  For example,
 [US Soccer's SafeSport program](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 is adequate for our needs. Just upload the certificate to your Sports Connect volunteer page.
 
 For more info, see the California Dept of Social Services page on
 [Mandated Reporter Training](https://www.cdss.ca.gov/inforesources/ocap/mrt)
-
-#### Compliance Notice
-
-In order to be compliant with [California's Business & Professions Code
-§ 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
-we are required to provide notice like the following:
-
-> SMLL submits all volunteers to fingerprinting and a background check
-> and provides them with CA AB 506-compliant abuse training annually.
-> This is required of all volunteers, regardless of whether an individual
-> is new to the program or returning.
-
-
-### Health Training
-
-NFHS is the easiest place to take free courses that will keep all of us in compliance with California law.
-
-You can register for an [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"} to take your concussion, sudden cardiac arrest, and abuse
-awareness training. These are all appropriate for coaches across our age divisions, from tee ball through
-high school ages.
-
-#### Abuse Prevention
-
-The federal Safe Sport Act and California AB 506 require abuse prevention training. To statisfy this,
-you can take this free course:
-
-> **[NFHS Learn: Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}**
-
 
 #### Cardiac Arrest
 
@@ -111,7 +97,6 @@ Coaches of youth sports programs are encouraged to follow the guidelines of
 the The Eric Paredes Sudden Cardiac Prevention Act
 [Dept of Ed Article 13 § 33479.8](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=33479.8.){:target="_blank"}
 
-
 #### Concussion
 
 [HEADS UP concussion training](https://www.cdc.gov/heads-up/training/youth-sports.html){:target="_blank"}
@@ -123,6 +108,17 @@ for any coach working in a youth sport. To satisfy this, you can take this free 
 According to [AB 2007](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB2007#:~:text=The%20bill%20would%20require%20youth,organization%2C%20irrespective%20of%20their%20ages.),
 coaches need to take the course "at least once". After you've done this, you don't need to repeat it,
 but it is good info to keep fresh.
+
+#### Compliance Notice
+
+In order to be compliant with [California's Business & Professions Code
+§ 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.),
+we are required to provide notice like the following:
+
+> SMLL submits all volunteers to fingerprinting and a background check
+> and provides them with CA AB 506-compliant abuse training annually.
+> This is required of all volunteers, regardless of whether an individual
+> is new to the program or returning.
 
 
 ### Fingerprinting: Live Scans
