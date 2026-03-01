@@ -19,7 +19,7 @@ These are mandated by the state or the federal government.
 2. Register or sign in to a free [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
     - Take [NFHS Learn Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
 3. Take the free [CDSS Mandated Reporter Training](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} course for volunteers.
-4. Submit a Live Scan fingerprinting application[^notice]
+4. Submit a Live Scan fingerprinting application[^notice-18900]
 
 ## Coach Checklist
 
@@ -31,7 +31,7 @@ These are mandated by the state or the federal government.
     |-------|---------------|---------------
     | [Live Scan]({% link /assets/files/myclub-livescan-2026.pdf %}) | [Concussions](https://nfhslearn.com/courses/concussion-in-sports-2){:target="_blank"} | [Sudden Cardiac Arrest](https://nfhslearn.com/courses/sudden-cardiac-arrest){:target="_blank"} | [Abuse Awareness](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"} | [Mandated Reporter](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} |
 
-4. Review _(if you didn't during signup)_:
+4. Review _(if you didn't during signup)_[^notice-ab379]:
     - [CDC concussion information sheet for coaches]({% link /assets/files/headsup-coaches.pdf %}){:target="_blank"}
     - [Sudden cardiac arrest information sheet for coaches]({% link /assets/files/sca-coaches.pdf %}){:target="_blank"}
 
@@ -116,7 +116,7 @@ but it is good info to keep fresh.
 
 ### Fingerprinting: Live Scans
 
-A Live Scan[^notice] must be done specifically for MY Club by each coach or other
+A Live Scan[^notice-18900] must be done specifically for MY Club by each coach or other
 "regular volunteer". Thankfully, you only need to do it once, It _does not_ need to be
 done annually.  rather than annually like the rest of the certs. Unfortunately, though,
 a Live Scan for another organization can't be used for MY Club.
@@ -173,4 +173,6 @@ is also widely respected.
 ----
 _Footnotes_
 
-[^notice]: **[Compliance Notice]** In order to be compliant with [California's Business & Professions Code § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.), we are required to provide notice like the following: "SMLL submits all volunteers to fingerprinting and a background check and provides them with CA AB 506-compliant abuse training annually. This is required of all volunteers, regardless of whether an individual is new to the program or returning."
+[^notice-18900]: **[California's Business & Professions Code § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.) Compliance Notice**: "SMLL submits all volunteers to fingerprinting and a background check and provides them with CA AB 506-compliant abuse training annually. This is required of all volunteers, regardless of whether an individual is new to the program or returning."
+
+[^notice-ab379]: **[AB 379 § 2.124235.a.4](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379)**: "On a yearly basis, the youth sports organization shall offer concussion and head injury and sudden cardiac arrest prevention education, or related educational materials, or both, to each coach, administrator, and referee, umpire, or other game official of the youth sports organization."
