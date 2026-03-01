@@ -25,7 +25,7 @@ These are mandated by the state or the federal government.
 
 1. Sign up as a _Head_ or _Assistant Coach_ in Sports Connect
 2. Register or sign in to a free [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
-3. Take your courses:
+3. Take your courses[^notice-ab379-once]:
 
     | Once | | | Annual
     |-------|---------------|---------------
@@ -176,3 +176,5 @@ _Footnotes_
 [^notice-18900]: **[California's Business & Professions Code § 18900](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=18900.) Compliance Notice**: "SMLL submits all volunteers to fingerprinting and a background check and provides them with CA AB 506-compliant abuse training annually. This is required of all volunteers, regardless of whether an individual is new to the program or returning."
 
 [^notice-ab379]: **[AB 379 § 2.124235.a.4](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379)**: "On a yearly basis, the youth sports organization shall offer concussion and head injury and sudden cardiac arrest prevention education, or related educational materials, or both, to each coach, administrator, and referee, umpire, or other game official of the youth sports organization."
+
+[^notice-ab379-once]: **[AB 379 § 2.124235.a.5.A](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB379)**: "Each coach, administrator, and referee, umpire, or other game official of the youth sports organization shall be required to successfully complete the concussion and head injury and sudden cardiac arrest prevention education offered pursuant to paragraph (4) at least once, either online or in person, before supervising an athlete in an activity of the youth sports organization."
