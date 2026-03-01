@@ -17,7 +17,7 @@ These are mandated by the state or the federal government.
 
 1. Sign up as a _Volunteer_ in Sports Connect
 2. Register or sign in to a free [NFHS Learn Account](https://accounts.nfhs.org/users/sign_up?redirect_to=https://nfhslearn.com/users/auth/openid_connect){:target="_blank"}
-    - Take [NFHS Learn Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
+    - Take [NFHS Learn: Protecting Students from Abuse](https://nfhslearn.com/courses/protecting-students-from-abuse){:target="_blank"}
 3. Take the free [CDSS Mandated Reporter Training](https://account.mandatedreportertraining.com/join-org?GUID=15ac88df-a860-ef11-bdfd-6045bd058c56){:target="_blank"} course for volunteers.
 4. Submit a Live Scan fingerprinting application[^notice-18900]
 
