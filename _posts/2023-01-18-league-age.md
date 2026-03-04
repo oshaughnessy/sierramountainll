@@ -66,26 +66,36 @@ Please Note: Baseball players league-age 8 and over are required to try out.
 ## <span class="softball">Softball</span>
 {: .softball}
 
-A player's "league age" for softball is the age they were at the end of the 
-year preceding the season. In other words, how old were they last Dec 31?
+In 2026, division ages moved to Sep-Aug age groups, where the age of a
+player up until Aug 31 of the current year is their season league age.
+See the [USSSA Softball age calculator](https://www.usssa.com/fastpitch/ageCalculator)
+and the [NSA announcement](https://playnsa.com/2025/07/nsa-changes-age-eligibility-for-new-season/)
+for more info.
 
-In the first year of SMLL softball, 2023, we used age-based divisions
-to align with nearby fastpitch youth leagues that use softball's
-more conventional 2-year groupings. We expanded each division in 2024
-to create larger Minor and Major divisions and facilitate a strong Junior
-team. We returned to 2-year groups in 2024.
+In prior years, a player's "league age" for softball was the age they were at the
+end of the year preceding the season. In other words, how old were they last Dec 31?
 
-### 2025+
+### 2026+
 
-| Division  -| League Age Range | Birth Years
+| Division  -| League Age Range | Birthdays
 |------------|------------------|------------
-| 8U         | 8-6              | {{sb_8y}}-{{sb_6y}}
-| 10U        | 10-9             | {{sb_10y}}-{{sb_9y}}
-| 12U        | 12-11 [^SB12]    | {{sb_12y}}-{{sb_11y}}
-| 15U        | 15-12 [^SB15]    | {{sb_15y}}-{{sb_12y}}
+| 8U         | 8-6              | 9/{{sb_8y}}-8/{{sb_6y}}
+| 10U        | 10-9             | 9/{{sb_10y}}-8/{{sb_9y}}
+| 12U        | 12-11 [^SB12]    | 9/{{sb_12y}}-8/{{sb_11y}}
+| 14U        | 14-12            | 9/{{sb_14y}}-8/{{sb_12y}}
 
-Please Note: All softball players must attend a player tryout/evaluation.
+Please Note: All softball players must attend a player tryout/evaluation,
+regardless of age or division.
 {: .notice--warning}
+
+### 2025
+
+| Division  -| League Age Range
+|------------|-----------------
+| 8U         | 8-6             
+| 10U        | 10-9            
+| 12U        | 12-11 [^SB12]   
+| 15U        | 15-12 [^SB15]   
 
 [^SB12]: 12-year-olds may dual-roster in both 12U/Major and 15U/Junior softball
 [^SB15]: 15-year-olds may participate in the Junior division but may not pitch
@@ -99,6 +109,12 @@ Please Note: All softball players must attend a player tryout/evaluation.
 | 9U (Minor Player Pitch)  | 9-7              
 | 12U (Major)              | 12-10            
 | 15U (Junior)             | 15-12            
+
+In the first year of SMLL softball, 2023, we used age-based divisions
+to align with nearby fastpitch youth leagues that use softball's
+more conventional 2-year groupings. We expanded each division in 2024
+to create larger Minor and Major divisions and facilitate a strong Junior
+team. We returned to 2-year groups in 2024.
 
 ### 2023
 
