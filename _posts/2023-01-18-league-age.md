@@ -80,9 +80,9 @@ end of the year preceding the season. In other words, how old were they last Dec
 | Division  -| League Age Range | Birthdays
 |------------|------------------|------------
 | 8U         | 8-6              | 9/{{sb_8y}}-8/{{sb_6y}}
-| 10U        | 10-8             | 9/{{sb_10y}}-8/{{sb_9y}}
-| 12U        | 12-10            | 9/{{sb_12y}}-8/{{sb_11y}}
-| 14U        | 14-12            | 9/{{sb_14y}}-8/{{sb_12y}}
+| 10U        | 10-9             | 9/{{sb_10y}}-8/{{sb_9y}}
+| 12U        | 12-11            | 9/{{sb_12y}}-8/{{sb_11y}}
+| 14U        | 14-13            | 9/{{sb_14y}}-8/{{sb_12y}}
 
 Please Note: All softball players must attend a player tryout/evaluation,
 regardless of age or division.
