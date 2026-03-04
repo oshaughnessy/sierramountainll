@@ -75,6 +75,10 @@ for more info.
 In prior years, a player's "league age" for softball was the age they were at the
 end of the year preceding the season. In other words, how old were they last Dec 31?
 
+Please Note: All softball players must attend a player tryout/evaluation,
+regardless of age or division.
+{: .notice--warning}
+
 ### 2026+
 
 | Division  -| League Age Range | Birthdays
@@ -83,10 +87,6 @@ end of the year preceding the season. In other words, how old were they last Dec
 | 10U        | 10-9             | 9/{{sb_10y}}-8/{{sb_9y}}
 | 12U        | 12-11            | 9/{{sb_12y}}-8/{{sb_11y}}
 | 14U        | 14-13            | 9/{{sb_14y}}-8/{{sb_12y}}
-
-Please Note: All softball players must attend a player tryout/evaluation,
-regardless of age or division.
-{: .notice--warning}
 
 ### 2025
 
