@@ -42,7 +42,7 @@ Signups for all divisions are open now.
 
 | Registration    | Assessments | Spring Cleaning | Opening Ceremonies | Interleague Schedules | Picture Day
 |----
-| Jan 1 - Feb 14  | Feb 12-13   | Mar 7           | Mar 14             | Mar 15                | TBD (Apr/May)
+| Jan 1 - Feb 14  | Feb 12-13   | Mar 7           | Mar 14             | Mar 15                | Mar 14
 |=
 {: .align-top }
 
