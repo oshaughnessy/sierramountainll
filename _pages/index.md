@@ -36,7 +36,7 @@ Sign up for Tee Ball, Baseball, and Fastpitch Softball
 
 Our 2026 season is about to begin!
 
-Signups for all divisions are open now.
+Signups for all divisions are open through 3/7
 
 ### Season Dates
 
