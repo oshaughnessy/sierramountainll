@@ -5,7 +5,7 @@ categories: schedules
 toc: false
 ---
 
-## 2025 Game Schedules
+## 2026 Game Schedules
 
 Please see your GameChanger app or [web.gc.com](https://web.gc.com) for your team schedules.
 
