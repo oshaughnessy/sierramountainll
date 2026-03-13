@@ -3,6 +3,12 @@ main:
 - title: News
   url: /news/
   description: Latest announcements
+- title: Schedules
+  url: /schedules/
+  description: Key league dates and events
+- title: Rules
+  url: /rules/
+  description: Local rules and highlights
 - title: Volunteers
   url: /volunteers/
   description: Every child plays and every parent contributes!
@@ -12,9 +18,6 @@ main:
 - title: Coaches
   url: /coaches/
   description: Info on managing and coaching teams
-- title: Rules
-  url: /rules/
-  description: Local rules and highlights
 - title: Softball
   url: /softball/
   description: Fastpitch softball info
@@ -27,9 +30,6 @@ main:
 - title: Fields
   url: /fields/
   description: Where we play
-- title: Schedules
-  url: /schedules/
-  description: Key league dates and events
 #- title: Calendar
 #  url: /calendar/
 #  description: Key league dates and events
@@ -38,8 +38,10 @@ sidebar:
 - title: News
   url: /news/
   description: Latest announcements
-- title: "Registration"
-  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+- title: Schedules
+  url: /schedules/
+#- title: "Registration"
+#  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
 - title: Parents
   url: /parents/
   description: Information for the adults who register players
@@ -81,8 +83,8 @@ posts:
 resources:
 - title: "Schedules"
   url: /schedules/
-- title: "Registration"
-  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
+#- title: "Registration"
+#  url: https://www.sierramountainll.com/Default.aspx?tabid=890579
   #icon: fas fa-baseball-ball
 #- title: League Age
 #  url: /league-age/
