@@ -14,41 +14,54 @@ PDF of [full interleague softball schedule]({% link /schedules/pdf/2025/2025-sof
 * [12U]({% link _pages/schedules/12u.md %})
 * [14U]({% link _pages/schedules/14u.md %})
 
+<!-- 8U: Put this div wherever you want the widget to be embedded -->
+<div id="gc-scoreboard-widget-yjj1"></div>
+
+<!-- Put this before the closing </body> tag -->
 <script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
-
-<div id="gc-scoreboard-widget-tdbt"></div>
 <script>
     window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-tdbt",
-        widgetId: "c230bd39-7122-4d16-994d-492c7c4dde3f",
-        maxVerticalGamesVisible: 2,
+        target: "#gc-scoreboard-widget-yjj1",
+        widgetId: "68a6a42b-8e23-4c08-a925-ea076e8440b1",
+        maxVerticalGamesVisible: 4,
     })
 </script>
 
-<div id="gc-scoreboard-widget-h09p"></div>
+<!-- 10U: Put this div wherever you want the widget to be embedded -->
+<div id="gc-scoreboard-widget-i6nc"></div>
+
+<!-- Put this before the closing </body> tag -->
+<script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
 <script>
     window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-h09p",
-        widgetId: "5598999a-f720-44bf-aad5-cdae9610f94f",
-        maxVerticalGamesVisible: 2,
+        target: "#gc-scoreboard-widget-i6nc",
+        widgetId: "c975c885-e8be-4a35-9427-21ba8a728212",
+        maxVerticalGamesVisible: 4,
     })
 </script>
 
-<div id="gc-scoreboard-widget-36bi"></div>
+<!-- 12U: Put this div wherever you want the widget to be embedded -->
+<div id="gc-scoreboard-widget-h5xa"></div>
+
+<!-- Put this before the closing </body> tag -->
+<script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
 <script>
     window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-36bi",
-        widgetId: "32ef962e-bd34-4438-a8b7-4d945c54fae6",
-        maxVerticalGamesVisible: 2,
+        target: "#gc-scoreboard-widget-h5xa",
+        widgetId: "050fc2eb-7f51-408a-b242-bf817faa4393",
+        maxVerticalGamesVisible: 4,
     })
 </script>
 
-<div id="gc-scoreboard-widget-10nk"></div>
+<!-- 14U: Put this div wherever you want the widget to be embedded -->
+<div id="gc-scoreboard-widget-w6zv"></div>
+
+<!-- Put this before the closing </body> tag -->
+<script src="https://widgets.gc.com/static/js/sdk.v1.js"></script>
 <script>
     window.GC.scoreboard.init({
-        target: "#gc-scoreboard-widget-10nk",
-        widgetId: "a5dff1c2-58b9-4ce7-bd2d-5b9f21a802db",
-        maxVerticalGamesVisible: 2,
+        target: "#gc-scoreboard-widget-w6zv",
+        widgetId: "0fbd2c56-c876-4d13-b6c0-c632f1b3b0a7",
+        maxVerticalGamesVisible: 4,
     })
 </script>
-
