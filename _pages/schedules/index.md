@@ -20,7 +20,6 @@ GameChanger scoreboards coming soon
 * [AAA]({% link _pages/schedules/aaa.md %})
 * [Major]({% link _pages/schedules/major.md %})
 * [50/70]({% link _pages/schedules/5070.md %})
-* [Challenger]({% link _pages/schedules/challenger.md %})
 
 ### [Softball]({% link _pages/schedules/softball.md %})
 
