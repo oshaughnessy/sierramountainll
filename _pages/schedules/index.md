@@ -41,19 +41,18 @@ Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
                                                 31
 ```
 
-- **Feb 16-20:** President's Week break
-- **Apr A-B:** Bass Lake School District (BLSD) spring break
-- **Apr A-B:** Mountain Home School (MHS) spring break
-- **Apr A-B:** Chawanakee Unified (CUSD) spring break
-- **Apr A-B:** Yosemite Unified (YUSD) spring break
-- **Apr A-B:** Mariposa Unified (MUSD) spring break
-- **Apr N:** Easter
-- **May N:** Memorial Day weekend
-- **Jun N:** MUSD last day of school
-- **Jun A-B:** YUSD last days of school
-- **Jun N:** MHS last day of school
-- **Jun N:** BLSD last day of school
-- **Jun N:** CUSD last day of school
+- **Mar 29-Apr 3:** Mountain Home School (MHS) spring break
+- **Mar 29-Apr 6:** Chawanakee Unified (CUSD) spring break
+- **Apr 12-19:** Bass Lake School District (BLSD) spring break
+- **Apr 13-19:** Yosemite Unified (YUSD) spring break
+- **Apr 5-12:** Mariposa Unified (MUSD) spring break
+- **Apr 5:** Easter
+- **May 25:** Memorial Day weekend
+- **Jun 11:** MUSD last day of school
+- **May 28:** MHS last day of school
+- **Jun 11:** YUSD last days of school
+- **Jun 12:** BLSD last day of school
+- **Jun 12:** CUSD last day of school
 
 {: .notice--info }
 School Calendars:
