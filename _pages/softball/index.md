@@ -47,7 +47,7 @@ The following rules apply to all divisions:
 | **Game Times**            | 60 minutes or 6 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-8u.pdf %})
+[:page_facing_up:]({% link /assets/files/2026-interleague-fastpitch-rules-8u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -126,7 +126,7 @@ a legally pitched ball leaves the pitcher's hand. The ball is dead,
 | **Game Times**            | 75 minutes or 7 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-10u.pdf %})
+[:page_facing_up:]({% link /assets/files/2026-interleague-fastpitch-rules-10u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -164,7 +164,7 @@ a legally pitched ball leaves the pitcher's hand. The ball is dead,
 | **Game Times**            | 90 minutes or 7 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-12u.pdf %})
+[:page_facing_up:]({% link /assets/files/2026-interleague-fastpitch-rules-12u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit], runs[^runs]_
 {: .small }
 
@@ -189,7 +189,7 @@ Our 12U division has full NSA fastpitch softball rules.
 | **Game Times**            | 90 minutes or 7 innings<sup>*</sup> |
 | **Run Rules**             | 5 runs per team per half-inning<sup>*</sup> |
 
-[:page_facing_up:]({% link /assets/files/2025-interleague-fastpitch-rules-14u.pdf %})
+[:page_facing_up:]({% link /assets/files/2026-interleague-fastpitch-rules-14u.pdf %})
 &nbsp;&nbsp;&nbsp;&nbsp;_*: ages[^ages], balls[^softballs], limits[^limit]_
 {: .small }
 
