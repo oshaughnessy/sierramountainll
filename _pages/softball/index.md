@@ -11,10 +11,13 @@ toc_h_max: 3
 #  overlay_image: /assets/images/smll-wildflowers-20260219-round.png
 ---
 
-This page describes the 2026[^past] spring softball season at SMLL.
+![Sierra Wildflowers Logo]({% link /assets/images/smll-wildflowers-20260219-round-trans-yellow-ball.png %}){: .align-right .third-width }
 
-![Sierra Wildflowers Logo]({% link /assets/images/smll-wildflowers-20260219-round-trans-yellow-ball.png %}){: .align-center .half-width }
+This page describes the 2026[^past] spring softball season at SMLL. These rules have been agreed upon by SMLL and Mariposa Girls Softball for interleague play.
 
+| :page_facing_up: Printable dugout rule sheets: |||
+|----|
+| [8U]({% link /assets/files/2026-interleague-fastpitch-rules-8u.pdf %}) | [10U]({% link /assets/files/2026-interleague-fastpitch-rules-10u.pdf %}) | [12U]({% link /assets/files/2026-interleague-fastpitch-rules-12u.pdf %}) | [14U]({% link /assets/files/2026-interleague-fastpitch-rules-14u.pdf %})
 
 ## Divisions
 
