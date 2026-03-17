@@ -35,7 +35,7 @@ The following rules apply to all divisions:
 - Parent or coach may serve as umpire if no official is available
 - Runners are required to slide or attempt to avoid a defensive player on base if the play
   on the runner is close.[^sliding]
-
+- :x: [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/) is **not** applied
 
 ### 8U (Coach Pitch)
 {: .softball}
@@ -201,8 +201,8 @@ Our 12U division has full NSA fastpitch softball rules.
 
 :heavy_check_mark:
  [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/) **IS** APPLIED\
-:heavy_check_mark:
- [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/) **IS** APPLIED\
+:x:
+ [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/) IS **NOT** APPLIED\
 :heavy_check_mark: Metal cleats are allowed. **Rule 3.4, Equipment/Shoes:**
 "Metal cleats or any type of shoe that has exposed metal on the
  sole other than the cleat or rivet are not legal in youth play in
