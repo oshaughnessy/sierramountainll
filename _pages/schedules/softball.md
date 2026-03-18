@@ -7,8 +7,6 @@ league: softball
 tag: softball
 ---
 
-PDF of [full interleague softball schedule]({% link /schedules/pdf/2025/2025-softball.pdf %}), all divisions
-
 * [8U]({% link _pages/schedules/8u.md %})
 * [10U]({% link _pages/schedules/10u.md %})
 * [12U]({% link _pages/schedules/12u.md %})
