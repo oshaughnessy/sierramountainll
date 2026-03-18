@@ -69,6 +69,14 @@ Otherwise, we encourage them to play tee ball first. They will need to attend
 an assessment day and have coach approval before joining 8U.
 {: .notice--success}
 
+#### 8U Rule Highlights
+
+:x:
+ [Uncaught 3rd strike rule](https://www.littleleague.org/university/articles/answering-the-questions-parents-ask/) IS **NOT** APPLIED\
+:x:
+ [Infield fly rule](https://www.littleleague.org/university/articles/explanation-infield-fly-rule/) IS **NOT** APPLIED
+{: .notice--success }
+
 #### 8U Ground Rules
 
 - Defensive coaches are allowed and encouraged to be on the field during game
