@@ -13,7 +13,7 @@ Please see your GameChanger app or [web.gc.com](https://web.gc.com) for your tea
 
 <!-- [SportsConnect schedule](https://www.sierramountainll.com/Default.aspx?tabid=716491) -->
 
-GameChanger scoreboards coming soon
+### [Baseball]({% link _pages/schedules/baseball.md %})
 
 * [Tee Ball]({% link _pages/schedules/tee.md %})
 * [AA/Player Pitch]({% link _pages/schedules/aa.md %})
