@@ -12,14 +12,14 @@ and we need many to volunteer each year. First-time parent volunters
 and leaders with experience at other organizations will all have something
 valuable to contribute.
 
-If you're interested, please [reach out]({% link _pages/contact.md %})
-to our Coaching Coordinator and see the [Roles]({% link _pages/roles.md %})
+If you're interested, please [reach out]({% link _pages/archive/contact.md %})
+to our Coaching Coordinator and see the [Roles]({% link _pages/archive/roles.md %})
 page for registration info.
 
 
 ## What do I need to be a coach?
 
-Please see our [Volunteers]({% link _pages/volunteers.md %}) page for info
+Please see our [Volunteers]({% link _pages/archive/volunteers.md %}) page for info
 on background checks and other requirements mandated by California or the US federal government.
 
 ## Things to Know
@@ -35,7 +35,7 @@ post for an overview of how divisions and ages work.
 
 ### Rule Highlights
 
-Please see our [Rules page]({% link _pages/rules.md %}) for SMLL's local ground rules
+Please see our [Rules page]({% link _pages/archive/rules.md %}) for SMLL's local ground rules
 and highlights of League rules.
 
 ## Responsibilities
@@ -157,7 +157,7 @@ signing up as a coach!
 
 The league provides team photos as part of the registration fee.
 They're typically taken near the end of the season, in April or May.
-Keep an eye on the [News]({% link _pages/news.md %}) page for an announcement.
+Keep an eye on the [News]({% link _pages/archive/news.md %}) page for an announcement.
 
 ### _When and where can I practice?_
 
@@ -181,7 +181,7 @@ Majors field:
 
 Yes and no. Players cannot be loaned and borrowed directly between
 coaches. The process must be coordinated through the league's
-[Player Agent]({% link _pages/contact.md %}), where available players
+[Player Agent]({% link _pages/archive/contact.md %}), where available players
 are part of a pool and assigned as needed by the agent.
 
 See Little League's [What is a Player
@@ -218,10 +218,10 @@ See [Little League® Significant Rule and Regulation Updates for
 
 ### _Can youth play on more than one team or in more multiple divisions?_
 
-Yes. Please [reach out]({% link _pages/contact.md %}) to the league Player Agent
+Yes. Please [reach out]({% link _pages/archive/contact.md %}) to the league Player Agent
 with questions about this.
 
 ## Further Reading
 
-We have various [resources]({% link _pages/resources.md %}) available on our site
+We have various [resources]({% link _pages/archive/resources.md %}) available on our site
 with more information about SMLL.

@@ -4,9 +4,9 @@ title: Thank You
 permalink: /thanks/
 ---
 
-Sierra Mountain Local League part of MY Club, is a 501(3)(c) registered nonprofit,
+Sierra Mountain Little League was a 501(3)(c) registered nonprofit through 2025,
 and we would like to thank the following companies for providing free or discounted
-services that we find valuable:
+services that we found valuable:
 
 * [Google for Non-profits](https://www.google.com/nonprofits/)
 * [Monday.com for Non-profits](https://monday.com/nonprofits/)

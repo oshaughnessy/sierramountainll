@@ -7,12 +7,12 @@ toc_icon: fas fa-address-card
 toc_h_max: 2
 ---
 
-## Sierra Mountain Local League
+## Sierra Mountain Little League
 
-The MY Club Sierra Mountain Local League playing fields are located behind the
+The MY Club Sierra Mountain Little League playing fields are located behind the
 Oakhurst Community Center.
 
-Sierra Mountain Local League<br />
+Sierra Mountain Little League<br />
 425B Cinder Lane<br />
 Oakhurst, California  93644<br />
 {: .notice--info }

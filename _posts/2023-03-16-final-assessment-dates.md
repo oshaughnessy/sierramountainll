@@ -16,7 +16,7 @@ allows it, or the gymnasium otherwise, on March 26.
 All players 8 and up are asked to attend. For each age group, softball players
 will go first, then baseball players.
 
-If you have any questions, please [reach out to us]({% link _pages/contact.md %})
+If you have any questions, please [reach out to us]({% link _pages/archive/contact.md %})
 through email or Facebook. If you're not sure of the league age of your players,
 please see our [League Age & Divisions]({% post_url 2023-01-18-league-age %}) post.
 

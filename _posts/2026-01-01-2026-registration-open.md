@@ -11,7 +11,7 @@ Sign Up Today!
 
 With the move to MY Club, we've been able to lower our rates this year!
 
-- [Challenger baseball]({% link _pages/challenger.md %}) is still free<br />
+- [Challenger baseball]({% link _pages/archive/challenger.md %}) is still free<br />
 - Tee ball is **$65**, down from $100<br />
 - All other divisions are **$85**, down from $125 or $150<br />
   <small>coach & player pitch baseball; 6U & 8U fastpitch</small><br />

@@ -13,20 +13,20 @@ Please see your GameChanger app or [web.gc.com](https://web.gc.com) for your tea
 
 <!-- [SportsConnect schedule](https://www.sierramountainll.com/Default.aspx?tabid=716491) -->
 
-### [Baseball]({% link _pages/schedules/baseball.md %})
+### [Baseball]({% link _pages/archive/schedules/baseball.md %})
 
-* [Tee Ball]({% link _pages/schedules/tee.md %})
-* [AA/Player Pitch]({% link _pages/schedules/aa.md %})
-* [AAA]({% link _pages/schedules/aaa.md %})
-* [Major]({% link _pages/schedules/major.md %})
-* [50/70]({% link _pages/schedules/5070.md %})
+* [Tee Ball]({% link _pages/archive/schedules/tee.md %})
+* [AA/Player Pitch]({% link _pages/archive/schedules/aa.md %})
+* [AAA]({% link _pages/archive/schedules/aaa.md %})
+* [Major]({% link _pages/archive/schedules/major.md %})
+* [50/70]({% link _pages/archive/schedules/5070.md %})
 
-### [Softball]({% link _pages/schedules/softball.md %})
+### [Softball]({% link _pages/archive/schedules/softball.md %})
 
-* [8U]({% link _pages/schedules/8u.md %})
-* [10U]({% link _pages/schedules/10u.md %})
-* [12U]({% link _pages/schedules/12u.md %})
-* [14U]({% link _pages/schedules/14u.md %})
+* [8U]({% link _pages/archive/schedules/8u.md %})
+* [10U]({% link _pages/archive/schedules/10u.md %})
+* [12U]({% link _pages/archive/schedules/12u.md %})
+* [14U]({% link _pages/archive/schedules/14u.md %})
 
 ## Significant 2026 Dates
 

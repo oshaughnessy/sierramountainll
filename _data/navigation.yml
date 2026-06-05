@@ -1,5 +1,42 @@
 ---
-main:
+main: {}
+
+orig:
+- title: News
+  url: /news/
+  description: Latest announcements
+- title: Schedules
+  url: /schedules/
+  description: Key league dates and events
+- title: Rules
+  url: /rules/
+  description: Local rules and highlights
+- title: Volunteers
+  url: /volunteers/
+  description: Every child plays and every parent contributes!
+- title: Parents
+  url: /parents/
+  description: What you need to know for sign-up and through the season
+- title: Coaches
+  url: /coaches/
+  description: Info on managing and coaching teams
+- title: Softball
+  url: /softball/
+  description: Fastpitch softball info
+- title: Challenger
+  url: /challenger/
+  description: Challenger baseball info
+- title: Resources
+  url: /resources/
+  description: Documents and references for further reading
+- title: Fields
+  url: /fields/
+  description: Where we play
+#- title: Calendar
+#  url: /calendar/
+#  description: Key league dates and events
+
+orig:
 - title: News
   url: /news/
   description: Latest announcements

@@ -8,6 +8,6 @@ redirect_from:
 
 ### [Sign up Players and Volunteers](https://www.sierramountainll.com/Default.aspx?tabid=890579)
 
-### [Coach and Volunter Checklists]({% link _pages/volunteers.md %})
+### [Coach and Volunter Checklists]({% link _pages/archive/volunteers.md %})
 
 If you want to coach or volunteer in any other way, please take a look at our volunteer guide.

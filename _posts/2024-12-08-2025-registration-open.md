@@ -11,7 +11,7 @@ Sign Up Today!
 
 We've updated our rates for this year:
 
-- [Challenger baseball]({% link _pages/challenger.md %}) is free<br />
+- [Challenger baseball]({% link _pages/archive/challenger.md %}) is free<br />
 - Tee ball is $100<br />
 - Young minors divisions are $125<br />
   <small>coach & player pitch baseball; 6U & 8U fastpitch</small><br />
