@@ -140,18 +140,9 @@ footer:
     - label: Contact
       url: /contact/
       icon: fas fa-comments
-    #- label: Twitter
-    #  icon: fab fa-fw fa-twitter-square
-    #  url: https://twitter.com/mmistakes
-    #- label: Instagram
-    #  icon: fab fa-fw fa-instagram
-    #  url: https://instagram.com/mmistakes
     - label: Facebook
       icon: fab fa-fw fa-facebook
       url: https://facebook.com/sierramountainll
-    - label: GitHub
-      icon: fab fa-fw fa-github
-      url: https://github.com/oshaughnessy/sierramountainll
     - label: Sponsors
       #icon: fas fa-hand-holding-usd
       icon: fas fa-praying-hands
