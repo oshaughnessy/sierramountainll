@@ -95,7 +95,7 @@ gallery_sponsors:
 
 ---
 
-Many, many thanks to our Sierra Mountain Local Leagues sponsors!
+Many, many thanks to our Sierra Mountain Little League sponsors!
 
 We offer 2 types of sponsorships, for fields and teams.
 

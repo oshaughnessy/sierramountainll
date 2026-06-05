@@ -31,7 +31,7 @@ they're ready to join the older players.  Otherwise, we can welcome all of our
 
 We'll meet at the [Sierra Mountain Little League fields]({{ site.baseurl }}/contact#fields).
 
-If you have any questions, please [reach out to us]({% link _pages/contact.md %})
+If you have any questions, please [reach out to us]({% link _pages/archive/contact.md %})
 through email or Facebook. If you're not sure of the league age of your players,
 please see our [League Age & Divisions]({% post_url 2023-01-18-league-age %}) post.
 

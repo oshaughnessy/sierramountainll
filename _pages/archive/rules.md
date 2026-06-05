@@ -34,7 +34,7 @@ Please see [our latest ground rules]({% link /assets/files/smll-ground-rules-202
 New for 2023, they include the allowance of Game Changer for keeping score
 and the adoption of continuous batting orders in all divisions.
 
-See the [SMLL softball page]({% link _pages/softball/index.md %}) for interleague rules
+See the [SMLL softball page]({% link _pages/archive/softball/index.md %}) for interleague rules
 adopted by our fastpitch girls' softball program.
 
 ### SMLL Local Field Rules
@@ -46,7 +46,7 @@ adopted by our fastpitch girls' softball program.
    an automatic ejection from the game; please refer to the [Player and Parents Codes of
    Conduct]({{ site.baseurl }}/resources/#smll-forms).
 5. Only approved [Managers, Coaches, Players, and registered
-   volunteers]({% link _pages/roles.md %}) are allowed in the dugout or on the
+   volunteers]({% link _pages/archive/roles.md %}) are allowed in the dugout or on the
    playing field during games and practices
 6. The home team is responsible for turning the lights on and off, locking and unlocking
    the restrooms, cleaning up trash, emptying the trash cans, prepping the field, and
@@ -83,7 +83,7 @@ Player sharing is possible between teams in various ways, depending on division:
 
 * *In T-Ball and Minors*: players may be shared at the team managers' discretion.
 * *In AAA and above*: players must be borrowed from the player pool. Speak to
-  [our Player Agent]({% link _pages/contact.md %}) if you need to request a player.
+  [our Player Agent]({% link _pages/archive/contact.md %}) if you need to request a player.
 
 ### Game Times
 

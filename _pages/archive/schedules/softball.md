@@ -7,10 +7,10 @@ league: softball
 tag: softball
 ---
 
-* [8U]({% link _pages/schedules/8u.md %})
-* [10U]({% link _pages/schedules/10u.md %})
-* [12U]({% link _pages/schedules/12u.md %})
-* [14U]({% link _pages/schedules/14u.md %})
+* [8U]({% link _pages/archive/schedules/8u.md %})
+* [10U]({% link _pages/archive/schedules/10u.md %})
+* [12U]({% link _pages/archive/schedules/12u.md %})
+* [14U]({% link _pages/archive/schedules/14u.md %})
 
 <!-- 8U: Put this div wherever you want the widget to be embedded -->
 <div id="gc-scoreboard-widget-yjj1"></div>

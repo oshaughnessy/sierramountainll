@@ -83,7 +83,7 @@ Volunteer opportunities include:
   sweeping the dugouts, putting the pitching mound on the Minors field, cleaning up
   the seating areas, returning the trash cans to their space by the snack bar.
 
-Please see our [Roles]({% link _pages/roles.md %}) page for more info.
+Please see our [Roles]({% link _pages/archive/roles.md %}) page for more info.
 
 
 ## Player Safety
@@ -103,7 +103,7 @@ from some exceptions, jewelry is not allowed ([see below](#wearing-jewelry)).
 
 Player safety also includes vetting our volunteers with in-depth background checks
 and training them to recognize abuse. Please see our [Background
-Checks &amp; Training]({% link _pages/volunteers.md %}) page for more information.
+Checks &amp; Training]({% link _pages/archive/volunteers.md %}) page for more information.
 
 SMLL also encourages parents to take advantage of USA Baseball's 
 [Abuse Awareness for Minors](https://usabdevelops.com/page/3532/courses/13975/abuse-awareness-for-minors)
@@ -320,6 +320,6 @@ Rules](https://www.littleleague.org/university/articles/10-commonly-misinterpret
 
 ## Further Reading
 
-We have various [resources]({% link _pages/resources.md %}) available on our site.
+We have various [resources]({% link _pages/archive/resources.md %}) available on our site.
 
 [^1]: See Little League's [What Equipment does our league need to provide for regular season?](https://www.littleleague.org/help-center/what-equipment-does-our-league-need-to-provide-for-regular-season/)

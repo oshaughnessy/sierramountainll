@@ -4,5 +4,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .DS_Store
+*.acorn
+private
+new
+data
+schedules
 vendor
+volunteers
 local.yml

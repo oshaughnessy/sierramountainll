@@ -7,11 +7,11 @@ league: baseball
 tag: baseball
 ---
 
-* [Tee Ball]({% link _pages/schedules/tee.md %})
-* [AA/Player Pitch]({% link _pages/schedules/aa.md %})
-* [AAA]({% link _pages/schedules/aaa.md %})
-* [Major]({% link _pages/schedules/major.md %})
-* [50/70]({% link _pages/schedules/5070.md %})
+* [Tee Ball]({% link _pages/archive/schedules/tee.md %})
+* [AA/Player Pitch]({% link _pages/archive/schedules/aa.md %})
+* [AAA]({% link _pages/archive/schedules/aaa.md %})
+* [Major]({% link _pages/archive/schedules/major.md %})
+* [50/70]({% link _pages/archive/schedules/5070.md %})
 
 
 <!-- Put this div wherever you want the widget to be embedded -->

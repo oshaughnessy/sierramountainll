@@ -237,7 +237,7 @@ Other nearby leagues include:
 
 ## Schedules
 
-Please see our [softball schedules page]({% link _pages/schedules/softball.md %}) for game times and live scores.
+Please see our [softball schedules page]({% link _pages/archive/schedules/softball.md %}) for game times and live scores.
 
 
 ----
@@ -252,9 +252,9 @@ _Footnotes_
     or inning limit is reached. Once an inning has started, it must be finished regardless
     of time unless the home team is ahead. 
 
-[^past]: **[Past Years]** For previous years, see: [2023]({% link _pages/softball/2023.md %}),
-    [2024]({% link _pages/softball/2024.md %}).
-    [2025 Softball]({% link _pages/softball/2025.md %}).
+[^past]: **[Past Years]** For previous years, see: [2023]({% link _pages/archive/softball/2023.md %}),
+    [2024]({% link _pages/archive/softball/2024.md %}).
+    [2025 Softball]({% link _pages/archive/softball/2025.md %}).
 
 [^partner]: **[Partners]** MGS and SMLL have worked in close
     partnership each year to create a strong interleague program.

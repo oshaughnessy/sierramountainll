@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-Sierra Mountain Local League (SMLL) was part of
+Sierra Mountain Little League (SMLL) was part of
 [Little League District 10](https://www.cadistrict10.com){:target="_blank"}
 in central California until the 2026 season. In 2026, only our Challenger division
 registered with Little League. All other divisions of baseball and softball are local
@@ -20,7 +20,7 @@ Fish Camp, North Fork, and Oakhurst.
 Our purpose is to implant the ideas of sportsmanship, honesty, loyalty,
 courage, and respect for leadership into our youth.
 
-Sierra Mountain Local League takes pride in our coaches, players,
+Sierra Mountain Little League takes pride in our coaches, players,
 parents, and umpires, who volunteer dozens of hours for our local kids.
 We thank each and every one of them and the sponsors that support us
 each year. We cannot survive without you all!

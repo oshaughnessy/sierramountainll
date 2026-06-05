@@ -114,7 +114,7 @@ are playing so they can see their games, too.
 _We need umpires!_ Umpires oversee all of our games from the player
 pitch division and above, and we can't play without them.
 
-Our [Umpire in Chief]({% link _pages/contact.md %}), Tom Burdette, is
+Our [Umpire in Chief]({% link _pages/archive/contact.md %}), Tom Burdette, is
 always looking for new people, 13-90, to help keep our players safe
 and enforce the rules. He will host training sessions each season,
 and every game will have experienced umpires to speak as the ultimate
@@ -130,5 +130,5 @@ If you're interested, please text Tom at `831-818-6859`.
 
 ## Registration
 
-Please see our [Volunteers]({% link _pages/volunteers.md %}) page for details on
+Please see our [Volunteers]({% link _pages/archive/volunteers.md %}) page for details on
 requirements for volunteers, all of which are required by the state & federal government.
