@@ -13,18 +13,11 @@ header:
 
 ---
 
-{% comment %}}
 ## The old Sierra Mountain Little League retired at the end of 2025.
 
 Suggested alternatives:
-* Oakhurst: [Mountain Youth Club Athletics](https://mountainyouthclubs.org/my-club-athletics) and [http://sierramountainll.org/](Sierra Mountain Little League @ Sports Connect)
+* Oakhurst: [Mountain Youth Club Athletics](https://mountainyouthclubs.org/my-club-athletics)
 * Mariposa: [Mariposa Girls Softball](https://mariposagirlssoftball.com) and [Mariposa Little League](https://mariposalittleleague.org)
 * Coarsegold: [Yosemite Little League](https://yosemitelittleleague.org)
-{% endcomment %}
-
-## Saturday, June 6, 12-5pm
-
-{% include figure image_path="/assets/posts/2026-closing-ceremonies.jpg" %}
-
 
 ---
